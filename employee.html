@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee - Flex HRM Dokumentation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .back-link {
+            display: inline-block;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        .content {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+        }
+        .article-list {
+            list-style: none;
+        }
+        .article-item {
+            padding: 15px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        .article-item:last-child {
+            border-bottom: none;
+        }
+        .article-link {
+            color: #667eea;
+            text-decoration: none;
+            font-size: 1.1rem;
+            display: block;
+            transition: all 0.2s ease;
+        }
+        .article-link:hover {
+            color: #764ba2;
+            padding-left: 10px;
+        }
+        .count {
+            color: #999;
+            font-size: 0.9rem;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">← Tillbaka till startsidan</a>
+        <header>
+            <h1>📚 Employee</h1>
+            <p>Frågor och svar som rör HRM Employee - anställningar och dokument</p>
+        </header>
+        
+        <div class="content">
+            <p class="count"><strong>55 artiklar</strong></p>
+            <ul class="article-list">
+                <li class="article-item">
+                    <a href="documentation/employee/anstalld-ingar-i-aktiv-lonerevision.md" class="article-link" target="_blank">
+                        Anställd ingår i aktiv Lönerevision
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode.md" class="article-link" target="_blank">
+                        ⚙️Anställningsmall - Hur skapar jag ett effektivt anställningsflöde?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/anvand-organisationsoversikten-i-hrm-employee.md" class="article-link" target="_blank">
+                        Använd organisationsöversikten i HRM Employee
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/arbeta-med-arets-lonerevision.md" class="article-link" target="_blank">
+                        Arbeta med årets Lönerevision
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/digital-signering-hur-anvander-jag-e-signering-via-scrive-i-hrm.md" class="article-link" target="_blank">
+                        Digital signering - Hur använder jag e-signering via Scrive i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/digital-signering-hur-anvander-jag-e-signering-via-verified-i-hrm.md" class="article-link" target="_blank">
+                        Digital signering - Hur använder jag e-signering via Verified i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm.md" class="article-link" target="_blank">
+                        ⚙️Digitala checklistor - Hur skapar jag ett uppdrag i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/exempel-pa-egna-falt-i-hrm-employee.md" class="article-link" target="_blank">
+                        ⚙️Exempel på egna fält i HRM Employee
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/exempel-pa-winningtemp-paneler-i-hrm-dashboard.md" class="article-link" target="_blank">
+                        ⚙️Exempel på Winningtemp-paneler i HRM Dashboard
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/fragor-och-svar-winningtemp-hrm.md" class="article-link" target="_blank">
+                        Frågor och svar - Winningtemp & HRM
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-aktiverar-jag-e-signering-via-scrive-i-hrm.md" class="article-link" target="_blank">
+                        ⚙️Hur aktiverar jag e-signering via Scrive i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-aktiverar-jag-e-signering-via-verified-i-hrm.md" class="article-link" target="_blank">
+                        ⚙️Hur aktiverar jag e-signering via Verified i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-fungerar-anonymisera-anstallda-i-hrm.md" class="article-link" target="_blank">
+                        Hur fungerar anonymisera anställda i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-fungerar-dokumentkategorier-i-hrm-employee.md" class="article-link" target="_blank">
+                        ⚙️Hur fungerar Dokumentkategorier i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm.md" class="article-link" target="_blank">
+                        ⚙️Hur fungerar gallring/rensning av personuppgifter i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-hanterar-hrm-employee-offboarding-av-anstallda.md" class="article-link" target="_blank">
+                        Hur hanterar HRM Employee offboarding av anställda?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-hanterar-jag-anstallda-med-skyddad-folkbokforing.md" class="article-link" target="_blank">
+                        Hur hanterar jag anställda med skyddad folkbokföring?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm.md" class="article-link" target="_blank">
+                        Hur hanterar jag uppgifter och uppdrag i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-hanterar-man-dokument-for-anstallda-i-hrm-employee.md" class="article-link" target="_blank">
+                        Hur hanterar man dokument för anställda i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-integrerar-jag-teamtailor-med-hrm.md" class="article-link" target="_blank">
+                        ⚙️Hur integrerar jag Teamtailor med HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm.md" class="article-link" target="_blank">
+                        Hur lägger jag upp ett dokument på startsidan i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-registrerar-man-personaldata-och-anstallningsuppgifter-i-hrm-employee.md" class="article-link" target="_blank">
+                        Hur registrerar man personaldata och anställningsuppgifter i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-skapar-jag-egna-flikar-och-falt-i-hrm-employee.md" class="article-link" target="_blank">
+                        ⚙️Hur skapar jag Egna flikar och fält i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-skapar-jag-ett-organisationstrad-i-hrm-employee.md" class="article-link" target="_blank">
+                        ⚙️Hur skapar jag ett organisationsträd i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-skapar-jag-hr-blanketter-for-cv-i-hrm-employee.md" class="article-link" target="_blank">
+                        ⚙️Hur skapar jag HR-blanketter för CV i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee.md" class="article-link" target="_blank">
+                        ⚙️Hur skapar jag HR-blanketter för startsidan i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-skapar-jag-hr-blanketter-i-hrm-employee.md" class="article-link" target="_blank">
+                        ⚙️Hur skapar jag HR-blanketter i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee.md" class="article-link" target="_blank">
+                        Hur skickar jag en HR-blankett för e-signering i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm.md" class="article-link" target="_blank">
+                        Hur startar jag nya uppgifter och uppdrag i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-tar-jag-bort-en-anstalld.md" class="article-link" target="_blank">
+                        Hur tar jag bort en anställd?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-tar-jag-bort-en-anstallningsperiod.md" class="article-link" target="_blank">
+                        Hur tar jag bort en anställningsperiod?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-tar-jag-fram-ett-cv-for-en-anstalld-i-hrm-employee.md" class="article-link" target="_blank">
+                        Hur tar jag fram ett CV för en anställd i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/hur-verkstaller-jag-arets-lonerevision.md" class="article-link" target="_blank">
+                        Hur verkställer jag årets Lönerevision?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/integration-till-bky-hur-kopplar-jag-bky-och-hrm.md" class="article-link" target="_blank">
+                        ⚙️Integration till BKY - Hur kopplar jag BKY och HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/kan-jag-exportera-arets-lonerevision-till-en-excell-fil.md" class="article-link" target="_blank">
+                        Kan jag exportera årets Lönerevision till en Excell-fil?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/kan-jag-fa-en-notis-nar-ett-nytt-dokument-laggs-upp-i-hrm.md" class="article-link" target="_blank">
+                        ⚙️Kan jag få en notis när ett nytt dokument läggs upp i HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/kom-igang-med-lonerevision-i-hrm.md" class="article-link" target="_blank">
+                        ⚙️Kom igång med Lönerevision i HRM
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser.md" class="article-link" target="_blank">
+                        ⚙️Kompetenshantering i HRM - Hur skapar jag nya kompetenser?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/kopiera-anstalld-mellan-bolag-smartare-personalhantering-for-hela-koncernen.md" class="article-link" target="_blank">
+                        Kopiera anställd mellan bolag – smartare personalhantering för hela koncernen
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/kurshantering-i-hrm-hur-skapar-jag-nya-kurser.md" class="article-link" target="_blank">
+                        ⚙️Kurshantering i HRM - Hur skapar jag nya kurser?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/las-berakningsdetaljer-fordjupning.md" class="article-link" target="_blank">
+                        ⚙️LAS - Beräkningsdetaljer fördjupning
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/las-installningar-och-berakningsdetaljer.md" class="article-link" target="_blank">
+                        ⚙️LAS - Inställningar och beräkningsdetaljer
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda.md" class="article-link" target="_blank">
+                        Ny anställning? - Så hanterar HRM Employee onboarding av anställda
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode.md" class="article-link" target="_blank">
+                        ⚙️Nyanställning - Hur skapar jag ett effektivt anställningsflöde?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/overfor-lonerevision-till-flex-classic-lon.md" class="article-link" target="_blank">
+                        Överför Lönerevision till Flex Classic Lön
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/performance-managemant-hur-genomfor-jag-ett-medarbetarsamtal-i-hrm-employee.md" class="article-link" target="_blank">
+                        Performance managemant - Hur genomför jag ett medarbetarsamtal i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/performance-managemant-hur-skapar-jag-samtalsmallar-for-medarbetarsamtal-i-hrm-e.md" class="article-link" target="_blank">
+                        ⚙️Performance managemant - Hur skapar jag samtalsmallar för medarbetarsamtal i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/performance-managemant-hur-skapar-jag-samtalsmallar-for-medarbetarsamtal-i-hrm-employee.md" class="article-link" target="_blank">
+                        ⚙️Performance managemant - Hur skapar jag samtalsmallar för medarbetarsamtal i HRM Employee?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/sa-far-du-full-overblick-over-vilka-kompetenser-dina-anstallda-har-och-saknar.md" class="article-link" target="_blank">
+                        Så får du full överblick över vilka kompetenser dina anställda har – och saknar?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/sa-har-fungerar-narmaste-chef-i-hrm-employee.md" class="article-link" target="_blank">
+                        ⚙️Så här fungerar Närmaste chef i HRM Employee
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/skapa-dashboard-i-hrm-med-winningtemp-paneler.md" class="article-link" target="_blank">
+                        ⚙️Skapa Dashboard i HRM med Winningtemp-paneler
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/skapa-en-lonerevision.md" class="article-link" target="_blank">
+                        Skapa en lönerevision
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/skapa-potter-i-en-lonerevision.md" class="article-link" target="_blank">
+                        Skapa potter i en lönerevision
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/starta-lonerevision.md" class="article-link" target="_blank">
+                        Starta Lönerevision
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/employee/valbara-kolumner-i-lonerevision.md" class="article-link" target="_blank">
+                        Valbara kolumner i Lönerevision
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time - Flex HRM Dokumentation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .back-link {
+            display: inline-block;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        .content {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+        }
+        .article-list {
+            list-style: none;
+        }
+        .article-item {
+            padding: 15px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        .article-item:last-child {
+            border-bottom: none;
+        }
+        .article-link {
+            color: #667eea;
+            text-decoration: none;
+            font-size: 1.1rem;
+            display: block;
+            transition: all 0.2s ease;
+        }
+        .article-link:hover {
+            color: #764ba2;
+            padding-left: 10px;
+        }
+        .count {
+            color: #999;
+            font-size: 0.9rem;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">← Tillbaka till startsidan</a>
+        <header>
+            <h1>📚 Time</h1>
+            <p>Frågor och svar som rör HRM Time - tidrapportering och schema</p>
+        </header>
+        
+        <div class="content">
+            <p class="count"><strong>119 artiklar</strong></p>
+            <ul class="article-list">
+                <li class="article-item">
+                    <a href="documentation/time/avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar.md" class="article-link" target="_blank">
+                        ⚙️Avvikelsedagar - Hur ställer man in schema för avvikande dagar?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time.md" class="article-link" target="_blank">
+                        Begrepp i HRM Time - Vad betyder de olika begreppen i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag.md" class="article-link" target="_blank">
+                        Dagredovisning - Hur registrerar man närvaro, frånvaro och övertid för en dag?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/ersattningar-hur-hanterar-man-ej-timbaserade-ersattningar-i-hrm-time.md" class="article-link" target="_blank">
+                        ⚙️Ersättningar - Hur hanterar man ej timbaserade ersättningar i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/franvaro-hur-ansoker-och-rapporterar-jag-franvaro-i-mobilen.md" class="article-link" target="_blank">
+                        Frånvaro - Hur ansöker och rapporterar jag frånvaro i mobilen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/franvaroorsaker-i-tidrapporten-vad-ar-en-franvaroorsak.md" class="article-link" target="_blank">
+                        ⚙️Frånvaroorsaker i tidrapporten - Vad är en frånvaroorsak?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an.md" class="article-link" target="_blank">
+                        Frånvarostatistik - Vad betyder Ta endast med frånvaroperioder längre/kortare än?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/gar-det-att-behorighetsstyra-en-stampelklocka.md" class="article-link" target="_blank">
+                        ⚙️Går det att behörighetsstyra en stämpelklocka?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hrm-time-vad-ar-generella-handelseformler.md" class="article-link" target="_blank">
+                        ⚙️HRM Time: Vad är Generella händelseformler?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-aktiverar-jag-funktionen-fakturering-i-hrm-time.md" class="article-link" target="_blank">
+                        ⚙️Hur aktiverar jag funktionen "Fakturering" i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-andrar-jag-bakgrundsbild-i-stampelklockan.md" class="article-link" target="_blank">
+                        ⚙️Hur ändrar jag bakgrundsbild i stämpelklockan?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-andrar-jag-knapparna-i-stampelklockan.md" class="article-link" target="_blank">
+                        ⚙️Hur ändrar jag knapparna i stämpelklockan?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-anvander-jag-min-kalender-pa-startsidan.md" class="article-link" target="_blank">
+                        Hur använder jag Min kalender på startsidan?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-anvander-man-handelser-i-hrm-time.md" class="article-link" target="_blank">
+                        ⚙️Hur använder man Händelser i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-anvands-favoriter-i-ersattningar.md" class="article-link" target="_blank">
+                        Hur används Favoriter i Ersättningar?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-anvands-funktionen-frislapp-till-fakturering-i-hrm-time.md" class="article-link" target="_blank">
+                        Hur används funktionen Frisläpp till fakturering i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-arbetar-man-med-delattestering-i-hrm-time.md" class="article-link" target="_blank">
+                        Hur arbetar man med delattestering i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-attesterar-man-en-tidrapport.md" class="article-link" target="_blank">
+                        Hur attesterar man en tidrapport?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-avvikelserapportering.md" class="article-link" target="_blank">
+                        Hur fungerar avvikelserapportering?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-beredskapsregelverk.md" class="article-link" target="_blank">
+                        ⚙️Hur fungerar beredskapsregelverk?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-faktureringslogiken-i-hrm-time.md" class="article-link" target="_blank">
+                        ⚙️Hur fungerar Faktureringslogiken i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-fasta-saldojusteringar.md" class="article-link" target="_blank">
+                        ⚙️Hur fungerar fasta saldojusteringar?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-favoriter-i-periodredovisningen.md" class="article-link" target="_blank">
+                        Hur fungerar Favoriter i periodredovisningen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-narvarotablan-pa-startsidan.md" class="article-link" target="_blank">
+                        Hur fungerar Närvarotablån på startsidan?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-ob-regelverk.md" class="article-link" target="_blank">
+                        ⚙️Hur fungerar OB-regelverk?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-overtidsregelverk.md" class="article-link" target="_blank">
+                        ⚙️Hur fungerar övertidsregelverk?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-panelen-overtidsbevakning.md" class="article-link" target="_blank">
+                        Hur fungerar panelen Övertidsbevakning?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-rapporten-projektuppfoljning.md" class="article-link" target="_blank">
+                        Hur fungerar rapporten Projektuppföljning?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-fungerar-stamplingsterminalen.md" class="article-link" target="_blank">
+                        Hur fungerar stämplingsterminalen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-gor-man-for-att-avsla-tidrapporter.md" class="article-link" target="_blank">
+                        Hur gör man för att avslå tidrapporter?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-granskar-man-sin-tidrapport.md" class="article-link" target="_blank">
+                        Hur granskar man sin tidrapport?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-hanterar-man-karensavdrag-i-hrm-time.md" class="article-link" target="_blank">
+                        ⚙️Hur hanterar man karensavdrag i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-hanteras-manuella-schemaandringar-vid-skapandet-av-ett-deltidsfranvaroschema.md" class="article-link" target="_blank">
+                        Hur hanteras "manuella schemaändringar" vid skapandet av ett deltidsfrånvaroschema?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-importerar-man-ett-schema-till-hrm-time.md" class="article-link" target="_blank">
+                        ⚙️Hur importerar man ett schema till HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-justerar-man-avvikande-dagar-i-regelverk-i-hrm-time.md" class="article-link" target="_blank">
+                        ⚙️Hur justerar man avvikande dagar i regelverk i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-sem.md" class="article-link" target="_blank">
+                        Hur kan jag i HRM Time få en bra överblick över de anställdas frånvaro under semestern?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-semestern.md" class="article-link" target="_blank">
+                        Hur kan jag i HRM Time få en bra överblick över de anställdas frånvaro under semestern?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-kan-man-kontera-tiden-i-hrm-time.md" class="article-link" target="_blank">
+                        Hur kan man kontera tiden i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-overfor-man-tidrapporter-till-lon.md" class="article-link" target="_blank">
+                        Hur överför man tidrapporter till lön?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-registrerar-jag-deltidsfranvaro-i-hrm-time.md" class="article-link" target="_blank">
+                        Hur registrerar jag deltidsfrånvaro i HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-registrerar-man-tva-samtidiga-deltidsfranvaro.md" class="article-link" target="_blank">
+                        Hur registrerar man två samtidiga deltidsfrånvaro?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-skapar-man-ett-personligt-schema.md" class="article-link" target="_blank">
+                        ⚙️Hur skapar man ett personligt schema?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-skapar-man-ett-publikt-schema.md" class="article-link" target="_blank">
+                        ⚙️Hur skapar man ett publikt schema?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-staller-jag-in-regler-for-sjuk-ob.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer jag in regler för sjuk-OB?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer man in att Ersättningar ska kunna stämplas i HRM Timeclock?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-staller-man-in-automatisk-berakning-av-heltidsmatt-vid-en-deltidsfranvaro.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer man in automatisk beräkning av heltidsmått vid en deltidsfrånvaro?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-staller-man-in-ett-dagschema.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer man in ett dagschema?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-staller-man-in-saldon.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer man in saldon?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-staller-man-in-tidkoder.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer man in tidkoder?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-staller-man-in-tidrapporten.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer man in Tidrapporten?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminer.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer man in visning av saldon i tidrapporten och stämplingsterminer?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-staller-vi-in-overtidsbevakningen-for-tvamanadersperioder.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer vi in övertidsbevakningen för tvåmånadersperioder?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-stamplar-jag-direkt-i-tidrapporten.md" class="article-link" target="_blank">
+                        Hur stämplar jag direkt i tidrapporten?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-stamplar-man-sin-tid-i-mobilen.md" class="article-link" target="_blank">
+                        Hur stämplar man sin tid i mobilen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-tar-jag-bort-en-tidrapport.md" class="article-link" target="_blank">
+                        Hur tar jag bort en tidrapport?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-tidrapporterar-jag-i-mobilen.md" class="article-link" target="_blank">
+                        Hur tidrapporterar jag i mobilen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-tillater-man-avslag-av-tidrapporter.md" class="article-link" target="_blank">
+                        ⚙️Hur tillåter man avslag av tidrapporter?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/hur-visas-beredskap-i-tidrapporten.md" class="article-link" target="_blank">
+                        Hur visas beredskap i tidrapporten?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-pav.md" class="article-link" target="_blank">
+                        ⚙️I vilken ordning körs händelser, saldotak/-golv och fasta saldojusteringar som påverkar samma saldon?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-paverkar-samma-saldon.md" class="article-link" target="_blank">
+                        ⚙️I vilken ordning körs händelser, saldotak/-golv och fasta saldojusteringar som påverkar samma saldon?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-anstallda-fa-en-paminnelse-nar-deras-semester-ar-godkand.md" class="article-link" target="_blank">
+                        ⚙️Kan anställda få en påminnelse när deras semester är godkänd?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-delattestbehorighet-anvandas-for-franvarogranskning.md" class="article-link" target="_blank">
+                        ⚙️Kan delattestbehörighet användas för frånvarogranskning?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-hrm-time-skicka-en-paminnelse-nar-alla-periodens-tidrapporter-ar-redo-att-ov.md" class="article-link" target="_blank">
+                        ⚙️Kan HRM Time skicka en påminnelse när alla periodens tidrapporter är redo att överföras till lön?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-hrm-time-skicka-en-paminnelse-nar-alla-periodens-tidrapporter-ar-redo-att-overforas-till-lon.md" class="article-link" target="_blank">
+                        ⚙️Kan HRM Time skicka en påminnelse när alla periodens tidrapporter är redo att överföras till lön?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon.md" class="article-link" target="_blank">
+                        Kan jag ändra i en tidrapport som är granskad/överförd till lön?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-jag-fa-en-paminnelse-vid-sammanhangande-sjukfranvaro.md" class="article-link" target="_blank">
+                        ⚙️Kan jag få en påminnelse vid sammanhängande sjukfrånvaro?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-jag-fa-ett-meddelande-om-en-anstalld-inte-stamplat-in.md" class="article-link" target="_blank">
+                        ⚙️Kan jag få ett meddelande om en anställd inte stämplat in?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-jag-se-information-om-mitt-schema-i-mobilen.md" class="article-link" target="_blank">
+                        Kan jag se information om mitt schema i mobilen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-jag-se-mina-saldon-i-mobilen.md" class="article-link" target="_blank">
+                        Kan jag se mina saldon i mobilen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-jag-ta-ut-information-om-franvaro-i-rapportgeneratorn.md" class="article-link" target="_blank">
+                        Kan jag ta ut information om frånvaro i rapportgeneratorn?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-pa-vilken-stampling.md" class="article-link" target="_blank">
+                        ⚙️Kan konteringar falla ut automatiskt i tidrapporten beroende på vilken stämplingsterminal man använder?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-pa-vilken-stamplingsterminal-man-anvand.md" class="article-link" target="_blank">
+                        ⚙️Kan konteringar falla ut automatiskt i tidrapporten beroende på vilken stämplingsterminal man använder?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-konteringar-fran-tidrapporten-folja-med-till-lonesystemet.md" class="article-link" target="_blank">
+                        ⚙️Kan konteringar från tidrapporten följa med till lönesystemet?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-man-andra-ett-schema-direkt-i-tidrapporten.md" class="article-link" target="_blank">
+                        ⚙️Kan man ändra ett schema direkt i tidrapporten?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-man-begransa-stamplingen-i-hrm-mobile-via-plats.md" class="article-link" target="_blank">
+                        ⚙️Kan man begränsa stämplingen i HRM Mobile via plats?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-man-overfora-saldovarden-till-lon.md" class="article-link" target="_blank">
+                        ⚙️Kan man överföra saldovärden till lön?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-man-skicka-meddelanden-i-stampelklockan.md" class="article-link" target="_blank">
+                        ⚙️Kan man skicka meddelanden i stämpelklockan?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-man-stalla-in-sa-att-anvandare-endast-ser-vissa-projekt-i-sin-tidrapport.md" class="article-link" target="_blank">
+                        ⚙️Kan man ställa in så att användare endast ser vissa projekt i sin tidrapport?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-tidrapporten-tillfalligt-lagga-ut-ett-annat-kostnadsstalle-an-mitt-hemkostna.md" class="article-link" target="_blank">
+                        Kan tidrapporten tillfälligt lägga ut ett annat kostnadsställe än mitt hemkostnadsställe?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-tidrapporten-tillfalligt-lagga-ut-ett-annat-kostnadsstalle-an-mitt-hemkostnadsstalle.md" class="article-link" target="_blank">
+                        Kan tidrapporten tillfälligt lägga ut ett annat kostnadsställe än mitt hemkostnadsställe?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/kan-tidrapporter-granskas-automatiskt.md" class="article-link" target="_blank">
+                        ⚙️Kan tidrapporter granskas automatiskt?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/loggas-stamplingar-som-gors-i-hrm-timeclock.md" class="article-link" target="_blank">
+                        Loggas stämplingar som görs i HRM Timeclock?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporte.md" class="article-link" target="_blank">
+                        Omräkning av tidrapporter - Hur kan ändringar få genomslag i granskade tidrapporter?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporter.md" class="article-link" target="_blank">
+                        Omräkning av tidrapporter - Hur kan ändringar få genomslag i granskade tidrapporter?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodred.md" class="article-link" target="_blank">
+                        Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare.md" class="article-link" target="_blank">
+                        Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/saldotak-golv-hur-satter-man-granser-for-saldovarden.md" class="article-link" target="_blank">
+                        ⚙️Saldotak/-golv - Hur sätter man gränser för saldovärden?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillracklig.md" class="article-link" target="_blank">
+                        ⚙️Spärr för saldo - Kan man spärra semesteransökningar om det inte finns tillräckligt många semesterdagar att ta ut?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillrackligt-manga-semesterdaga.md" class="article-link" target="_blank">
+                        ⚙️Spärr för saldo - Kan man spärra semesteransökningar om det inte finns tillräckligt många semesterdagar att ta ut?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/stampla-i-hrm-mobile-med-hjalp-av-plats.md" class="article-link" target="_blank">
+                        ⚙️Stämpla i HRM Mobile med hjälp av plats
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/stamplingstolerans-kan-man-avrunda-stamplingar.md" class="article-link" target="_blank">
+                        ⚙️Stämplingstolerans - Kan man avrunda stämplingar?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/tidkodsavrundning-varfor-avrundas-rapporterad-tid.md" class="article-link" target="_blank">
+                        ⚙️Tidkodsavrundning - Varför avrundas rapporterad tid?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/tidrapport-hur-fungerar-vyn-oversikt.md" class="article-link" target="_blank">
+                        Tidrapport - Hur fungerar vyn Översikt?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vad-ar-en-tidgrupp.md" class="article-link" target="_blank">
+                        ⚙️Vad är en tidgrupp?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vad-ar-schematid-uppnadd.md" class="article-link" target="_blank">
+                        Vad är "Schematid uppnådd"?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vad-betyder-schemastartdatum.md" class="article-link" target="_blank">
+                        ⚙️Vad betyder schemastartdatum?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vad-hander-nar-stampelklockan-ar-offline.md" class="article-link" target="_blank">
+                        Vad händer när stämpelklockan är offline?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vad-innebar-installningen-ge-kortare-karensperiod-vid-deltidsfranvaro.md" class="article-link" target="_blank">
+                        ⚙️Vad innebär inställningen "Ge kortare karensperiod vid deltidsfrånvaro"
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vad-innebar-installningen-skicka-deltidsfranvaro-dag-for-dag-till-lon-under-inst.md" class="article-link" target="_blank">
+                        ⚙️Vad innebär inställningen "Skicka deltidsfrånvaro dag för dag till lön" under inställningar för Frånvaroorsaker?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vad-innebar-installningen-skicka-deltidsfranvaro-dag-for-dag-till-lon-under-installningar-for-franva.md" class="article-link" target="_blank">
+                        ⚙️Vad innebär inställningen "Skicka deltidsfrånvaro dag för dag till lön" under inställningar för Frånvaroorsaker?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vad-markeras-som-avvikelse-i-tidrapporten.md" class="article-link" target="_blank">
+                        Vad markeras som avvikelse i tidrapporten?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/varfor-faller-sjuk-ob-ut-efter-dag-14.md" class="article-link" target="_blank">
+                        Varför faller sjuk-OB ut efter dag 14?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/varfor-har-jag-ospecad-tid-i-min-tidrapport.md" class="article-link" target="_blank">
+                        Varför har jag ospecad tid i min tidrapport?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/varfor-har-klockslagen-i-tidrapporten-olika-farger.md" class="article-link" target="_blank">
+                        Varför har klockslagen i tidrapporten olika färger?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/varfor-sparras-min-franvaroansokan-trots-att-det-finns-tillrackligt-mycket-i-det-utgaende-saldot.md" class="article-link" target="_blank">
+                        Varför spärras min frånvaroansökan trots att det finns tillräckligt mycket i det utgående saldot?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/varfor-sparras-min-franvaroansokan-trots-att-det-finns-tillrackligt-mycket-i-det.md" class="article-link" target="_blank">
+                        Varför spärras min frånvaroansökan trots att det finns tillräckligt mycket i det utgående saldot?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/varfor-visas-ett-framtida-saldo-i-franvarohanteraren.md" class="article-link" target="_blank">
+                        Varför visas ett framtida saldo i frånvarohanteraren?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern.md" class="article-link" target="_blank">
+                        Vilka funktioner i HRM Time fungerar med modulen Koncern?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-installningar-behover-goras-for-overtidsbevakning.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar behöver göras för övertidsbevakning?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-installningar-i-hrm-kravs-det-for-att-en-registrerad-deltidsfranvaro-i-hrm-time-ska-blir-korre.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar i HRM krävs det för att en registrerad deltidsfrånvaro i HRM Time ska blir korrekt i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-installningar-i-hrm-kravs-det-for-att-en-registrerad-deltidsfranvaro-i-hrm.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar i HRM krävs det för att en registrerad deltidsfrånvaro i HRM Time ska blir korrekt i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-installningar-kan-goras-for-korrigering-av-tidrapport.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar kan göras för korrigering av tidrapport?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-installningar-kravs-for-att-vi-ska-kunna-anvanda-tillfallig-utlaning.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs för att vi ska kunna använda tillfällig utlåning?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-installningar-kravs-for-delattestering-av-tidrader.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs för delattestering av tidrader?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidko.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs i HRM Time för visning av deltidsfrånvaro som en tidkod i tidrapporten?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs i HRM Time för visning av deltidsfrånvaro som en tidkod i tidrapporten?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-olika-funktioner-finns-i-tidrapporten.md" class="article-link" target="_blank">
+                        Vilka olika funktioner finns i tidrapporten?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilka-rapporter-kan-man-fa-ut-pa-deltidsfranvaro.md" class="article-link" target="_blank">
+                        Vilka rapporter kan man få ut på deltidsfrånvaro?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/time/vilken-franvaro-galler-nar-det-finns-overlappande-franvaroposter.md" class="article-link" target="_blank">
+                        Vilken frånvaro gäller när det finns överlappande frånvaroposter?
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

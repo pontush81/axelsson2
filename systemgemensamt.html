@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Systemgemensamt - Flex HRM Dokumentation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .back-link {
+            display: inline-block;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        .content {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+        }
+        .article-list {
+            list-style: none;
+        }
+        .article-item {
+            padding: 15px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        .article-item:last-child {
+            border-bottom: none;
+        }
+        .article-link {
+            color: #667eea;
+            text-decoration: none;
+            font-size: 1.1rem;
+            display: block;
+            transition: all 0.2s ease;
+        }
+        .article-link:hover {
+            color: #764ba2;
+            padding-left: 10px;
+        }
+        .count {
+            color: #999;
+            font-size: 0.9rem;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">← Tillbaka till startsidan</a>
+        <header>
+            <h1>📚 Systemgemensamt</h1>
+            <p>Frågor och svar som rör de gemensamma delarna i Flex HRM</p>
+        </header>
+        
+        <div class="content">
+            <p class="count"><strong>56 artiklar</strong></p>
+            <ul class="article-list">
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen.md" class="article-link" target="_blank">
+                        Administrativa funktioner - Vilka administrativa funktioner kan jag styra direkt i mobilen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i.md" class="article-link" target="_blank">
+                        Administrativa funktioner - Vilka administrativa funktioner kan jag styra direkt i mobilen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/allmanna-tips-och-forberedelser-infor-semester.md" class="article-link" target="_blank">
+                        ⚙️Allmänna tips och förberedelser inför semester
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden.md" class="article-link" target="_blank">
+                        Dashboard - Mätare/Värde - Hur mäter och visualiserar jag mina värden?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/dashboard-vad-ar-en-dashboard.md" class="article-link" target="_blank">
+                        ⚙️Dashboard - Vad är en Dashboard?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hr.md" class="article-link" target="_blank">
+                        ⚙️Exporter - Hur skapar och hanterar vi exportmallar för att få ut data från Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hrm.md" class="article-link" target="_blank">
+                        ⚙️Exporter - Hur skapar och hanterar vi exportmallar för att få ut data från Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/formelsprak-i-flex-hrm.md" class="article-link" target="_blank">
+                        ⚙️Formelspråk i Flex HRM
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/gar-det-att-kopiera-projekt.md" class="article-link" target="_blank">
+                        ⚙️Går det att kopiera projekt?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/granskningsnivaer-hur-fungerar-granskningsnivaer-i-flex-hrm.md" class="article-link" target="_blank">
+                        ⚙️Granskningsnivåer - Hur fungerar granskningsnivåer i Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-arbetar-man-med-filimporter-i-flex-hrm.md" class="article-link" target="_blank">
+                        ⚙️Hur arbetar man med filimporter i Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter.md" class="article-link" target="_blank">
+                        Hur byter jag från Flex Lön till Flex HRM som master för personuppgifter?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-fungerar-foretagsknuten-behorighet.md" class="article-link" target="_blank">
+                        ⚙️Hur fungerar företagsknuten behörighet?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-fungerar-konteringskombinationer.md" class="article-link" target="_blank">
+                        Hur fungerar konteringskombinationer?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-fungerar-paminnelser-pa-startsidan.md" class="article-link" target="_blank">
+                        Hur fungerar Påminnelser på startsidan?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-fungerar-paminnelser.md" class="article-link" target="_blank">
+                        ⚙️Hur fungerar Påminnelser?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem.md" class="article-link" target="_blank">
+                        ⚙️Hur går jag tillväga för att presentera Dashboards på Startsidan (Hem)?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt.md" class="article-link" target="_blank">
+                        Hur gör man för att registrera nyanställd och användare manuellt?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-hanterar-man-konteringsdimensioner-i-flex-hrm.md" class="article-link" target="_blank">
+                        ⚙️Hur hanterar man konteringsdimensioner i Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-hanteras-notiser-i-hrm-mobile.md" class="article-link" target="_blank">
+                        Hur hanteras notiser i HRM Mobile?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm.md" class="article-link" target="_blank">
+                        Hur hittar jag lättast rätt menyer i Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-loggar-jag-in-i-hrm-timeclock.md" class="article-link" target="_blank">
+                        Hur loggar jag in i HRM Timeclock?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/hur-staller-vi-in-konteringskombinationer.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer vi in konteringskombinationer?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/inloggning-i-flex-hrm-och-byte-av-losenord.md" class="article-link" target="_blank">
+                        Inloggning i Flex HRM och byte av lösenord
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/kan-jag-delegera-min-attestbehorighet-tillfalligt-till-nagon-annan-nar-jag-ar-le.md" class="article-link" target="_blank">
+                        Kan jag delegera min attestbehörighet tillfälligt till någon annan när jag är ledig?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/kan-jag-delegera-min-attestbehorighet-tillfalligt-till-nagon-annan-nar-jag-ar-ledig.md" class="article-link" target="_blank">
+                        Kan jag delegera min attestbehörighet tillfälligt till någon annan när jag är ledig?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/kan-jag-se-en-oversikt-over-alla-delegerade-behorigheter.md" class="article-link" target="_blank">
+                        Kan jag se en översikt över alla delegerade behörigheter?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/kan-jag-se-oversikt-delegerade-behorigheter.md" class="article-link" target="_blank">
+                        Kan jag se en översikt över alla delegerade behörigheter?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm.md" class="article-link" target="_blank">
+                        Kan jag själv anpassa min startsida i Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/kan-jag-valja-en-egen-startsida-i-flex-hrm.md" class="article-link" target="_blank">
+                        Kan jag välja en egen startsida i Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/meddelanden-hur-fungerar-meddelanden-i-flex-hrm-mobile.md" class="article-link" target="_blank">
+                        Meddelanden - Hur fungerar meddelanden i Flex HRM Mobile?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/mina-kollegor-var-hittar-jag-information-om-mina-kollegor.md" class="article-link" target="_blank">
+                        Mina kollegor - Var hittar jag information om mina kollegor?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/nyheter-hur-jobbar-jag-med-nyhetsfloden-i-flex-hrm.md" class="article-link" target="_blank">
+                        ⚙️Nyheter - Hur jobbar jag med nyhetsflöden i Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-das.md" class="article-link" target="_blank">
+                        ⚙️Paneler i Dashboard- Hur fungerar de gemensamma inställningarna för paneler i Dashboard?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard.md" class="article-link" target="_blank">
+                        ⚙️Paneler i Dashboard- Hur fungerar de gemensamma inställningarna för paneler i Dashboard?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/rapportgenerator-hur-kan-jag-fa-ut-rapporter-om-medarbetarsamtal-fran-rapportgen.md" class="article-link" target="_blank">
+                        ⚙️Rapportgenerator - Hur kan jag få ut rapporter om medarbetarsamtal från rapportgeneratorn?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/rapportgenerator-hur-kan-jag-fa-ut-rapporter-om-medarbetarsamtal-fran-rapportgeneratorn.md" class="article-link" target="_blank">
+                        ⚙️Rapportgenerator - Hur kan jag få ut rapporter om medarbetarsamtal från rapportgeneratorn?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/rapportgenerator-hur-schemalagger-jag-uttag-av-rapporter-fran-rapportgeneratorn.md" class="article-link" target="_blank">
+                        Rapportgenerator - Hur schemalägger jag uttag av rapporter från rapportgeneratorn?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/rapportgenerator-vad-ar-rapportgeneratorn.md" class="article-link" target="_blank">
+                        Rapportgenerator - Vad är Rapportgeneratorn?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/rapportpaket-vad-ar-och-hur-fungerar-rapportpaket.md" class="article-link" target="_blank">
+                        Rapportpaket -Vad är och hur fungerar rapportpaket?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/roller-och-behorigheter-i-flex-hrm.md" class="article-link" target="_blank">
+                        ⚙️Roller och behörigheter i Flex HRM
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/statistik-pa-startsidan-hur-konfigurerar-och-ser-jag-statistik-pa-startsidan.md" class="article-link" target="_blank">
+                        ⚙️Statistik på startsidan - Hur konfigurerar och ser jag statistik på startsidan?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/statistikcentral-vad-ar-statistikcentralen.md" class="article-link" target="_blank">
+                        Statistikcentral- Vad är statistikcentralen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statis.md" class="article-link" target="_blank">
+                        Statistikcentralen: Statistiktyper - Vad innebär de olika statistiktyperna i statistikcentralen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen.md" class="article-link" target="_blank">
+                        Statistikcentralen: Statistiktyper - Vad innebär de olika statistiktyperna i statistikcentralen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-ar-en-anvandare.md" class="article-link" target="_blank">
+                        ⚙️Vad är en användare?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-ar-en-hemkontering.md" class="article-link" target="_blank">
+                        ⚙️Vad är en hemkontering?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-ar-en-roll.md" class="article-link" target="_blank">
+                        ⚙️Vad är en roll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-ar-en-tabellasning.md" class="article-link" target="_blank">
+                        ⚙️Vad är en tabellåsning?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-ar-ett-konteringsregister.md" class="article-link" target="_blank">
+                        ⚙️Vad är ett konteringsregister?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-ar-ett-kundregister.md" class="article-link" target="_blank">
+                        ⚙️Vad är ett kundregister?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-ar-ett-projektregister.md" class="article-link" target="_blank">
+                        ⚙️Vad är ett projektregister?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-ar-skillnaden-mellan-en-anstalld-och-en-anvandare-i-flex-hrm.md" class="article-link" target="_blank">
+                        ⚙️Vad är skillnaden mellan en anställd och en användare i Flex HRM?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-betyder-de-meddelanden-som-visas-vid-sparning.md" class="article-link" target="_blank">
+                        Vad betyder de meddelanden som visas vid sparning?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vad-hanteras-i-vyn-sakerhet.md" class="article-link" target="_blank">
+                        ⚙️Vad hanteras i vyn Säkerhet?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/systemgemensamt/vilken-roll-galler-nar-en-anvandare-har-flera-roller.md" class="article-link" target="_blank">
+                        Vilken roll gäller när en användare har flera roller?
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

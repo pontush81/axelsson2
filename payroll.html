@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payroll - Flex HRM Dokumentation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .back-link {
+            display: inline-block;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 20px;
+            font-size: 1.1rem;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        .content {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+        }
+        .article-list {
+            list-style: none;
+        }
+        .article-item {
+            padding: 15px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        .article-item:last-child {
+            border-bottom: none;
+        }
+        .article-link {
+            color: #667eea;
+            text-decoration: none;
+            font-size: 1.1rem;
+            display: block;
+            transition: all 0.2s ease;
+        }
+        .article-link:hover {
+            color: #764ba2;
+            padding-left: 10px;
+        }
+        .count {
+            color: #999;
+            font-size: 0.9rem;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">← Tillbaka till startsidan</a>
+        <header>
+            <h1>📚 Payroll</h1>
+            <p>Frågor och svar som rör HRM Payroll - löneberedning</p>
+        </header>
+        
+        <div class="content">
+            <p class="count"><strong>87 artiklar</strong></p>
+            <ul class="article-list">
+                <li class="article-item">
+                    <a href="documentation/payroll/arbetskraftskostnadens-niva-och-struktur-lcs-hur-tar-jag-fram-statistiken-for-lc.md" class="article-link" target="_blank">
+                        Arbetskraftskostnadens nivå och struktur (LCS) - Hur tar jag fram statistiken för LCS i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/arbetskraftskostnadens-niva-och-struktur-lcs-hur-tar-jag-fram-statistiken-for-lcs-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Arbetskraftskostnadens nivå och struktur (LCS) - Hur tar jag fram statistiken för LCS i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/arbetskraftskostnadens-niva-och-struktur-lcs-vilka-installningar-behover-jag-for-att-kunna-ta-ut-sta.md" class="article-link" target="_blank">
+                        ⚙️Arbetskraftskostnadens nivå och struktur (LCS) - Vilka inställningar behöver jag för att kunna ta ut statistiken för LCS i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/arbetskraftskostnadens-niva-och-struktur-lcs-vilka-installningar-behover-jag-for.md" class="article-link" target="_blank">
+                        ⚙️Arbetskraftskostnadens nivå och struktur (LCS) - Vilka inställningar behöver jag för att kunna ta ut statistiken för LCS i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/det-visas-en-varning-att-det-finns-transaktioner-som-inte-hamtats-in-i-lonekorni.md" class="article-link" target="_blank">
+                        Det visas en varning att det finns transaktioner som inte hämtats in i lönekörningen, hur hittar jag och hanterar dessa?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/det-visas-en-varning-att-det-finns-transaktioner-som-inte-hamtats-in-i-lonekorningen-hur-hittar-jag-.md" class="article-link" target="_blank">
+                        Det visas en varning att det finns transaktioner som inte hämtats in i lönekörningen, hur hittar jag och hanterar dessa?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/export-av-saldon-hur-exporterar-man-saldon-fran-hrm-payroll-till-hrm-time.md" class="article-link" target="_blank">
+                        ⚙️Export av saldon - Hur exporterar man saldon från HRM Payroll till HRM Time?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Flex HRM Payroll - Hur använder man rapporter i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-.md" class="article-link" target="_blank">
+                        FOS-förfrågan (fråga om skatteavdrag) - Hur skickar jag in FOS-förfrågan i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        FOS-förfrågan (fråga om skatteavdrag) - Hur skickar jag in FOS-förfrågan i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-anvander-man-smartdetect-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur använder man SmartDetect i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-arbetar-jag-med-arbetsgivardeklaration-pa-individniva-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur arbetar jag med arbetsgivardeklaration på individnivå i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-beraknar-jag-slutlon-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur beräknar jag slutlön i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-beraknas-underlaget-for-lonestrukturstatistik-for-privat-sektor-slp.md" class="article-link" target="_blank">
+                        Hur beräknas underlaget för lönestrukturstatistik för privat sektor (SLP)?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-fungerar-den-lopande-hanteringen-av-atk-och-atf.md" class="article-link" target="_blank">
+                        Hur fungerar den löpande hanteringen av ATK och ATF?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur genomför man rapportering till Collectum i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-en-rattelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur gör jag en rättelse av ett fel i tidigare arbetsgivardeklarationer (AGI) i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-en-rattelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm.md" class="article-link" target="_blank">
+                        Hur gör jag en rättelse av ett fel i tidigare arbetsgivardeklarationer (AGI) i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedni.md" class="article-link" target="_blank">
+                        Hur gör jag för att importera/läsa in en fil med lönetransaktioner i löneberedningen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedningen.md" class="article-link" target="_blank">
+                        Hur gör jag för att importera/läsa in en fil med lönetransaktioner i löneberedningen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-installningar-for-arbetsplats-tjanstestalle-till-arbetsgivardeklarat.md" class="article-link" target="_blank">
+                        ⚙️ Hur gör jag inställningar för arbetsplats, tjänsteställe, till arbetsgivardeklarationen (AGI) i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-installningar-for-arbetsplats-tjanstestalle-till-arbetsgivardeklarationen-agi-i-hrm-payr.md" class="article-link" target="_blank">
+                        ⚙️ Hur gör jag inställningar för arbetsplats, tjänsteställe, till arbetsgivardeklarationen (AGI) i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-installningar-for-bankfiler-med-formatet-iso-20022-pain-001-xml-i-hr.md" class="article-link" target="_blank">
+                        ⚙️Hur gör jag inställningar för bankfiler med formatet ISO 20022 Pain.001 (XML) i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-installningar-for-bankfiler-med-formatet-iso-20022-pain-001-xml-i-hrm-payroll.md" class="article-link" target="_blank">
+                        ⚙️Hur gör jag inställningar för bankfiler med formatet ISO 20022 Pain.001 (XML) i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr.md" class="article-link" target="_blank">
+                        ⚙️Hur gör jag inställningar i HRM Payroll för att kunna rapportera till KPA (KAP-KL/AKAP-KR)?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl.md" class="article-link" target="_blank">
+                        ⚙️Hur gör jag inställningar i HRM Payroll för att kunna rapportera till KPA (KAP-KL/AKAP-KR)?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll.md" class="article-link" target="_blank">
+                        ⚙️Hur gör man inställningar för rapportering till Collectum i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-hanteras-kompskuld-och-skuld-pa-valfria-ackumulatorer-i-hrm-payroll.md" class="article-link" target="_blank">
+                        ⚙️Hur hanteras kompskuld och skuld på valfria ackumulatorer i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-hittar-jag-orsaken-till-differenser-i-arbetsgivaravgifter-agi-i-flex-hrm-pay.md" class="article-link" target="_blank">
+                        Hur hittar jag orsaken till differenser i arbetsgivaravgifter (AGI) i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-hittar-jag-orsaken-till-differenser-i-arbetsgivaravgifter-agi-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur hittar jag orsaken till differenser i arbetsgivaravgifter (AGI) i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-fl.md" class="article-link" target="_blank">
+                        Hur kan jag göra urval på anställda när jag skapar en ordinarie lönekörning i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur kan jag göra urval på anställda när jag skapar en ordinarie lönekörning i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-lagger-jag-till-en-franvarotransaktion-manuellt-i-loneberedningen.md" class="article-link" target="_blank">
+                        Hur lägger jag till en frånvarotransaktion manuellt i löneberedningen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur rapporterar jag pension till Fora månadsvis i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-rapporterar-jag-pensionsunderlag-till-kpa-kap-kl-akap-kr-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur rapporterar jag pensionsunderlag till KPA (KAP-KL/AKAP-KR) i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-rattar-jag-redan-inlamnad-rapportering-till-fora-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur rättar jag redan inlämnad rapportering till Fora i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut.md" class="article-link" target="_blank">
+                        Hur ser de årliga rutinerna för arbetstidskonto (ATK) ut?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-ser-jag-vilka-belopp-och-poster-som-bokforts-pa-ett-specifikt-konto-i-bokfor.md" class="article-link" target="_blank">
+                        Hur ser jag vilka belopp och poster som bokförts på ett specifikt konto i bokföringsunderlaget?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-ser-jag-vilka-belopp-och-poster-som-bokforts-pa-ett-specifikt-konto-i-bokforingsunderlaget.md" class="article-link" target="_blank">
+                        Hur ser jag vilka belopp och poster som bokförts på ett specifikt konto i bokföringsunderlaget?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-skapar-jag-en-berakning-av-skuld-t-ex-semesterskuld-kompskuld-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur skapar jag en beräkning av skuld (t.ex. semesterskuld, kompskuld) i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-skapar-jag-en-importmall-for-att-kunna-importera-lasa-in-lonetransaktioner-i-loneberedningen.md" class="article-link" target="_blank">
+                        ⚙️Hur skapar jag en importmall för att kunna importera/läsa in lönetransaktioner i löneberedningen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-skapar-jag-en-importmall-for-att-kunna-importera-lasa-in-lonetransaktioner-i.md" class="article-link" target="_blank">
+                        ⚙️Hur skapar jag en importmall för att kunna importera/läsa in lönetransaktioner i löneberedningen?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-skapar-jag-en-ny-lonekorning-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur skapar jag en ny lönekörning i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur skapar jag ett arbetsgivarintyg i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Hur skapar jag ett bokföringsunderlag i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/hur-staller-man-in-ackumulatorerna-sa-att-det-blir-ratt-varde-i-ratt-falt-i-agin.md" class="article-link" target="_blank">
+                        ⚙️Hur ställer man in ackumulatorerna så att det blir rätt värde i rätt fält i AGIn?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-kont.md" class="article-link" target="_blank">
+                        Jag får en varning att konto saknas för bokföringsposter, hur hittar jag var konto saknas och korrigerar detta?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-konto-saknas-och-korrige.md" class="article-link" target="_blank">
+                        Jag får en varning att konto saknas för bokföringsposter, hur hittar jag var konto saknas och korrigerar detta?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-k.md" class="article-link" target="_blank">
+                        Konjunkturstatistik, löner för privat sektor (KLP) - Hur tar jag fram statistik för KLP i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Konjunkturstatistik, löner för privat sektor (KLP) - Hur tar jag fram statistik för KLP i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-.md" class="article-link" target="_blank">
+                        ⚙️Konjunkturstatistik, löner för privat sektor (KLP) - Vilka inställningar behöver jag för att kunna ta ut statistiken för KLP i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-for-att-kunna-ta-ut-.md" class="article-link" target="_blank">
+                        ⚙️Konjunkturstatistik, löner för privat sektor (KLP) - Vilka inställningar behöver jag för att kunna ta ut statistiken för KLP i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriterin.md" class="article-link" target="_blank">
+                        Konteringsflöde i HRM Payroll - Hur hanteras konteringsdimensioner och prioriteringar i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Konteringsflöde i HRM Payroll - Hur hanteras konteringsdimensioner och prioriteringar i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statis.md" class="article-link" target="_blank">
+                        Kortperiodisk sysselsättningsstatistik, privat sektor (KSP) - Hur tar jag fram statistik för KSP i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa.md" class="article-link" target="_blank">
+                        Kortperiodisk sysselsättningsstatistik, privat sektor (KSP) - Hur tar jag fram statistik för KSP i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/lonestrukturstatistik-for-privat-sektor-slp-hur-tar-jag-fram-statistik-for-slp-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Lönestrukturstatistik för privat sektor (SLP) - Hur tar jag fram statistik för SLP i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/lonestrukturstatistik-for-privat-sektor-slp-hur-tar-jag-fram-statistik-for-slp-i.md" class="article-link" target="_blank">
+                        Lönestrukturstatistik för privat sektor (SLP) - Hur tar jag fram statistik för SLP i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/manadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Månadsrapportering FORA - Hur hanteras FORAs FOK-koder i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/min-bank-sager-att-vi-maste-byta-bankfilsformat-hur-gor-jag-for-att-byta-bankfil.md" class="article-link" target="_blank">
+                        ⚙️Min bank säger att vi måste byta bankfilsformat - Hur gör jag för att byta bankfilsformat i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/min-bank-sager-att-vi-maste-byta-bankfilsformat-hur-gor-jag-for-att-byta-bankfilsformat-i-hrm-payrol.md" class="article-link" target="_blank">
+                        ⚙️Min bank säger att vi måste byta bankfilsformat - Hur gör jag för att byta bankfilsformat i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-till-fora-i-fl.md" class="article-link" target="_blank">
+                        Pensionsrapportering (årsvis) till Fora - Hur pensionsrapporterar jag till Fora i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Pensionsrapportering (årsvis) till Fora - Hur pensionsrapporterar jag till Fora i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskifte.md" class="article-link" target="_blank">
+                        Semesterårsskifte HRM Payroll: April - Vad behöver jag göra inför semesterårsskiftet?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet.md" class="article-link" target="_blank">
+                        Semesterårsskifte HRM Payroll: April - Vad behöver jag göra inför semesterårsskiftet?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskif.md" class="article-link" target="_blank">
+                        Semesterårsskifte HRM Payroll: Januari - Vad behöver jag göra inför semesterårsskiftet?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet.md" class="article-link" target="_blank">
+                        Semesterårsskifte HRM Payroll: Januari - Vad behöver jag göra inför semesterårsskiftet?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/sjukfranvaro-under-sjukloneperioden-sus-hur-tar-jag-fram-statistik-for-sus-i-fle.md" class="article-link" target="_blank">
+                        Sjukfrånvaro under sjuklöneperioden (SUS) - Hur tar jag fram statistik för SUS i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/sjukfranvaro-under-sjukloneperioden-sus-hur-tar-jag-fram-statistik-for-sus-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Sjukfrånvaro under sjuklöneperioden (SUS) - Hur tar jag fram statistik för SUS i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf.md" class="article-link" target="_blank">
+                        Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vad-kan-smartdetect-varna-for-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        Vad kan SmartDetect varna för i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/var-kan-jag-se-en-medarbetares-franvaro-som-beraknats-i-hrm-payroll.md" class="article-link" target="_blank">
+                        Var kan jag se en medarbetares frånvaro som beräknats i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/var-kan-jag-se-vilka-poster-som-var-med-i-overforingen-till-lonekorningen-fran-h.md" class="article-link" target="_blank">
+                        Var kan jag se vilka poster som var med i överföringen till lönekörningen från HRM Time, HRM Travel eller en importerad fil?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/var-kan-jag-se-vilka-poster-som-var-med-i-overforingen-till-lonekorningen-fran-hrm-time-hrm-travel-e.md" class="article-link" target="_blank">
+                        Var kan jag se vilka poster som var med i överföringen till lönekörningen från HRM Time, HRM Travel eller en importerad fil?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning.md" class="article-link" target="_blank">
+                        Varför räknas engångsskatten om vid lönekörningens avräkning?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbet.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar behöver jag för att kunna skicka arbetsgivarintyg till Arbetsgivarintyg.nu?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar behöver jag för att kunna skicka arbetsgivarintyg till Arbetsgivarintyg.nu?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestr.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs för att jag ska kunna rapportera statistik för Lönestrukturstatistik för privat sektor (SLP) i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestrukturstatistik-for-p.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs för att jag ska kunna rapportera statistik för Lönestrukturstatistik för privat sektor (SLP) i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-p.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs för att man ska kunna använda SmartDetect i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs för att man ska kunna använda SmartDetect i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs för att rapportera månadsvis till Fora i HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-installningar-kravs-for-gora-arsvis-rapportering-till-fora-i-flex-hrm-payr.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs för göra årsvis rapportering till Fora i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-installningar-kravs-for-gora-arsvis-rapportering-till-fora-i-flex-hrm-payroll.md" class="article-link" target="_blank">
+                        ⚙️Vilka inställningar krävs för göra årsvis rapportering till Fora i Flex HRM Payroll?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl-akap-kr.md" class="article-link" target="_blank">
+                        Vilka uppgifter kommer med i rapporteringen till KPA (KAP-KL/AKAP-KR)?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-st.md" class="article-link" target="_blank">
+                        Vilka uppgifter kommer med i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) och hur beräknas dem?
+                    </a>
+                </li>
+                <li class="article-item">
+                    <a href="documentation/payroll/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-struktur-lcs-och-hur-b.md" class="article-link" target="_blank">
+                        Vilka uppgifter kommer med i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) och hur beräknas dem?
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
