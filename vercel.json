@@ -1,16 +1,12 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/systemgemensamt", "destination": "/systemgemensamt.html" },
+    { "source": "/time", "destination": "/time.html" },
+    { "source": "/employee", "destination": "/employee.html" },
+    { "source": "/travel-expense", "destination": "/travel-expense.html" },
+    { "source": "/payroll", "destination": "/payroll.html" },
+    { "source": "/plan", "destination": "/plan.html" }
   ]
 }
-
