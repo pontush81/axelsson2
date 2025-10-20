@@ -38,6 +38,40 @@
         .subtitle {
             font-size: 1.2rem;
             opacity: 0.9;
+            margin-bottom: 30px;
+        }
+
+        .download-section {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 30px;
+        }
+
+        .download-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: white;
+            color: #667eea;
+            padding: 15px 30px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .download-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .download-btn svg {
+            width: 24px;
+            height: 24px;
         }
 
         .stats {
@@ -80,12 +114,6 @@
             border-radius: 20px;
             padding: 30px;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-
-        .category-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.3);
         }
 
         .category-header {
@@ -111,61 +139,10 @@
             font-weight: 600;
         }
 
-        .article-list {
-            max-height: 400px;
-            overflow-y: auto;
-            padding-right: 10px;
-        }
-
-        .article-list::-webkit-scrollbar {
-            width: 6px;
-        }
-
-        .article-list::-webkit-scrollbar-track {
-            background: #f0f0f0;
-            border-radius: 10px;
-        }
-
-        .article-list::-webkit-scrollbar-thumb {
-            background: #667eea;
-            border-radius: 10px;
-        }
-
-        .article-item {
-            padding: 12px;
-            margin-bottom: 8px;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: background 0.2s ease;
-            color: #555;
-            font-size: 0.95rem;
-        }
-
-        .article-item:hover {
-            background: #f5f5ff;
-            color: #667eea;
-        }
-
-        .search-container {
-            margin-bottom: 30px;
-            background: white;
-            padding: 20px;
-            border-radius: 15px;
-            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
-        }
-
-        .search-box {
-            width: 100%;
-            padding: 15px 20px;
-            font-size: 1.1rem;
-            border: 2px solid #e0e0e0;
-            border-radius: 10px;
-            outline: none;
-            transition: border-color 0.3s ease;
-        }
-
-        .search-box:focus {
-            border-color: #667eea;
+        .category-description {
+            color: #666;
+            line-height: 1.6;
+            margin-top: 10px;
         }
 
         footer {
@@ -175,11 +152,27 @@
             opacity: 0.8;
         }
 
-        .loading {
-            text-align: center;
+        footer a {
             color: white;
-            font-size: 1.2rem;
-            padding: 50px;
+            text-decoration: underline;
+        }
+
+        .info-box {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .info-box h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+
+        .info-box p {
+            color: #555;
+            line-height: 1.6;
         }
     </style>
 </head>
@@ -188,11 +181,27 @@
         <header>
             <h1>📚 Flex HRM Dokumentation</h1>
             <p class="subtitle">Komplett dokumentation från knowledge.flexapplications.se</p>
+            
+            <div class="download-section">
+                <a href="alla_artiklar.csv" download class="download-btn">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                    </svg>
+                    Ladda ner CSV (1.2 MB)
+                </a>
+                
+                <a href="alla_artiklar.md" download class="download-btn">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                    </svg>
+                    Ladda ner Markdown (1.2 MB)
+                </a>
+            </div>
         </header>
 
         <div class="stats">
             <div class="stat-card">
-                <div class="stat-number" id="total-articles">350</div>
+                <div class="stat-number">350</div>
                 <div class="stat-label">Artiklar</div>
             </div>
             <div class="stat-card">
@@ -200,105 +209,87 @@
                 <div class="stat-label">Kategorier</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number" id="total-words">46,787</div>
+                <div class="stat-number">46,787</div>
                 <div class="stat-label">Ord</div>
             </div>
         </div>
 
-        <div class="search-container">
-            <input type="text" class="search-box" id="search" placeholder="🔍 Sök i alla artiklar...">
+        <div class="info-box">
+            <h2>📥 Om nedladdningarna</h2>
+            <p><strong>CSV-filen (1.2 MB):</strong> Innehåller alla artiklar i tabellformat med kolumner för Kategori, Titel, Datum, URL och Innehåll. Perfekt för Excel, Google Sheets eller dataanalys.</p>
+            <br>
+            <p><strong>Markdown-filen (1.2 MB):</strong> En stor textfil med alla artiklar formaterade som markdown. Perfekt för läsning, sökning (Cmd/Ctrl+F) eller konvertering till PDF/Word.</p>
         </div>
 
-        <div class="categories" id="categories">
-            <div class="loading">Laddar artiklar...</div>
+        <div class="categories">
+            <div class="category-card">
+                <div class="category-header">
+                    <div class="category-title">Systemgemensamt</div>
+                    <div class="category-count">56 artiklar</div>
+                </div>
+                <p class="category-description">
+                    Frågor och svar som rör de gemensamma delarna i Flex HRM, användare och andra systeminställningar som inte görs per modul.
+                </p>
+            </div>
+
+            <div class="category-card">
+                <div class="category-header">
+                    <div class="category-title">Time</div>
+                    <div class="category-count">119 artiklar</div>
+                </div>
+                <p class="category-description">
+                    Frågor och svar som rör HRM Time - tidrapportering, schema, frånvaro, stämpling och överföring till lön.
+                </p>
+            </div>
+
+            <div class="category-card">
+                <div class="category-header">
+                    <div class="category-title">Employee</div>
+                    <div class="category-count">55 artiklar</div>
+                </div>
+                <p class="category-description">
+                    Frågor och svar som rör HRM Employee - anställningar, dokument, medarbetarsamtal, kompetens och onboarding.
+                </p>
+            </div>
+
+            <div class="category-card">
+                <div class="category-header">
+                    <div class="category-title">Travel & Expense</div>
+                    <div class="category-count">29 artiklar</div>
+                </div>
+                <p class="category-description">
+                    Frågor och svar som rör HRM Travel & Expense - reseräkningar, traktamente, bilresor och utlägg.
+                </p>
+            </div>
+
+            <div class="category-card">
+                <div class="category-header">
+                    <div class="category-title">Payroll</div>
+                    <div class="category-count">87 artiklar</div>
+                </div>
+                <p class="category-description">
+                    Frågor och svar som rör HRM Payroll - löneberedning, bokföring, AGI, pension och semester.
+                </p>
+            </div>
+
+            <div class="category-card">
+                <div class="category-header">
+                    <div class="category-title">Plan</div>
+                    <div class="category-count">4 artiklar</div>
+                </div>
+                <p class="category-description">
+                    Frågor och svar som rör HRM Plan - schemaläggning och prenumeration på schema.
+                </p>
+            </div>
         </div>
 
         <footer>
-            <p>Skrapad från <a href="https://knowledge.flexapplications.se/" style="color: white;">knowledge.flexapplications.se</a></p>
+            <p>Skrapad från <a href="https://knowledge.flexapplications.se/" target="_blank">knowledge.flexapplications.se</a></p>
             <p style="margin-top: 10px; font-size: 0.9rem;">Uppdaterad: Oktober 2025</p>
+            <p style="margin-top: 20px; font-size: 0.9rem;">
+                GitHub: <a href="https://github.com/pontush81/axelsson2" target="_blank">pontush81/axelsson2</a>
+            </p>
         </footer>
     </div>
-
-    <script>
-        const categories = {
-            'systemgemensamt': { name: 'Systemgemensamt', count: 56 },
-            'time': { name: 'Time', count: 119 },
-            'employee': { name: 'Employee', count: 55 },
-            'travel-expense': { name: 'Travel & Expense', count: 29 },
-            'payroll': { name: 'Payroll', count: 87 },
-            'plan': { name: 'Plan', count: 4 }
-        };
-
-        let allArticles = [];
-
-        // Ladda artiklar från dokumentationsmappen
-        async function loadArticles() {
-            const categoriesContainer = document.getElementById('categories');
-            categoriesContainer.innerHTML = '';
-
-            for (const [folder, info] of Object.entries(categories)) {
-                const categoryDiv = document.createElement('div');
-                categoryDiv.className = 'category-card';
-                
-                categoryDiv.innerHTML = `
-                    <div class="category-header">
-                        <div class="category-title">${info.name}</div>
-                        <div class="category-count">${info.count} artiklar</div>
-                    </div>
-                    <div class="article-list" id="${folder}-list">
-                        <div style="color: #999;">Laddar...</div>
-                    </div>
-                `;
-                
-                categoriesContainer.appendChild(categoryDiv);
-
-                // Ladda artiklar för denna kategori
-                try {
-                    const response = await fetch(`documentation/${folder}/index.json`);
-                    const articles = await response.json();
-                    
-                    const listDiv = document.getElementById(`${folder}-list`);
-                    listDiv.innerHTML = '';
-                    
-                    articles.forEach(article => {
-                        const articleDiv = document.createElement('div');
-                        articleDiv.className = 'article-item';
-                        articleDiv.textContent = article.title;
-                        articleDiv.onclick = () => window.open(`documentation/${folder}/${article.file}`, '_blank');
-                        listDiv.appendChild(articleDiv);
-                        
-                        allArticles.push({
-                            title: article.title,
-                            category: info.name,
-                            folder: folder,
-                            file: article.file
-                        });
-                    });
-                } catch (err) {
-                    console.error(`Kunde inte ladda artiklar från ${folder}:`, err);
-                    document.getElementById(`${folder}-list`).innerHTML = 
-                        '<div style="color: #999;">Inga artiklar hittades</div>';
-                }
-            }
-        }
-
-        // Sökfunktion
-        document.getElementById('search').addEventListener('input', (e) => {
-            const searchTerm = e.target.value.toLowerCase();
-            
-            document.querySelectorAll('.article-item').forEach(item => {
-                const text = item.textContent.toLowerCase();
-                if (text.includes(searchTerm)) {
-                    item.style.display = 'block';
-                } else {
-                    item.style.display = 'none';
-                }
-            });
-        });
-
-        // Ladda artiklar när sidan laddas
-        loadArticles();
-    </script>
 </body>
 </html>
-
