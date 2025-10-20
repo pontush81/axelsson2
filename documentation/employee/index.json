@@ -1,0 +1,112 @@
+[
+  {"title": "Anställd ingår i aktiv Lönerevision", "file": "anstalld-ingar-i-aktiv-lonerevision.md"}
+,
+  {"title": "Anställningsmall - Hur skapar jag ett effektivt anställningsflöde?", "file": "anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode.md"}
+,
+  {"title": "Använd organisationsöversikten i HRM Employee", "file": "anvand-organisationsoversikten-i-hrm-employee.md"}
+,
+  {"title": "Arbeta med årets Lönerevision", "file": "arbeta-med-arets-lonerevision.md"}
+,
+  {"title": "Digital signering - Hur använder jag e-signering via Scrive i HRM?", "file": "digital-signering-hur-anvander-jag-e-signering-via-scrive-i-hrm.md"}
+,
+  {"title": "Digital signering - Hur använder jag e-signering via Verified i HRM?", "file": "digital-signering-hur-anvander-jag-e-signering-via-verified-i-hrm.md"}
+,
+  {"title": "Digitala checklistor - Hur skapar jag ett uppdrag i HRM?", "file": "digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm.md"}
+,
+  {"title": "Exempel på egna fält i HRM Employee", "file": "exempel-pa-egna-falt-i-hrm-employee.md"}
+,
+  {"title": "Exempel på Winningtemp-paneler i HRM Dashboard", "file": "exempel-pa-winningtemp-paneler-i-hrm-dashboard.md"}
+,
+  {"title": "Frågor och svar - Winningtemp & HRM", "file": "fragor-och-svar-winningtemp-hrm.md"}
+,
+  {"title": "Hur aktiverar jag e-signering via Scrive i HRM?", "file": "hur-aktiverar-jag-e-signering-via-scrive-i-hrm.md"}
+,
+  {"title": "Hur aktiverar jag e-signering via Verified i HRM?", "file": "hur-aktiverar-jag-e-signering-via-verified-i-hrm.md"}
+,
+  {"title": "Hur fungerar anonymisera anställda i HRM?", "file": "hur-fungerar-anonymisera-anstallda-i-hrm.md"}
+,
+  {"title": "Hur fungerar Dokumentkategorier i HRM Employee?", "file": "hur-fungerar-dokumentkategorier-i-hrm-employee.md"}
+,
+  {"title": "Hur fungerar gallring/rensning av personuppgifter i HRM?", "file": "hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm.md"}
+,
+  {"title": "Hur hanterar HRM Employee offboarding av anställda?", "file": "hur-hanterar-hrm-employee-offboarding-av-anstallda.md"}
+,
+  {"title": "Hur hanterar jag anställda med skyddad folkbokföring?", "file": "hur-hanterar-jag-anstallda-med-skyddad-folkbokforing.md"}
+,
+  {"title": "Hur hanterar jag uppgifter och uppdrag i HRM?", "file": "hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm.md"}
+,
+  {"title": "Hur hanterar man dokument för anställda i HRM Employee?", "file": "hur-hanterar-man-dokument-for-anstallda-i-hrm-employee.md"}
+,
+  {"title": "Hur integrerar jag Teamtailor med HRM?", "file": "hur-integrerar-jag-teamtailor-med-hrm.md"}
+,
+  {"title": "Hur lägger jag upp ett dokument på startsidan i HRM?", "file": "hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm.md"}
+,
+  {"title": "Hur registrerar man personaldata och anställningsuppgifter i HRM Employee?", "file": "hur-registrerar-man-personaldata-och-anstallningsuppgifter-i-hrm-employee.md"}
+,
+  {"title": "Hur skapar jag Egna flikar och fält i HRM Employee?", "file": "hur-skapar-jag-egna-flikar-och-falt-i-hrm-employee.md"}
+,
+  {"title": "Hur skapar jag ett organisationsträd i HRM Employee?", "file": "hur-skapar-jag-ett-organisationstrad-i-hrm-employee.md"}
+,
+  {"title": "Hur skapar jag HR-blanketter för CV i HRM Employee?", "file": "hur-skapar-jag-hr-blanketter-for-cv-i-hrm-employee.md"}
+,
+  {"title": "Hur skapar jag HR-blanketter för startsidan i HRM Employee?", "file": "hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee.md"}
+,
+  {"title": "Hur skapar jag HR-blanketter i HRM Employee?", "file": "hur-skapar-jag-hr-blanketter-i-hrm-employee.md"}
+,
+  {"title": "Hur skickar jag en HR-blankett för e-signering i HRM Employee?", "file": "hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee.md"}
+,
+  {"title": "Hur startar jag nya uppgifter och uppdrag i HRM?", "file": "hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm.md"}
+,
+  {"title": "Hur tar jag bort en anställd?", "file": "hur-tar-jag-bort-en-anstalld.md"}
+,
+  {"title": "Hur tar jag bort en anställningsperiod?", "file": "hur-tar-jag-bort-en-anstallningsperiod.md"}
+,
+  {"title": "Hur tar jag fram ett CV för en anställd i HRM Employee?", "file": "hur-tar-jag-fram-ett-cv-for-en-anstalld-i-hrm-employee.md"}
+,
+  {"title": "Hur verkställer jag årets Lönerevision?", "file": "hur-verkstaller-jag-arets-lonerevision.md"}
+,
+  {"title": "Integration till BKY - Hur kopplar jag BKY och HRM?", "file": "integration-till-bky-hur-kopplar-jag-bky-och-hrm.md"}
+,
+  {"title": "Kan jag exportera årets Lönerevision till en Excell-fil?", "file": "kan-jag-exportera-arets-lonerevision-till-en-excell-fil.md"}
+,
+  {"title": "Kan jag få en notis när ett nytt dokument läggs upp i HRM?", "file": "kan-jag-fa-en-notis-nar-ett-nytt-dokument-laggs-upp-i-hrm.md"}
+,
+  {"title": "Kom igång med Lönerevision i HRM", "file": "kom-igang-med-lonerevision-i-hrm.md"}
+,
+  {"title": "Kompetenshantering i HRM - Hur skapar jag nya kompetenser?", "file": "kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser.md"}
+,
+  {"title": "Kopiera anställd mellan bolag – smartare personalhantering för hela koncernen", "file": "kopiera-anstalld-mellan-bolag-smartare-personalhantering-for-hela-koncernen.md"}
+,
+  {"title": "Kurshantering i HRM - Hur skapar jag nya kurser?", "file": "kurshantering-i-hrm-hur-skapar-jag-nya-kurser.md"}
+,
+  {"title": "LAS - Beräkningsdetaljer fördjupning", "file": "las-berakningsdetaljer-fordjupning.md"}
+,
+  {"title": "LAS - Inställningar och beräkningsdetaljer", "file": "las-installningar-och-berakningsdetaljer.md"}
+,
+  {"title": "Ny anställning? - Så hanterar HRM Employee onboarding av anställda", "file": "ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda.md"}
+,
+  {"title": "Nyanställning - Hur skapar jag ett effektivt anställningsflöde?", "file": "nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode.md"}
+,
+  {"title": "Överför Lönerevision till Flex Classic Lön", "file": "overfor-lonerevision-till-flex-classic-lon.md"}
+,
+  {"title": "Performance managemant - Hur genomför jag ett medarbetarsamtal i HRM Employee?", "file": "performance-managemant-hur-genomfor-jag-ett-medarbetarsamtal-i-hrm-employee.md"}
+,
+  {"title": "Performance managemant - Hur skapar jag samtalsmallar för medarbetarsamtal i HRM Employee?", "file": "performance-managemant-hur-skapar-jag-samtalsmallar-for-medarbetarsamtal-i-hrm-e.md"}
+,
+  {"title": "Performance managemant - Hur skapar jag samtalsmallar för medarbetarsamtal i HRM Employee?", "file": "performance-managemant-hur-skapar-jag-samtalsmallar-for-medarbetarsamtal-i-hrm-employee.md"}
+,
+  {"title": "Så får du full överblick över vilka kompetenser dina anställda har – och saknar?", "file": "sa-far-du-full-overblick-over-vilka-kompetenser-dina-anstallda-har-och-saknar.md"}
+,
+  {"title": "Så här fungerar Närmaste chef i HRM Employee", "file": "sa-har-fungerar-narmaste-chef-i-hrm-employee.md"}
+,
+  {"title": "Skapa Dashboard i HRM med Winningtemp-paneler", "file": "skapa-dashboard-i-hrm-med-winningtemp-paneler.md"}
+,
+  {"title": "Skapa en lönerevision", "file": "skapa-en-lonerevision.md"}
+,
+  {"title": "Skapa potter i en lönerevision", "file": "skapa-potter-i-en-lonerevision.md"}
+,
+  {"title": "Starta Lönerevision", "file": "starta-lonerevision.md"}
+,
+  {"title": "Valbara kolumner i Lönerevision", "file": "valbara-kolumner-i-lonerevision.md"}
+
+]

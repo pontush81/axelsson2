@@ -1,0 +1,60 @@
+[
+  {"title": "Hur aktiverar jag funktionen Fakturering i HRM Travel?", "file": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-travel.md"}
+,
+  {"title": "Hur aktiverar vi möjligheten för anställda att importera körjournaler till HRM Travel?", "file": "hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-t.md"}
+,
+  {"title": "Hur aktiverar vi möjligheten för anställda att importera körjournaler till HRM Travel?", "file": "hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel.md"}
+,
+  {"title": "Hur används funktionen "Frisläpp till fakturering i Flex HRM Travel?", "file": "hur-anvands-funktionen-frislapp-till-fakturering-i-flex-hrm-travel.md"}
+,
+  {"title": "Hur exporterar jag en reseräkningsspecifikation?", "file": "hur-exporterar-jag-en-reserakningsspecifikation.md"}
+,
+  {"title": "Hur fakturerar jag en reseräkning?", "file": "hur-fakturerar-jag-en-reserakning.md"}
+,
+  {"title": "Hur fungerar funktionen "Redigering av fakturaunderlag"?", "file": "hur-fungerar-funktionen-redigering-av-fakturaunderlag.md"}
+,
+  {"title": "Hur granskar och attesterar jag en reseräkning?", "file": "hur-granskar-och-attesterar-jag-en-reserakning.md"}
+,
+  {"title": "Hur importerar jag en körjournal från Volvo cars-appen till HRM Travel?", "file": "hur-importerar-jag-en-korjournal-fran-volvo-cars-appen-till-hrm-travel.md"}
+,
+  {"title": "Hur importerar jag en körjournal till en reseräkning i HRM Travel?", "file": "hur-importerar-jag-en-korjournal-till-en-reserakning-i-hrm-travel.md"}
+,
+  {"title": "Hur konfigurerar vi generella inställningar för reseräkningar i HRM Travel?", "file": "hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel.md"}
+,
+  {"title": "Hur rapporterar jag bilresor i HRM Travel?", "file": "hur-rapporterar-jag-bilresor-i-hrm-travel.md"}
+,
+  {"title": "Hur rapporterar jag traktamentsresor i HRM Travel?", "file": "hur-rapporterar-jag-traktamentsresor-i-hrm-travel.md"}
+,
+  {"title": "Hur rapporterar jag utlägg och representation i HRM Travel?", "file": "hur-rapporterar-jag-utlagg-och-representation-i-hrm-travel.md"}
+,
+  {"title": "Hur registrerar jag bilresor med drivmedelsförmån i körjournalen samt anger utgående mätarställning i månadens slut?", "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utga.md"}
+,
+  {"title": "Hur registrerar jag bilresor med drivmedelsförmån i körjournalen samt anger utgående mätarställning i månadens slut?", "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-.md"}
+,
+  {"title": "Hur registrerar jag bilresor med drivmedelsförmån i reseräkningsvyn samt anger utgående mätarställning i månadens slut?", "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-u.md"}
+,
+  {"title": "Hur registrerar jag bilresor med drivmedelsförmån i reseräkningsvyn samt anger utgående mätarställning i månadens slut?", "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni.md"}
+,
+  {"title": "Hur registrerar jag en kontokortstransaktion?", "file": "hur-registrerar-jag-en-kontokortstransaktion.md"}
+,
+  {"title": "Hur registrerar jag en reseräkning i HRM Travel?", "file": "hur-registrerar-jag-en-reserakning-i-hrm-travel.md"}
+,
+  {"title": "Hur registrerar jag reseräkningar i HRM Mobile?", "file": "hur-registrerar-jag-reserakningar-i-hrm-mobile.md"}
+,
+  {"title": "Hur sätter jag upp en importmall av körjournal för filer från Volvo cars-appen?", "file": "hur-satter-jag-upp-en-importmall-av-korjournal-for-filer-fran-volvo-cars-appen.md"}
+,
+  {"title": "Hur sätter vi upp en utläggskod för hyrbilar där vi har rätt att dra av 50% av momsbeloppet?", "file": "hur-satter-vi-upp-en-utlaggskod-for-hyrbilar-dar-vi-har-ratt-att-dra-av-50-av-mo.md"}
+,
+  {"title": "Hur sätter vi upp en utläggskod för hyrbilar där vi har rätt att dra av 50% av momsbeloppet?", "file": "hur-satter-vi-upp-en-utlaggskod-for-hyrbilar-dar-vi-har-ratt-att-dra-av-50-av-momsbeloppet.md"}
+,
+  {"title": "Utlägg och representation - Var redigerar man de olika inställningarna för utlägg och representation?", "file": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-.md"}
+,
+  {"title": "Utlägg och representation - Var redigerar man de olika inställningarna för utlägg och representation?", "file": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation.md"}
+,
+  {"title": "Vad behöver vi tänka på inför årsskiftet i HRM Travel?", "file": "vad-behover-vi-tanka-pa-infor-arsskiftet-i-hrm-travel.md"}
+,
+  {"title": "Vad betyder de olika alternativen i inställningarna i Restid?", "file": "vad-betyder-de-olika-alternativen-i-installningarna-i-restid.md"}
+,
+  {"title": "Var och hur hanterar vi inställningarna för bilresor?", "file": "var-och-hur-hanterar-vi-installningarna-for-bilresor.md"}
+
+]

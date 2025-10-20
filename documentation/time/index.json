@@ -1,0 +1,240 @@
+[
+  {"title": "Avvikelsedagar - Hur ställer man in schema för avvikande dagar?", "file": "avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar.md"}
+,
+  {"title": "Begrepp i HRM Time - Vad betyder de olika begreppen i HRM Time?", "file": "begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time.md"}
+,
+  {"title": "Dagredovisning - Hur registrerar man närvaro, frånvaro och övertid för en dag?", "file": "dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag.md"}
+,
+  {"title": "Ersättningar - Hur hanterar man ej timbaserade ersättningar i HRM Time?", "file": "ersattningar-hur-hanterar-man-ej-timbaserade-ersattningar-i-hrm-time.md"}
+,
+  {"title": "Frånvaro - Hur ansöker och rapporterar jag frånvaro i mobilen?", "file": "franvaro-hur-ansoker-och-rapporterar-jag-franvaro-i-mobilen.md"}
+,
+  {"title": "Frånvaroorsaker i tidrapporten - Vad är en frånvaroorsak?", "file": "franvaroorsaker-i-tidrapporten-vad-ar-en-franvaroorsak.md"}
+,
+  {"title": "Frånvarostatistik - Vad betyder Ta endast med frånvaroperioder längre/kortare än?", "file": "franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an.md"}
+,
+  {"title": "Går det att behörighetsstyra en stämpelklocka?", "file": "gar-det-att-behorighetsstyra-en-stampelklocka.md"}
+,
+  {"title": "HRM Time: Vad är Generella händelseformler?", "file": "hrm-time-vad-ar-generella-handelseformler.md"}
+,
+  {"title": "Hur aktiverar jag funktionen "Fakturering" i HRM Time?", "file": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-time.md"}
+,
+  {"title": "Hur ändrar jag bakgrundsbild i stämpelklockan?", "file": "hur-andrar-jag-bakgrundsbild-i-stampelklockan.md"}
+,
+  {"title": "Hur ändrar jag knapparna i stämpelklockan?", "file": "hur-andrar-jag-knapparna-i-stampelklockan.md"}
+,
+  {"title": "Hur använder jag Min kalender på startsidan?", "file": "hur-anvander-jag-min-kalender-pa-startsidan.md"}
+,
+  {"title": "Hur använder man Händelser i HRM Time?", "file": "hur-anvander-man-handelser-i-hrm-time.md"}
+,
+  {"title": "Hur används Favoriter i Ersättningar?", "file": "hur-anvands-favoriter-i-ersattningar.md"}
+,
+  {"title": "Hur används funktionen Frisläpp till fakturering i HRM Time?", "file": "hur-anvands-funktionen-frislapp-till-fakturering-i-hrm-time.md"}
+,
+  {"title": "Hur arbetar man med delattestering i HRM Time?", "file": "hur-arbetar-man-med-delattestering-i-hrm-time.md"}
+,
+  {"title": "Hur attesterar man en tidrapport?", "file": "hur-attesterar-man-en-tidrapport.md"}
+,
+  {"title": "Hur fungerar avvikelserapportering?", "file": "hur-fungerar-avvikelserapportering.md"}
+,
+  {"title": "Hur fungerar beredskapsregelverk?", "file": "hur-fungerar-beredskapsregelverk.md"}
+,
+  {"title": "Hur fungerar Faktureringslogiken i HRM Time?", "file": "hur-fungerar-faktureringslogiken-i-hrm-time.md"}
+,
+  {"title": "Hur fungerar fasta saldojusteringar?", "file": "hur-fungerar-fasta-saldojusteringar.md"}
+,
+  {"title": "Hur fungerar Favoriter i periodredovisningen?", "file": "hur-fungerar-favoriter-i-periodredovisningen.md"}
+,
+  {"title": "Hur fungerar Närvarotablån på startsidan?", "file": "hur-fungerar-narvarotablan-pa-startsidan.md"}
+,
+  {"title": "Hur fungerar OB-regelverk?", "file": "hur-fungerar-ob-regelverk.md"}
+,
+  {"title": "Hur fungerar övertidsregelverk?", "file": "hur-fungerar-overtidsregelverk.md"}
+,
+  {"title": "Hur fungerar panelen Övertidsbevakning?", "file": "hur-fungerar-panelen-overtidsbevakning.md"}
+,
+  {"title": "Hur fungerar rapporten Projektuppföljning?", "file": "hur-fungerar-rapporten-projektuppfoljning.md"}
+,
+  {"title": "Hur fungerar stämplingsterminalen?", "file": "hur-fungerar-stamplingsterminalen.md"}
+,
+  {"title": "Hur gör man för att avslå tidrapporter?", "file": "hur-gor-man-for-att-avsla-tidrapporter.md"}
+,
+  {"title": "Hur granskar man sin tidrapport?", "file": "hur-granskar-man-sin-tidrapport.md"}
+,
+  {"title": "Hur hanterar man karensavdrag i HRM Time?", "file": "hur-hanterar-man-karensavdrag-i-hrm-time.md"}
+,
+  {"title": "Hur hanteras "manuella schemaändringar" vid skapandet av ett deltidsfrånvaroschema?", "file": "hur-hanteras-manuella-schemaandringar-vid-skapandet-av-ett-deltidsfranvaroschema.md"}
+,
+  {"title": "Hur importerar man ett schema till HRM Time?", "file": "hur-importerar-man-ett-schema-till-hrm-time.md"}
+,
+  {"title": "Hur justerar man avvikande dagar i regelverk i HRM Time?", "file": "hur-justerar-man-avvikande-dagar-i-regelverk-i-hrm-time.md"}
+,
+  {"title": "Hur kan jag i HRM Time få en bra överblick över de anställdas frånvaro under semestern?", "file": "hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-sem.md"}
+,
+  {"title": "Hur kan jag i HRM Time få en bra överblick över de anställdas frånvaro under semestern?", "file": "hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-semestern.md"}
+,
+  {"title": "Hur kan man kontera tiden i HRM Time?", "file": "hur-kan-man-kontera-tiden-i-hrm-time.md"}
+,
+  {"title": "Hur överför man tidrapporter till lön?", "file": "hur-overfor-man-tidrapporter-till-lon.md"}
+,
+  {"title": "Hur registrerar jag deltidsfrånvaro i HRM Time?", "file": "hur-registrerar-jag-deltidsfranvaro-i-hrm-time.md"}
+,
+  {"title": "Hur registrerar man två samtidiga deltidsfrånvaro?", "file": "hur-registrerar-man-tva-samtidiga-deltidsfranvaro.md"}
+,
+  {"title": "Hur skapar man ett personligt schema?", "file": "hur-skapar-man-ett-personligt-schema.md"}
+,
+  {"title": "Hur skapar man ett publikt schema?", "file": "hur-skapar-man-ett-publikt-schema.md"}
+,
+  {"title": "Hur ställer jag in regler för sjuk-OB?", "file": "hur-staller-jag-in-regler-for-sjuk-ob.md"}
+,
+  {"title": "Hur ställer man in att Ersättningar ska kunna stämplas i HRM Timeclock?", "file": "hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock.md"}
+,
+  {"title": "Hur ställer man in automatisk beräkning av heltidsmått vid en deltidsfrånvaro?", "file": "hur-staller-man-in-automatisk-berakning-av-heltidsmatt-vid-en-deltidsfranvaro.md"}
+,
+  {"title": "Hur ställer man in ett dagschema?", "file": "hur-staller-man-in-ett-dagschema.md"}
+,
+  {"title": "Hur ställer man in saldon?", "file": "hur-staller-man-in-saldon.md"}
+,
+  {"title": "Hur ställer man in tidkoder?", "file": "hur-staller-man-in-tidkoder.md"}
+,
+  {"title": "Hur ställer man in Tidrapporten?", "file": "hur-staller-man-in-tidrapporten.md"}
+,
+  {"title": "Hur ställer man in visning av saldon i tidrapporten och stämplingsterminer?", "file": "hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminer.md"}
+,
+  {"title": "Hur ställer vi in övertidsbevakningen för tvåmånadersperioder?", "file": "hur-staller-vi-in-overtidsbevakningen-for-tvamanadersperioder.md"}
+,
+  {"title": "Hur stämplar jag direkt i tidrapporten?", "file": "hur-stamplar-jag-direkt-i-tidrapporten.md"}
+,
+  {"title": "Hur stämplar man sin tid i mobilen?", "file": "hur-stamplar-man-sin-tid-i-mobilen.md"}
+,
+  {"title": "Hur tar jag bort en tidrapport?", "file": "hur-tar-jag-bort-en-tidrapport.md"}
+,
+  {"title": "Hur tidrapporterar jag i mobilen?", "file": "hur-tidrapporterar-jag-i-mobilen.md"}
+,
+  {"title": "Hur tillåter man avslag av tidrapporter?", "file": "hur-tillater-man-avslag-av-tidrapporter.md"}
+,
+  {"title": "Hur visas beredskap i tidrapporten?", "file": "hur-visas-beredskap-i-tidrapporten.md"}
+,
+  {"title": "I vilken ordning körs händelser, saldotak/-golv och fasta saldojusteringar som påverkar samma saldon?", "file": "i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-pav.md"}
+,
+  {"title": "I vilken ordning körs händelser, saldotak/-golv och fasta saldojusteringar som påverkar samma saldon?", "file": "i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-paverkar-samma-saldon.md"}
+,
+  {"title": "Kan anställda få en påminnelse när deras semester är godkänd?", "file": "kan-anstallda-fa-en-paminnelse-nar-deras-semester-ar-godkand.md"}
+,
+  {"title": "Kan delattestbehörighet användas för frånvarogranskning?", "file": "kan-delattestbehorighet-anvandas-for-franvarogranskning.md"}
+,
+  {"title": "Kan HRM Time skicka en påminnelse när alla periodens tidrapporter är redo att överföras till lön?", "file": "kan-hrm-time-skicka-en-paminnelse-nar-alla-periodens-tidrapporter-ar-redo-att-ov.md"}
+,
+  {"title": "Kan HRM Time skicka en påminnelse när alla periodens tidrapporter är redo att överföras till lön?", "file": "kan-hrm-time-skicka-en-paminnelse-nar-alla-periodens-tidrapporter-ar-redo-att-overforas-till-lon.md"}
+,
+  {"title": "Kan jag ändra i en tidrapport som är granskad/överförd till lön?", "file": "kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon.md"}
+,
+  {"title": "Kan jag få en påminnelse vid sammanhängande sjukfrånvaro?", "file": "kan-jag-fa-en-paminnelse-vid-sammanhangande-sjukfranvaro.md"}
+,
+  {"title": "Kan jag få ett meddelande om en anställd inte stämplat in?", "file": "kan-jag-fa-ett-meddelande-om-en-anstalld-inte-stamplat-in.md"}
+,
+  {"title": "Kan jag se information om mitt schema i mobilen?", "file": "kan-jag-se-information-om-mitt-schema-i-mobilen.md"}
+,
+  {"title": "Kan jag se mina saldon i mobilen?", "file": "kan-jag-se-mina-saldon-i-mobilen.md"}
+,
+  {"title": "Kan jag ta ut information om frånvaro i rapportgeneratorn?", "file": "kan-jag-ta-ut-information-om-franvaro-i-rapportgeneratorn.md"}
+,
+  {"title": "Kan konteringar falla ut automatiskt i tidrapporten beroende på vilken stämplingsterminal man använder?", "file": "kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-pa-vilken-stampling.md"}
+,
+  {"title": "Kan konteringar falla ut automatiskt i tidrapporten beroende på vilken stämplingsterminal man använder?", "file": "kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-pa-vilken-stamplingsterminal-man-anvand.md"}
+,
+  {"title": "Kan konteringar från tidrapporten följa med till lönesystemet?", "file": "kan-konteringar-fran-tidrapporten-folja-med-till-lonesystemet.md"}
+,
+  {"title": "Kan man ändra ett schema direkt i tidrapporten?", "file": "kan-man-andra-ett-schema-direkt-i-tidrapporten.md"}
+,
+  {"title": "Kan man begränsa stämplingen i HRM Mobile via plats?", "file": "kan-man-begransa-stamplingen-i-hrm-mobile-via-plats.md"}
+,
+  {"title": "Kan man överföra saldovärden till lön?", "file": "kan-man-overfora-saldovarden-till-lon.md"}
+,
+  {"title": "Kan man skicka meddelanden i stämpelklockan?", "file": "kan-man-skicka-meddelanden-i-stampelklockan.md"}
+,
+  {"title": "Kan man ställa in så att användare endast ser vissa projekt i sin tidrapport?", "file": "kan-man-stalla-in-sa-att-anvandare-endast-ser-vissa-projekt-i-sin-tidrapport.md"}
+,
+  {"title": "Kan tidrapporten tillfälligt lägga ut ett annat kostnadsställe än mitt hemkostnadsställe?", "file": "kan-tidrapporten-tillfalligt-lagga-ut-ett-annat-kostnadsstalle-an-mitt-hemkostna.md"}
+,
+  {"title": "Kan tidrapporten tillfälligt lägga ut ett annat kostnadsställe än mitt hemkostnadsställe?", "file": "kan-tidrapporten-tillfalligt-lagga-ut-ett-annat-kostnadsstalle-an-mitt-hemkostnadsstalle.md"}
+,
+  {"title": "Kan tidrapporter granskas automatiskt?", "file": "kan-tidrapporter-granskas-automatiskt.md"}
+,
+  {"title": "Loggas stämplingar som görs i HRM Timeclock?", "file": "loggas-stamplingar-som-gors-i-hrm-timeclock.md"}
+,
+  {"title": "Omräkning av tidrapporter - Hur kan ändringar få genomslag i granskade tidrapporter?", "file": "omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporte.md"}
+,
+  {"title": "Omräkning av tidrapporter - Hur kan ändringar få genomslag i granskade tidrapporter?", "file": "omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporter.md"}
+,
+  {"title": "Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?", "file": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodred.md"}
+,
+  {"title": "Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?", "file": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare.md"}
+,
+  {"title": "Saldotak/-golv - Hur sätter man gränser för saldovärden?", "file": "saldotak-golv-hur-satter-man-granser-for-saldovarden.md"}
+,
+  {"title": "Spärr för saldo - Kan man spärra semesteransökningar om det inte finns tillräckligt många semesterdagar att ta ut?", "file": "sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillracklig.md"}
+,
+  {"title": "Spärr för saldo - Kan man spärra semesteransökningar om det inte finns tillräckligt många semesterdagar att ta ut?", "file": "sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillrackligt-manga-semesterdaga.md"}
+,
+  {"title": "Stämpla i HRM Mobile med hjälp av plats", "file": "stampla-i-hrm-mobile-med-hjalp-av-plats.md"}
+,
+  {"title": "Stämplingstolerans - Kan man avrunda stämplingar?", "file": "stamplingstolerans-kan-man-avrunda-stamplingar.md"}
+,
+  {"title": "Tidkodsavrundning - Varför avrundas rapporterad tid?", "file": "tidkodsavrundning-varfor-avrundas-rapporterad-tid.md"}
+,
+  {"title": "Tidrapport - Hur fungerar vyn Översikt?", "file": "tidrapport-hur-fungerar-vyn-oversikt.md"}
+,
+  {"title": "Vad är en tidgrupp?", "file": "vad-ar-en-tidgrupp.md"}
+,
+  {"title": "Vad är "Schematid uppnådd"?", "file": "vad-ar-schematid-uppnadd.md"}
+,
+  {"title": "Vad betyder schemastartdatum?", "file": "vad-betyder-schemastartdatum.md"}
+,
+  {"title": "Vad händer när stämpelklockan är offline?", "file": "vad-hander-nar-stampelklockan-ar-offline.md"}
+,
+  {"title": "Vad innebär inställningen "Ge kortare karensperiod vid deltidsfrånvaro"", "file": "vad-innebar-installningen-ge-kortare-karensperiod-vid-deltidsfranvaro.md"}
+,
+  {"title": "Vad innebär inställningen "Skicka deltidsfrånvaro dag för dag till lön" under inställningar för Frånvaroorsaker?", "file": "vad-innebar-installningen-skicka-deltidsfranvaro-dag-for-dag-till-lon-under-inst.md"}
+,
+  {"title": "Vad innebär inställningen "Skicka deltidsfrånvaro dag för dag till lön" under inställningar för Frånvaroorsaker?", "file": "vad-innebar-installningen-skicka-deltidsfranvaro-dag-for-dag-till-lon-under-installningar-for-franva.md"}
+,
+  {"title": "Vad markeras som avvikelse i tidrapporten?", "file": "vad-markeras-som-avvikelse-i-tidrapporten.md"}
+,
+  {"title": "Varför faller sjuk-OB ut efter dag 14?", "file": "varfor-faller-sjuk-ob-ut-efter-dag-14.md"}
+,
+  {"title": "Varför har jag ospecad tid i min tidrapport?", "file": "varfor-har-jag-ospecad-tid-i-min-tidrapport.md"}
+,
+  {"title": "Varför har klockslagen i tidrapporten olika färger?", "file": "varfor-har-klockslagen-i-tidrapporten-olika-farger.md"}
+,
+  {"title": "Varför spärras min frånvaroansökan trots att det finns tillräckligt mycket i det utgående saldot?", "file": "varfor-sparras-min-franvaroansokan-trots-att-det-finns-tillrackligt-mycket-i-det-utgaende-saldot.md"}
+,
+  {"title": "Varför spärras min frånvaroansökan trots att det finns tillräckligt mycket i det utgående saldot?", "file": "varfor-sparras-min-franvaroansokan-trots-att-det-finns-tillrackligt-mycket-i-det.md"}
+,
+  {"title": "Varför visas ett framtida saldo i frånvarohanteraren?", "file": "varfor-visas-ett-framtida-saldo-i-franvarohanteraren.md"}
+,
+  {"title": "Vilka funktioner i HRM Time fungerar med modulen Koncern?", "file": "vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern.md"}
+,
+  {"title": "Vilka inställningar behöver göras för övertidsbevakning?", "file": "vilka-installningar-behover-goras-for-overtidsbevakning.md"}
+,
+  {"title": "Vilka inställningar i HRM krävs det för att en registrerad deltidsfrånvaro i HRM Time ska blir korrekt i HRM Payroll?", "file": "vilka-installningar-i-hrm-kravs-det-for-att-en-registrerad-deltidsfranvaro-i-hrm-time-ska-blir-korre.md"}
+,
+  {"title": "Vilka inställningar i HRM krävs det för att en registrerad deltidsfrånvaro i HRM Time ska blir korrekt i HRM Payroll?", "file": "vilka-installningar-i-hrm-kravs-det-for-att-en-registrerad-deltidsfranvaro-i-hrm.md"}
+,
+  {"title": "Vilka inställningar kan göras för korrigering av tidrapport?", "file": "vilka-installningar-kan-goras-for-korrigering-av-tidrapport.md"}
+,
+  {"title": "Vilka inställningar krävs för att vi ska kunna använda tillfällig utlåning?", "file": "vilka-installningar-kravs-for-att-vi-ska-kunna-anvanda-tillfallig-utlaning.md"}
+,
+  {"title": "Vilka inställningar krävs för delattestering av tidrader?", "file": "vilka-installningar-kravs-for-delattestering-av-tidrader.md"}
+,
+  {"title": "Vilka inställningar krävs i HRM Time för visning av deltidsfrånvaro som en tidkod i tidrapporten?", "file": "vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidko.md"}
+,
+  {"title": "Vilka inställningar krävs i HRM Time för visning av deltidsfrånvaro som en tidkod i tidrapporten?", "file": "vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten.md"}
+,
+  {"title": "Vilka olika funktioner finns i tidrapporten?", "file": "vilka-olika-funktioner-finns-i-tidrapporten.md"}
+,
+  {"title": "Vilka rapporter kan man få ut på deltidsfrånvaro?", "file": "vilka-rapporter-kan-man-fa-ut-pa-deltidsfranvaro.md"}
+,
+  {"title": "Vilken frånvaro gäller när det finns överlappande frånvaroposter?", "file": "vilken-franvaro-galler-nar-det-finns-overlappande-franvaroposter.md"}
+
+]
