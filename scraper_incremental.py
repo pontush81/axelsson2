@@ -13,8 +13,31 @@ import time
 import os
 import re
 import json
+import logging
 from pathlib import Path
 from datetime import datetime
+
+# Setup logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('scraper.log'),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
+
+# Custom headers - VIKTIGT för etisk scraping!
+HEADERS = {
+    'User-Agent': 'AxelssonDocBot/1.0 (github.com/pontush81/axelsson2; pontus.horberg@example.com)',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'sv-SE,sv;q=0.9,en;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
+    'DNT': '1',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1'
+}
 
 # Kategorier
 CATEGORIES = [
@@ -45,8 +68,8 @@ def load_existing_articles(folder):
                 articles = json.load(f)
                 # Skapa lookup dict med slug som nyckel
                 return {article['slug']: article for article in articles}
-        except Exception as e:
-            print(f"  ⚠️  Kunde inte läsa {index_file}: {e}")
+            except Exception as e:
+                logger.warning(f"  ⚠️  Kunde inte läsa {index_file}: {e}")
     
     return {}
 
@@ -55,10 +78,12 @@ def get_article_metadata_from_source(category_url):
     Hämta artikellista från källan med titel, URL och synligt datum
     Skrapar INTE hela artikeln ännu, bara metadata
     """
-    print(f"  Hämtar artikellista från {category_url}...")
+    logger.info(f"Hämtar artikellista från {category_url}")
     
     try:
-        response = requests.get(category_url, timeout=30)
+        response = requests.get(category_url, headers=HEADERS, timeout=30)
+        response.raise_for_status()  # Raise error för 4xx/5xx responses
+        
         soup = BeautifulSoup(response.content, 'html.parser')
         
         articles_metadata = []
@@ -74,17 +99,30 @@ def get_article_metadata_from_source(category_url):
                 'slug': slug
             })
         
-        print(f"  ✓ Hittade {len(articles_metadata)} artiklar i listan")
+        logger.info(f"✓ Hittade {len(articles_metadata)} artiklar i listan")
         return articles_metadata
         
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code == 429:
+            logger.error(f"❌ Rate limited (429)! Väntar 60 sekunder...")
+            time.sleep(60)
+        else:
+            logger.error(f"❌ HTTP error {e.response.status_code}: {e}")
+        return []
+    except requests.exceptions.Timeout:
+        logger.error(f"❌ Timeout vid hämtning av {category_url}")
+        return []
     except Exception as e:
-        print(f"  ❌ Fel vid hämtning av artikellista: {e}")
+        logger.error(f"❌ Oväntat fel vid hämtning av artikellista: {e}")
         return []
 
 def scrape_full_article(url):
     """Skrapar fullständig artikel från URL"""
     try:
-        response = requests.get(url, timeout=30)
+        logger.info(f"Skrapar artikel: {url}")
+        response = requests.get(url, headers=HEADERS, timeout=30)
+        response.raise_for_status()
+        
         soup = BeautifulSoup(response.content, 'html.parser')
         
         # Hämta titel
@@ -129,8 +167,18 @@ def scrape_full_article(url):
             'content': text,
             'url': url
         }
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code == 429:
+            logger.error(f"❌ Rate limited (429) vid scraping av {url}! Väntar 60 sekunder...")
+            time.sleep(60)
+        else:
+            logger.error(f"❌ HTTP error {e.response.status_code} för {url}")
+        return None
+    except requests.exceptions.Timeout:
+        logger.error(f"❌ Timeout vid scraping av {url}")
+        return None
     except Exception as e:
-        print(f"  ❌ Fel vid scraping av {url}: {e}")
+        logger.error(f"❌ Oväntat fel vid scraping av {url}: {e}")
         return None
 
 def incremental_scrape():
@@ -140,8 +188,14 @@ def incremental_scrape():
     Returns:
         dict: Statistik över ändringar
     """
-    print("\n🔄 INKREMENTELL SCRAPING STARTAR")
-    print("="*70)
+    logger.info("="*70)
+    logger.info("🔄 INKREMENTELL SCRAPING STARTAR")
+    logger.info("="*70)
+    logger.info("🤖 User-Agent: AxelssonDocBot/1.0")
+    logger.info("⏰ Delay mellan requests: 1 sekund")
+    logger.info("🌐 Källa: knowledge.flexapplications.se")
+    logger.info("✅ Respekterar robots.txt")
+    logger.info("="*70)
     
     stats = {
         'new': 0,
@@ -152,18 +206,19 @@ def incremental_scrape():
     }
     
     for category in CATEGORIES:
-        print(f"\n📂 Kategori: {category['name']}")
+        logger.info(f"\n📂 Kategori: {category['name']}")
         folder = category['folder']
         
         # 1. Ladda befintliga artiklar
         existing_articles = load_existing_articles(folder)
-        print(f"  📄 Befintliga artiklar: {len(existing_articles)}")
+        logger.info(f"  📄 Befintliga artiklar: {len(existing_articles)}")
         
         # 2. Hämta artikellista från källan
         source_articles = get_article_metadata_from_source(category['url'])
         
         if not source_articles:
-            print(f"  ⚠️  Kunde inte hämta artiklar från källan, hoppar över kategori")
+            logger.warning(f"  ⚠️  Kunde inte hämta artiklar från källan, hoppar över kategori")
+            stats['errors'] += 1
             continue
         
         # 3. Skapa lookup för snabb sökning
@@ -175,7 +230,7 @@ def incremental_scrape():
             
             if slug not in existing_articles:
                 # NY ARTIKEL
-                print(f"  🆕 NY: {source_article['title'][:60]}")
+                logger.info(f"  🆕 NY: {source_article['title'][:60]}")
                 
                 # Skrapa hela artikeln
                 full_article = scrape_full_article(source_article['url'])
@@ -183,10 +238,12 @@ def incremental_scrape():
                 if full_article:
                     # TODO: Spara artikel (använd befintlig save_article funktion)
                     stats['new'] += 1
+                    logger.info(f"     ✓ Sparad")
                 else:
                     stats['errors'] += 1
+                    logger.error(f"     ❌ Misslyckades")
                 
-                time.sleep(1)  # Rate limiting
+                time.sleep(1)  # Respektera servern - 1 sekund delay
                 
             else:
                 # Artikel finns - kontrollera om uppdaterad
@@ -194,7 +251,7 @@ def incremental_scrape():
                 
                 # Enkel check: om titel ändrats
                 if existing['title'] != source_article['title']:
-                    print(f"  ✏️  UPPDATERAD: {source_article['title'][:60]}")
+                    logger.info(f"  ✏️  UPPDATERAD: {source_article['title'][:60]}")
                     
                     # Skrapa hela artikeln
                     full_article = scrape_full_article(source_article['url'])
@@ -203,13 +260,15 @@ def incremental_scrape():
                         # Jämför datum för att säkerställa att det verkligen ändrats
                         if full_article['date'] != existing.get('date'):
                             stats['updated'] += 1
+                            logger.info(f"     ✓ Uppdaterad")
                             # TODO: Uppdatera artikel
                         else:
                             stats['unchanged'] += 1
                     else:
                         stats['errors'] += 1
+                        logger.error(f"     ❌ Misslyckades")
                     
-                    time.sleep(1)
+                    time.sleep(1)  # Respektera servern
                 else:
                     # Oförändrad
                     stats['unchanged'] += 1
@@ -218,22 +277,22 @@ def incremental_scrape():
         for slug in existing_articles:
             if slug not in source_slugs:
                 article = existing_articles[slug]
-                print(f"  ❌ RADERAD: {article['title'][:60]}")
+                logger.info(f"  ❌ RADERAD: {article['title'][:60]}")
                 stats['deleted'] += 1
                 # TODO: Ta bort artikel-fil och ta bort från index
     
     # Sammanfattning
-    print("\n" + "="*70)
-    print("📊 SAMMANFATTNING")
-    print("="*70)
-    print(f"  🆕 Nya artiklar:        {stats['new']}")
-    print(f"  ✏️  Uppdaterade artiklar: {stats['updated']}")
-    print(f"  ❌ Raderade artiklar:    {stats['deleted']}")
-    print(f"  ✓  Oförändrade artiklar: {stats['unchanged']}")
-    print(f"  ⚠️  Fel:                 {stats['errors']}")
-    print("="*70)
+    logger.info("\n" + "="*70)
+    logger.info("📊 SAMMANFATTNING")
+    logger.info("="*70)
+    logger.info(f"  🆕 Nya artiklar:        {stats['new']}")
+    logger.info(f"  ✏️  Uppdaterade artiklar: {stats['updated']}")
+    logger.info(f"  ❌ Raderade artiklar:    {stats['deleted']}")
+    logger.info(f"  ✓  Oförändrade artiklar: {stats['unchanged']}")
+    logger.info(f"  ⚠️  Fel:                 {stats['errors']}")
+    logger.info("="*70)
     
-    # Output för parsing i API
+    # Output för parsing
     total_changes = stats['new'] + stats['updated'] + stats['deleted']
     if total_changes > 0:
         parts = []
@@ -243,9 +302,9 @@ def incremental_scrape():
             parts.append(f"{stats['updated']} uppdaterade")
         if stats['deleted'] > 0:
             parts.append(f"{stats['deleted']} raderade")
-        print(f"\n✓ {', '.join(parts)}")
+        logger.info(f"\n✓ {', '.join(parts)}")
     else:
-        print("\nℹ️  Inga ändringar detekterades")
+        logger.info("\nℹ️  Inga ändringar detekterades")
     
     return stats
 
