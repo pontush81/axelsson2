@@ -68,8 +68,8 @@ def load_existing_articles(folder):
                 articles = json.load(f)
                 # Skapa lookup dict med slug som nyckel
                 return {article['slug']: article for article in articles}
-            except Exception as e:
-                logger.warning(f"  ⚠️  Kunde inte läsa {index_file}: {e}")
+        except Exception as e:
+            logger.warning(f"  ⚠️  Kunde inte läsa {index_file}: {e}")
     
     return {}
 
