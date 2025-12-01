@@ -60,6 +60,51 @@
             opacity: 0.9;
         }
 
+        .export-buttons {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .export-btn {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            padding: 0.6rem 1.2rem;
+            border-radius: 25px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .export-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            border-color: rgba(255, 255, 255, 0.5);
+            transform: translateY(-2px);
+        }
+
+        .article-export-btn {
+            background: var(--border);
+            color: var(--text);
+            border: none;
+            padding: 0.3rem 0.8rem;
+            border-radius: 15px;
+            font-size: 0.75rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-left: 0.5rem;
+        }
+
+        .article-export-btn:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-1px);
+        }
+
         /* Search & Filter Section */
         .search-section {
             max-width: 1200px;
@@ -551,10 +596,19 @@
     <!-- Header -->
     <header class="header">
         <div class="header-content">
-            <h1>📚 Flex HRM Dokumentation</h1>
-            <p style="margin-top: 0.5rem; opacity: 0.9;">
-                <span id="updateStatus">Uppdateras automatiskt varje natt kl 02:00</span>
-            </p>
+            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+                <div>
+                    <h1 style="margin: 0;">📚 Flex HRM Dokumentation</h1>
+                    <p style="margin-top: 0.5rem; opacity: 0.9;">
+                        <span id="updateStatus">Uppdateras automatiskt varje natt kl 02:00</span>
+                    </p>
+                </div>
+                <div class="export-buttons">
+                    <button class="export-btn" onclick="exportAllArticles()">
+                        📥 Exportera allt
+                    </button>
+                </div>
+            </div>
         </div>
     </header>
 
@@ -1000,7 +1054,12 @@
 
             return `
                 <div class="article-card" data-slug="${article.slug}" data-category="${article.category}">
-                    <div class="article-title">${article.title}${newBadge}</div>
+                    <div style="display: flex; justify-content: space-between; align-items: start;">
+                        <div class="article-title" style="flex: 1;">${article.title}${newBadge}</div>
+                        <button class="article-export-btn" onclick="exportArticle(event, '${article.slug}', '${article.category}')" title="Exportera denna artikel">
+                            📥
+                        </button>
+                    </div>
                     <div class="article-excerpt">${article.excerpt}</div>
                     <div class="article-footer">
                         ${imageBadge}
@@ -1023,6 +1082,141 @@
                 clearTimeout(timeout);
                 timeout = setTimeout(later, wait);
             };
+        }
+
+        // Export alla artiklar
+        function exportAllArticles() {
+            const format = prompt('Välj format:\n1 = JSON (öppnas i Excel)\n2 = Markdown\n3 = CSV', '1');
+            
+            if (!format) return;
+            
+            if (format === '1') {
+                exportAsJSON(allArticles);
+            } else if (format === '2') {
+                exportAsMarkdown(allArticles);
+            } else if (format === '3') {
+                exportAsCSV(allArticles);
+            }
+        }
+
+        // Export som JSON
+        function exportAsJSON(articles) {
+            const data = {
+                exported_at: new Date().toISOString(),
+                total_articles: articles.length,
+                articles: articles
+            };
+            
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+            downloadFile(blob, `flex_hrm_export_${getDateString()}.json`);
+        }
+
+        // Export som Markdown
+        function exportAsMarkdown(articles) {
+            let md = '# Flex HRM Dokumentation\n\n';
+            md += `Exporterad: ${new Date().toLocaleString('sv-SE')}\n`;
+            md += `Totalt: ${articles.length} artiklar\n\n`;
+            md += '---\n\n';
+            
+            // Gruppera per kategori
+            const byCategory = {};
+            articles.forEach(article => {
+                if (!byCategory[article.category]) {
+                    byCategory[article.category] = [];
+                }
+                byCategory[article.category].push(article);
+            });
+            
+            const categoryNames = {
+                'time': 'Time',
+                'employee': 'Employee',
+                'payroll': 'Payroll',
+                'travel-expense': 'Travel & Expense',
+                'systemgemensamt': 'Systemgemensamt',
+                'plan': 'Plan'
+            };
+            
+            for (const [category, arts] of Object.entries(byCategory)) {
+                md += `## ${categoryNames[category] || category} (${arts.length} artiklar)\n\n`;
+                
+                arts.forEach(article => {
+                    md += `### ${article.title}\n\n`;
+                    md += `**Datum:** ${article.date}  \n`;
+                    md += `**URL:** ${article.url}  \n`;
+                    if (article.imageCount > 0) {
+                        md += `**Bilder:** ${article.imageCount}  \n`;
+                    }
+                    md += `**Tags:** ${article.tags.join(', ')}  \n\n`;
+                    md += `${article.excerpt}\n\n`;
+                    md += `---\n\n`;
+                });
+            }
+            
+            const blob = new Blob([md], { type: 'text/markdown' });
+            downloadFile(blob, `flex_hrm_export_${getDateString()}.md`);
+        }
+
+        // Export som CSV
+        function exportAsCSV(articles) {
+            let csv = 'Kategori,Titel,Datum,URL,Innehåll,Antal bilder,Tags\n';
+            
+            articles.forEach(article => {
+                const row = [
+                    article.category,
+                    `"${article.title.replace(/"/g, '""')}"`,
+                    article.date,
+                    article.url,
+                    `"${article.excerpt.replace(/"/g, '""')}"`,
+                    article.imageCount || 0,
+                    `"${article.tags.join(', ')}"`
+                ].join(',');
+                
+                csv += row + '\n';
+            });
+            
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            downloadFile(blob, `flex_hrm_export_${getDateString()}.csv`);
+        }
+
+        // Export en enskild artikel
+        function exportArticle(event, slug, category) {
+            event.stopPropagation(); // Förhindra att artikeln öppnas
+            
+            const article = allArticles.find(a => a.slug === slug && a.category === category);
+            if (!article) return;
+            
+            // Skapa Markdown för artikeln
+            let md = `# ${article.title}\n\n`;
+            md += `**Kategori:** ${category}\n`;
+            md += `**Datum:** ${article.date}\n`;
+            md += `**URL:** ${article.url}\n`;
+            if (article.imageCount > 0) {
+                md += `**Bilder:** ${article.imageCount}\n`;
+                md += `**Bildmapp:** documentation/${category}/images/\n`;
+            }
+            md += `**Tags:** ${article.tags.join(', ')}\n\n`;
+            md += `---\n\n`;
+            md += `${article.excerpt}\n\n`;
+            
+            const blob = new Blob([md], { type: 'text/markdown' });
+            downloadFile(blob, `${slug}.md`);
+        }
+
+        // Hjälpfunktion: Ladda ner fil
+        function downloadFile(blob, filename) {
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        // Hjälpfunktion: Datum-string
+        function getDateString() {
+            return new Date().toISOString().split('T')[0];
         }
 
         // Initialize on load
