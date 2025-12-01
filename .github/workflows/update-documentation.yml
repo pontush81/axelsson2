@@ -72,18 +72,32 @@ EOF
       - name: 📈 Kontrollera om ändringar finns
         id: changes
         run: |
-          # Kolla endast efter ändringar i documentation/-mappen
-          if [[ -n $(git status --porcelain documentation/) ]]; then
+          # Kolla efter ändringar i documentation/ och public/
+          if [[ -n $(git status --porcelain documentation/ public/) ]]; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "✅ Ändringar detekterade i documentation/"
+            echo "✅ Ändringar detekterade"
           else
             echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "ℹ️  Inga ändringar i documentation/"
+            echo "ℹ️  Inga ändringar"
           fi
       
       - name: 🧹 Cleanup scrape output
         run: |
           rm -f scrape_output.txt scraper.log
+      
+      - name: 📤 Generera export-filer med bilder
+        run: |
+          echo "📤 Skapar export-filer med bilder..."
+          pip install python-docx openpyxl
+          python3 export_with_images.py
+          
+          # Flytta till public-mapp så de blir tillgängliga via URL
+          mkdir -p public/downloads
+          mv flex_hrm_*.docx public/downloads/ 2>/dev/null || true
+          mv flex_hrm_*.xlsx public/downloads/ 2>/dev/null || true
+          mv flex_hrm_*.zip public/downloads/ 2>/dev/null || true
+          
+          echo "✅ Export-filer skapade och tillgängliga via /downloads/"
       
       - name: 💾 Commit och push ändringar
         if: steps.changes.outputs.has_changes == 'true'
@@ -96,7 +110,7 @@ EOF
           TIMESTAMP=$(date +'%Y-%m-%d %H:%M')
           
           # Commit och push
-          git add documentation/
+          git add documentation/ public/
           git commit -m "🤖 Auto-update dokumentation ($TIMESTAMP) - $CHANGED_FILES filer ändrade [skip ci]"
           git push
       

@@ -606,11 +606,11 @@
                     </p>
                 </div>
                 <div class="export-buttons">
-                    <button class="export-btn" onclick="exportAllArticles(event)" title="Exportera till Word/Excel/CSV">
-                        📥 Exportera
+                    <button class="export-btn" onclick="exportAllArticles(event)" title="Exportera text till Word/Excel/CSV">
+                        📄 Exportera text
                     </button>
-                    <button class="export-btn" onclick="showExportWithImagesInfo()" style="background: rgba(255,255,255,0.15);" title="Hur får jag med bilder?">
-                        ℹ️ Inkludera bilder?
+                    <button class="export-btn" onclick="exportWithImages()" title="Ladda ner Word med alla bilder">
+                        📸 Exportera med bilder
                     </button>
                 </div>
             </div>
@@ -1392,34 +1392,54 @@
             return new Date().toISOString().split('T')[0];
         }
 
-        // Visa export MED bilder info
-        function showExportWithImagesInfo() {
-            const message = `📸 Export med bilder
+        // Export med bilder (från pre-genererad fil)
+        async function exportWithImages() {
+            const format = prompt('Välj format:\n1 = Word med bilder (.docx, ~5-10 MB)\n2 = Excel med bildlänkar (.xlsx, ~1 MB)\n3 = ZIP komplett (~50-100 MB)', '1');
+            
+            if (!format) return;
+            
+            // Hitta senaste export-filer
+            const today = new Date().toISOString().split('T')[0].replace(/-/g, '');
+            let filename = '';
+            
+            if (format === '1') {
+                filename = `flex_hrm_dokumentation_${today}.docx`;
+            } else if (format === '2') {
+                filename = `flex_hrm_dokumentation_${today}.xlsx`;
+            } else if (format === '3') {
+                filename = `flex_hrm_complete_${today}.zip`;
+            } else {
+                return;
+            }
+            
+            // Försök ladda ner
+            const url = `/public/downloads/${filename}`;
+            
+            try {
+                const response = await fetch(url, { method: 'HEAD' });
+                if (response.ok) {
+                    // Fil finns, ladda ner
+                    window.location.href = url;
+                } else {
+                    // Fil finns inte, visa info
+                    alert(`📸 Export med bilder genereras automatiskt varje natt.
 
-För att få export med ALLA 2,096 bilder inkluderade:
+Filen finns inte än (genereras vid nästa uppdatering kl 02:00).
 
-📋 ALTERNATIV 1 - Python (Lokalt):
-1. Klona GitHub repo eller ladda ner
-2. Kör: pip install python-docx openpyxl
-3. Kör: python3 export_with_images.py
-4. Klart! Du får:
-   • Word med inbäddade bilder (~5-10 MB)
-   • Excel med bildlänkar (~1 MB)
-   • ZIP med allt (~50-100 MB)
+💡 Alternativ:
+1. Vänta till imorgon (automatisk generering)
+2. Kör Python-export lokalt:
+   pip install python-docx openpyxl
+   python3 export_with_images.py
 
-📋 ALTERNATIV 2 - Kontakta admin:
-Om du behöver export med bilder regelbundet,
-kontakta administratören som kan köra Python-export
-och dela filen med dig.
-
-💡 Browser-export (nuvarande):
-Inkluderar FULL text men INTE bilder.
-Snabb och fungerar direkt utan installation.
-
-📚 Se EXPORT_GUIDE.md på GitHub för detaljer:
-github.com/pontush81/axelsson2`;
-
-            alert(message);
+Filer som genereras automatiskt varje natt:
+• Word med bilder (~5-10 MB)
+• Excel (~1 MB)
+• ZIP komplett (~50-100 MB)`);
+                }
+            } catch (error) {
+                alert('Kunde inte hitta export-fil. Vänligen försök igen senare eller använd "📄 Exportera text".');
+            }
         }
 
         // Visa export-info
