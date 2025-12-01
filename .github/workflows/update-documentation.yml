@@ -11,6 +11,8 @@ on:
 jobs:
   update-docs:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Tillåt workflow att pusha commits
     
     steps:
       - name: 🔍 Checkout repository
