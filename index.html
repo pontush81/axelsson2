@@ -606,11 +606,11 @@
                     </p>
                 </div>
                 <div class="export-buttons">
-                    <button class="export-btn" onclick="exportAllArticles(event)">
-                        📥 Exportera allt
+                    <button class="export-btn" onclick="exportAllArticles(event)" title="Snabb export utan bilder">
+                        📥 Exportera
                     </button>
-                    <button class="export-btn" onclick="showExportInfo()" style="background: rgba(255,255,255,0.15);">
-                        ℹ️
+                    <button class="export-btn" onclick="showExportWithImagesInfo()" style="background: rgba(255,255,255,0.15);" title="Export med bilder">
+                        📸 Med bilder
                     </button>
                 </div>
             </div>
@@ -1392,6 +1392,36 @@
             return new Date().toISOString().split('T')[0];
         }
 
+        // Visa export MED bilder info
+        function showExportWithImagesInfo() {
+            const message = `📸 Export med bilder
+
+För att få export med ALLA 2,096 bilder inkluderade:
+
+📋 ALTERNATIV 1 - Python (Lokalt):
+1. Klona GitHub repo eller ladda ner
+2. Kör: pip install python-docx openpyxl
+3. Kör: python3 export_with_images.py
+4. Klart! Du får:
+   • Word med inbäddade bilder (~5-10 MB)
+   • Excel med bildlänkar (~1 MB)
+   • ZIP med allt (~50-100 MB)
+
+📋 ALTERNATIV 2 - Kontakta admin:
+Om du behöver export med bilder regelbundet,
+kontakta administratören som kan köra Python-export
+och dela filen med dig.
+
+💡 Browser-export (nuvarande):
+Inkluderar FULL text men INTE bilder.
+Snabb och fungerar direkt utan installation.
+
+📚 Se EXPORT_GUIDE.md på GitHub för detaljer:
+github.com/pontush81/axelsson2`;
+
+            alert(message);
+        }
+
         // Visa export-info
         function showExportInfo() {
             alert(`📥 Export-alternativ:
@@ -1400,9 +1430,11 @@
    • Öppnas direkt i Microsoft Word
    • Öppnas i Google Docs: Fil → Öppna → Ladda upp
    • Innehåller FULL artikel-text (inte bara utdrag)
+   • ⚠️ UTAN bilder (browser-begränsning)
    • Formaterad med rubriker och metadata
    • Tar ~30 sekunder (hämtar alla artiklar först)
-   • Rekommenderas för läsning!
+   
+   För export MED bilder: Klicka "📸 Med bilder"
 
 2️⃣ CSV (Excel/Sheets) - SAMMANFATTNING
    • Öppnas direkt i Excel
