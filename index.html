@@ -606,7 +606,7 @@
                     </p>
                 </div>
                 <div class="export-buttons">
-                    <button class="export-btn" onclick="exportAllArticles()">
+                    <button class="export-btn" onclick="exportAllArticles(event)">
                         📥 Exportera allt
                     </button>
                     <button class="export-btn" onclick="showExportInfo()" style="background: rgba(255,255,255,0.15);">
@@ -1090,17 +1090,19 @@
         }
 
         // Export alla artiklar
-        function exportAllArticles() {
+        async function exportAllArticles(event) {
             const format = prompt('Välj format:\n1 = Word (.docx)\n2 = Excel/Sheets (CSV)\n3 = JSON (för utvecklare)', '1');
             
             if (!format) return;
             
+            const articles = filteredArticles.length > 0 ? filteredArticles : allArticles;
+            
             if (format === '1') {
-                exportAsWord(filteredArticles.length > 0 ? filteredArticles : allArticles);
+                await exportAsWord(articles, event);
             } else if (format === '2') {
-                exportAsCSV(filteredArticles.length > 0 ? filteredArticles : allArticles);
+                exportAsCSV(articles);
             } else if (format === '3') {
-                exportAsJSON(filteredArticles.length > 0 ? filteredArticles : allArticles);
+                exportAsJSON(articles);
             }
         }
 
@@ -1126,10 +1128,11 @@
         }
 
         // Export som Word (.docx)
-        async function exportAsWord(articles) {
+        async function exportAsWord(articles, triggerEvent = null) {
             // Visa loading
-            const originalText = event.target ? event.target.textContent : '';
-            if (event.target) event.target.textContent = '⏳ Förbereder...';
+            const btn = triggerEvent ? triggerEvent.target : null;
+            const originalText = btn ? btn.textContent : '';
+            if (btn) btn.textContent = '⏳ Förbereder...';
             
             // Hämta full text för alla artiklar
             const articlesWithContent = await Promise.all(
@@ -1139,13 +1142,16 @@
                 }))
             );
             
-            if (event.target) event.target.textContent = '⏳ Skapar Word...';
+            if (btn) btn.textContent = '⏳ Skapar Word...';
             
-            setTimeout(() => generateWordDocument(articlesWithContent, originalText), 100);
+            setTimeout(() => {
+                generateWordDocument(articlesWithContent);
+                if (btn) btn.textContent = originalText;
+            }, 100);
         }
 
         // Generera Word-dokument
-        function generateWordDocument(articles, originalBtnText) {
+        function generateWordDocument(articles) {
             // Bygg HTML-dokument
             let html = `<!DOCTYPE html>
 <html>
@@ -1219,11 +1225,6 @@
             if (typeof htmlDocx !== 'undefined') {
                 const converted = htmlDocx.asBlob(html);
                 downloadFile(converted, `flex_hrm_komplett_${getDateString()}.docx`);
-                
-                // Återställ knapp-text
-                if (event.target && originalBtnText) {
-                    event.target.textContent = originalBtnText;
-                }
             } else {
                 alert('Export-bibliotek laddas fortfarande. Försök igen om några sekunder.');
             }
