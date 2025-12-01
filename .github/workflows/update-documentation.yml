@@ -7,12 +7,17 @@ on:
   
   # Tillåt manuell triggning från GitHub UI
   workflow_dispatch:
+  
+  # VIKTIGT: Kör INTE vid push (skulle faila eftersom inga scraping-ändringar finns)
+  # Denna workflow ska bara köras scheduled eller manuellt
 
 jobs:
   update-docs:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # Tillåt workflow att pusha commits
+    # Hoppa över om senaste commit är från bot (förhindra loop)
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' || !contains(github.event.head_commit.message, '🤖 Auto-update')
     
     steps:
       - name: 🔍 Checkout repository
@@ -92,7 +97,7 @@ EOF
           
           # Commit och push
           git add documentation/
-          git commit -m "🤖 Auto-update dokumentation ($TIMESTAMP) - $CHANGED_FILES filer ändrade"
+          git commit -m "🤖 Auto-update dokumentation ($TIMESTAMP) - $CHANGED_FILES filer ändrade [skip ci]"
           git push
       
       - name: 📊 Sammanfattning
