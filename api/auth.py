@@ -43,12 +43,12 @@ class SecureAuth:
         """
         allowed_ips = self._load_allowed_ips()
         
-        # Om ingen IP-lista finns, tillåt alla (development mode)
+        # Om ingen IP-lista finns, tillåt alla IPs
+        # IP-whitelist är VALFRITT extra säkerhetslager
         if not allowed_ips:
-            if os.getenv('VERCEL_ENV') == 'production':
-                return False, "IP-whitelist ej konfigurerad i produktion"
-            return True, "Development mode - alla IPs tillåtna"
+            return True, "IP-whitelist disabled - all IPs allowed"
         
+        # Om IP-lista finns, verifiera
         if client_ip in allowed_ips:
             return True, "IP verified"
         
