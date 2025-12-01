@@ -171,14 +171,27 @@
         .date-filter {
             margin-top: 1.5rem;
             padding-top: 1.5rem;
-            border-top: 1px solid var(--border);
+            border-top: 2px solid var(--border);
+            background: #f8fafc;
+            padding: 1.5rem;
+            border-radius: 10px;
         }
 
         .date-filter-title {
-            font-weight: 600;
-            color: var(--text);
-            margin-bottom: 1rem;
-            font-size: 1rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 1.2rem;
+            font-size: 1.1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .date-filter-subtitle {
+            font-size: 0.85rem;
+            color: var(--text-light);
+            font-weight: 400;
+            margin-left: 0.3rem;
         }
 
         .date-filter-options {
@@ -204,6 +217,16 @@
             cursor: pointer;
             font-size: 0.95rem;
             color: var(--text);
+            font-weight: 500;
+        }
+        
+        .date-radio-group:hover label {
+            color: var(--primary);
+        }
+        
+        .date-radio-group input[type="radio"]:checked + label {
+            color: var(--primary);
+            font-weight: 600;
         }
 
         .custom-date-range {
@@ -599,28 +622,31 @@
             </div>
 
             <div class="date-filter">
-                <div class="date-filter-title">📅 Uppdaterad:</div>
+                <div class="date-filter-title">
+                    🔍 Filtrera efter uppdateringsdatum
+                    <span class="date-filter-subtitle">- Visa endast artiklar från vald period</span>
+                </div>
                 <div class="date-filter-options">
                     <div class="date-radio-group">
                         <input type="radio" id="dateAll" name="dateFilter" value="all" checked>
-                        <label for="dateAll">Alla artiklar</label>
+                        <label for="dateAll">✓ Visa alla artiklar</label>
                     </div>
                     <div class="date-radio-group">
                         <input type="radio" id="date30" name="dateFilter" value="30">
-                        <label for="date30">Senaste månaden (30 dagar)</label>
+                        <label for="date30">📅 Senaste månaden (30 dagar)</label>
                         <span class="new-badge" id="new30Badge" style="display: none;">0 nya</span>
                     </div>
                     <div class="date-radio-group">
                         <input type="radio" id="date90" name="dateFilter" value="90">
-                        <label for="date90">Senaste 3 månaderna</label>
+                        <label for="date90">📅 Senaste 3 månaderna</label>
                     </div>
                     <div class="date-radio-group">
                         <input type="radio" id="date180" name="dateFilter" value="180">
-                        <label for="date180">Senaste 6 månaderna</label>
+                        <label for="date180">📅 Senaste 6 månaderna</label>
                     </div>
                     <div class="date-radio-group">
                         <input type="radio" id="dateCustom" name="dateFilter" value="custom">
-                        <label for="dateCustom">Anpassat datumintervall:</label>
+                        <label for="dateCustom">🗓️ Välj egna datum:</label>
                     </div>
                     <div class="custom-date-range" id="customDateRange" style="display: none;">
                         <label>Från:</label>
