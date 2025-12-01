@@ -40,10 +40,7 @@ jobs:
         id: scrape
         run: |
           echo "🔄 Startar inkrementell scraping..."
-          python3 scraper_incremental.py --incremental > scrape_output.txt 2>&1 || true
-          
-          # Spara output för senare steg
-          cat scrape_output.txt
+          python3 scraper_incremental.py --incremental 2>&1 | tee scrape_output.txt || true
           
           # Extrahera antal ändringar
           NEW=$(grep -oP '🆕 Nya artiklar:\s+\K\d+' scrape_output.txt || echo "0")
@@ -62,13 +59,18 @@ jobs:
       - name: 📈 Kontrollera om ändringar finns
         id: changes
         run: |
-          if [[ -n $(git status --porcelain) ]]; then
+          # Kolla endast efter ändringar i documentation/-mappen
+          if [[ -n $(git status --porcelain documentation/) ]]; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "✅ Ändringar detekterade"
+            echo "✅ Ändringar detekterade i documentation/"
           else
             echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "ℹ️  Inga ändringar"
+            echo "ℹ️  Inga ändringar i documentation/"
           fi
+      
+      - name: 🧹 Cleanup scrape output
+        run: |
+          rm -f scrape_output.txt scraper.log
       
       - name: 💾 Commit och push ändringar
         if: steps.changes.outputs.has_changes == 'true'
