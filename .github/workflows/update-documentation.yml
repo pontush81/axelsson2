@@ -72,13 +72,12 @@ jobs:
           
           # Skapa commit message
           TIMESTAMP=$(date +'%Y-%m-%d %H:%M')
-          MSG="🤖 Auto-update dokumentation ($TIMESTAMP)
-
-📝 $CHANGED_FILES filer ändrade
-🔍 Full scraping kördes - fångar alla uppdateringar (text, datum, bilder)"
           
           git add documentation/
-          git commit -m "$MSG"
+          git commit -m "🤖 Auto-update dokumentation ($TIMESTAMP)
+
+📝 $CHANGED_FILES filer ändrade
+🔍 Full scraping - fångar alla uppdateringar"
           git push
       
       - name: 📊 Sammanfattning
