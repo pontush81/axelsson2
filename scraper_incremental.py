@@ -249,8 +249,14 @@ def incremental_scrape():
                 # Artikel finns - kontrollera om uppdaterad
                 existing = existing_articles[slug]
                 
-                # Enkel check: om titel ändrats
-                if existing['title'] != source_article['title']:
+                # Kolla om titel ändrats (indikerar stor uppdatering)
+                title_changed = existing['title'] != source_article['title']
+                
+                # För att verkligen veta om artikeln ändrats måste vi hämta den och kolla datum
+                # Men för att inte skrapa ALLA artiklar varje gång, gör vi bara stickprov
+                # Alternativ: Implementera detta i framtiden med HEAD requests
+                
+                if title_changed:
                     logger.info(f"  ✏️  UPPDATERAD: {source_article['title'][:60]}")
                     
                     # Skrapa hela artikeln
