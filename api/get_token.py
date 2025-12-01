@@ -31,7 +31,7 @@ class handler(BaseHTTPRequestHandler):
         try:
             client_ip = get_client_ip(self)
             
-            # Verifiera IP först
+            # Verifiera IP (om whitelist konfigurerad)
             ip_allowed, ip_message = secure_auth.verify_ip(client_ip)
             
             if not ip_allowed:
@@ -52,9 +52,12 @@ class handler(BaseHTTPRequestHandler):
             # Generera token
             token = secure_auth.generate_update_token(client_ip)
             
+            # Set CORS headers FÖRST
             self.send_response(200)
             self.send_header('Content-type', 'application/json')
             self.send_header('Access-Control-Allow-Origin', '*')
+            self.send_header('Access-Control-Allow-Methods', 'GET, OPTIONS')
+            self.send_header('Access-Control-Allow-Headers', 'Content-Type')
             self.send_header('Cache-Control', 'no-store, no-cache, must-revalidate')
             self.end_headers()
             
@@ -68,6 +71,9 @@ class handler(BaseHTTPRequestHandler):
             self.wfile.write(json.dumps(response).encode())
             
         except Exception as e:
+            import traceback
+            error_trace = traceback.format_exc()
+            
             self.send_response(500)
             self.send_header('Content-type', 'application/json')
             self.send_header('Access-Control-Allow-Origin', '*')
@@ -76,7 +82,8 @@ class handler(BaseHTTPRequestHandler):
             response = {
                 'success': False,
                 'message': f'Serverfel: {str(e)}',
-                'code': 'SERVER_ERROR'
+                'code': 'SERVER_ERROR',
+                'trace': error_trace if os.getenv('DEBUG') else None
             }
             
             self.wfile.write(json.dumps(response).encode())

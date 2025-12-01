@@ -1,0 +1,3 @@
+# Python dependencies för Vercel Serverless Functions
+# Inga externa dependencies behövs - använder bara stdlib
+
