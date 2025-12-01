@@ -1104,8 +1104,48 @@
             }
         }
 
+        // Hämta fullständig artikel från markdown-fil
+        async function fetchFullArticle(article) {
+            try {
+                const mdPath = `/documentation/${article.category}/${article.file}`;
+                const response = await fetch(mdPath);
+                if (!response.ok) return article.excerpt;
+                
+                const content = await response.text();
+                
+                // Extrahera innehåll efter ---
+                const parts = content.split('---');
+                if (parts.length >= 2) {
+                    return parts[1].trim();
+                }
+                return article.excerpt;
+            } catch (error) {
+                console.error('Kunde inte hämta artikel:', error);
+                return article.excerpt;
+            }
+        }
+
         // Export som Word (.docx)
-        function exportAsWord(articles) {
+        async function exportAsWord(articles) {
+            // Visa loading
+            const originalText = event.target ? event.target.textContent : '';
+            if (event.target) event.target.textContent = '⏳ Förbereder...';
+            
+            // Hämta full text för alla artiklar
+            const articlesWithContent = await Promise.all(
+                articles.map(async (article) => ({
+                    ...article,
+                    fullContent: await fetchFullArticle(article)
+                }))
+            );
+            
+            if (event.target) event.target.textContent = '⏳ Skapar Word...';
+            
+            setTimeout(() => generateWordDocument(articlesWithContent, originalText), 100);
+        }
+
+        // Generera Word-dokument
+        function generateWordDocument(articles, originalBtnText) {
             // Bygg HTML-dokument
             let html = `<!DOCTYPE html>
 <html>
@@ -1113,21 +1153,22 @@
     <meta charset="UTF-8">
     <title>Flex HRM Dokumentation</title>
     <style>
-        body { font-family: Calibri, Arial, sans-serif; line-height: 1.6; }
-        h1 { color: #667eea; text-align: center; }
-        h2 { color: #667eea; border-bottom: 2px solid #667eea; padding-bottom: 0.5em; }
-        h3 { color: #333; }
-        .meta { color: #666; font-style: italic; margin-bottom: 1em; }
-        .excerpt { margin: 1em 0; }
-        .tags { color: #888; font-size: 0.9em; }
+        body { font-family: Calibri, Arial, sans-serif; line-height: 1.6; margin: 2cm; }
+        h1 { color: #667eea; text-align: center; page-break-after: avoid; }
+        h2 { color: #667eea; border-bottom: 2px solid #667eea; padding-bottom: 0.5em; margin-top: 2em; page-break-after: avoid; }
+        h3 { color: #333; margin-top: 1.5em; page-break-after: avoid; }
+        .meta { color: #666; background: #f5f5f5; padding: 0.8em; border-left: 4px solid #667eea; margin: 1em 0; }
+        .content { margin: 1em 0; white-space: pre-wrap; }
+        .tags { color: #888; font-size: 0.9em; margin-top: 0.5em; }
         hr { border: none; border-top: 1px solid #ccc; margin: 2em 0; }
+        .page-break { page-break-before: always; }
     </style>
 </head>
 <body>
     <h1>📚 Flex HRM Dokumentation</h1>
     <p style="text-align: center;">Exporterad: ${new Date().toLocaleString('sv-SE')}<br>
     Totalt: ${articles.length} artiklar</p>
-    <hr>
+    <div class="page-break"></div>
 `;
             
             // Gruppera per kategori
@@ -1154,18 +1195,22 @@
                 arts.forEach(article => {
                     html += `<h3>${article.title}</h3>`;
                     html += `<div class="meta">`;
-                    html += `📅 ${article.date} | `;
-                    html += `🔗 <a href="${article.url}">${article.url}</a>`;
+                    html += `<strong>Kategori:</strong> ${categoryNames[category]}<br>`;
+                    html += `<strong>Datum:</strong> ${article.date}<br>`;
+                    html += `<strong>URL:</strong> <a href="${article.url}">${article.url}</a>`;
                     if (article.imageCount > 0) {
-                        html += ` | 📸 ${article.imageCount} bilder`;
+                        html += `<br><strong>Bilder:</strong> ${article.imageCount} st`;
+                    }
+                    if (article.tags && article.tags.length > 0) {
+                        html += `<br><strong>Tags:</strong> ${article.tags.join(', ')}`;
                     }
                     html += `</div>`;
-                    html += `<div class="excerpt">${article.excerpt}</div>`;
-                    if (article.tags && article.tags.length > 0) {
-                        html += `<div class="tags">🏷️ ${article.tags.join(', ')}</div>`;
-                    }
+                    // Använd fullContent istället för excerpt
+                    html += `<div class="content">${article.fullContent.replace(/\n/g, '<br>')}</div>`;
                     html += `<hr>`;
                 });
+                
+                html += `<div class="page-break"></div>`;
             }
             
             html += `</body></html>`;
@@ -1173,7 +1218,12 @@
             // Konvertera till DOCX
             if (typeof htmlDocx !== 'undefined') {
                 const converted = htmlDocx.asBlob(html);
-                downloadFile(converted, `flex_hrm_${getDateString()}.docx`);
+                downloadFile(converted, `flex_hrm_komplett_${getDateString()}.docx`);
+                
+                // Återställ knapp-text
+                if (event.target && originalBtnText) {
+                    event.target.textContent = originalBtnText;
+                }
             } else {
                 alert('Export-bibliotek laddas fortfarande. Försök igen om några sekunder.');
             }
@@ -1259,11 +1309,26 @@
         }
 
         // Export en enskild artikel
-        function exportArticle(event, slug, category) {
+        async function exportArticle(event, slug, category) {
             event.stopPropagation(); // Förhindra att artikeln öppnas
             
             const article = allArticles.find(a => a.slug === slug && a.category === category);
             if (!article) return;
+            
+            // Visa loading
+            event.target.textContent = '⏳';
+            
+            // Hämta full text
+            const fullContent = await fetchFullArticle(article);
+            
+            const categoryNames = {
+                'time': 'Time',
+                'employee': 'Employee',
+                'payroll': 'Payroll',
+                'travel-expense': 'Travel & Expense',
+                'systemgemensamt': 'Systemgemensamt',
+                'plan': 'Plan'
+            };
             
             // Skapa HTML för artikeln
             let html = `<!DOCTYPE html>
@@ -1275,21 +1340,21 @@
         body { font-family: Calibri, Arial, sans-serif; max-width: 800px; margin: 2em auto; line-height: 1.6; }
         h1 { color: #667eea; }
         .meta { color: #666; background: #f5f5f5; padding: 1em; border-left: 4px solid #667eea; margin: 1em 0; }
-        .content { margin: 2em 0; }
+        .content { margin: 2em 0; white-space: pre-wrap; }
         .tags { color: #888; }
     </style>
 </head>
 <body>
     <h1>${article.title}</h1>
     <div class="meta">
-        <p><strong>Kategori:</strong> ${category}</p>
+        <p><strong>Kategori:</strong> ${categoryNames[category] || category}</p>
         <p><strong>Datum:</strong> ${article.date}</p>
         <p><strong>URL:</strong> <a href="${article.url}">${article.url}</a></p>
         ${article.imageCount > 0 ? `<p><strong>Bilder:</strong> ${article.imageCount} st</p>` : ''}
         ${article.tags.length > 0 ? `<p class="tags"><strong>Tags:</strong> ${article.tags.join(', ')}</p>` : ''}
     </div>
     <div class="content">
-        ${article.excerpt.replace(/\n/g, '<br>')}
+        ${fullContent.replace(/\n/g, '<br>')}
     </div>
 </body>
 </html>`;
@@ -1297,12 +1362,16 @@
             // Konvertera till DOCX
             if (typeof htmlDocx !== 'undefined') {
                 const converted = htmlDocx.asBlob(html);
-                downloadFile(converted, `${article.title.substring(0, 50).replace(/[^a-zA-Z0-9]/g, '_')}.docx`);
+                const filename = article.title.substring(0, 50).replace(/[^a-zA-ZåäöÅÄÖ0-9\s]/g, '').trim().replace(/\s+/g, '_');
+                downloadFile(converted, `${filename}.docx`);
             } else {
                 // Fallback till HTML-nedladdning om bibliotek inte laddat
                 const blob = new Blob([html], { type: 'text/html' });
                 downloadFile(blob, `${slug}.html`);
             }
+            
+            // Återställ knapp
+            event.target.textContent = '📥';
         }
 
         // Hjälpfunktion: Ladda ner fil
@@ -1326,26 +1395,30 @@
         function showExportInfo() {
             alert(`📥 Export-alternativ:
 
-1️⃣ WORD (.docx)
+1️⃣ WORD (.docx) - KOMPLETT TEXT
    • Öppnas direkt i Microsoft Word
    • Öppnas i Google Docs: Fil → Öppna → Ladda upp
+   • Innehåller FULL artikel-text (inte bara utdrag)
    • Formaterad med rubriker och metadata
+   • Tar ~30 sekunder (hämtar alla artiklar först)
    • Rekommenderas för läsning!
 
-2️⃣ CSV (Excel/Sheets)
+2️⃣ CSV (Excel/Sheets) - SAMMANFATTNING
    • Öppnas direkt i Excel
    • Öppnas i Google Sheets: Fil → Öppna → Ladda upp
-   • Tabellformat med alla artiklar
-   • Bra för filtrering och analys
+   • Tabellformat med utdrag (excerpt)
+   • Bra för filtrering och överblick
+   • Snabb export
 
-3️⃣ JSON
-   • För utvecklare och systemintegration
-   • Strukturerad data
+3️⃣ JSON - FÖR UTVECKLARE
+   • Strukturerad data med all metadata
+   • För systemintegration
 
 💡 Tips:
-- Exporterar de artiklar du ser (respekterar filter)
-- Klicka 📥 på artikelkort för enskild export
-- Word-filer kan konverteras till PDF i Word/Docs`);
+- Exporterar de artiklar du ser (respekterar filter!)
+- Klicka 📥 på artikelkort för enskild artikel
+- Word kan sparas som PDF (Arkiv → Spara som → PDF)
+- Google Docs: Fil → Ladda ner → PDF`);
         }
 
         // Initialize on load
