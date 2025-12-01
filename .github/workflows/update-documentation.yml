@@ -69,15 +69,11 @@ jobs:
           
           # Räkna ändringar
           CHANGED_FILES=$(git diff --name-only documentation/ | wc -l)
-          
-          # Skapa commit message
           TIMESTAMP=$(date +'%Y-%m-%d %H:%M')
           
+          # Commit och push
           git add documentation/
-          git commit -m "🤖 Auto-update dokumentation ($TIMESTAMP)
-
-📝 $CHANGED_FILES filer ändrade
-🔍 Full scraping - fångar alla uppdateringar"
+          git commit -m "🤖 Auto-update dokumentation ($TIMESTAMP) - $CHANGED_FILES filer ändrade"
           git push
       
       - name: 📊 Sammanfattning
