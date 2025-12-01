@@ -10,9 +10,28 @@ import time
 import os
 import re
 import json
+import logging
 from urllib.parse import unquote, urljoin, urlparse
 from collections import defaultdict
 import hashlib
+
+# Setup logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
+
+# Custom headers för etisk scraping
+HEADERS = {
+    'User-Agent': 'AxelssonDocBot/1.0 (github.com/pontush81/axelsson2; pontus.horberg@example.com)',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'sv-SE,sv;q=0.9,en;q=0.8',
+    'Accept-Encoding': 'gzip, deflate',
+    'DNT': '1',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1'
+}
 
 # Kategorier att skrapa
 CATEGORIES = [
@@ -53,7 +72,7 @@ def download_image(img_url: str, folder: str, article_slug: str) -> str:
         
         # Ladda ner om filen inte finns redan
         if not os.path.exists(filepath):
-            response = requests.get(img_url, timeout=10)
+            response = requests.get(img_url, headers=HEADERS, timeout=10)
             if response.status_code == 200:
                 with open(filepath, 'wb') as f:
                     f.write(response.content)
@@ -211,8 +230,8 @@ def categorize_subcategory(title: str, content: str, category: str, tags: list) 
 
 def get_article_links(category_url: str) -> list:
     """Hämtar alla artikellänkar från en kategorisida"""
-    print(f"  Hämtar artiklar från {category_url}...")
-    response = requests.get(category_url)
+    logger.info(f"  Hämtar artiklar från {category_url}...")
+    response = requests.get(category_url, headers=HEADERS, timeout=30)
     soup = BeautifulSoup(response.content, 'html.parser')
     
     article_links = []
@@ -221,12 +240,12 @@ def get_article_links(category_url: str) -> list:
         url = link.get('href')
         article_links.append({'title': title, 'url': url})
     
-    print(f"  ✓ Hittade {len(article_links)} artiklar")
+    logger.info(f"  ✓ Hittade {len(article_links)} artiklar")
     return article_links
 
 def scrape_article_with_images(url: str, folder: str, article_slug: str) -> dict:
     """Skrapar innehåll från en artikel INKLUSIVE bilder"""
-    response = requests.get(url)
+    response = requests.get(url, headers=HEADERS, timeout=30)
     soup = BeautifulSoup(response.content, 'html.parser')
     
     # Hämta titel
