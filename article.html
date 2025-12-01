@@ -4,7 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Artikel - Flex HRM Dokumentation</title>
-    <script defer src="https://cdn.vercel-analytics.com/v1/script.js"></script>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <script>
+      window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
+    <!-- HTML to DOCX library för Word-export -->
+    <script src="https://cdn.jsdelivr.net/npm/html-docx-js@0.3.1/dist/html-docx.min.js"></script>
     <style>
         :root {
             --primary: #667eea;
@@ -427,9 +433,14 @@
         <main class="article-content">
             <article>
                 <header class="article-header">
-                    <h1 class="article-title" id="articleTitle">Laddar...</h1>
+                    <div style="display: flex; justify-content: space-between; align-items: start; gap: 1rem;">
+                        <h1 class="article-title" id="articleTitle" style="flex: 1; margin-bottom: 0;">Laddar...</h1>
+                        <button class="export-article-btn" onclick="exportCurrentArticle()" title="Exportera denna artikel som Word" style="padding: 0.6rem 1.2rem; font-size: 0.9rem; background: var(--primary); color: white; border: none; border-radius: 25px; cursor: pointer;">
+                            📥 Exportera
+                        </button>
+                    </div>
                     
-                    <div class="article-meta" id="articleMeta"></div>
+                    <div class="article-meta" id="articleMeta" style="margin-top: 1rem;"></div>
                     <div class="article-tags" id="articleTags"></div>
                 </header>
 
@@ -795,6 +806,125 @@
         // Navigate to article
         function navigateToArticle(slug, category) {
             window.location.href = `/article.html?article=${slug}&category=${category}`;
+        }
+
+        // Export current article as Word
+        async function exportCurrentArticle() {
+            const btn = event.target;
+            const originalText = btn.textContent;
+            btn.textContent = '⏳ Exporterar...';
+            btn.disabled = true;
+            
+            try {
+                // Hämta nuvarande artikel-data
+                const urlParams = new URLSearchParams(window.location.search);
+                const slug = urlParams.get('article');
+                const category = urlParams.get('category');
+                
+                if (!slug || !category) {
+                    alert('Kunde inte identifiera artikel');
+                    return;
+                }
+                
+                // Hämta markdown-fil
+                const mdPath = `/documentation/${category}/${slug}.md`;
+                const response = await fetch(mdPath);
+                if (!response.ok) {
+                    throw new Error('Kunde inte ladda artikel');
+                }
+                
+                const content = await response.text();
+                
+                // Parse metadata och content
+                const lines = content.split('\n');
+                const title = lines[0].replace('# ', '').replace('⚙️', '');
+                
+                let metadata = {};
+                let fullContent = '';
+                let afterSeparator = false;
+                
+                for (let i = 1; i < lines.length; i++) {
+                    const line = lines[i];
+                    if (line.trim() === '---' || line.trim() === '----') {
+                        afterSeparator = true;
+                        continue;
+                    }
+                    
+                    if (!afterSeparator && line.startsWith('**')) {
+                        const match = line.match(/\*\*(.+?):\*\*\s*(.+)/);
+                        if (match) {
+                            metadata[match[1]] = match[2];
+                        }
+                    } else if (afterSeparator) {
+                        fullContent += line + '\n';
+                    }
+                }
+                
+                // Skapa HTML för Word
+                const categoryNames = {
+                    'time': 'Time',
+                    'employee': 'Employee',
+                    'payroll': 'Payroll',
+                    'travel-expense': 'Travel & Expense',
+                    'systemgemensamt': 'Systemgemensamt',
+                    'plan': 'Plan'
+                };
+                
+                let html = `<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>${title}</title>
+    <style>
+        body { font-family: Calibri, Arial, sans-serif; max-width: 800px; margin: 2em auto; line-height: 1.6; }
+        h1 { color: #667eea; margin-bottom: 1em; }
+        .meta { color: #666; background: #f5f5f5; padding: 1em; border-left: 4px solid #667eea; margin: 1em 0; }
+        .content { margin: 2em 0; white-space: pre-wrap; }
+    </style>
+</head>
+<body>
+    <h1>${title}</h1>
+    <div class="meta">
+        <p><strong>Kategori:</strong> ${categoryNames[category] || category}</p>
+        <p><strong>Datum:</strong> ${metadata['Datum'] || 'N/A'}</p>
+        <p><strong>URL:</strong> <a href="${metadata['URL']}">${metadata['URL']}</a></p>
+        ${metadata['Bilder'] && metadata['Bilder'] !== '0' ? `<p><strong>Bilder:</strong> ${metadata['Bilder']} st</p>` : ''}
+        ${metadata['Tags'] ? `<p><strong>Tags:</strong> ${metadata['Tags']}</p>` : ''}
+    </div>
+    <div class="content">${fullContent.replace(/\n/g, '<br>')}</div>
+</body>
+</html>`;
+                
+                // Konvertera till Word (om bibliotek finns, annars HTML)
+                if (typeof htmlDocx !== 'undefined') {
+                    const converted = htmlDocx.asBlob(html);
+                    const filename = title.substring(0, 50).replace(/[^a-zA-ZåäöÅÄÖ0-9\s]/g, '').trim().replace(/\s+/g, '_');
+                    downloadFile(converted, `${filename}.docx`);
+                } else {
+                    // Fallback till HTML
+                    const blob = new Blob([html], { type: 'text/html' });
+                    downloadFile(blob, `${slug}.html`);
+                }
+                
+            } catch (error) {
+                console.error('Export error:', error);
+                alert('Kunde inte exportera artikel. Försök igen.');
+            } finally {
+                btn.textContent = originalText;
+                btn.disabled = false;
+            }
+        }
+
+        // Download helper
+        function downloadFile(blob, filename) {
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
         }
 
         // Keyboard navigation for lightbox
