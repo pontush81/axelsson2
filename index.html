@@ -10,6 +10,8 @@
       window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
     </script>
     <script defer src="/_vercel/insights/script.js"></script>
+    <!-- HTML to DOCX library för Word-export -->
+    <script src="https://cdn.jsdelivr.net/npm/html-docx-js@0.3.1/dist/html-docx.min.js"></script>
     <style>
         :root {
             --primary: #667eea;
@@ -607,6 +609,9 @@
                     <button class="export-btn" onclick="exportAllArticles()">
                         📥 Exportera allt
                     </button>
+                    <button class="export-btn" onclick="showExportInfo()" style="background: rgba(255,255,255,0.15);">
+                        ℹ️
+                    </button>
                 </div>
             </div>
         </div>
@@ -1086,16 +1091,91 @@
 
         // Export alla artiklar
         function exportAllArticles() {
-            const format = prompt('Välj format:\n1 = JSON (öppnas i Excel)\n2 = Markdown\n3 = CSV', '1');
+            const format = prompt('Välj format:\n1 = Word (.docx)\n2 = Excel/Sheets (CSV)\n3 = JSON (för utvecklare)', '1');
             
             if (!format) return;
             
             if (format === '1') {
-                exportAsJSON(allArticles);
+                exportAsWord(filteredArticles.length > 0 ? filteredArticles : allArticles);
             } else if (format === '2') {
-                exportAsMarkdown(allArticles);
+                exportAsCSV(filteredArticles.length > 0 ? filteredArticles : allArticles);
             } else if (format === '3') {
-                exportAsCSV(allArticles);
+                exportAsJSON(filteredArticles.length > 0 ? filteredArticles : allArticles);
+            }
+        }
+
+        // Export som Word (.docx)
+        function exportAsWord(articles) {
+            // Bygg HTML-dokument
+            let html = `<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Flex HRM Dokumentation</title>
+    <style>
+        body { font-family: Calibri, Arial, sans-serif; line-height: 1.6; }
+        h1 { color: #667eea; text-align: center; }
+        h2 { color: #667eea; border-bottom: 2px solid #667eea; padding-bottom: 0.5em; }
+        h3 { color: #333; }
+        .meta { color: #666; font-style: italic; margin-bottom: 1em; }
+        .excerpt { margin: 1em 0; }
+        .tags { color: #888; font-size: 0.9em; }
+        hr { border: none; border-top: 1px solid #ccc; margin: 2em 0; }
+    </style>
+</head>
+<body>
+    <h1>📚 Flex HRM Dokumentation</h1>
+    <p style="text-align: center;">Exporterad: ${new Date().toLocaleString('sv-SE')}<br>
+    Totalt: ${articles.length} artiklar</p>
+    <hr>
+`;
+            
+            // Gruppera per kategori
+            const byCategory = {};
+            articles.forEach(article => {
+                if (!byCategory[article.category]) {
+                    byCategory[article.category] = [];
+                }
+                byCategory[article.category].push(article);
+            });
+            
+            const categoryNames = {
+                'time': 'Time',
+                'employee': 'Employee',
+                'payroll': 'Payroll',
+                'travel-expense': 'Travel & Expense',
+                'systemgemensamt': 'Systemgemensamt',
+                'plan': 'Plan'
+            };
+            
+            for (const [category, arts] of Object.entries(byCategory)) {
+                html += `<h2>${categoryNames[category] || category} (${arts.length} artiklar)</h2>`;
+                
+                arts.forEach(article => {
+                    html += `<h3>${article.title}</h3>`;
+                    html += `<div class="meta">`;
+                    html += `📅 ${article.date} | `;
+                    html += `🔗 <a href="${article.url}">${article.url}</a>`;
+                    if (article.imageCount > 0) {
+                        html += ` | 📸 ${article.imageCount} bilder`;
+                    }
+                    html += `</div>`;
+                    html += `<div class="excerpt">${article.excerpt}</div>`;
+                    if (article.tags && article.tags.length > 0) {
+                        html += `<div class="tags">🏷️ ${article.tags.join(', ')}</div>`;
+                    }
+                    html += `<hr>`;
+                });
+            }
+            
+            html += `</body></html>`;
+            
+            // Konvertera till DOCX
+            if (typeof htmlDocx !== 'undefined') {
+                const converted = htmlDocx.asBlob(html);
+                downloadFile(converted, `flex_hrm_${getDateString()}.docx`);
+            } else {
+                alert('Export-bibliotek laddas fortfarande. Försök igen om några sekunder.');
             }
         }
 
@@ -1111,7 +1191,7 @@
             downloadFile(blob, `flex_hrm_export_${getDateString()}.json`);
         }
 
-        // Export som Markdown
+        // Export som Markdown (behålls för utvecklare)
         function exportAsMarkdown(articles) {
             let md = '# Flex HRM Dokumentation\n\n';
             md += `Exporterad: ${new Date().toLocaleString('sv-SE')}\n`;
@@ -1185,21 +1265,44 @@
             const article = allArticles.find(a => a.slug === slug && a.category === category);
             if (!article) return;
             
-            // Skapa Markdown för artikeln
-            let md = `# ${article.title}\n\n`;
-            md += `**Kategori:** ${category}\n`;
-            md += `**Datum:** ${article.date}\n`;
-            md += `**URL:** ${article.url}\n`;
-            if (article.imageCount > 0) {
-                md += `**Bilder:** ${article.imageCount}\n`;
-                md += `**Bildmapp:** documentation/${category}/images/\n`;
-            }
-            md += `**Tags:** ${article.tags.join(', ')}\n\n`;
-            md += `---\n\n`;
-            md += `${article.excerpt}\n\n`;
+            // Skapa HTML för artikeln
+            let html = `<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>${article.title}</title>
+    <style>
+        body { font-family: Calibri, Arial, sans-serif; max-width: 800px; margin: 2em auto; line-height: 1.6; }
+        h1 { color: #667eea; }
+        .meta { color: #666; background: #f5f5f5; padding: 1em; border-left: 4px solid #667eea; margin: 1em 0; }
+        .content { margin: 2em 0; }
+        .tags { color: #888; }
+    </style>
+</head>
+<body>
+    <h1>${article.title}</h1>
+    <div class="meta">
+        <p><strong>Kategori:</strong> ${category}</p>
+        <p><strong>Datum:</strong> ${article.date}</p>
+        <p><strong>URL:</strong> <a href="${article.url}">${article.url}</a></p>
+        ${article.imageCount > 0 ? `<p><strong>Bilder:</strong> ${article.imageCount} st</p>` : ''}
+        ${article.tags.length > 0 ? `<p class="tags"><strong>Tags:</strong> ${article.tags.join(', ')}</p>` : ''}
+    </div>
+    <div class="content">
+        ${article.excerpt.replace(/\n/g, '<br>')}
+    </div>
+</body>
+</html>`;
             
-            const blob = new Blob([md], { type: 'text/markdown' });
-            downloadFile(blob, `${slug}.md`);
+            // Konvertera till DOCX
+            if (typeof htmlDocx !== 'undefined') {
+                const converted = htmlDocx.asBlob(html);
+                downloadFile(converted, `${article.title.substring(0, 50).replace(/[^a-zA-Z0-9]/g, '_')}.docx`);
+            } else {
+                // Fallback till HTML-nedladdning om bibliotek inte laddat
+                const blob = new Blob([html], { type: 'text/html' });
+                downloadFile(blob, `${slug}.html`);
+            }
         }
 
         // Hjälpfunktion: Ladda ner fil
@@ -1217,6 +1320,32 @@
         // Hjälpfunktion: Datum-string
         function getDateString() {
             return new Date().toISOString().split('T')[0];
+        }
+
+        // Visa export-info
+        function showExportInfo() {
+            alert(`📥 Export-alternativ:
+
+1️⃣ WORD (.docx)
+   • Öppnas direkt i Microsoft Word
+   • Öppnas i Google Docs: Fil → Öppna → Ladda upp
+   • Formaterad med rubriker och metadata
+   • Rekommenderas för läsning!
+
+2️⃣ CSV (Excel/Sheets)
+   • Öppnas direkt i Excel
+   • Öppnas i Google Sheets: Fil → Öppna → Ladda upp
+   • Tabellformat med alla artiklar
+   • Bra för filtrering och analys
+
+3️⃣ JSON
+   • För utvecklare och systemintegration
+   • Strukturerad data
+
+💡 Tips:
+- Exporterar de artiklar du ser (respekterar filter)
+- Klicka 📥 på artikelkort för enskild export
+- Word-filer kan konverteras till PDF i Word/Docs`);
         }
 
         // Initialize on load
