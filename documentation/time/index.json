@@ -5,7 +5,7 @@
     "slug": "dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -28,7 +28,7 @@
     "slug": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -51,7 +51,7 @@
     "slug": "vilka-olika-funktioner-finns-i-tidrapporten",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -101,7 +101,7 @@
     "slug": "varfor-har-jag-ospecad-tid-i-min-tidrapport",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -124,7 +124,7 @@
     "slug": "vad-markeras-som-avvikelse-i-tidrapporten",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -166,7 +166,7 @@
     "slug": "varfor-har-klockslagen-i-tidrapporten-olika-farger",
     "category": "time",
     "subcategory": "Schema & Planering",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -231,7 +231,7 @@
     "slug": "kan-tidrapporten-tillfalligt-lagga-ut-ett-annat-kostnadsstalle-an-mitt-hemkostnadsstalle",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [
       "tidrapport"
@@ -267,7 +267,7 @@
     "slug": "tidrapport-hur-fungerar-vyn-oversikt",
     "category": "time",
     "subcategory": "Mobil & Stämpling",
-    "type": "explanation",
+    "type": "feature",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -308,7 +308,7 @@
     "slug": "kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [
       "lön",
@@ -328,7 +328,7 @@
     "slug": "kan-jag-visa-veckonummer-i-tidrapportens-kalender",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "beginner",
     "tags": [
       "frånvaro",
@@ -515,7 +515,7 @@
     "slug": "franvaro-hur-ansoker-och-rapporterar-jag-franvaro-i-mobilen",
     "category": "time",
     "subcategory": "Mobil & Stämpling",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -560,7 +560,7 @@
     "slug": "varfor-visas-ett-framtida-saldo-i-franvarohanteraren",
     "category": "time",
     "subcategory": "Frånvaro & Semester",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -581,7 +581,7 @@
     "slug": "varfor-sparras-min-franvaroansokan-trots-att-det-finns-tillrackligt-mycket-i-det-utgaende-saldot",
     "category": "time",
     "subcategory": "Frånvaro & Semester",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -600,7 +600,7 @@
     "slug": "vilken-franvaro-galler-nar-det-finns-overlappande-franvaroposter",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -682,7 +682,7 @@
     "slug": "vilka-rapporter-kan-man-fa-ut-pa-deltidsfranvaro",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -995,7 +995,7 @@
     "slug": "vad-hander-nar-stampelklockan-ar-offline",
     "category": "time",
     "subcategory": "Mobil & Stämpling",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -1015,7 +1015,7 @@
     "slug": "loggas-stamplingar-som-gors-i-hrm-timeclock",
     "category": "time",
     "subcategory": "Mobil & Stämpling",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -1578,7 +1578,7 @@
     "slug": "kan-jag-se-information-om-mitt-schema-i-mobilen",
     "category": "time",
     "subcategory": "Schema & Planering",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [
       "mobil",
@@ -1622,7 +1622,7 @@
     "slug": "hur-skapar-man-ett-publikt-schema",
     "category": "time",
     "subcategory": "Schema & Planering",
-    "type": "config",
+    "type": "howto",
     "difficulty": "intermediate",
     "tags": [
       "ob",
@@ -1641,7 +1641,7 @@
     "slug": "hur-skapar-man-ett-personligt-schema",
     "category": "time",
     "subcategory": "Schema & Planering",
-    "type": "config",
+    "type": "howto",
     "difficulty": "intermediate",
     "tags": [
       "schema"
@@ -1741,7 +1741,7 @@
     "slug": "kan-jag-se-mina-saldon-i-mobilen",
     "category": "time",
     "subcategory": "Mobil & Stämpling",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -1876,7 +1876,7 @@
     "slug": "kan-jag-ta-ut-information-om-franvaro-i-rapportgeneratorn",
     "category": "time",
     "subcategory": "Frånvaro & Semester",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -1915,7 +1915,7 @@
     "slug": "kan-jag-skriva-ut-min-tidrapport",
     "category": "time",
     "subcategory": "Tidrapportering",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [
       "lön",
@@ -2001,7 +2001,7 @@
     "slug": "varfor-faller-sjuk-ob-ut-efter-dag-14",
     "category": "time",
     "subcategory": "Frånvaro & Semester",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "advanced",
     "tags": [
       "frånvaro",
@@ -2297,7 +2297,7 @@
     "slug": "omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporter",
     "category": "time",
     "subcategory": "Övertid & Ersättning",
-    "type": "howto",
+    "type": "other",
     "difficulty": "advanced",
     "tags": [
       "lön",
@@ -2342,7 +2342,7 @@
     "slug": "vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern",
     "category": "time",
     "subcategory": "Frånvaro & Semester",
-    "type": "explanation",
+    "type": "feature",
     "difficulty": "advanced",
     "tags": [
       "attestering",

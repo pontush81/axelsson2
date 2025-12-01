@@ -1,6 +1,6 @@
 # Genomför Lönekartläggning i HRM - Steg 1 förberedelser
 
-**Datum:** den 4 november 2025  
+**Datum:** den 1 december 2025  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  
@@ -66,6 +66,7 @@ Redigera arbetsfält
 , i detta exempel kallar du arbetet "Koordinator".
 Kontering -
 Används då ni har behov av att gruppera på annat sätt. Exempelvis ni har befattningen Projektledare. Alla anställda som projektledare har samma befattning i fältet befattning i HRM. Men inom befattningen projektledare finns det projektledare vars arbetsuppgifter ser väldigt olika ut, ni har svårt att arbetsvärdera detta arbete som ett och samma. Ni skapar då en kontering och definierar per anställd om den anställde är Senior projektledare, Intern projektledare eller Junior projektledare. På så sätt kan ni arbetsvärdera varje enskild grupp för sig.
+⚠️OBS! Detta alternativ kommer att tas bort i Flex HRMs nya version av Lönekartläggning som släpps under 2026. Vi rekommenderar därför att redan nu fundera på ert arbetsflöde och se över er struktur av befattningar inför 2026.
 Redigera arbetsfält
 behövs i de fall du lagt till något i valt registret/valda listan eller om du vill ta bort något av arbetena. Exempelvis om du använder befattningsregistret som gruppering kan du behöva ta bort befattningen för VD eftersom den inte ska ingå i analysen. Det används även för att skapa eller redigera grupper/arbeten när du valt Befattning (egen gruppering), se avsnitt nedan.
 Varning!
@@ -125,6 +126,7 @@ Enbart ett svarsalternativ per faktorfält/fråga är tillåtet och ger då angi
 ![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_7772702e.png)
 Varje faktorfält kan ha flera svar
 Varje svarsalternativ på ett faktorfält/en fråga/ett område går att svara på och ger då angivna poäng för samtliga svar inkl. eventuell viktning.
+⚠️OBS! Detta alternativ kommer att tas bort i Flex HRMs nya version av Lönekartläggning som släpps under 2026. Vi rekommenderar därför att se över er arbetssätt och anpassar era inställningar redan nu.
 Ange färdiga poäng per arbete
 Har du redan en färdig arbetsvärdering? Då kan du själv ange aktuell poäng per arbete här antingen manuellt eller via filimport. Detta är användbart om du t.ex. använder ett befintligt system för arbetsvärdering som t.ex. BAS eller BESTA. Detta alternativ innebär att ingen arbetsvärdering görs i HRM vilket gör att fliken Arbetsvärdering utgår.
 Återställ till standard

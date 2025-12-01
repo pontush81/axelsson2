@@ -5,7 +5,7 @@
     "slug": "nar-skickas-e-post-ut-om-andringar-pa-anstalld",
     "category": "systemgemensamt",
     "subcategory": "Mobil",
-    "type": "howto",
+    "type": "other",
     "difficulty": "advanced",
     "tags": [],
     "date": "den 21 november 2025",
@@ -21,7 +21,7 @@
     "slug": "skapas-visma-connect-konton-automatiskt-for-nyanstallda-i-flex-hrm",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "howto",
+    "type": "other",
     "difficulty": "advanced",
     "tags": [
       "användare",
@@ -41,7 +41,7 @@
     "slug": "automatisk-hantering-vid-borttag-av-visma-connect-koppling",
     "category": "systemgemensamt",
     "subcategory": "Mobil",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "användare",
@@ -141,7 +141,7 @@
     "slug": "kan-jag-se-en-oversikt-over-alla-delegerade-behorigheter",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [
       "användare",
@@ -161,7 +161,7 @@
     "slug": "kan-jag-delegera-min-attestbehorighet-tillfalligt-till-nagon-annan-nar-jag-ar-ledig",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [
       "användare",
@@ -181,7 +181,7 @@
     "slug": "vilken-roll-galler-nar-en-anvandare-har-flera-roller",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "användare",
@@ -285,7 +285,7 @@
     "slug": "inloggning-i-flex-hrm-och-byte-av-losenord",
     "category": "systemgemensamt",
     "subcategory": "Mobil",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "mobil"
@@ -321,7 +321,7 @@
     "slug": "kan-jag-valja-en-egen-startsida-i-flex-hrm",
     "category": "systemgemensamt",
     "subcategory": "Mobil",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [],
     "date": "den 5 september 2025",
@@ -353,7 +353,7 @@
     "slug": "kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "explanation",
+    "type": "faq",
     "difficulty": "intermediate",
     "tags": [
       "behörighet"
@@ -430,7 +430,7 @@
     "slug": "rapportgenerator-hur-schemalagger-jag-uttag-av-rapporter-fran-rapportgeneratorn",
     "category": "systemgemensamt",
     "subcategory": "Rapporter",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "behörighet"
@@ -504,7 +504,7 @@
     "slug": "statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen",
     "category": "systemgemensamt",
     "subcategory": "Register",
-    "type": "howto",
+    "type": "other",
     "difficulty": "advanced",
     "tags": [
       "behörighet",
@@ -523,7 +523,7 @@
     "slug": "dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden",
     "category": "systemgemensamt",
     "subcategory": "Inställningar",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [],
     "date": "den 17 oktober 2025",
@@ -849,7 +849,7 @@
     "slug": "var-hittar-jag-information-om-narmast-anhoriga",
     "category": "systemgemensamt",
     "subcategory": "Mobil",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "mobil"
@@ -867,7 +867,7 @@
     "slug": "mina-kollegor-var-hittar-jag-information-om-mina-kollegor",
     "category": "systemgemensamt",
     "subcategory": "Mobil",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "mobil"
@@ -901,7 +901,7 @@
     "slug": "vilka-sprak-ar-mojliga-att-valja-pa-i-flex-hrm",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "explanation",
+    "type": "other",
     "difficulty": "beginner",
     "tags": [
       "användare"
@@ -937,7 +937,7 @@
     "slug": "anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "användare"
@@ -1015,7 +1015,7 @@
     "slug": "administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen",
     "category": "systemgemensamt",
     "subcategory": "Mobil",
-    "type": "howto",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
       "behörighet",
@@ -1034,7 +1034,7 @@
     "slug": "hur-aktiverar-jag-koncernhantering-i-flex-hrm",
     "category": "systemgemensamt",
     "subcategory": "Inställningar",
-    "type": "config",
+    "type": "howto",
     "difficulty": "advanced",
     "tags": [],
     "date": "den 5 november 2025",
@@ -1355,7 +1355,7 @@
     "slug": "checklista-vid-arsskifte-i-flex-hrm-payroll",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "howto",
+    "type": "other",
     "difficulty": "beginner",
     "tags": [
       "roll"
