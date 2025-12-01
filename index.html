@@ -56,6 +56,42 @@
             opacity: 0.9;
         }
 
+        .update-btn {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            padding: 0.7rem 1.5rem;
+            border-radius: 25px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .update-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            border-color: rgba(255, 255, 255, 0.5);
+            transform: translateY(-2px);
+        }
+
+        .update-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .update-btn.updating #updateIcon {
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
         /* Search & Filter Section */
         .search-section {
             max-width: 1200px;
@@ -130,6 +166,74 @@
         .filter-group select:focus {
             outline: none;
             border-color: var(--primary);
+        }
+
+        .date-filter {
+            margin-top: 1.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--border);
+        }
+
+        .date-filter-title {
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 1rem;
+            font-size: 1rem;
+        }
+
+        .date-filter-options {
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+        }
+
+        .date-radio-group {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            cursor: pointer;
+        }
+
+        .date-radio-group input[type="radio"] {
+            cursor: pointer;
+            width: 18px;
+            height: 18px;
+        }
+
+        .date-radio-group label {
+            cursor: pointer;
+            font-size: 0.95rem;
+            color: var(--text);
+        }
+
+        .custom-date-range {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            margin-left: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .custom-date-range input[type="date"] {
+            padding: 0.4rem 0.8rem;
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            font-size: 0.9rem;
+        }
+
+        .custom-date-range input[type="date"]:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .new-badge {
+            background: #10b981;
+            color: white;
+            padding: 0.2rem 0.8rem;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            margin-left: 0.5rem;
         }
 
         .filter-tags {
@@ -436,6 +540,16 @@
                 align-items: stretch;
             }
 
+            .custom-date-range {
+                flex-direction: column;
+                align-items: stretch;
+                margin-left: 1.5rem;
+            }
+
+            .custom-date-range input[type="date"] {
+                width: 100%;
+            }
+
             .articles-grid {
                 grid-template-columns: 1fr;
             }
@@ -446,7 +560,13 @@
     <!-- Header -->
     <header class="header">
         <div class="header-content">
-            <h1>📚 Flex HRM Dokumentation</h1>
+            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+                <h1 style="margin: 0;">📚 Flex HRM Dokumentation</h1>
+                <button id="updateBtn" class="update-btn" onclick="triggerUpdate()">
+                    <span id="updateIcon">🔄</span>
+                    <span id="updateText">Uppdatera dokumentation</span>
+                </button>
+            </div>
         </div>
     </header>
 
@@ -475,6 +595,39 @@
                         <option value="systemgemensamt">Systemgemensamt</option>
                         <option value="plan">Plan</option>
                     </select>
+                </div>
+            </div>
+
+            <div class="date-filter">
+                <div class="date-filter-title">📅 Uppdaterad:</div>
+                <div class="date-filter-options">
+                    <div class="date-radio-group">
+                        <input type="radio" id="dateAll" name="dateFilter" value="all" checked>
+                        <label for="dateAll">Alla artiklar</label>
+                    </div>
+                    <div class="date-radio-group">
+                        <input type="radio" id="date30" name="dateFilter" value="30">
+                        <label for="date30">Senaste månaden (30 dagar)</label>
+                        <span class="new-badge" id="new30Badge" style="display: none;">0 nya</span>
+                    </div>
+                    <div class="date-radio-group">
+                        <input type="radio" id="date90" name="dateFilter" value="90">
+                        <label for="date90">Senaste 3 månaderna</label>
+                    </div>
+                    <div class="date-radio-group">
+                        <input type="radio" id="date180" name="dateFilter" value="180">
+                        <label for="date180">Senaste 6 månaderna</label>
+                    </div>
+                    <div class="date-radio-group">
+                        <input type="radio" id="dateCustom" name="dateFilter" value="custom">
+                        <label for="dateCustom">Anpassat datumintervall:</label>
+                    </div>
+                    <div class="custom-date-range" id="customDateRange" style="display: none;">
+                        <label>Från:</label>
+                        <input type="date" id="dateFrom">
+                        <label>Till:</label>
+                        <input type="date" id="dateTo">
+                    </div>
                 </div>
             </div>
         </div>
@@ -550,6 +703,9 @@
 
                 // Setup event listeners
                 setupEventListeners();
+                
+                // Update new badge count
+                updateNewBadge();
 
             } catch (error) {
                 console.error('Error loading articles:', error);
@@ -563,6 +719,31 @@
             }
         }
 
+        // Parse Swedish date format "den 21 november 2025" to Date object
+        function parseSwedishDate(dateString) {
+            if (!dateString) return null;
+            
+            const months = {
+                'januari': 0, 'februari': 1, 'mars': 2, 'april': 3,
+                'maj': 4, 'juni': 5, 'juli': 6, 'augusti': 7,
+                'september': 8, 'oktober': 9, 'november': 10, 'december': 11
+            };
+            
+            // Match pattern "den DD månad YYYY"
+            const match = dateString.match(/den (\d+) (\w+) (\d{4})/);
+            if (match) {
+                const day = parseInt(match[1]);
+                const month = months[match[2].toLowerCase()];
+                const year = parseInt(match[3]);
+                
+                if (month !== undefined) {
+                    return new Date(year, month, day);
+                }
+            }
+            
+            return null;
+        }
+
         // Setup event listeners
         function setupEventListeners() {
             // Search
@@ -570,6 +751,23 @@
 
             // Filters
             document.getElementById('categoryFilter').addEventListener('change', filterArticles);
+
+            // Date filter radio buttons
+            document.querySelectorAll('input[name="dateFilter"]').forEach(radio => {
+                radio.addEventListener('change', (e) => {
+                    const customRange = document.getElementById('customDateRange');
+                    if (e.target.value === 'custom') {
+                        customRange.style.display = 'flex';
+                    } else {
+                        customRange.style.display = 'none';
+                    }
+                    filterArticles();
+                });
+            });
+
+            // Custom date inputs
+            document.getElementById('dateFrom').addEventListener('change', filterArticles);
+            document.getElementById('dateTo').addEventListener('change', filterArticles);
 
             // View toggle
             document.querySelectorAll('.view-btn').forEach(btn => {
@@ -580,12 +778,38 @@
                     renderArticles();
                 });
             });
+
+            // Update "nya" badge count
+            updateNewBadge();
+        }
+
+        // Update badge showing count of new articles
+        function updateNewBadge() {
+            const now = new Date();
+            const thirtyDaysAgo = new Date(now.getTime() - (30 * 24 * 60 * 60 * 1000));
+            
+            let newCount = 0;
+            allArticles.forEach(article => {
+                const articleDate = parseSwedishDate(article.date);
+                if (articleDate && articleDate >= thirtyDaysAgo) {
+                    newCount++;
+                }
+            });
+            
+            const badge = document.getElementById('new30Badge');
+            if (newCount > 0) {
+                badge.textContent = `${newCount} nya`;
+                badge.style.display = 'inline-block';
+            } else {
+                badge.style.display = 'none';
+            }
         }
 
         // Filter articles
         function filterArticles() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const categoryFilter = document.getElementById('categoryFilter').value;
+            const dateFilterValue = document.querySelector('input[name="dateFilter"]:checked').value;
 
             filteredArticles = allArticles.filter(article => {
                 // Search term
@@ -596,6 +820,36 @@
 
                 // Category filter
                 if (categoryFilter && article.category !== categoryFilter) return false;
+
+                // Date filter
+                if (dateFilterValue !== 'all') {
+                    const articleDate = parseSwedishDate(article.date);
+                    if (!articleDate) return false; // Skip articles without valid date
+                    
+                    const now = new Date();
+                    
+                    if (dateFilterValue === 'custom') {
+                        const dateFrom = document.getElementById('dateFrom').value;
+                        const dateTo = document.getElementById('dateTo').value;
+                        
+                        if (dateFrom) {
+                            const fromDate = new Date(dateFrom);
+                            if (articleDate < fromDate) return false;
+                        }
+                        
+                        if (dateTo) {
+                            const toDate = new Date(dateTo);
+                            toDate.setHours(23, 59, 59); // Include the entire "to" day
+                            if (articleDate > toDate) return false;
+                        }
+                    } else {
+                        // Predefined filters (30, 90, 180 days)
+                        const daysAgo = parseInt(dateFilterValue);
+                        const filterDate = new Date(now.getTime() - (daysAgo * 24 * 60 * 60 * 1000));
+                        
+                        if (articleDate < filterDate) return false;
+                    }
+                }
 
                 return true;
             });
@@ -690,6 +944,13 @@
 
         // Render article card
         function renderArticleCard(article) {
+            // Check if article is new (within 30 days)
+            const articleDate = parseSwedishDate(article.date);
+            const now = new Date();
+            const thirtyDaysAgo = new Date(now.getTime() - (30 * 24 * 60 * 60 * 1000));
+            const isNew = articleDate && articleDate >= thirtyDaysAgo;
+            const newBadge = isNew ? '<span class="new-badge">NYTT</span>' : '';
+            
             if (currentView === 'list') {
                 const imageCount = article.imageCount || 0;
                 const imageBadge = imageCount > 0 ? 
@@ -698,7 +959,7 @@
                 return `
                     <div class="article-list-item" data-slug="${article.slug}" data-category="${article.category}">
                         <div>
-                            <div class="article-title">${article.title}</div>
+                            <div class="article-title">${article.title}${newBadge}</div>
                             <div style="margin-top: 0.5rem;">
                                 ${imageBadge}
                                 ${article.tags.slice(0, 3).map(tag => 
@@ -716,7 +977,7 @@
 
             return `
                 <div class="article-card" data-slug="${article.slug}" data-category="${article.category}">
-                    <div class="article-title">${article.title}</div>
+                    <div class="article-title">${article.title}${newBadge}</div>
                     <div class="article-excerpt">${article.excerpt}</div>
                     <div class="article-footer">
                         ${imageBadge}
@@ -739,6 +1000,134 @@
                 clearTimeout(timeout);
                 timeout = setTimeout(later, wait);
             };
+        }
+
+        // Trigger documentation update
+        async function triggerUpdate() {
+            const btn = document.getElementById('updateBtn');
+            const icon = document.getElementById('updateIcon');
+            const text = document.getElementById('updateText');
+            
+            // Disable button during update
+            btn.disabled = true;
+            btn.classList.add('updating');
+            text.textContent = 'Uppdaterar...';
+            
+            try {
+                // Steg 1: Hämta säker token från backend
+                // Token är IP-bunden och tidsbegränsad
+                const tokenResponse = await fetch('/api/get_token');
+                const tokenData = await tokenResponse.json();
+                
+                if (!tokenData.success) {
+                    throw new Error(tokenData.message || 'Kunde inte få update-token');
+                }
+                
+                const updateToken = tokenData.token;
+                
+                // Steg 2: Använd token för att trigga update
+                const response = await fetch('/api/update', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-Update-Token': updateToken
+                    }
+                });
+                
+                const result = await response.json();
+                
+                // Hantera olika response-koder
+                if (response.status === 429) {
+                    // Rate limited
+                    text.textContent = `⏳ ${result.message}`;
+                    icon.textContent = '⏳';
+                    btn.classList.remove('updating');
+                    
+                    setTimeout(() => {
+                        btn.disabled = false;
+                        text.textContent = 'Uppdatera dokumentation';
+                        icon.textContent = '🔄';
+                    }, 5000);
+                    return;
+                }
+                
+                if (response.status === 202 || result.code === 'QUEUED') {
+                    // Queued
+                    text.textContent = `⏸️ ${result.message}`;
+                    icon.textContent = '⏸️';
+                    btn.classList.remove('updating');
+                    
+                    setTimeout(() => {
+                        btn.disabled = false;
+                        text.textContent = 'Uppdatera dokumentation';
+                        icon.textContent = '🔄';
+                    }, 5000);
+                    return;
+                }
+                
+                if (response.status === 401) {
+                    // Unauthorized
+                    text.textContent = '🔒 Ej behörig';
+                    icon.textContent = '🔒';
+                    btn.classList.remove('updating');
+                    
+                    setTimeout(() => {
+                        btn.disabled = false;
+                        text.textContent = 'Uppdatera dokumentation';
+                        icon.textContent = '🔄';
+                    }, 3000);
+                    return;
+                }
+                
+                if (result.success) {
+                    const changes = result.changes || {};
+                    const totalChanges = (changes.new || 0) + (changes.updated || 0) + (changes.deleted || 0);
+                    
+                    if (totalChanges === 0) {
+                        // Inga ändringar
+                        text.textContent = 'ℹ️ Allt är uppdaterat';
+                        icon.textContent = 'ℹ️';
+                        btn.classList.remove('updating');
+                        
+                        // Reset after 3 seconds
+                        setTimeout(() => {
+                            btn.disabled = false;
+                            text.textContent = 'Uppdatera dokumentation';
+                            icon.textContent = '🔄';
+                        }, 3000);
+                    } else {
+                        // Visa vad som ändrades
+                        let message = '✓ ';
+                        const parts = [];
+                        if (changes.new > 0) parts.push(`${changes.new} nya`);
+                        if (changes.updated > 0) parts.push(`${changes.updated} uppdaterade`);
+                        if (changes.deleted > 0) parts.push(`${changes.deleted} raderade`);
+                        
+                        text.textContent = message + parts.join(', ');
+                        icon.textContent = '✓';
+                        
+                        // Reload data after 2 seconds
+                        setTimeout(() => {
+                            location.reload();
+                        }, 2000);
+                    }
+                } else {
+                    throw new Error(result.message || 'Uppdatering misslyckades');
+                }
+                
+            } catch (error) {
+                console.error('Update error:', error);
+                text.textContent = '❌ Fel vid uppdatering';
+                icon.textContent = '❌';
+                btn.classList.remove('updating');
+                
+                // Reset after 3 seconds
+                setTimeout(() => {
+                    btn.disabled = false;
+                    text.textContent = 'Uppdatera dokumentation';
+                    icon.textContent = '🔄';
+                }, 3000);
+            }
         }
 
         // Initialize on load
