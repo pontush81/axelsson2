@@ -604,7 +604,11 @@
             const headings = document.querySelectorAll('.article-body h1, .article-body h2, .article-body h3');
             
             if (headings.length === 0) {
-                document.getElementById('tocList').innerHTML = '<li class="toc-item">Inget innehåll</li>';
+                // Dölj TOC-sektionen om det inte finns rubriker
+                const tocSection = document.querySelector('.sidebar-section');
+                if (tocSection && tocSection.querySelector('#tocList')) {
+                    tocSection.style.display = 'none';
+                }
                 return;
             }
 
