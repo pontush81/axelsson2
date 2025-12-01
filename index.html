@@ -548,7 +548,9 @@
     <header class="header">
         <div class="header-content">
             <h1>📚 Flex HRM Dokumentation</h1>
-            <p style="margin-top: 0.5rem; opacity: 0.9;">Uppdateras automatiskt varje natt kl 02:00</p>
+            <p style="margin-top: 0.5rem; opacity: 0.9;">
+                <span id="updateStatus">Uppdateras automatiskt varje natt kl 02:00</span>
+            </p>
         </div>
     </header>
 
@@ -680,6 +682,39 @@
                 // Update stats
                 document.getElementById('totalArticles').textContent = allArticles.length;
                 document.getElementById('lastUpdated').textContent = new Date(masterIndex.last_updated).toLocaleDateString('sv-SE');
+                
+                // Update status med senaste kontroll
+                if (masterIndex.last_check) {
+                    const lastCheck = new Date(masterIndex.last_check);
+                    const lastUpdate = new Date(masterIndex.last_updated);
+                    const now = new Date();
+                    const diffHours = Math.floor((now - lastCheck) / 1000 / 60 / 60);
+                    
+                    let statusText = '';
+                    const statusIcon = masterIndex.last_check_status === 'success' ? '✅' : '⚠️';
+                    
+                    // Visa när senast kontrollerad
+                    if (diffHours < 1) {
+                        const diffMin = Math.floor((now - lastCheck) / 1000 / 60);
+                        statusText = `${statusIcon} Kontrollerad ${diffMin} min sedan`;
+                    } else if (diffHours < 24) {
+                        statusText = `${statusIcon} Kontrollerad ${diffHours} timmar sedan`;
+                    } else {
+                        const days = Math.floor(diffHours / 24);
+                        statusText = `${statusIcon} Kontrollerad ${days} dag${days > 1 ? 'ar' : ''} sedan`;
+                    }
+                    
+                    // Visa om innehåll uppdaterades vid senaste körning
+                    const wasUpdated = Math.abs(lastCheck - lastUpdate) < 60000; // Inom 1 minut
+                    if (wasUpdated) {
+                        statusText += ' (innehåll uppdaterat)';
+                    } else {
+                        statusText += ' (inga ändringar)';
+                    }
+                    
+                    statusText += ' • Nästa: Varje natt kl 02:00';
+                    document.getElementById('updateStatus').textContent = statusText;
+                }
 
                 // Initialize display
                 filteredArticles = [...allArticles];

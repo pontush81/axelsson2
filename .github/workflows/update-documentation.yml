@@ -42,10 +42,27 @@ jobs:
         id: scrape
         run: |
           echo "🔄 Startar full scraping (fångar ALLA ändringar)..."
-          echo "⏰ Beräknad tid: ~2 minuter för 369 artiklar"
+          echo "⏰ Beräknad tid: ~8-10 minuter för 369 artiklar"
           python3 scraper_with_images.py 2>&1 | tee scrape_output.txt || true
           
           echo "✅ Scraping slutförd"
+          
+          # Uppdatera last_check i master_index.json
+          python3 << 'EOF'
+import json
+from datetime import datetime
+
+with open('documentation/master_index.json', 'r', encoding='utf-8') as f:
+    master = json.load(f)
+
+master['last_check'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+master['last_check_status'] = 'success'
+
+with open('documentation/master_index.json', 'w', encoding='utf-8') as f:
+    json.dump(master, f, ensure_ascii=False, indent=2)
+
+print(f"✅ last_check uppdaterad: {master['last_check']}")
+EOF
       
       - name: 📈 Kontrollera om ändringar finns
         id: changes
