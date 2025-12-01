@@ -7,14 +7,15 @@
     { "source": "/employee", "destination": "/employee.html" },
     { "source": "/travel-expense", "destination": "/travel-expense.html" },
     { "source": "/payroll", "destination": "/payroll.html" },
-    { "source": "/plan", "destination": "/plan.html" }
+    { "source": "/plan", "destination": "/plan.html" },
+    { "source": "/favicon.ico", "destination": "/favicon.svg" }
   ],
   "functions": {
-    "api/update.py": {
+    "api/update.js": {
       "maxDuration": 300,
       "memory": 1024
     },
-    "api/get_token.py": {
+    "api/get_token.js": {
       "maxDuration": 10,
       "memory": 256
     }
