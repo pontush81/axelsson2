@@ -154,26 +154,55 @@
         }
 
         .article-body {
-            font-size: 1.1rem;
+            font-size: 1.05rem;
             line-height: 1.8;
+            color: #374151;
         }
 
-        .article-body h1,
-        .article-body h2,
-        .article-body h3 {
+        .article-body h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-top: 2.5rem;
+            margin-bottom: 1.5rem;
+            color: #111827;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 0.5rem;
+        }
+
+        .article-body h2 {
+            font-size: 1.6rem;
+            font-weight: 700;
             margin-top: 2rem;
+            margin-bottom: 1.2rem;
+            color: #1f2937;
+        }
+
+        .article-body h3 {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-top: 1.5rem;
             margin-bottom: 1rem;
-            color: var(--text);
+            color: #374151;
         }
 
         .article-body p {
-            margin-bottom: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .article-body strong {
+            font-weight: 600;
+            color: #1f2937;
         }
 
         .article-body ul,
         .article-body ol {
-            margin-left: 2rem;
-            margin-bottom: 1rem;
+            margin: 1.5rem 0;
+            padding-left: 2rem;
+            line-height: 1.8;
+        }
+
+        .article-body li {
+            margin-bottom: 0.5rem;
         }
 
         .article-body code {
@@ -181,6 +210,16 @@
             padding: 0.2rem 0.4rem;
             border-radius: 4px;
             font-family: monospace;
+            font-size: 0.9em;
+        }
+
+        .article-body img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 2rem 0;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
         }
 
         .article-body img {
@@ -489,7 +528,7 @@
             const response = await fetch(`/documentation/${currentArticle.category}/${currentArticle.file}`);
             const markdown = await response.text();
 
-            // Parse markdown (simple parser)
+            // Parse markdown - extract content after ---
             const lines = markdown.split('\n');
             let contentStarted = false;
             let content = [];
@@ -504,21 +543,61 @@
                 }
             }
 
-            // Convert to HTML (enhanced conversion with image support)
-            let html = content.join('\n')
-                // Images: ![alt](path)
-                .replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="/documentation/' + currentArticle.category + '/$2" alt="$1" style="max-width: 100%; height: auto; margin: 2rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">')
+            // Better markdown to HTML conversion
+            let text = content.join('\n');
+            let html = '';
+            const blocks = text.split('\n\n');
+            
+            for (let block of blocks) {
+                block = block.trim();
+                if (!block) continue;
+                
+                // Images
+                if (block.includes('![')) {
+                    block = block.replace(/!\[(.*?)\]\((.*?)\)/g, 
+                        '<img src="/documentation/' + currentArticle.category + '/$2" alt="$1" style="max-width: 100%; height: auto; margin: 2rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">');
+                    html += block + '\n';
+                    continue;
+                }
+                
                 // Headers
-                .replace(/^# (.*$)/gim, '<h1>$1</h1>')
-                .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-                .replace(/^### (.*$)/gim, '<h3>$1</h3>')
-                // Bold
-                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                // Paragraphs
-                .replace(/\n\n/g, '</p><p>')
-                .replace(/\n/g, '<br>');
-
-            html = '<p>' + html + '</p>';
+                if (block.startsWith('### ')) {
+                    html += '<h3>' + block.substring(4) + '</h3>\n';
+                } else if (block.startsWith('## ')) {
+                    html += '<h2>' + block.substring(3) + '</h2>\n';
+                } else if (block.startsWith('# ')) {
+                    html += '<h1>' + block.substring(2) + '</h1>\n';
+                }
+                // Lists (simple detection)
+                else if (block.includes('\n.') || block.includes('\n-') || block.includes('\n•')) {
+                    const listItems = block.split('\n').map(line => {
+                        line = line.trim();
+                        // Remove list markers
+                        if (line.startsWith('. ') || line.startsWith('• ')) {
+                            line = line.substring(2);
+                        } else if (line.startsWith('- ')) {
+                            line = line.substring(2);
+                        }
+                        // Bold
+                        line = line.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                        return line;
+                    }).filter(line => line);
+                    
+                    html += '<ul style="margin: 1.5rem 0; padding-left: 2rem; line-height: 1.8;">\n';
+                    listItems.forEach(item => {
+                        if (item) html += '<li style="margin-bottom: 0.5rem;">' + item + '</li>\n';
+                    });
+                    html += '</ul>\n';
+                }
+                // Regular paragraphs
+                else {
+                    // Bold
+                    block = block.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                    // Single line breaks within paragraph
+                    block = block.replace(/\n/g, '<br>');
+                    html += '<p style="margin-bottom: 1.5rem;">' + block + '</p>\n';
+                }
+            }
 
             document.getElementById('articleTitle').textContent = currentArticle.title;
             document.getElementById('articleBody').innerHTML = html;
