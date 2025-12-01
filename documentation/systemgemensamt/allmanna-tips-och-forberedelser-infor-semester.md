@@ -2,6 +2,11 @@
 
 **Datum:** den 1 oktober 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** användare, behörighet, roll  
+**Bilder:** 7  
 **URL:** https://knowledge.flexapplications.se/tips-inf%C3%B6r-semester
 
 ---
@@ -39,11 +44,13 @@ Välj en roll i listan.
 Bocka i rutan
 Tillåt delegering av roll till annan användare
 .
+![Bild](images/allmanna-tips-och-forberedelser-infor-semester_ffedb329.png)
 Endast de roller där inställningen "Tillåt delegering av roll till annan användare" är aktiv kan delegeras av användarna.
 Så här delegerar du som användare
 Gå till dina
 Min profil > Delegera användarbehörighet
 .
+![Bild](images/allmanna-tips-och-forberedelser-infor-semester_41248dfe.png)
 I listan till vänster ser du aktiva delegeringar i fet stil och kommande med normal stil. Bocka i
 Visa även historik
 för att se tidigare delegeringar.
@@ -55,19 +62,23 @@ T.o.m. datum
 T.o.m. datum
 tomt fortsätter delegeringen tills den tas bort manuellt.
 Välj vem du vill delegera till och vilken eller vilka roller det gäller.
+![Bild](images/allmanna-tips-och-forberedelser-infor-semester_495bbaa0.png)
 Så här delegerar du som administratör
 Som administratör kan du se, skapa och redigera delegeringar för de användare du har behörighet över.
 Gå till
 Administration > Användare/Behörigheter > Delegerade behörigheter
 .
+![Bild](images/allmanna-tips-och-forberedelser-infor-semester_d0708536.png)
 I listan ser du aktuella delegeringar, vem som delegerat, vem som fått delegeringen och under vilken period. Håll muspekaren över
 i
 -symbolen för att se vem som skapade eller senast ändrade delegeringen.
+![Bild](images/allmanna-tips-och-forberedelser-infor-semester_f75e65ac.png)
 För att skapa en ny delegering, välj vilken användare som ska delegera
 från
 , vilken som ska ta emot delegeringen (
 till
 ) och vilka roller som ska ingå.
+![Bild](images/allmanna-tips-och-forberedelser-infor-semester_f0d63bbc.png)
 Observera!
 Du kan endast delegera de roller som du själv har behörighet att tilldela.
 Kontrollera vilka roller du kan tilldela
@@ -82,3 +93,4 @@ Inga roller
 ,
 Alla roller
 eller ett specifikt urval av roller.
+![Bild](images/allmanna-tips-och-forberedelser-infor-semester_af4ae783.png)

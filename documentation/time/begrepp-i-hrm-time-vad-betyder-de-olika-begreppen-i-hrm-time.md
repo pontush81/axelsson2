@@ -2,6 +2,11 @@
 
 **Datum:** den 15 augusti 2025  
 **Kategori:** Time  
+**Underkategori:** Tidrapportering  
+**Typ:** concept  
+**Svårighetsgrad:** advanced  
+**Tags:** attestering, frånvaro, hrm-time, lön, schema, stämpling, tidkod, tidrapport  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time
 
 ---

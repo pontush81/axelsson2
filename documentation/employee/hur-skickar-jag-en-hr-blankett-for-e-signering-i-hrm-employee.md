@@ -2,6 +2,11 @@
 
 **Datum:** den 12 augusti 2025  
 **Kategori:** Employee  
+**Underkategori:** Anställningshantering  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** anställning, dokument, hrm-employee, signering  
+**Bilder:** 5  
 **URL:** https://knowledge.flexapplications.se/hur-skickar-jag-en-hrblankett-for-esignering-i-hrm-employee
 
 ---
@@ -16,6 +21,7 @@ ska du förhandsgranska avtalet för att se hur det ser ut innan det skickas.
 Välj under
 Övrigt
 Signeringsordning, Deadline och ev. Meddelande.
+![Bild](images/hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee_b04032ea.png)
 Om ert företag tillåter så kan ett dokument vid behov justeras manuellt innan det skickas för e-signering. Under
 Dokument att signera
 klickar du först på ikonen i mitten
@@ -23,10 +29,12 @@ Ladda ner
 , redigerar dokumentet och sparar det på din dator. Klicka sedan på ikonen
 Ladda upp
 till höger för att ladda upp ditt redigerade dokument som du vill ska skickas för signering.
+![Bild](images/hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee_745af42a.png)
 Ladda upp-ikonen blir inte aktiv förrän du först laddat ner dokumentet.
 När ett redigerat dokument har laddat upp kan du se det redigerade dokumentet via Ikonen
 Förhandsgranska
 .
+![Bild](images/hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee_7042aff3.png)
 Val av
 signeringsordning
 innebär att du kan välja om mottagarna ska signera i tur och ordning eller om alla mottagare kan signera dokumentet parallellt.
@@ -34,7 +42,9 @@ Efter att datumet för
 deadline
 har passerat kan dokumentet inte signeras.
 När dokument och inställningar är granskat kan du skicka det för signering.
+![Bild](images/hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee_29831491.png)
 Mottagaren som ska signera ett dokument får ett e-postmeddelande som ser ut ungefär som bilden nedan. För att granska och signera dokumentet följer de instruktionerna i mailet.
+![Bild](images/hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee_5a151363.png)
 Dokumentet hamnar nu under
 Dokument
 på den anställde. Här kan du följa status på dokumentets under signeringsprocessen.

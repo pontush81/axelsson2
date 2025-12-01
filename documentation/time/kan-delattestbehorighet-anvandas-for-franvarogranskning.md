@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Time  
+**Underkategori:** Tidrapportering  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** frånvaro, mobil, ob, semester, tidkod, tidrapport  
+**Bilder:** 5  
 **URL:** https://knowledge.flexapplications.se/kan-delattestbeh%C3%B6righet-anv%C3%A4ndas-f%C3%B6r-fr%C3%A5nvarogranskning
 
 ---
@@ -17,12 +22,17 @@ Du kan sedan för varje
 frånvaroorsak
 ställa in om konteringar måste/kan/inte kan anges samt om de angivna konteringarna ska falla ut i tidrapporten. För detta krävs också att tidkoden som genereras är inställd på att kontering kan anges.
 Om du inte gör några förändringar på frånvaroorsakerna är standard att projekt måste anges samt att det kommer att läggas ut i tidrapporten.
+![Inställningar frånvaroorsak Semester. Regel för konteringar har valen Måste anges, Kan anges, Kan ej anges. ](images/kan-delattestbehorighet-anvandas-for-franvarogranskning_efc3e68f.png)
 I frånvarohanteraren kommer det att finnas fält för att ange konteringar när man väljer en frånvaroorsak som är inställd på att konteringar kan eller måste anges. Vid måste anges går det inte att spara utan att ha angett konteringar.
+![Frånvarohanteraren. Ansökan Semester. Projekt är inte ifyllt, ett felmeddelande säger att projekt måste anges.](images/kan-delattestbehorighet-anvandas-for-franvarogranskning_45eb497c.png)
 En användare som via fliken Konteringsgranskning är behörig till den kontering som registrerats på en frånvaroansökan kommer sedan att få upp den frånvaroansökan på startsidan i HRM samt i HRM Mobile där man granskar frånvaroansökningar. Det gäller även påminnelser som kan skickas via e-post eller som notis i HRM Mobile.
+![Användarregistret. Fliken Konteringsgranskning. Användaren är behörig till ett projekt, 7.](images/kan-delattestbehorighet-anvandas-for-franvarogranskning_d41f6ffa.png)
 Exempel
 Användare KB är behörig att granska projekt 7.
 Anställd 2 ansöker om Semester en dag i oktober med projekt 7, en dag i november med projekt 8.
 Användare KB får granska, och får påminnelser om, oktober-frånvaron, men är inte behörig att granska november-frånvaron.
+![Frånvaro oktober, projekt 7. Valen "Bevilja" och "Avslå" är aktiva.](images/kan-delattestbehorighet-anvandas-for-franvarogranskning_cb58db52.png)
+![Frånvaro november, projekt 8. Valen "Bevilja" och "Avslå" är utgråade.](images/kan-delattestbehorighet-anvandas-for-franvarogranskning_0453f2ee.png)
 Observera
 att användningen av en konteringsdimension i frånvarohanteringen inte slår ut vanlig behörighet. Vill ni att frånvaro endast ska granskas av den som är behörig till ett projekt behöver ni se över era roller och behörigheter, så att det inte finns användare med behörighet att granska anställdas frånvaro.
 Bra att veta om kontering på frånvaro

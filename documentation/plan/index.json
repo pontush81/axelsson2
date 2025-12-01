@@ -1,10 +1,150 @@
 [
-  {"title": "Begrepp i HRM Plan - Vad betyder de olika begreppen i HRM Plan?", "file": "begrepp-i-hrm-plan-vad-betyder-de-olika-begreppen-i-hrm-plan.md"}
-,
-  {"title": "Hur kan jag prenumerera på mitt schema till min kalender ?", "file": "hur-kan-jag-prenumerera-pa-mitt-schema-till-min-kalender.md"}
-,
-  {"title": "Vad behöver jag som administratör ställa in i HRM för att vi ska kunna använda oss av funktionen Prenumerera på schema som kalender?", "file": "vad-behover-jag-som-administrator-stalla-in-i-hrm-for-att-vi-ska-kunna-anvanda-o.md"}
-,
-  {"title": "Vad behöver jag som administratör ställa in i HRM för att vi ska kunna använda oss av funktionen Prenumerera på schema som kalender?", "file": "vad-behover-jag-som-administrator-stalla-in-i-hrm-for-att-vi-ska-kunna-anvanda-oss-av-funktionen-pre.md"}
-
+  {
+    "title": "Begrepp i HRM Plan - Vad betyder de olika begreppen i HRM Plan?",
+    "file": "begrepp-i-hrm-plan-vad-betyder-de-olika-begreppen-i-hrm-plan.md",
+    "slug": "begrepp-i-hrm-plan-vad-betyder-de-olika-begreppen-i-hrm-plan",
+    "category": "plan",
+    "subcategory": "Schemaläggning",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "schema"
+    ],
+    "date": "den 14 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/begrepp-i-hrm-plan-vad-betyder-de-olika-begreppen-i-hrm-plan",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I denna artikel går vi igenom några centrala begrepp i HRM Plan.\nArbetspass\nEtt arbetspass är ett behov som ska kopplas till en person. Arbetspassen knyts till en kontering, har klockslag och antal de..."
+  },
+  {
+    "title": "Går det att hantera frånvaro i schemavyerna?",
+    "file": "gar-det-att-hantera-franvaro-i-schemavyerna.md",
+    "slug": "gar-det-att-hantera-franvaro-i-schemavyerna",
+    "category": "plan",
+    "subcategory": "Schemaläggning",
+    "type": "faq",
+    "difficulty": "intermediate",
+    "tags": [
+      "schema"
+    ],
+    "date": "den 13 november 2025",
+    "url": "https://knowledge.flexapplications.se/g%C3%A5r-det-att-hantera-fr%C3%A5nvaro-i-schemavyerna",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Du som arbetar i schemavyerna kan hantera frånvaro där istället för att öppna tidrapporten.\nObservera\nMöjligheterna för att hantera frånvaro styrs av behörigheter.\nFrånvaro i Bemanningsplan\nI vyn\nÖver..."
+  },
+  {
+    "title": "⚙️Vilka behörigheter finns för frånvaro i schemavyerna?",
+    "file": "vilka-behorigheter-finns-for-franvaro-i-schemavyerna.md",
+    "slug": "vilka-behorigheter-finns-for-franvaro-i-schemavyerna",
+    "category": "plan",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "schema"
+    ],
+    "date": "den 13 november 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-beh%C3%B6righeter-finns-f%C3%B6r-fr%C3%A5nvaro-i-schemavyerna",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Du kan hantera frånvaro i följande vyer:\nBemanningsplan - Översikt\n,\nSchema\noch\nArbetspass\n.\n![undefined-Nov-13-2025-12-18-14-8331-PM](images/vilka-behorigheter-finns-for-franvaro-i-schemavyerna_40e51..."
+  },
+  {
+    "title": "Hur kan jag prenumerera på mitt schema till min kalender ?",
+    "file": "hur-kan-jag-prenumerera-pa-mitt-schema-till-min-kalender.md",
+    "slug": "hur-kan-jag-prenumerera-pa-mitt-schema-till-min-kalender",
+    "category": "plan",
+    "subcategory": "Kalender",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "kalender",
+      "prenumeration",
+      "schema"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-kan-jag-prenumerera-p%C3%A5-mitt-schema-till-min-kalender-",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Ditt schema i Flex HRM kan visas i din kalender (Google, Outlook, MacOS eller iPhone).\nHär kan du prenumerera på schemat\nSå visas schemat i din kalender\nVisa varje arbetspass som ett separat kalendero..."
+  },
+  {
+    "title": "⚙️Vad behöver jag som administratör ställa in i HRM för att vi ska kunna använda oss av funktionen Prenumerera på schema som kalender?",
+    "file": "vad-behover-jag-som-administrator-stalla-in-i-hrm-for-att-vi-ska-kunna-anvanda-oss-av-funktionen-pre.md",
+    "slug": "vad-behover-jag-som-administrator-stalla-in-i-hrm-for-att-vi-ska-kunna-anvanda-oss-av-funktionen-pre",
+    "category": "plan",
+    "subcategory": "Kalender",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "kalender",
+      "prenumeration",
+      "schema"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vad-beh%C3%B6ver-jag-som-administrat%C3%B6r-st%C3%A4lla-in-i-hrm-f%C3%B6r-att-vi-ska-kunna-anv%C3%A4nda-oss-av-funktionen-prenumerera-p%C3%A5-schema-som-kalender",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Du kan prenumerera på ditt schema i Flex HRM och få det som en kalender i din kalenderapplikation (Google, Outlook, MacOS, iPhone). Här beskrivs de inställningar som behöver göras i Flex HRM för att p..."
+  },
+  {
+    "title": "Kan jag ange när jag är tillgänglig för arbetspass?",
+    "file": "kan-jag-ange-nar-jag-ar-tillganglig-for-arbetspass.md",
+    "slug": "kan-jag-ange-nar-jag-ar-tillganglig-for-arbetspass",
+    "category": "plan",
+    "subcategory": "Schemaläggning",
+    "type": "faq",
+    "difficulty": "intermediate",
+    "tags": [
+      "schema"
+    ],
+    "date": "den 26 november 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-ange-n%C3%A4r-jag-%C3%A4r-tillg%C3%A4nglig-f%C3%B6r-arbetspass",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Information om att ange tillgänglighet i Mitt schema i HRM Mobile.\nOm ditt företag använder funktionen\nAnge tillgänglighet\nkan du\ni\nMitt schema\ni\nHRM Mobile\nange när du är tillgänglig för att arbeta. ..."
+  },
+  {
+    "title": "Kan jag se i schemavyn när en anställd är tillgänglig för arbetspass?",
+    "file": "kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass.md",
+    "slug": "kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass",
+    "category": "plan",
+    "subcategory": "Schemaläggning",
+    "type": "faq",
+    "difficulty": "intermediate",
+    "tags": [
+      "schema"
+    ],
+    "date": "den 26 november 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-se-i-schemavyn-n%C3%A4r-en-anst%C3%A4lld-%C3%A4r-tillg%C3%A4nglig-f%C3%B6r-arbetspass",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "En artikel för schemaläggare som arbetar med tillgänglighet i HRM Plan.\nDen här artikeln beskriver hur du som schemaläggare enkelt kan se vilka anställda som har angett att de är tillgängliga för arbe..."
+  },
+  {
+    "title": "⚙️Vilka inställningar krävs för att använda tillgänglighet i HRM Plan?",
+    "file": "vilka-installningar-kravs-for-att-anvanda-tillganglighet-i-hrm-plan.md",
+    "slug": "vilka-installningar-kravs-for-att-anvanda-tillganglighet-i-hrm-plan",
+    "category": "plan",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "schema"
+    ],
+    "date": "den 26 november 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-anv%C3%A4nda-tillg%C3%A4nglighet-i-hrm-plan",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "En artikel för administratörer, som vill börja använda tillgänglighet i HRM Plan.\nOm ni arbetar med tillgänglighet i HRM Plan kan dina anställda ange vilka datum och tider de är tillgängliga för arbet..."
+  }
 ]

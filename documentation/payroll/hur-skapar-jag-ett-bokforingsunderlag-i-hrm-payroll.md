@@ -2,6 +2,11 @@
 
 **Datum:** den 7 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Löneberedning  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** bokföring, lön, semester  
+**Bilder:** 4  
 **URL:** https://knowledge.flexapplications.se/hur-skapar-jag-ett-bokf%C3%B6ringsunderlag-i-hrm-payroll
 
 ---
@@ -19,6 +24,7 @@ Lön > Bokföring
 och klicka på
 Ny
 .
+![Bild](images/hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll_f8f7359a.png)
 Datum:
 Fyll i korrekt bokföringsdatum.
 Innehåll:
@@ -47,8 +53,11 @@ Klicka på
 Skapa bokföringsunderlag
 .
 I bilden visas exempel på ett bokföringsunderlag på avräknad lönekörning i augusti 2025, med förändring av semester- och kompskuld från juli till augusti (baserat på skuldlistor för juli och augusti).
+![Bild](images/hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll_106a1681.png)
 Detta skapar ett underlag i listan.
 För att skapa en bokföringsfil (.csv eller Sie4-format, beroende på företagets inställningar) markerar du raden med bokföringsunderlaget och klickar på
 Skapa bokföringsfil
 .
+![Bild](images/hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll_cdd6ceed.png)
 Filen skapas längst till höger bredvid bokföringsunderlaget och kan laddas ned till önskad plats.
+![Bild](images/hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll_de75da9a.png)

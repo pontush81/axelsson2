@@ -2,6 +2,11 @@
 
 **Datum:** den 19 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Register  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** Ingen  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/hur-fungerar-konteringskombinationer
 
 ---

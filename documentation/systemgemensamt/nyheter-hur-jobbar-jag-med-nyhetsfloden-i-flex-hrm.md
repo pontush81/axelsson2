@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** användare, behörighet, roll  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/nyheter-hur-jobbar-jag-med-nyhetsfl%C3%B6den-i-flex-hrm
 
 ---
@@ -21,6 +26,7 @@ Hantera nyhetskategorier
 Du hanterar kategorierna under
 Administration > Systemregister > Nyheter – Kategorier
 .
+![Bilden visar inställningar för nyhetskategorier där man kan ange namn samt om kategorin ska vara aktiv eller ej.](images/nyheter-hur-jobbar-jag-med-nyhetsfloden-i-flex-hrm_adb78758.png)
 Här ser du en lista över befintliga kategorier. Du kan lägga till nya, ta bort, aktivera och inaktivera kategorier. Det är dessa kategorier som du sedan styr behörigheten till i rollhanteringen. Om du behöver översätta namnen på kategorierna gör du det under
 Administration > Systemregister > Översättning
 .
@@ -39,3 +45,4 @@ Nyhetsflödena är indelade i kategorier som du kan styra behörigheten till. P�
 För att en användare ska se nyheterna behöver hen ha behörighet till både panelen
 Nyheter
 och de specifika nyhetskategorierna.
+![Bilden visar behörighetsinställningar för nyheter för en roll.](images/nyheter-hur-jobbar-jag-med-nyhetsfloden-i-flex-hrm_b3027cd8.png)

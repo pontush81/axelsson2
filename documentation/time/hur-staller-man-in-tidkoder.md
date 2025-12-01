@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Time  
+**Underkategori:** Frånvaro & Semester  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** frånvaro, lön, ob, saldo, schema, semester, tidkod, tidrapport  
+**Bilder:** 4  
 **URL:** https://knowledge.flexapplications.se/tidkoder-hur-st%C3%A4ller-man-in-tidkoder
 
 ---
@@ -11,6 +16,7 @@ Fliken Allmänt
 Fliken Överföring till lön
 Fliken Behörighet
 Tidkoder
+![Bilden visar att varje tidgrupp har sin egen uppsättning av tidkoder.](images/hur-staller-man-in-tidkoder_2544024c.png)
 Under inställningsvyn för tidkoder finns de koder som används i HRM Time som sedan är kopplade till lönesystemet. Tidkoderna skapas och ställs in per tidgrupp.
 En ny tidkod kan skapas genom att kopiera en befintlig tidkod, och man kan kopiera tidkoder mellan tidgrupper.
 Tidkoderna kan sedan vara kopplade till
@@ -26,6 +32,7 @@ scheman
 . Var därför noga om något justeras.
 Fliken Allmänt
 Det finns omfattande inställningsmöjligheter för varje tidkod, dessa förklaras nedan.
+![Bilden visar inställningsvyn för tidkoder, fliken Allmänt.](images/hur-staller-man-in-tidkoder_6fad86ca.png)
 Kod.
 Namn.
 Kodtyp.
@@ -88,6 +95,7 @@ Frånvaro.
 Styr hur stämplad frånvaro ska läggas ut i tidrapporten i förhållande till schemat.
 Fliken
 Överföring till lön
+![Bilden visar inställningsvyn för tidkoder, fliken Överföring till lön.](images/hur-staller-man-in-tidkoder_6ad70f86.png)
 På fliken Överföring till lön ställer man in hur tid som rapporterats på tidkoden ska överföras till lön. Kopplingen till löneart är en signal om att tiden ska med till lönesystemet. Tidkoder som inte kopplas till en löneart överförs inte till lön.
 Här ställer man in följande inställningar. Det är viktigt att inställningarna stämmer överens med det som lönesystemet önskar få in.
 Gruppering av lönetransaktioner.
@@ -100,6 +108,7 @@ Löneart.
 Orsakskod.
 Fliken Behörighet
 Du kan tilldela behörighet för specifika tidkoder till användare, roll och/eller konteringar.
+![Bilden visar inställningsvyn för tidkoder, fliken Behörighet.](images/hur-staller-man-in-tidkoder_39549616.png)
 Styrs behörigheten till en roll är en användare behörig om denne har rollen för den anställd som tidrapporten gäller.
 Styrs behörigheten till en kontering är en användare behörig om denne är kopplad till en anställd som har den angivna konteringen som hemkontering (fliken
 Kontering

@@ -2,6 +2,11 @@
 
 **Datum:** den 18 augusti 2025  
 **Kategori:** Time  
+**Underkategori:** Tidrapportering  
+**Typ:** other  
+**Svårighetsgrad:** intermediate  
+**Tags:** frånvaro, mobil, ob, saldo, schema, stämpling, tidkod, tidrapport  
+**Bilder:** 11  
 **URL:** https://knowledge.flexapplications.se/vilka-olika-funktioner-finns-i-tidrapporten
 
 ---
@@ -19,18 +24,23 @@ Kalendern
 samt
 dag- och periodinformation
 fälls in från högra sidan som på bilden nedan.
+![Bild på tidrapport där kalender, daginformation och periodinformation visas.](images/vilka-olika-funktioner-finns-i-tidrapporten_5a18b441.png)
 I respektive informationsvy kan du visa/dölja information om eventuell ospecificerad tid och avvikelser genom att klicka på de blå pilarna.
+![Bild på daginformation och periodinformation som visar information om ospecifierad tid och avvikelser.](images/vilka-olika-funktioner-finns-i-tidrapporten_82cb2894.png)
 Grafiska tidrader
 kan visas i överkant av tidrapporten för att få en mer visuell bild av den rapporterade tiden. Håll muspekaren över
 Schema
 för att visa schematider för dagen och klicka på
 informationssymbolen
 för att se en förklaring över de olika färgsättningarna.
+![Bild](images/vilka-olika-funktioner-finns-i-tidrapporten_d3c0b323.png)
+![Färgförklaringar för grafiska tidrader.](images/vilka-olika-funktioner-finns-i-tidrapporten_82e40dc3.png)
 Knappar
 Det finns ett antal knappar i menyraden högst upp i tidrapporten. Nedan följer en kort beskrivning av respektive knapp.
 Observera
 Inställningar för tidrapport och behörigheter kan göra att vissa av knapparna inte visas.
 Vi använder nedan begreppet "Klarmarkering" för granskning av tidrapport. Det kan heta något annat hos er.
+![Bild](images/vilka-olika-funktioner-finns-i-tidrapporten_7b91a342.png)
 Spara
 – Sparar ändringarna i tidrapporten. Så fort en ny vy ska laddas måste ändringarna i den befintliga sparas. Detta gäller även vid byte av datum, vilket innebär att varje dag måste göras klar och sparas innan nästa kan påbörjas.
 Dagvy
@@ -40,12 +50,17 @@ Veckovy
 Månadsvy
 – Översiktlig vy över hela månaden för att kunna få en total bild över månadens rapporterade tid. Ta tag i Summa-kolumnen och dra den åt höger eller vänster för att minska respektive öka antalet dagar som syns utan att behöva scrolla.
 Markerad rad blir tydligt markerad med en ljusblå ram. I nederkant syns summeringar både per månad och per dag.
+![Tidrapporten visar 23/6 med en gul rad för avvikelse och 24/6 med en röd rad för ospecificerad tid.](images/vilka-olika-funktioner-finns-i-tidrapporten_f95a2748.png)
 I underkant av varje datum visas en färgkodning för avvikelse eller ospecificerad tid.
+![Under datumet 23/6 kan man välja en grön bock för klarmarkering, en kalenderikon för att visa dagvyn eller ett info-i för att visa daginformation för 23/6. ](images/vilka-olika-funktioner-finns-i-tidrapporten_8f7583bc.png)
 När du klickar på ett datum i vecko- eller månadsvyn kan du välja att gå till dagvyn för dagen, klarmarkera dagen eller visa daginformationen för det aktuella datumet.
+![Ikonen under 23/6 är en grön bock.](images/vilka-olika-funktioner-finns-i-tidrapporten_206b2576.png)
 När en dag blivit granskad ändrar granskningsikonen färg.
+![Bilden visar att man rapporterat 1 timmes tid och bifogat en kommentar.](images/vilka-olika-funktioner-finns-i-tidrapporten_2e413e2c.png)
 Finns det en kommentar till tidposten markeras detta med en blå triangel i hörnet av cellen.
 Ersättningar
 – Används för att registrera både ersättningskoder och tidkoder. I denna vy visas automatiskt genererade rader. Dessa går att dölja om de gör det svårt att urskilja manuellt inmatade ersättningar eller tidkoder. Markeringen vid Ersättningar används för att visa att det finns något registrerat i vyn.
+![Bilden visar en markering vid Ersättningar och ikonen för att dölja genererade rader.](images/vilka-olika-funktioner-finns-i-tidrapporten_738de8b1.png)
 Föregående/Nästa avvikelse -
 Används för att bläddra mellan dagar i aktuell period som har avvikelser och/eller ospecificerad tid.
 I dag
@@ -70,3 +85,4 @@ Mer > Tillfällig utlåning -
 Används för att lägga in konteringar (t. ex. kostnadsställe) som under en begränsad period ska läggas ut i tidrapporten.
 Filter
 – Urvalsmöjligheter för att styra vilka personer som ska synas i listan över anställda.
+![Filterikonen till höger om fältet för anställd.](images/vilka-olika-funktioner-finns-i-tidrapporten_6f90d788.png)

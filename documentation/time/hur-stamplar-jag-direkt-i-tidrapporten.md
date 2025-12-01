@@ -2,6 +2,11 @@
 
 **Datum:** den 15 oktober 2025  
 **Kategori:** Time  
+**Underkategori:** Mobil & Stämpling  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** frånvaro, mobil, ob, stämpling, tidrapport, övertid  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/hur-st%C3%A4mplar-man-direkt-i-tidrapporten
 
 ---
@@ -13,6 +18,7 @@ Stämpla
 i tidrapportens meny.
 Förutom att stämpla in/ut för dagen eller för rast finns det möjlighet att stämpla In/ut övertid, In, Ut, Frånvaro ut, Frånvaro in, Frånvaro aktuell dag och Konteringsbyte. Vilka av dessa stämplingsalternativ som ska vara aktiva ställs in under
 Administration > Användare/Behörigheter > Roller.
+![Tidrapportens ikon "Stämpla" med undermenyer: In/ut, In/ut övertid, In, Ut, Frånvaro ut, Frånvaro in, Frånvaro aktuell dag och Konteringsbyte.](images/hur-stamplar-jag-direkt-i-tidrapporten_7a8a679e.jpg)
 Funktionaliteten är densamma som när du stämplar i HRM Timeclock och HRM Mobile, med eventuella frågor vid sen ankomst osv
 .
 Vid alternativet

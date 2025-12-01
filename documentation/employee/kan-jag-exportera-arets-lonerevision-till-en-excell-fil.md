@@ -2,6 +2,11 @@
 
 **Datum:** den 30 september 2025  
 **Kategori:** Employee  
+**Underkategori:** Lönerevision  
+**Typ:** faq  
+**Svårighetsgrad:** advanced  
+**Tags:** lönerevision  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/exportera-arets-lonerevision-0
 
 ---
@@ -11,6 +16,7 @@ I artikeln hittar du information om hur du enkelt arbetar med årets lönerevis
 Nedan beskrivs funktionen Exportera i lönerevisionen.
 Arbeta med lönerevisionen -
 Export till Excel
+![Bild](images/kan-jag-exportera-arets-lonerevision-till-en-excell-fil_20956b9a.png)
 Ibland kan det vara bra att kunna exportera underlaget i lönerevisionen till Excel eller något annat kalkylprogram för att göra analyser eller andra beräkningar. Det kan också vara ett smidigt sätt att skicka underlaget till fackförbundet vid en facklig förhandling, eller om du vill skriva ut underlaget på papper.
 I knappraden i lönerevisionen har vi lagt in en funktion för att
 exportera

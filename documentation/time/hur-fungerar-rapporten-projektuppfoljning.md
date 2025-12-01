@@ -2,6 +2,11 @@
 
 **Datum:** den 15 oktober 2025  
 **Kategori:** Time  
+**Underkategori:** Tidrapportering  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** ob, tidkod, tidrapport  
+**Bilder:** 5  
 **URL:** https://knowledge.flexapplications.se/hur-fungerar-rapporten-projektuppf%C3%B6ljning
 
 ---
@@ -35,6 +40,7 @@ Vecka
 Månad
 Exempel:
 Om du grupperar på projekt, anställd och dag kommer rapporten först att visa projekten. Under varje projekt visas sedan de anställda som har arbetat på projektet. Sist, under varje anställd, visas de dagar den anställde har arbetat på projektet.
+![Bild](images/hur-fungerar-rapporten-projektuppfoljning_c26aff99.png)
 Du kan välja att visa följande värden:
 Budgeterat belopp
 (projektens budgeterade belopp)
@@ -66,6 +72,9 @@ Summera projekt till nivå 1
 om du endast vill se tid summerat till huvudprojektet
 Brev
 .
+![Bild](images/hur-fungerar-rapporten-projektuppfoljning_634a8290.png)
+![Bild](images/hur-fungerar-rapporten-projektuppfoljning_bcc44e4d.png)
+![Bild](images/hur-fungerar-rapporten-projektuppfoljning_50f0ff88.png)
 Behörigheter för Projektuppföljning
 Behörigheten att se data i rapporten styrs av inställningar i rollträdet. Under rapporten
 Projektuppföljning
@@ -73,6 +82,7 @@ finns tre inställningar:
 Behörig att se projekt man är deltagare i
 Behörig att se projekt man är projektledare för
 Behörig att se alla projekt
+![Bild](images/hur-fungerar-rapporten-projektuppfoljning_ec0bff25.png)
 Deltagare
 och
 projektledare

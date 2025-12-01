@@ -2,6 +2,11 @@
 
 **Datum:** den 30 september 2025  
 **Kategori:** Employee  
+**Underkategori:** Anställningshantering  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** lönerevision  
+**Bilder:** 9  
 **URL:** https://knowledge.flexapplications.se/kom-igang-med-lonerevision-i-hrm
 
 ---
@@ -36,6 +41,7 @@ Gå till
 Administration > Inställningar > Allmänt > Granskningsnivåer > Lönerevision
 .
 I listan till vänster drar och släpper du nivåerna för att bestämma i vilken ordning de ska visas.
+![Bild](images/kom-igang-med-lonerevision-i-hrm_163d840e.png)
 Du kan också ställa in om en granskningsnivå kräver att en annan granskning har gjorts innan.
 Exempel på flöde:
 Chefen klarmarkerar lönerna när lönesättningen är färdig.
@@ -47,13 +53,19 @@ Behörigheter
 För att allt ska fungera korrekt behöver du se över behörigheterna för de roller som ska arbeta med lönerevisionen. Detta gör du under
 Administration > Användare/Behörigheter > Roller
 .
+![Bild](images/kom-igang-med-lonerevision-i-hrm_b0ddd0e2.png)
 Förklaring av behörigheter
+![Bild](images/kom-igang-med-lonerevision-i-hrm_e8e620a3.png)
 Denna behörighet styr vilka anställda en användare får se och ändra i lönerevisionen. Du kan även ge läsbehörighet till användare som inte ska kunna ändra löner.
+![Bild](images/kom-igang-med-lonerevision-i-hrm_76bad045.png)
 Dessa behörigheter är avsedda för administratörer eller HR som förbereder lönerevisionen innan de lönesättande cheferna får tillgång.
+![Bild](images/kom-igang-med-lonerevision-i-hrm_f812814a.png)
 Ger en administratör rätt att verkställa en lön som är färdiggranskad. Att verkställa innebär att den nya lönen sparas i anställdaregistret och kan föras över till lönesystemet.
+![Bild](images/kom-igang-med-lonerevision-i-hrm_1fe68ce3.png)
 Dessa kryssrutor ger användaren behörighet att utföra en specifik granskningsnivå. Här kan en chef få behörighet att klarmarkera de nya lönerna, och en HR-ansvarig eller högre chef få behörighet att attestera dem.
 Exempel på roll för lönesättande chef:
 En chef med denna roll för sin grupp anställda kan sätta nya löner, klarmarkera dem och kryssa i att lönesamtal har hållits.
+![Bild](images/kom-igang-med-lonerevision-i-hrm_6366f3f5.png)
 Fackförbund
 Du kan registrera vilket fackförbund en anställd tillhör, vilket är användbart vid skapandet av potter för olika kollektivavtal i lönerevisionen.
 Börja med att lägga upp ett register över aktuella fackförbund/kollektivavtal under
@@ -73,10 +85,12 @@ i anställdaregistret.
 Inställningen hittar du under
 Administration > Inställningar > Personal > Anställdaregistret > Egna fält.
 För att ett eget fält ska visas som en kolumn i lönerevisionen behöver du markera en specifik kryssruta.
+![Bild](images/kom-igang-med-lonerevision-i-hrm_51bf66bf.png)
 Påminnelser
 Du kan skapa en påminnelse för att meddela berörda användare att en lönerevision har startat.
 Ställ in detta
 Inställningar > Allmänt > Påminnelser
+![Bild](images/kom-igang-med-lonerevision-i-hrm_013e3a8d.png)
 När du är klar med inställningarna enligt ovan kan du börja förbereda lönerevisionen.
 Nästa steg - Skapa lönerevision
 Din kompletta guide till Lönerevision

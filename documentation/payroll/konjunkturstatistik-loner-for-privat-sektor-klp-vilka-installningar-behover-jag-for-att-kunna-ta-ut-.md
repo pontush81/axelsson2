@@ -2,6 +2,11 @@
 
 **Datum:** den 2 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Inställningar  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** lön, löneart, skatt  
+**Bilder:** 5  
 **URL:** https://knowledge.flexapplications.se/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-klp-i-flex-hrm-payroll
 
 ---
@@ -13,15 +18,20 @@ Löneartsinställningar
 Uppgifter på individnivå
 I anställdaregistret, under fliken Lönestatistik, anger du om den anställde ska räknas som Arbetare eller Övriga enligt SCB:s riktlinjer för konjunkturstatistiken. Beroende på dina övergripande inställningar ser du olika alternativ för personalkategori i anställningsregistret.
 SCB:
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-for-att-kunna-ta-ut-_ae8a0543.png)
 Svenskt Näringsliv:
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-for-att-kunna-ta-ut-_b2fdb885.png)
 Sobona:
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-for-att-kunna-ta-ut-_c4a9271d.png)
 Lönetillägg
 För att kunna redovisa överenskommen månadslön, inklusive fasta tillägg, behöver vi veta vilka fasta lönetillägg som används i företaget. För att göra detta använder vi Egna fält som definieras under
 Inställningar > Personal > Anställdaregistret - egna fält.
 För alla fält som ska räknas som ett lönetillägg kryssar du i inställningen "Fältet är ett lönetillägg". Om du har flera fält för lönetillägg, sätter du krysset på samtliga fält.
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-for-att-kunna-ta-ut-_83144903.png)
 Löneartsinställningar
 För att kunna skilja ut olika ersättningar och timmar behöver man ange för olika lönearter hur de ska redovisas i konjunkturstatistiken. Detta styrs med hjälp av en rad kryssrutor som du hittar i
 Löneartsregistret >flik Lön
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-for-att-kunna-ta-ut-_9d7f5ae9.png)
 Följande gäller för respektive kryssruta:
 Utbetald lön för arbetade timmar före skatt och andra avdrag
 Används för summering av lön för arbetad tid gällande timavlönade arbetare. Läs instruktionen från SCB för mer information om vad som ska ingå.

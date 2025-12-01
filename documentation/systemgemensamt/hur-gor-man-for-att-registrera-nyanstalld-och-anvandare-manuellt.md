@@ -2,6 +2,11 @@
 
 **Datum:** den 17 oktober 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** howto  
+**Svårighetsgrad:** advanced  
+**Tags:** användare, behörighet, roll  
+**Bilder:** 12  
 **URL:** https://knowledge.flexapplications.se/hur-g%C3%B6r-man-f%C3%B6r-att-registrera-nyanst%C3%A4lld-och-anv%C3%A4ndare-manuellt
 
 ---
@@ -14,11 +19,15 @@ Nedan beskrivs hur du manuellt registrerad en nyanställd i HRM. Det finns stö
 Nyanställningsprocess i HRM Employee
 ), men dessa används inte i detta exempel.
 Personal - Anställda
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_67fff655.png)
 Klicka på
 Ny
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_5e4f2802.png)
 I det fönster som dyker upp anger du anställningsnummer, namn, anställningsdatum samt andra uppgifter som är relevant att registrera i systemet.
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_3e025709.png)
 Du kan även välja att skapa den anställde utifrån en
 anställningsmall.
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_20a850c0.png)
 Klicka på
 OK
 .
@@ -31,6 +40,7 @@ Anställning
 Under menyn
 Anställning
 anger du bland annat sysselsättningsgrad, tidgrupp och schema för den anställde.
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_08ab7bf9.png)
 Sysselsättningsgrad
 används som exempel för att få information om hur den anställde är schemalagd utifrån sin sysselsättningsgrad.
 Schema
@@ -39,29 +49,35 @@ Lön
 Under menyn
 Lön
 anges uppgifter om den anställdes lön, så som månadslön, bankuppgifter m.m.
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_45577b96.png)
 Resa
 Under menyn
 Resa
 anges specifika inställningar som rör reseräkningen. Du kan ställa in avvikande inställningar för till exempel traktamentsregelverk och/eller restid.
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_b3434f57.png)
 Du kan under
 Bilar
 ange vilken typ av bil den anställde har. Som standard har den anställde en privatbil, men du kan här ange om den anställde som exempel har en tjänstebil.
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_cb948255.png)
 Användare
 För att kunna logga in eller stämpla tid i HRM måste varje anställd ha en kopplad användare. Användaren har ett unikt användar-ID. För att en användare ska kunna logga in måste hen också vara kopplad till Visma Connect med hjälp av en e-postadress.
 För att manuellt skapa en användare och koppla till en anställd går du till
 Användare
 .
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_e50ab9d3.png)
 Under fliken
 Behörigheter
 anges vad användaren ska ha för behörighet i systemet. Ska den anställde endast rapportera sin egen tidrapport/reseräkning så räcker det med att spara. Då kommer systemet ge behörighet till den roll som är angiven som standardroll i HRM. I detta exempel
 Medarbetare
 .
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_fbb947a4.png)
 Ska den anställde tilldelas ytterligare behörighet görs det genom att ange för vilket företag/kontering, anställd/anställda och vilken roll.
 Exempel nedan visar tillägg av rollen
 Attesterande chef
 för Attestkod
 PROD
 .
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_589b5b83.png)
 För att ge attesträtt till en
 attestkod
 följer du nedan steg.
@@ -72,6 +88,7 @@ Ange rollen som ska gälla. I detta exempel
 Attestant
 Klicka på
 Lägg till
+![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_04966444.png)
 Glöm inte att
 spara
 .

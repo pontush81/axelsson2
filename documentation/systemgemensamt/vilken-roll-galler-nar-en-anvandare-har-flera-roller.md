@@ -2,6 +2,11 @@
 
 **Datum:** den 19 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** other  
+**Svårighetsgrad:** intermediate  
+**Tags:** användare, behörighet, roll  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/vilken-roll-g%C3%A4ller-n%C3%A4r-en-anv%C3%A4ndare-har-flera-roller
 
 ---
@@ -23,12 +28,14 @@ Mina kollegor
 Medarbetare
 ,
 behörighet till Närvarotablån kommer du att se dina kollegor i Närvarotablån, men inte dig själv.
+![Bild](images/vilken-roll-galler-nar-en-anvandare-har-flera-roller_6c075438.png)
 Det mest tillåtande gäller
 Du kan tilldela flera roller på samma nivå, till exempel både rollen
 Mina kollegor
 och
 Medarbetare
 på anställdnivå.
+![Bild](images/vilken-roll-galler-nar-en-anvandare-har-flera-roller_c6aa7c2c.png)
 I dessa fall är det den roll som ger mest behörighet som får genomslag. Om rollen
 Mina kollegor
 tillåter dig att se Närvarotablån medan rollen

@@ -2,6 +2,11 @@
 
 **Datum:** den 26 augusti 2025  
 **Kategori:** Employee  
+**Underkategori:** Anställningshantering  
+**Typ:** howto  
+**Svårighetsgrad:** advanced  
+**Tags:** anställning  
+**Bilder:** 5  
 **URL:** https://knowledge.flexapplications.se/anstallningsmall-hur-skapa
 
 ---
@@ -21,14 +26,18 @@ vanligt förekommande mallar. Vad mallarna heter och vad som behövs för ett un
 vara aktuellt med fl
 er eller färre m
 allar.
+![Bild](images/anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode_f48b7566.png)
+![Bild](images/anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode_f0754067.png)
 Ställa in mallar
 Klicka på
 Ny
 för att skapa ny mall
+![Bild](images/anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode_5e4f2802.png)
 eller gå in på önskad mall och gör justeringar för att passa ditt företag.
 Under
 Allmänt
 ställer du in om användarmall ska kopplas på automatiskt och ev. andra funktioner/standardvärden som ska gälla för mallen.
+![Bild](images/anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode_553c054a.png)
 I fältet
 Användarmall
 anger du vilken användarmall som ska användas när en ny anställd läggs upp med anställningsmallen. Användarmallar används för att automatiskt skapa användare när du lägger upp nya anställda och finns under menyingången
@@ -61,4 +70,5 @@ och knappen
 Inställningar
 .
 Gå igenom respektive meny för att sätta vilka standardvärden som ska gälla. Beroende av vilka moduler du har i HRM kan du se fler eller färre av menyerna.
+![Bild](images/anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode_4c58db2b.png)
 Spara

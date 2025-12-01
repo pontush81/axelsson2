@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Time  
+**Underkategori:** Frånvaro & Semester  
+**Typ:** feature  
+**Svårighetsgrad:** advanced  
+**Tags:** attestering, frånvaro, hrm-time, övertid  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern
 
 ---

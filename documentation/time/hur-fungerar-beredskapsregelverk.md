@@ -1,7 +1,12 @@
 # ⚙️Hur fungerar beredskapsregelverk?
 
-**Datum:** den 26 september 2025  
+**Datum:** den 21 oktober 2025  
 **Kategori:** Time  
+**Underkategori:** Övertid & Ersättning  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** beredskap, ob, schema, tidkod, tidrapport, övertid  
+**Bilder:** 6  
 **URL:** https://knowledge.flexapplications.se/hur-fungerar-beredskapsregelverk
 
 ---
@@ -27,6 +32,7 @@ BV
 och
 BH
 .
+![Bild](images/hur-fungerar-beredskapsregelverk_3c45ca90.png)
 På nivån
 Regelverk
 kan du göra grundläggande inställningar som gäller för hela regelverket:
@@ -56,8 +62,18 @@ används för att specificera när reglerna ska infalla. Du kan ange veckodagar 
 På nivån
 Tidkodsinställning
 anger du vilka tidkoder som ska gälla baserat på klockslag. På bilden nedan är BV inställd på att falla ut hela dygnet, men man skulle t.ex. kunna ha en regel för en tidkod som ska falla ut 00:00-06:00 samt 18:00-24:00 och en regel för en annan tidkod som ska falla ut 06:00-18:00.
+Det går också att bocka i
+Utgår endast på ledig dag
+för att
+ange att en
+tidkodsinställning
+endast ska
+gä
+lla
+på dagar då den anställde inte är schemalagd för arbete.
 Prioritet
 används för att bestämma vilken regel som ska gälla, om det skulle vara så att två regler överlappar.
+![Bild](images/hur-fungerar-beredskapsregelverk_1c085e23.png)
 Tilldela regelverk
 I
 anställdaregistret
@@ -70,14 +86,18 @@ Detta säger endast att när den anställde har beredskap ska ersättning falla 
 För att den anställde ska ha beredskap i sitt schema måste du också schemalägga det. Det gör du på samma flik, under
 Beredskapsscheman
 . Här talar du om hur beredskapen ska schemaläggas, t.ex. varannan vecka, och fr.o.m. vilket datum den anställde ska följa beredskapsschemat.
+![Bild](images/hur-fungerar-beredskapsregelverk_95d55dda.png)
 Exempel
 Anställd 2 tillhör beredskapsregelverket
 Beredskap
 . Regelverket ger BV (beredskap vardag) måndag-fredag kl 00:00-24:00 och BH (beredskap helg) lördag-söndag kl 00:00-24:00.
 Han är schemalagd på att beredskap ska gälla varannan helg, från fredag kl 18:00 till måndag kl 06:00.
+![Bild](images/hur-fungerar-beredskapsregelverk_37b08c87.png)
 I tidrapporten ser man tiderna för beredskap i kolumnen
 Daginformation
 . Användare med behörighet att redigera beredskapsdag kan där öppna en popup för att ändra tider för enskilda dagar
+![Bild](images/hur-fungerar-beredskapsregelverk_7d50a3b9.png)
 På fliken
 Ersättningar
 i tidrapporten läggs tidkoder ut enligt beredskapsregelverket, och enligt den anställdes schemalagda beredskap. I detta fall sex timmar varannan fredag och måndag samt tjugofyra timmar varannan lördag och söndag.
+![Bild](images/hur-fungerar-beredskapsregelverk_e1de37b3.png)

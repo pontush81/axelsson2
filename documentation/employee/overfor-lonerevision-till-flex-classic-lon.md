@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Employee  
+**Underkategori:** Anställningshantering  
+**Typ:** other  
+**Svårighetsgrad:** advanced  
+**Tags:** lönerevision  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/overfor-lonerevision-till-flex-lon
 
 ---
@@ -9,6 +14,7 @@
 I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  
 
 Nedan beskrivs funktionen Överför till lön.
+![Bild](images/overfor-lonerevision-till-flex-classic-lon_d98ef478.png)
 Denna funktion finns inte i Flex HRM Payroll. Då nya löner finns tillgängliga i HRMs gemensamma anställdaregister så snart du
 verkställer ny lön
 behövs inte denna funktion.
@@ -29,6 +35,7 @@ Så här överför du löner
 För att överföra alla verkställda nya löner klickar du på knappen
 Överför till lön
 och bekräftar sedan ditt val.
+![Bild](images/overfor-lonerevision-till-flex-classic-lon_c6b24066.png)
 Om du bara vill överföra löner för ett urval av anställda behöver du först filtrera listan. Se till att endast de anställda du vill överföra löner för visas i listan innan du klickar på
 Överför till lön
 .

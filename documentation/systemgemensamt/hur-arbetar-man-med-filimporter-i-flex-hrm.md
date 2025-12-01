@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Register  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** användare, behörighet  
+**Bilder:** 6  
 **URL:** https://knowledge.flexapplications.se/hur-arbetar-man-med-filimporter-i-flex-hrm
 
 ---
@@ -42,6 +47,7 @@ Schema
 Tidrapport - Ersättning
 Skapa en importmall
 En importmall är nödvändig för att Flex HRM ska veta hur en importfil ska läsas. Mallen definierar vilken information som ska skrivas in i systemet och var. Om du till exempel importerar anställda måste du specificera vad i filen som är anställningsnummer, förnamn, efternamn och så vidare.
+![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_b7a90e9b.png)
 Så här skapar du en importmall:
 Namn
 : Ange ett namn för importmallen.
@@ -87,16 +93,19 @@ Vi fyller i
 i fältet
 Hoppa över inledande rader
 .
+![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_b7a90e9b.png)
 Filen ser ut så här:
 5;Kst 5;2025-04-01
 7;Kst 7;2025-05-01
 Endast kostnadsställe
 7
 importeras, eftersom den första raden hoppas över.
+![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_5b4c900e.png)
 Importera data från fil
 Gå till
 Bearbetningar > Servicerutiner > Import
 .
+![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_6c60479f.png)
 Namn
 : Du kan ange ett namn om du vill spara importen för att kunna schemalägga den eller köra den flera gånger.
 Ta bort importfilen från loggen efter avslutad import
@@ -114,11 +123,13 @@ Visa logg
 :
 D
 etaljer om importen, som när den startade och avslutades samt eventuella fel. Om något har gått fel, hittar du en fellogg som informerar om vilka rader som inte kunde importeras och varför.
+![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_53f8b733.png)
 Schemalägga import
 Du kan schemalägga en sparad import så att den körs automatiskt vid en viss tidpunkt.
 Gå till
 Inställningar > Import/Export > Schemalagda körningar
 .
+![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_f295f118.png)
 Ange ett namn för den schemalagda körningen.
 Välj vilken import du vill schemalägga.
 Ställ in hur ofta och vid vilket klockslag importen ska köras.

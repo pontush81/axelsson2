@@ -2,6 +2,11 @@
 
 **Datum:** den 19 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Register  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** användare, behörighet, roll  
+**Bilder:** 3  
 **URL:** https://knowledge.flexapplications.se/hur-st%C3%A4ller-vi-in-konteringskombinationer
 
 ---
@@ -46,7 +51,9 @@ för att välja
 . Detta är användbart om du vill blockera specifika kombinationer, till exempel om du har tillåtit alla kombinationer med ett wildcard, men vill utesluta en enstaka kombination.
 Exempel: På bilden nedan har vi ställt in att kund ÖST kan kombineras med alla projekt, medan kund K endast kan kombineras med projekt 05 och 10.
 Vid registrering visas endast projekt 05 och 10 när kund K har valts.
+![Bild](images/hur-staller-vi-in-konteringskombinationer_3d4f53fc.png)
 Exempel: På bilden nedan har vi ställt in att alla kunder kan kombineras med alla projekt, men kund K tillåts inte tillsammans med projekt 05 och 10. Vid registrering visas alla projekt, utom 05 och 10, när kund K har valts.
+![Bild](images/hur-staller-vi-in-konteringskombinationer_27f1646e.png)
 4. Testa dina inställningar
 Efter att du har lagt upp dina kombinationer är det bra att testa dem för att säkerställa att de fungerar som du förväntar dig.
 I vyn
@@ -55,6 +62,7 @@ Konteringskombinationer
 "Visa test"
 längst ner.
 Använd testvyn för att kontrollera att dina uppsatta regler ger önskat resultat.
+![Bild](images/hur-staller-vi-in-konteringskombinationer_e676e1ef.png)
 Viktig information:
 När funktionen är aktiverad kommer systemet endast att tillåta kombinationer som du har angett.
 Vid registrering i systemet kommer endast tillåtna kombinationer att föreslås.

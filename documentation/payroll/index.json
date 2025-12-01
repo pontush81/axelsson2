@@ -1,176 +1,1344 @@
 [
-  {"title": "Arbetskraftskostnadens nivå och struktur (LCS) - Hur tar jag fram statistiken för LCS i HRM Payroll?", "file": "arbetskraftskostnadens-niva-och-struktur-lcs-hur-tar-jag-fram-statistiken-for-lc.md"}
-,
-  {"title": "Arbetskraftskostnadens nivå och struktur (LCS) - Hur tar jag fram statistiken för LCS i HRM Payroll?", "file": "arbetskraftskostnadens-niva-och-struktur-lcs-hur-tar-jag-fram-statistiken-for-lcs-i-hrm-payroll.md"}
-,
-  {"title": "Arbetskraftskostnadens nivå och struktur (LCS) - Vilka inställningar behöver jag för att kunna ta ut statistiken för LCS i HRM Payroll?", "file": "arbetskraftskostnadens-niva-och-struktur-lcs-vilka-installningar-behover-jag-for-att-kunna-ta-ut-sta.md"}
-,
-  {"title": "Arbetskraftskostnadens nivå och struktur (LCS) - Vilka inställningar behöver jag för att kunna ta ut statistiken för LCS i HRM Payroll?", "file": "arbetskraftskostnadens-niva-och-struktur-lcs-vilka-installningar-behover-jag-for.md"}
-,
-  {"title": "Det visas en varning att det finns transaktioner som inte hämtats in i lönekörningen, hur hittar jag och hanterar dessa?", "file": "det-visas-en-varning-att-det-finns-transaktioner-som-inte-hamtats-in-i-lonekorni.md"}
-,
-  {"title": "Det visas en varning att det finns transaktioner som inte hämtats in i lönekörningen, hur hittar jag och hanterar dessa?", "file": "det-visas-en-varning-att-det-finns-transaktioner-som-inte-hamtats-in-i-lonekorningen-hur-hittar-jag-.md"}
-,
-  {"title": "Export av saldon - Hur exporterar man saldon från HRM Payroll till HRM Time?", "file": "export-av-saldon-hur-exporterar-man-saldon-fran-hrm-payroll-till-hrm-time.md"}
-,
-  {"title": "Flex HRM Payroll - Hur använder man rapporter i Flex HRM Payroll?", "file": "flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll.md"}
-,
-  {"title": "FOS-förfrågan (fråga om skatteavdrag) - Hur skickar jag in FOS-förfrågan i Flex HRM Payroll?", "file": "fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-.md"}
-,
-  {"title": "FOS-förfrågan (fråga om skatteavdrag) - Hur skickar jag in FOS-förfrågan i Flex HRM Payroll?", "file": "fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-payroll.md"}
-,
-  {"title": "Hur använder man SmartDetect i Flex HRM Payroll?", "file": "hur-anvander-man-smartdetect-i-flex-hrm-payroll.md"}
-,
-  {"title": "Hur arbetar jag med arbetsgivardeklaration på individnivå i Flex HRM Payroll?", "file": "hur-arbetar-jag-med-arbetsgivardeklaration-pa-individniva-i-flex-hrm-payroll.md"}
-,
-  {"title": "Hur beräknar jag slutlön i HRM Payroll?", "file": "hur-beraknar-jag-slutlon-i-hrm-payroll.md"}
-,
-  {"title": "Hur beräknas underlaget för lönestrukturstatistik för privat sektor (SLP)?", "file": "hur-beraknas-underlaget-for-lonestrukturstatistik-for-privat-sektor-slp.md"}
-,
-  {"title": "Hur fungerar den löpande hanteringen av ATK och ATF?", "file": "hur-fungerar-den-lopande-hanteringen-av-atk-och-atf.md"}
-,
-  {"title": "Hur genomför man rapportering till Collectum i Flex HRM Payroll?", "file": "hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll.md"}
-,
-  {"title": "Hur gör jag en rättelse av ett fel i tidigare arbetsgivardeklarationer (AGI) i HRM Payroll?", "file": "hur-gor-jag-en-rattelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm-payroll.md"}
-,
-  {"title": "Hur gör jag en rättelse av ett fel i tidigare arbetsgivardeklarationer (AGI) i HRM Payroll?", "file": "hur-gor-jag-en-rattelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm.md"}
-,
-  {"title": "Hur gör jag för att importera/läsa in en fil med lönetransaktioner i löneberedningen?", "file": "hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedni.md"}
-,
-  {"title": "Hur gör jag för att importera/läsa in en fil med lönetransaktioner i löneberedningen?", "file": "hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedningen.md"}
-,
-  {"title": " Hur gör jag inställningar för arbetsplats, tjänsteställe, till arbetsgivardeklarationen (AGI) i HRM Payroll?", "file": "hur-gor-jag-installningar-for-arbetsplats-tjanstestalle-till-arbetsgivardeklarat.md"}
-,
-  {"title": " Hur gör jag inställningar för arbetsplats, tjänsteställe, till arbetsgivardeklarationen (AGI) i HRM Payroll?", "file": "hur-gor-jag-installningar-for-arbetsplats-tjanstestalle-till-arbetsgivardeklarationen-agi-i-hrm-payr.md"}
-,
-  {"title": "Hur gör jag inställningar för bankfiler med formatet ISO 20022 Pain.001 (XML) i HRM Payroll?", "file": "hur-gor-jag-installningar-for-bankfiler-med-formatet-iso-20022-pain-001-xml-i-hr.md"}
-,
-  {"title": "Hur gör jag inställningar för bankfiler med formatet ISO 20022 Pain.001 (XML) i HRM Payroll?", "file": "hur-gor-jag-installningar-for-bankfiler-med-formatet-iso-20022-pain-001-xml-i-hrm-payroll.md"}
-,
-  {"title": "Hur gör jag inställningar i HRM Payroll för att kunna rapportera till KPA (KAP-KL/AKAP-KR)?", "file": "hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr.md"}
-,
-  {"title": "Hur gör jag inställningar i HRM Payroll för att kunna rapportera till KPA (KAP-KL/AKAP-KR)?", "file": "hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl.md"}
-,
-  {"title": "Hur gör man inställningar för rapportering till Collectum i HRM Payroll?", "file": "hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll.md"}
-,
-  {"title": "Hur hanteras kompskuld och skuld på valfria ackumulatorer i HRM Payroll?", "file": "hur-hanteras-kompskuld-och-skuld-pa-valfria-ackumulatorer-i-hrm-payroll.md"}
-,
-  {"title": "Hur hittar jag orsaken till differenser i arbetsgivaravgifter (AGI) i Flex HRM Payroll?", "file": "hur-hittar-jag-orsaken-till-differenser-i-arbetsgivaravgifter-agi-i-flex-hrm-pay.md"}
-,
-  {"title": "Hur hittar jag orsaken till differenser i arbetsgivaravgifter (AGI) i Flex HRM Payroll?", "file": "hur-hittar-jag-orsaken-till-differenser-i-arbetsgivaravgifter-agi-i-flex-hrm-payroll.md"}
-,
-  {"title": "Hur kan jag göra urval på anställda när jag skapar en ordinarie lönekörning i Flex HRM Payroll?", "file": "hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-fl.md"}
-,
-  {"title": "Hur kan jag göra urval på anställda när jag skapar en ordinarie lönekörning i Flex HRM Payroll?", "file": "hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-flex-hrm-payroll.md"}
-,
-  {"title": "Hur lägger jag till en frånvarotransaktion manuellt i löneberedningen?", "file": "hur-lagger-jag-till-en-franvarotransaktion-manuellt-i-loneberedningen.md"}
-,
-  {"title": "Hur rapporterar jag pension till Fora månadsvis i Flex HRM Payroll?", "file": "hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll.md"}
-,
-  {"title": "Hur rapporterar jag pensionsunderlag till KPA (KAP-KL/AKAP-KR) i HRM Payroll?", "file": "hur-rapporterar-jag-pensionsunderlag-till-kpa-kap-kl-akap-kr-i-hrm-payroll.md"}
-,
-  {"title": "Hur rättar jag redan inlämnad rapportering till Fora i HRM Payroll?", "file": "hur-rattar-jag-redan-inlamnad-rapportering-till-fora-i-hrm-payroll.md"}
-,
-  {"title": "Hur ser de årliga rutinerna för arbetstidskonto (ATK) ut?", "file": "hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut.md"}
-,
-  {"title": "Hur ser jag vilka belopp och poster som bokförts på ett specifikt konto i bokföringsunderlaget?", "file": "hur-ser-jag-vilka-belopp-och-poster-som-bokforts-pa-ett-specifikt-konto-i-bokfor.md"}
-,
-  {"title": "Hur ser jag vilka belopp och poster som bokförts på ett specifikt konto i bokföringsunderlaget?", "file": "hur-ser-jag-vilka-belopp-och-poster-som-bokforts-pa-ett-specifikt-konto-i-bokforingsunderlaget.md"}
-,
-  {"title": "Hur skapar jag en beräkning av skuld (t.ex. semesterskuld, kompskuld) i HRM Payroll?", "file": "hur-skapar-jag-en-berakning-av-skuld-t-ex-semesterskuld-kompskuld-i-hrm-payroll.md"}
-,
-  {"title": "Hur skapar jag en importmall för att kunna importera/läsa in lönetransaktioner i löneberedningen?", "file": "hur-skapar-jag-en-importmall-for-att-kunna-importera-lasa-in-lonetransaktioner-i-loneberedningen.md"}
-,
-  {"title": "Hur skapar jag en importmall för att kunna importera/läsa in lönetransaktioner i löneberedningen?", "file": "hur-skapar-jag-en-importmall-for-att-kunna-importera-lasa-in-lonetransaktioner-i.md"}
-,
-  {"title": "Hur skapar jag en ny lönekörning i HRM Payroll?", "file": "hur-skapar-jag-en-ny-lonekorning-i-hrm-payroll.md"}
-,
-  {"title": "Hur skapar jag ett arbetsgivarintyg i Flex HRM Payroll?", "file": "hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll.md"}
-,
-  {"title": "Hur skapar jag ett bokföringsunderlag i HRM Payroll?", "file": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll.md"}
-,
-  {"title": "Hur ställer man in ackumulatorerna så att det blir rätt värde i rätt fält i AGIn?", "file": "hur-staller-man-in-ackumulatorerna-sa-att-det-blir-ratt-varde-i-ratt-falt-i-agin.md"}
-,
-  {"title": "Jag får en varning att konto saknas för bokföringsposter, hur hittar jag var konto saknas och korrigerar detta?", "file": "jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-kont.md"}
-,
-  {"title": "Jag får en varning att konto saknas för bokföringsposter, hur hittar jag var konto saknas och korrigerar detta?", "file": "jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-konto-saknas-och-korrige.md"}
-,
-  {"title": "Konjunkturstatistik, löner för privat sektor (KLP) - Hur tar jag fram statistik för KLP i HRM Payroll?", "file": "konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-k.md"}
-,
-  {"title": "Konjunkturstatistik, löner för privat sektor (KLP) - Hur tar jag fram statistik för KLP i HRM Payroll?", "file": "konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll.md"}
-,
-  {"title": "Konjunkturstatistik, löner för privat sektor (KLP) - Vilka inställningar behöver jag för att kunna ta ut statistiken för KLP i Flex HRM Payroll?", "file": "konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-.md"}
-,
-  {"title": "Konjunkturstatistik, löner för privat sektor (KLP) - Vilka inställningar behöver jag för att kunna ta ut statistiken för KLP i Flex HRM Payroll?", "file": "konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-for-att-kunna-ta-ut-.md"}
-,
-  {"title": "Konteringsflöde i HRM Payroll - Hur hanteras konteringsdimensioner och prioriteringar i HRM Payroll?", "file": "konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriterin.md"}
-,
-  {"title": "Konteringsflöde i HRM Payroll - Hur hanteras konteringsdimensioner och prioriteringar i HRM Payroll?", "file": "konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll.md"}
-,
-  {"title": "Kortperiodisk sysselsättningsstatistik, privat sektor (KSP) - Hur tar jag fram statistik för KSP i HRM Payroll?", "file": "kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statis.md"}
-,
-  {"title": "Kortperiodisk sysselsättningsstatistik, privat sektor (KSP) - Hur tar jag fram statistik för KSP i HRM Payroll?", "file": "kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa.md"}
-,
-  {"title": "Lönestrukturstatistik för privat sektor (SLP) - Hur tar jag fram statistik för SLP i HRM Payroll?", "file": "lonestrukturstatistik-for-privat-sektor-slp-hur-tar-jag-fram-statistik-for-slp-i-hrm-payroll.md"}
-,
-  {"title": "Lönestrukturstatistik för privat sektor (SLP) - Hur tar jag fram statistik för SLP i HRM Payroll?", "file": "lonestrukturstatistik-for-privat-sektor-slp-hur-tar-jag-fram-statistik-for-slp-i.md"}
-,
-  {"title": "Månadsrapportering FORA - Hur hanteras FORAs FOK-koder i Flex HRM Payroll?", "file": "manadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll.md"}
-,
-  {"title": "Min bank säger att vi måste byta bankfilsformat - Hur gör jag för att byta bankfilsformat i HRM Payroll?", "file": "min-bank-sager-att-vi-maste-byta-bankfilsformat-hur-gor-jag-for-att-byta-bankfil.md"}
-,
-  {"title": "Min bank säger att vi måste byta bankfilsformat - Hur gör jag för att byta bankfilsformat i HRM Payroll?", "file": "min-bank-sager-att-vi-maste-byta-bankfilsformat-hur-gor-jag-for-att-byta-bankfilsformat-i-hrm-payrol.md"}
-,
-  {"title": "Pensionsrapportering (årsvis) till Fora - Hur pensionsrapporterar jag till Fora i Flex HRM Payroll?", "file": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-till-fora-i-fl.md"}
-,
-  {"title": "Pensionsrapportering (årsvis) till Fora - Hur pensionsrapporterar jag till Fora i Flex HRM Payroll?", "file": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll.md"}
-,
-  {"title": "Semesterårsskifte HRM Payroll: April - Vad behöver jag göra inför semesterårsskiftet?", "file": "semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskifte.md"}
-,
-  {"title": "Semesterårsskifte HRM Payroll: April - Vad behöver jag göra inför semesterårsskiftet?", "file": "semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet.md"}
-,
-  {"title": "Semesterårsskifte HRM Payroll: Januari - Vad behöver jag göra inför semesterårsskiftet?", "file": "semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskif.md"}
-,
-  {"title": "Semesterårsskifte HRM Payroll: Januari - Vad behöver jag göra inför semesterårsskiftet?", "file": "semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet.md"}
-,
-  {"title": "Sjukfrånvaro under sjuklöneperioden (SUS) - Hur tar jag fram statistik för SUS i Flex HRM Payroll?", "file": "sjukfranvaro-under-sjukloneperioden-sus-hur-tar-jag-fram-statistik-for-sus-i-fle.md"}
-,
-  {"title": "Sjukfrånvaro under sjuklöneperioden (SUS) - Hur tar jag fram statistik för SUS i Flex HRM Payroll?", "file": "sjukfranvaro-under-sjukloneperioden-sus-hur-tar-jag-fram-statistik-for-sus-i-flex-hrm-payroll.md"}
-,
-  {"title": "Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?", "file": "vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf.md"}
-,
-  {"title": "Vad kan SmartDetect varna för i Flex HRM Payroll?", "file": "vad-kan-smartdetect-varna-for-i-flex-hrm-payroll.md"}
-,
-  {"title": "Var kan jag se en medarbetares frånvaro som beräknats i HRM Payroll?", "file": "var-kan-jag-se-en-medarbetares-franvaro-som-beraknats-i-hrm-payroll.md"}
-,
-  {"title": "Var kan jag se vilka poster som var med i överföringen till lönekörningen från HRM Time, HRM Travel eller en importerad fil?", "file": "var-kan-jag-se-vilka-poster-som-var-med-i-overforingen-till-lonekorningen-fran-h.md"}
-,
-  {"title": "Var kan jag se vilka poster som var med i överföringen till lönekörningen från HRM Time, HRM Travel eller en importerad fil?", "file": "var-kan-jag-se-vilka-poster-som-var-med-i-overforingen-till-lonekorningen-fran-hrm-time-hrm-travel-e.md"}
-,
-  {"title": "Varför räknas engångsskatten om vid lönekörningens avräkning?", "file": "varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning.md"}
-,
-  {"title": "Vilka inställningar behöver jag för att kunna skicka arbetsgivarintyg till Arbetsgivarintyg.nu?", "file": "vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbet.md"}
-,
-  {"title": "Vilka inställningar behöver jag för att kunna skicka arbetsgivarintyg till Arbetsgivarintyg.nu?", "file": "vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu.md"}
-,
-  {"title": "Vilka inställningar krävs för att jag ska kunna rapportera statistik för Lönestrukturstatistik för privat sektor (SLP) i Flex HRM Payroll?", "file": "vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestr.md"}
-,
-  {"title": "Vilka inställningar krävs för att jag ska kunna rapportera statistik för Lönestrukturstatistik för privat sektor (SLP) i Flex HRM Payroll?", "file": "vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestrukturstatistik-for-p.md"}
-,
-  {"title": "Vilka inställningar krävs för att man ska kunna använda SmartDetect i Flex HRM Payroll?", "file": "vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-p.md"}
-,
-  {"title": "Vilka inställningar krävs för att man ska kunna använda SmartDetect i Flex HRM Payroll?", "file": "vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-payroll.md"}
-,
-  {"title": "Vilka inställningar krävs för att rapportera månadsvis till Fora i HRM Payroll?", "file": "vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll.md"}
-,
-  {"title": "Vilka inställningar krävs för göra årsvis rapportering till Fora i Flex HRM Payroll?", "file": "vilka-installningar-kravs-for-gora-arsvis-rapportering-till-fora-i-flex-hrm-payr.md"}
-,
-  {"title": "Vilka inställningar krävs för göra årsvis rapportering till Fora i Flex HRM Payroll?", "file": "vilka-installningar-kravs-for-gora-arsvis-rapportering-till-fora-i-flex-hrm-payroll.md"}
-,
-  {"title": "Vilka uppgifter kommer med i rapporteringen till KPA (KAP-KL/AKAP-KR)?", "file": "vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl-akap-kr.md"}
-,
-  {"title": "Vilka uppgifter kommer med i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) och hur beräknas dem?", "file": "vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-st.md"}
-,
-  {"title": "Vilka uppgifter kommer med i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) och hur beräknas dem?", "file": "vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-struktur-lcs-och-hur-b.md"}
-
+  {
+    "title": "Hur tar jag bort en anställd från en preliminär lönekörning?",
+    "file": "hur-tar-jag-bort-en-anstalld-fran-en-preliminar-lonekorning.md",
+    "slug": "hur-tar-jag-bort-en-anstalld-fran-en-preliminar-lonekorning",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 20 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-tar-jag-bort-en-anst%C3%A4lld-fr%C3%A5n-en-prelimin%C3%A4r-l%C3%B6nek%C3%B6rning",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du tar bort en eller flera anställda från en preliminär lönekörning.\nTa bort en anställd från en preliminär lönekörning\nHär beskriver vi hur du går tillväga för att ta bort..."
+  },
+  {
+    "title": "Var kan jag se en medarbetares frånvaro som beräknats i HRM Payroll?",
+    "file": "var-kan-jag-se-en-medarbetares-franvaro-som-beraknats-i-hrm-payroll.md",
+    "slug": "var-kan-jag-se-en-medarbetares-franvaro-som-beraknats-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/var-kan-jag-se-en-medarbetares-fr%C3%A5nvaro-som-ber%C3%A4knats-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Du kan få en tydlig översikt över en medarbetares frånvaro, både semestergrundande och icke semestergrundande, i kalendariet. All frånvaro som registreras via en löneart kopplad till en frånvaroorsak ..."
+  },
+  {
+    "title": "Var kan jag se vilka poster som var med i överföringen till lönekörningen från HRM Time, HRM Travel eller en importerad fil?",
+    "file": "var-kan-jag-se-vilka-poster-som-var-med-i-overforingen-till-lonekorningen-fran-hrm-time-hrm-travel-e.md",
+    "slug": "var-kan-jag-se-vilka-poster-som-var-med-i-overforingen-till-lonekorningen-fran-hrm-time-hrm-travel-e",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "lön"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/var-kan-jag-se-vilka-poster-som-var-med-i-%C3%B6verf%C3%B6ringen-till-l%C3%B6nek%C3%B6rningen-fr%C3%A5n-hrm-time-eller-hrm-travel-eller-en-importerad-fil",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "I denna artikel beskriver vi hur du kan se vilka poster som varit med i överföringen till lönekörningen från  Time, Travel eller en importerad fil.\nFunktionen hittar du under\nLön > Löneberedning\n.\nKli..."
+  },
+  {
+    "title": "Hur gör jag för att importera/läsa in en fil med lönetransaktioner i löneberedningen?",
+    "file": "hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedningen.md",
+    "slug": "hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedningen",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%B6r-jag-f%C3%B6r-att-importera/l%C3%A4sa-in-en-fil-med-l%C3%B6netransaktioner-i-l%C3%B6neberedningen",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du gör för att importera/läsa in en fil med lönetransaktioner i löneberedningen i HRM Payroll med hjälp av en importmall.\nFör att kunna läsa in en fil i löneberedningen mås..."
+  },
+  {
+    "title": "Hur skapar jag en ny lönekörning i HRM Payroll?",
+    "file": "hur-skapar-jag-en-ny-lonekorning-i-hrm-payroll.md",
+    "slug": "hur-skapar-jag-en-ny-lonekorning-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-en-ny-l%C3%B6nek%C3%B6rning-i-payroll",
+    "isConfig": false,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Denna artikel går igenom stegen för att skapa (öppna) en ny lönekörningsperiod i Payroll.\nSkapa en ny lönekörning\nFör att kunna skapa en lönekörning behöver du dels ha behörigheter för Lön på din roll..."
+  },
+  {
+    "title": "Vad kan SmartDetect varna för i Flex HRM Payroll?",
+    "file": "vad-kan-smartdetect-varna-for-i-flex-hrm-payroll.md",
+    "slug": "vad-kan-smartdetect-varna-for-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester",
+      "skatt"
+    ],
+    "date": "den 14 november 2025",
+    "url": "https://knowledge.flexapplications.se/vad-kan-smartdetect-varna-f%C3%B6r-i-flex-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "SmartDetect kontrollerar lönedata genom att hitta avvikelser för: avvikande värden på transaktioner, osynkade saldon, ogiltig frånvaro och missade slutlöner.\nHär är ett urval av de kontroller och beva..."
+  },
+  {
+    "title": "Hur använder man SmartDetect i Flex HRM Payroll?",
+    "file": "hur-anvander-man-smartdetect-i-flex-hrm-payroll.md",
+    "slug": "hur-anvander-man-smartdetect-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester",
+      "skatt"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-anv%C3%A4nder-man-smartdetect-i-flex-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Den här artikeln visar hur du praktiskt arbetar med SmartDetect i din dagliga löneberedning för att hitta avvikelser samt säkerställa en smidig och korrekt process.\nHitta och granska avvikelser i löne..."
+  },
+  {
+    "title": "Hur kan jag göra urval på anställda när jag skapar en ordinarie lönekörning i Flex HRM Payroll?",
+    "file": "hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-flex-hrm-payroll.md",
+    "slug": "hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-kan-jag-g%C3%B6ra-urval-p%C3%A5-anst%C3%A4llda-n%C3%A4r-jag-skapar-en-ordinarie-l%C3%B6nek%C3%B6rning-i-flex-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "För att kunna göra urval på anställda i en ordinarie lönekörning krävs det att man aktiverar inställningen \"Tillåt anställningsurval vid skapande av ordinarie lönekörning\".\nNär man skapar en ny lönekö..."
+  },
+  {
+    "title": "Hur lägger jag till en frånvarotransaktion manuellt i löneberedningen?",
+    "file": "hur-lagger-jag-till-en-franvarotransaktion-manuellt-i-loneberedningen.md",
+    "slug": "hur-lagger-jag-till-en-franvarotransaktion-manuellt-i-loneberedningen",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-l%C3%A4gger-jag-till-en-fr%C3%A5nvarotransaktion-direkt-i-l%C3%B6neberedningen",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du registrerar frånvaro för korrekt beräkning direkt i lönekörningen.\nFrånvaro läggs in i lönekörningen/registreras via frånvarohanteraren, klicka på Knappen Frånvaro.\n![Bi..."
+  },
+  {
+    "title": "Hur beräknar jag slutlön i HRM Payroll?",
+    "file": "hur-beraknar-jag-slutlon-i-hrm-payroll.md",
+    "slug": "hur-beraknar-jag-slutlon-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "pension",
+      "semester"
+    ],
+    "date": "den 14 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-ber%C3%A4knar-jag-slutl%C3%B6n-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "I denna artikel beskriver vi hur du gör för att beräkna slutlön i Payroll.\nFörutsättning för att kunna beräkna slutlön är att man lagt in ett avgångsdatum på anställningen i anställdaregistret.\nNär en..."
+  },
+  {
+    "title": "Det visas en varning att det finns transaktioner som inte hämtats in i lönekörningen, hur hittar jag och hanterar dessa?",
+    "file": "det-visas-en-varning-att-det-finns-transaktioner-som-inte-hamtats-in-i-lonekorningen-hur-hittar-jag-.md",
+    "slug": "det-visas-en-varning-att-det-finns-transaktioner-som-inte-hamtats-in-i-lonekorningen-hur-hittar-jag-",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/det-visas-en-varning-att-det-finns-transaktioner-som-inte-h%C3%A4mtats-in-i-l%C3%B6nek%C3%B6rningen-hur-hittar-jag-och-hanterar-dessa",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Den här artikeln beskriver hur du hittar och hanterar transaktioner som ej lästs in i lönekörningen från en fil.\nEfter en import av transaktioner via en importfil kan det visas en varning om att det f..."
+  },
+  {
+    "title": "⚙️Min bank säger att vi måste byta bankfilsformat - Hur gör jag för att byta bankfilsformat i HRM Payroll?",
+    "file": "min-bank-sager-att-vi-maste-byta-bankfilsformat-hur-gor-jag-for-att-byta-bankfilsformat-i-hrm-payrol.md",
+    "slug": "min-bank-sager-att-vi-maste-byta-bankfilsformat-hur-gor-jag-for-att-byta-bankfilsformat-i-hrm-payrol",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/min-bank-s%C3%A4ger-att-att-vi-m%C3%A5ste-byta-bankfilsformat-hur-g%C3%B6r-jag-f%C3%B6r-att-byta-format",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Ska du byta filformat? Kontakta din bank för information och eventuellt nytt avtal. Gör sedan inställningarna i Flex HRM och se till att testa filen med banken.\nHur gör jag för att byta format?\nOm du ..."
+  },
+  {
+    "title": "⚙️Hur gör jag inställningar för bankfiler med formatet ISO 20022 Pain.001 (XML) i HRM Payroll?",
+    "file": "hur-gor-jag-installningar-for-bankfiler-med-formatet-iso-20022-pain-001-xml-i-hrm-payroll.md",
+    "slug": "hur-gor-jag-installningar-for-bankfiler-med-formatet-iso-20022-pain-001-xml-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 20 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%B6r-jag-inst%C3%A4llningar-f%C3%B6r-bankfiler-med-formatet-iso-20022-pain.001-xml-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 21,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver vilka banker det finns stöd för i Payroll avseende filformatet ISO 20022, Pain.001 (XML) samt hur du gör inställningar för respektive bank.\nBankfiler på formatet ISO 20022 i Flex HR..."
+  },
+  {
+    "title": "⚙️Hur skapar jag en importmall för att kunna importera/läsa in lönetransaktioner i löneberedningen?",
+    "file": "hur-skapar-jag-en-importmall-for-att-kunna-importera-lasa-in-lonetransaktioner-i-loneberedningen.md",
+    "slug": "hur-skapar-jag-en-importmall-for-att-kunna-importera-lasa-in-lonetransaktioner-i-loneberedningen",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%B6r-jag-f%C3%B6r-att-importera-i-l%C3%B6neberedningen-l%C3%B6netransaktioner",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Denna artikel går igenom stegen för att skapa en importmall för att kunna importera en fil med lönetransaktioner i löneberedningen i HRM Payroll.\nFör att kunna importera/läsa in transaktioner från en ..."
+  },
+  {
+    "title": "⚙️Vilka inställningar krävs för att man ska kunna använda SmartDetect i Flex HRM Payroll?",
+    "file": "vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-payroll.md",
+    "slug": "vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-man-ska-kunna-anv%C3%A4nda-smartdetect",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "SmartDetects AI är automatisk men måste initieras en gång. Den tränar sen på er lönehistorik för att hitta relevanta avvikelser. I listan med avvikelser kan du själv bestämma vilka lönearter som ska s..."
+  },
+  {
+    "title": "⚙️Export av saldon - Hur exporterar man saldon från HRM Payroll till HRM Time?",
+    "file": "export-av-saldon-hur-exporterar-man-saldon-fran-hrm-payroll-till-hrm-time.md",
+    "slug": "export-av-saldon-hur-exporterar-man-saldon-fran-hrm-payroll-till-hrm-time",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "lön",
+      "semester"
+    ],
+    "date": "den 28 november 2025",
+    "url": "https://knowledge.flexapplications.se/export-av-saldon-hur-exporterar-man-saldon-fr%C3%A5n-hrm-payroll-till-hrm-time",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du kan exportera saldon från HRM Payroll till HRM Time. Instruktionen gäller för flera olika typer av saldon, där bland semestersaldo, kompsaldo och flexsaldo.\nExport av saldon ..."
+  },
+  {
+    "title": "FOS-förfrågan (fråga om skatteavdrag) - Hur skickar jag in FOS-förfrågan i Flex HRM Payroll?",
+    "file": "fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-payroll.md",
+    "slug": "fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "skatt"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/fos-f%C3%B6rfr%C3%A5gan-fr%C3%A5ga-om-skatteavdrag-hur-skickar-jag-in-fos-f%C3%B6rfr%C3%A5gan-i-flex-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Guide för FOS-förfrågan i Flex HRM. Lär dig hämta, granska och verkställa nya skatteuppgifter för anställda inför det nya beskattningsåret.\nInför varje nytt beskattningsår behöver du som löneutbetalar..."
+  },
+  {
+    "title": "Varför räknas engångsskatten om vid lönekörningens avräkning?",
+    "file": "varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning.md",
+    "slug": "varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "semester",
+      "skatt"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/varf%C3%B6r-r%C3%A4knas-eng%C3%A5ngsskatten-om-vid-l%C3%B6nek%C3%B6rningens-avr%C3%A4kning",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "En omräkning av engångsskatten kan ske om en anställds beräknade årsinkomst ändras i samband med att du avräknar en lönekörning. Detta beror oftast på en automatisk omräkning av den anställdas semeste..."
+  },
+  {
+    "title": "Hur skapar jag ett bokföringsunderlag i HRM Payroll?",
+    "file": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll.md",
+    "slug": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bokföring",
+      "lön",
+      "semester"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-ett-bokf%C3%B6ringsunderlag-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "I den här artikeln beskriver vi stegen för att skapa ett underlag för bokföring.\nSteg 1: Förberedelser - Skuldlistor\nInnan du kan skapa själva bokföringsfilen måste du gå till\nLön > Skuldhantering.\nDä..."
+  },
+  {
+    "title": "Hur skapar jag en beräkning av skuld (t.ex. semesterskuld, kompskuld) i HRM Payroll?",
+    "file": "hur-skapar-jag-en-berakning-av-skuld-t-ex-semesterskuld-kompskuld-i-hrm-payroll.md",
+    "slug": "hur-skapar-jag-en-berakning-av-skuld-t-ex-semesterskuld-kompskuld-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Bokföring",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "bokföring",
+      "lön",
+      "semester"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-en-ber%C3%A4kning-av-skuld-t.ex.-semesterskuld-kompskuld-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "I HRM Payroll kan du beräkna olika typer av skulder, till exempel semesterskuld eller kompskuld. Du gör detta under funktionen för skuldhantering.\nSå här beräknar du en skuld\nGå till\nLön > Skuldhanter..."
+  },
+  {
+    "title": "Jag får en varning att konto saknas för bokföringsposter, hur hittar jag var konto saknas och korrigerar detta?",
+    "file": "jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-konto-saknas-och-korrige.md",
+    "slug": "jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-konto-saknas-och-korrige",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "bokföring",
+      "lön",
+      "löneart"
+    ],
+    "date": "den 9 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/jag-f%C3%A5r-en-varning-att-konto-saknas-f%C3%B6r-bokf%C3%B6ringsposter-hur-hittar-jag-var-konto-saknas-och-korrigerar-detta",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "När du skapar ett bokföringsunderlag kan du få en varning i en notis om att ett konto saknas. Här guidar vi dig i hur du hittar vilken löneart det gäller och hur du åtgärdar det.\n![Bild](images/jag-fa..."
+  },
+  {
+    "title": "Hur ser jag vilka belopp och poster som bokförts på ett specifikt konto i bokföringsunderlaget?",
+    "file": "hur-ser-jag-vilka-belopp-och-poster-som-bokforts-pa-ett-specifikt-konto-i-bokforingsunderlaget.md",
+    "slug": "hur-ser-jag-vilka-belopp-och-poster-som-bokforts-pa-ett-specifikt-konto-i-bokforingsunderlaget",
+    "category": "payroll",
+    "subcategory": "Bokföring",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bokföring",
+      "lön",
+      "löneart"
+    ],
+    "date": "den 10 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-ser-jag-vilka-belopp-och-poster-som-bokf%C3%B6rts-p%C3%A5-ett-specifikt-konto-i-bokf%C3%B6ringsunderlaget",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "För att se vilka lönearter som har bokförts på ett specifikt konto, förhandsgranskar du bokföringsunderlaget. Under inställningen Fördelning bokföringspost, väljer du att visa Konto och Löneartsnummer..."
+  },
+  {
+    "title": "Konteringsflöde i HRM Payroll - Hur hanteras konteringsdimensioner och prioriteringar i HRM Payroll?",
+    "file": "konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll.md",
+    "slug": "konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/konteringsfl%C3%B6de-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "I HRM Payroll styrs konteringen av olika dimensioner genom inställningar på lönearten, anställda, och lönekörningen, med en tydlig prioriteringsordning som säkerställer korrekt kostnadsfördelning.\nKon..."
+  },
+  {
+    "title": "⚙️Hur hanteras kompskuld och skuld på valfria ackumulatorer i HRM Payroll?",
+    "file": "hur-hanteras-kompskuld-och-skuld-pa-valfria-ackumulatorer-i-hrm-payroll.md",
+    "slug": "hur-hanteras-kompskuld-och-skuld-pa-valfria-ackumulatorer-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "bokföring",
+      "lön",
+      "löneart"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanteras-kompskuld-och-skuld-p%C3%A5-valfria-ackumulatorer-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "I Flex HRM Payroll kan du beräkna och bokföra en skuld för valfria ackumulatorer, till exempel kompsaldot. För dessa ackumulatorer kan du också aktivera en automatisk beräkning av slutlön för anställd..."
+  },
+  {
+    "title": "Hur arbetar jag med arbetsgivardeklaration på individnivå i Flex HRM Payroll?",
+    "file": "hur-arbetar-jag-med-arbetsgivardeklaration-pa-individniva-i-flex-hrm-payroll.md",
+    "slug": "hur-arbetar-jag-med-arbetsgivardeklaration-pa-individniva-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "skatt"
+    ],
+    "date": "den 21 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vad-beh%C3%B6ver-jag-g%C3%B6ra-med-min-arbetsgivardeklaration-agi-p%C3%A5-individniv%C3%A5-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 31,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver månadsredovisningen av arbetsgivardeklaration på individnivå. Bland annat beskrivs hur du skapar, kontrollerar och exporterar underlaget.\nVyns olika delar\nSkapa underlag\nSpecifikati..."
+  },
+  {
+    "title": "Varför får jag en varning i arbetsgivaruppgifterna på individnivå (AGI) att det finns ett negativt belopp på fält 499?",
+    "file": "varfor-far-jag-en-varning-i-arbetsgivaruppgifterna-pa-individniva-agi-att-det-finns-ett-negativt-bel.md",
+    "slug": "varfor-far-jag-en-varning-i-arbetsgivaruppgifterna-pa-individniva-agi-att-det-finns-ett-negativt-bel",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "skatt"
+    ],
+    "date": "den 21 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/varf%C3%B6r-f%C3%A5r-jag-en-varning-i-arbetsgivaruppgifterna-p%C3%A5-individniv%C3%A5-agi-att-det-finns-ett-negativt-belopp-p%C3%A5-f%C3%A4lt-499",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Få svar på varningen om minusbelopp i fält 499 i AGI och undvik fel vid rapportering av sjuklönekostnader till Skatteverket.\nVarning för negativt belopp i fält 499 i AGI-underlaget\nOm du får en varnin..."
+  },
+  {
+    "title": "Hur hittar jag orsaken till differenser i arbetsgivaravgifter (AGI) i Flex HRM Payroll?",
+    "file": "hur-hittar-jag-orsaken-till-differenser-i-arbetsgivaravgifter-agi-i-flex-hrm-payroll.md",
+    "slug": "hur-hittar-jag-orsaken-till-differenser-i-arbetsgivaravgifter-agi-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "skatt"
+    ],
+    "date": "den 25 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hittar-jag-orsaken-till-diffar-i-skatt-och-arbetsgivaravgifter-agi-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du kan göra för att hitta orsaken till en differens avseende arbetsgivaravgifter.\nHur hittar jag differenser i skatt och arbetsgivaravgifter?\nOm du i arbetsgivardeklarationen ha..."
+  },
+  {
+    "title": "Hur gör jag en rättelse av ett fel i tidigare arbetsgivardeklarationer (AGI) i HRM Payroll?",
+    "file": "hur-gor-jag-en-rattelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm-payroll.md",
+    "slug": "hur-gor-jag-en-rattelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "skatt"
+    ],
+    "date": "den 21 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%B6r-jag-en-r%C3%A4ttelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du rättar fel i tidigare, redan insända arbetsgivardeklarationer, samt ger exempel på hur du kan korrigera olika situationer som uppstått; bland annat hur du kvitterar en skuld ..."
+  },
+  {
+    "title": "⚙️Hur ställer man in ackumulatorerna så att det blir rätt värde i rätt fält i AGIn?",
+    "file": "hur-staller-man-in-ackumulatorerna-sa-att-det-blir-ratt-varde-i-ratt-falt-i-agin.md",
+    "slug": "hur-staller-man-in-ackumulatorerna-sa-att-det-blir-ratt-varde-i-ratt-falt-i-agin",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "lön",
+      "skatt"
+    ],
+    "date": "den 25 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-inst%C3%A4llningar-p%C3%A5-ackumulatorerna",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Inställningar per ackumulator styr dess värde till rätt fält i rapporter. För arbetsgivardeklarationen och kontrolluppgifter anges önskat fältnummer direkt i ackumulatorn.\nDe flesta belopp och kryssru..."
+  },
+  {
+    "title": "⚙️ Hur gör jag inställningar för arbetsplats, tjänsteställe, till arbetsgivardeklarationen (AGI) i HRM Payroll?",
+    "file": "hur-gor-jag-installningar-for-arbetsplats-tjanstestalle-till-arbetsgivardeklarationen-agi-i-hrm-payr.md",
+    "slug": "hur-gor-jag-installningar-for-arbetsplats-tjanstestalle-till-arbetsgivardeklarationen-agi-i-hrm-payr",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "skatt"
+    ],
+    "date": "den 25 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%B6r-jag-inst%C3%A4llningar-f%C3%B6r-arbetsplats-tj%C3%A4nstest%C3%A4lle-till-arbetsgivardeklarationen-agi-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du gör inställningar för att kunna redovisa arbetsplatsens (tjänsteställets) adress i arbetsgivardeklarationen.\nObservera att Skatteverket vanligtvis använder termen \"tjänstestä..."
+  },
+  {
+    "title": "Flex HRM Payroll - Hur använder man rapporter i Flex HRM Payroll?",
+    "file": "flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll.md",
+    "slug": "flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "bokföring",
+      "lön",
+      "löneart",
+      "pension",
+      "semester",
+      "skatt"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/flex-hrm-payroll-hur-anv%C3%A4nder-man-flex-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 20,
+    "hasImages": true,
+    "excerpt": "Här ges beskrivning med fokus på rapporter kopplade till lönehanteringen i Flex HRM.\nAllmänt\nPersonallista\nExempelrapporter man kan få ut via rapporten Personallista\nRapporter under Lön:\nBanklista\nBok..."
+  },
+  {
+    "title": "Hur skapar jag ett arbetsgivarintyg i Flex HRM Payroll?",
+    "file": "hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll.md",
+    "slug": "hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du i Flex HRM Payroll skapar och skickar in ett arbetsgivarintyg till a-kassornas digitala tjänst arbetsgivarintyg.nu.\nSkapa och skicka in ett arbetsgivarintyg\nSom arbetsgi..."
+  },
+  {
+    "title": "⚙️Vilka inställningar behöver jag för att kunna skicka arbetsgivarintyg till Arbetsgivarintyg.nu?",
+    "file": "vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu.md",
+    "slug": "vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg.nu",
+    "isConfig": true,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "För att skicka korrekta arbetsgivarintyg måste systemet först länkas till tjänsten och därefter måste alla koder för lön, tid och frånvaro mappas korrekt.\nProgramlänk till Arbetsgivarintyg.nu\nIntegrat..."
+  },
+  {
+    "title": "Vilka uppgifter kommer med i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) och hur beräknas dem?",
+    "file": "vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-struktur-lcs-och-hur-b.md",
+    "slug": "vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-struktur-lcs-och-hur-b",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-och-hur-ber%C3%A4knas-dem",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I denna artikel hittar du detaljerad information om vilka uppgifter tas med i del A och B i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) samt hur de beräknas.\nFördjupad information ..."
+  },
+  {
+    "title": "Arbetskraftskostnadens nivå och struktur (LCS) - Hur tar jag fram statistiken för LCS i HRM Payroll?",
+    "file": "arbetskraftskostnadens-niva-och-struktur-lcs-hur-tar-jag-fram-statistiken-for-lcs-i-hrm-payroll.md",
+    "slug": "arbetskraftskostnadens-niva-och-struktur-lcs-hur-tar-jag-fram-statistiken-for-lcs-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "bokföring",
+      "lön",
+      "löneart"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-hur-tar-jag-fram-statistiken-f%C3%B6r-lcs-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "I denna artikel beskriver rapportering av statistiken LCS till SCB. Vi visar hur du tar fram underlaget för de olika delarna av statistiken.\nArbetskraftskostnadens nivå och struktur (LCS)\nArbetskrafts..."
+  },
+  {
+    "title": "Sjukfrånvaro under sjuklöneperioden (SUS) - Hur tar jag fram statistik för SUS i Flex HRM Payroll?",
+    "file": "sjukfranvaro-under-sjukloneperioden-sus-hur-tar-jag-fram-statistik-for-sus-i-flex-hrm-payroll.md",
+    "slug": "sjukfranvaro-under-sjukloneperioden-sus-hur-tar-jag-fram-statistik-for-sus-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Övrigt",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/konjunkturstatistik-%C3%B6ver-sjukl%C3%B6ner-ksju-hur-tar-jag-fram-statistik-f%C3%B6r-ksju-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Denna artikel ger beskriver hur du tar ut statistiken Sjukfrånvaro under sjuklöneperioden (SUS) till SCB  i HRM Payroll och hur uppgifterna beräknas.\nSkapa underlag\nTa bort underlag\nKontrollera underl..."
+  },
+  {
+    "title": "Konjunkturstatistik, löner för privat sektor (KLP) - Hur tar jag fram statistik för KLP i HRM Payroll?",
+    "file": "konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll.md",
+    "slug": "konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "skatt"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-hur-tar-jag-fram-statistik-f%C3%B6r-klp-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du tar ut statistiken för Konjunkturstatistik, löner för privat sektor (KLP) till SCB och hur systemet beräknar de olika uppgifterna som rapporteras.\nSkapa underlag\nTa bort unde..."
+  },
+  {
+    "title": "Kortperiodisk sysselsättningsstatistik, privat sektor (KSP) - Hur tar jag fram statistik för KSP i HRM Payroll?",
+    "file": "kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa.md",
+    "slug": "kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "semester"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/kortperiodisk-syssels%C3%A4ttningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-f%C3%B6r-ksp-i-hrm-payroll-",
+    "isConfig": false,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Guide för att ta fram statistiken KSP (Kortperiodisk sysselsättningsstatistik, privat sektor) till SCB, samt hur systemet beräknar underlaget.\nSkapa underlag\nTa bort underlag\nKontrollera underlaget\nFö..."
+  },
+  {
+    "title": "Lönestrukturstatistik för privat sektor (SLP) - Hur tar jag fram statistik för SLP i HRM Payroll?",
+    "file": "lonestrukturstatistik-for-privat-sektor-slp-hur-tar-jag-fram-statistik-for-slp-i-hrm-payroll.md",
+    "slug": "lonestrukturstatistik-for-privat-sektor-slp-hur-tar-jag-fram-statistik-for-slp-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-hur-tar-jag-fram-statistik-f%C3%B6r-slp-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du tar ut Lönestrukturstatistik för privat sektor (SLP) till SCB, SN eller Sobona i systemet.\nLöpande arbete för rapportering av lönestrukturstatistik (SLP)\nEn gång per år,..."
+  },
+  {
+    "title": "Hur beräknas underlaget för lönestrukturstatistik för privat sektor (SLP)?",
+    "file": "hur-beraknas-underlaget-for-lonestrukturstatistik-for-privat-sektor-slp.md",
+    "slug": "hur-beraknas-underlaget-for-lonestrukturstatistik-for-privat-sektor-slp",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapas-underlaget-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I denna artikel beskrivs beräkningen av underlaget för Lönestrukturstatistik (SLP), vilka anställda som ingår, fältberäkningar och hantering av avvikelser.\nVilka anställda tas med i underlaget?\nBeräkn..."
+  },
+  {
+    "title": "⚙️Arbetskraftskostnadens nivå och struktur (LCS) - Vilka inställningar behöver jag för att kunna ta ut statistiken för LCS i HRM Payroll?",
+    "file": "arbetskraftskostnadens-niva-och-struktur-lcs-vilka-installningar-behover-jag-for-att-kunna-ta-ut-sta.md",
+    "slug": "arbetskraftskostnadens-niva-och-struktur-lcs-vilka-installningar-behover-jag-for-att-kunna-ta-ut-sta",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-lcs-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I denna artikel beskrivs vilka inställningar som krävs för del A och B i statistiken för LCS ska bli korrekta.\nInställningar\nNedan beskrivs de olika inställningar som krävs för att sammanställningen a..."
+  },
+  {
+    "title": "⚙️Vilka inställningar krävs för att jag ska kunna rapportera statistik för Lönestrukturstatistik för privat sektor (SLP) i Flex HRM Payroll?",
+    "file": "vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestrukturstatistik-for-p.md",
+    "slug": "vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestrukturstatistik-for-p",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-jag-ska-kunna-rapportera-statistik-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-i-flex-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "För korrekt lönestatistik till SCB, SN eller Sobona krävs inställningar på företags-, individ- och löneartsnivå för att specificera uppgifter.\nInställningar på företagsnivå\nUppgifter på individnivå\nLö..."
+  },
+  {
+    "title": "⚙️Konjunkturstatistik, löner för privat sektor (KLP) - Vilka inställningar behöver jag för att kunna ta ut statistiken för KLP i Flex HRM Payroll?",
+    "file": "konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-for-att-kunna-ta-ut-.md",
+    "slug": "konjunkturstatistik-loner-for-privat-sektor-klp-vilka-installningar-behover-jag-for-att-kunna-ta-ut-",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "skatt"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-klp-i-flex-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "I denna artikel beskrivs de olika inställningar som krävs för att statistiken för KLP ska bli korrekt.\nUppgifter på individnivå\nLönetillägg\nLöneartsinställningar\nUppgifter på individnivå\nI anställdare..."
+  },
+  {
+    "title": "Pensionsrapportering (årsvis) till Fora - Hur pensionsrapporterar jag till Fora i Flex HRM Payroll?",
+    "file": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll.md",
+    "slug": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/peinsonsrapportering-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du pensionsrapporterar till Fora årsvis i Flex HRM Payroll: från att skapa underlag och fil till uppladdning på Foras hemsida, inklusive hur beräkningar görs.\nSkapa underla..."
+  },
+  {
+    "title": "⚙️Hur skapar jag en COINS-fil?",
+    "file": "hur-skapar-jag-en-coins-fil.md",
+    "slug": "hur-skapar-jag-en-coins-fil",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "pension"
+    ],
+    "date": "den 21 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-en-coins-fil",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "COINS är FörsäkringsGirots system för administration av olika försäkringar som t.ex. pensionsförsäkringar. För att COINS ska kunna beräkna många av sina uppgifter krävs att grundinformation om anställ..."
+  },
+  {
+    "title": "Vilka uppgifter kommer med i rapporteringen till KPA (KAP-KL/AKAP-KR)?",
+    "file": "vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl-akap-kr.md",
+    "slug": "vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl-akap-kr",
+    "category": "payroll",
+    "subcategory": "Pension",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl/akap-kr",
+    "isConfig": false,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Denna artikel ger information om vilka sorts uppgifter tas med och hur de beräknas i pensionsrapporteringen till KPA (KAP-KL/AKAP-KR).\nFördjupad information om hur underlaget skapas\nNedan hittar du de..."
+  },
+  {
+    "title": "Hur genomför man rapportering till Collectum i Flex HRM Payroll?",
+    "file": "hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll.md",
+    "slug": "hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "pension"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-genomf%C3%B6r-man-rapportering-till-collectum-i-flex-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 14,
+    "hasImages": true,
+    "excerpt": "Denna artikel riktar sig till dig som omfattas av pensionsavtalet ITP och  ska lämna pensionsunderlag till Collectum, och den beskriver hur man gör den månatliga rapporteringen.\nSkapa underlag\nKomplet..."
+  },
+  {
+    "title": "Hur rapporterar jag pensionsunderlag till KPA (KAP-KL/AKAP-KR) i HRM Payroll?",
+    "file": "hur-rapporterar-jag-pensionsunderlag-till-kpa-kap-kl-akap-kr-i-hrm-payroll.md",
+    "slug": "hur-rapporterar-jag-pensionsunderlag-till-kpa-kap-kl-akap-kr-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Pension",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "pension"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-rapporterar-jag-pensionsunderlag-till-kpa-kap-kl/akap-kr-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du rapporterar pensionsunderlag till KPA (KAP-KL/AKAP-KR) i Flex HRM Payroll.\nDu som arbetsgivare ska vid olika tidpunkter under året rapportera anställningsuppgifter, årsl..."
+  },
+  {
+    "title": "Hur rättar jag redan inlämnad rapportering till Fora i HRM Payroll?",
+    "file": "hur-rattar-jag-redan-inlamnad-rapportering-till-fora-i-hrm-payroll.md",
+    "slug": "hur-rattar-jag-redan-inlamnad-rapportering-till-fora-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "pension",
+      "skatt"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-r%C3%A4ttar-jag-redan-inl%C3%A4mnad-rapportering-till-fora-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Den här artikeln beskriver, med olika exempel, hur du kan rätta uppgifter om pensionsunderlag som har rapporterats till Fora.\nExtrautbetalning i redovisad period\nFel inställning på lönearter för pensi..."
+  },
+  {
+    "title": "Hur rapporterar jag pension till Fora månadsvis i Flex HRM Payroll?",
+    "file": "hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll.md",
+    "slug": "hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 11 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-rapporterar-jag-pension-till-fora-m%C3%A5nadsvis-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 15,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du månadsrapporterar till Fora i Flex HRM Payroll: från att skapa underlag och fil till uppladdning på Foras hemsida, inklusive beräkningar.\nNy uppmärkning av anställda\nNyt..."
+  },
+  {
+    "title": "Månadsrapportering FORA - Hur hanteras FORAs FOK-koder i Flex HRM Payroll?",
+    "file": "manadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll.md",
+    "slug": "manadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Pension",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "pension"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/m%C3%A5nadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll-och-flex-l%C3%B6n-classic",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "FOK-koderna för Fora är viktiga för rätt försäkringar och pension och hanteras i Flex HRM Payroll individuellt, per personalkategori eller via import.\nBakgrund\nUppmärkning är grunden för att företaget..."
+  },
+  {
+    "title": "⚙️Vilka inställningar krävs för göra årsvis rapportering till Fora i Flex HRM Payroll?",
+    "file": "vilka-installningar-kravs-for-gora-arsvis-rapportering-till-fora-i-flex-hrm-payroll.md",
+    "slug": "vilka-installningar-kravs-for-gora-arsvis-rapportering-till-fora-i-flex-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-g%C3%B6ra-%C3%A5rsvis-rapportering-till-fora-i-flex-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver de inställningar du behöver för att kunna göra årsvis rapporteringar till Fora.\nGrundinställningar\nUppgifter på individnivå\nLöneartsinställningar\nGrundinställningar\nFörsta steg..."
+  },
+  {
+    "title": "⚙️Hur gör jag inställningar i HRM Payroll för att kunna rapportera till KPA (KAP-KL/AKAP-KR)?",
+    "file": "hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr.md",
+    "slug": "hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%B6r-jag-inst%C3%A4llningar-i-hrm-payroll-f%C3%B6r-att-kunna-rapportera-till-kpa-kap-kl/akap-kr",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver de olika inställningar som krävs för att kunna rapportera pensionsunderlag till KPA (KAP-KL/AKAP-KR).\nGrundinställningar\nUppgifter på individnivå\nLönear\ntsinställningar\nAnställnings..."
+  },
+  {
+    "title": "⚙️Hur gör man inställningar för rapportering till Collectum i HRM Payroll?",
+    "file": "hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll.md",
+    "slug": "hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "pension",
+      "semester"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%B6r-man-inst%C3%A4llningar-f%C3%B6r-rapportering-till-collectum-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Denna artikel förklarar och beskriver de olika inställningar som krävs för att kunna göra rapportering till Collectum i systemet.\nGrundinställningar\nUppgifter på individnivå\nLöneartsinställningar\nLöne..."
+  },
+  {
+    "title": "⚙️Vilka inställningar krävs för att rapportera månadsvis till Fora i HRM Payroll?",
+    "file": "vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll.md",
+    "slug": "vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-rapportera-m%C3%A5nadsvis-till-fora-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver de inställningar i HRM Payroll som krävs för att kunna rapportera pensionsunderlag till Fora varje månad.\nUppmärkningskod per personalkategori\nUppgifter på individnivå\nImportera upp..."
+  },
+  {
+    "title": "Hur ser de årliga rutinerna för ATF ut?",
+    "file": "hur-ser-de-arliga-rutinerna-for-atf-ut.md",
+    "slug": "hur-ser-de-arliga-rutinerna-for-atf-ut",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 24 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut",
+    "isConfig": false,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Stegen nedan utgör den cykel som upprepas varje år.\n1. Påbörja ny intjänandeperiod\nFörsta steget i cykeln är att påbörja en ny intjänandeperiod.\nDetta ska göras när den sista\nlönekörnin\ngen under den ..."
+  },
+  {
+    "title": "Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?",
+    "file": "vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf.md",
+    "slug": "vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf",
+    "category": "payroll",
+    "subcategory": "Pension",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "lön",
+      "pension"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-arbetstidskonto-atk-och-arbetstidsf%C3%B6rkortning-atf",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver kort vad ATK och ATF är, skillnader mellan dem och olika principer och regler.\nI Flex HRM Payroll skiljer vi på Arbetstidskonto (ATK) och Arbetstidsförkortning (ATF) på följande sät..."
+  },
+  {
+    "title": "Hur fungerar den löpande hanteringen av ATK och ATF?",
+    "file": "hur-fungerar-den-lopande-hanteringen-av-atk-och-atf.md",
+    "slug": "hur-fungerar-den-lopande-hanteringen-av-atk-och-atf",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-den-l%C3%B6pande-hanteringen-av-atk-och-atf",
+    "isConfig": false,
+    "imageCount": 16,
+    "hasImages": true,
+    "excerpt": "I denna artikel kan du läsa om hur den löpande hanteringen med ATK/ATF fungerar, hur du kan se aktuellt saldo för de anställda och hur intjänande och uttag av ledig tid fungerar.\nSaldon i anställdareg..."
+  },
+  {
+    "title": "Hur ser de årliga rutinerna för arbetstidskonto (ATK) ut?",
+    "file": "hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut.md",
+    "slug": "hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atk-ut",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver de olika rutinerna som ska köras under året om du använder ATK.\nÅrscykel för ATK i HRM Payroll\nHär beskriver vi de olika rutiner du behöver köra under året när du använder ATK (arbe..."
+  },
+  {
+    "title": "Semesterårsskifte HRM Payroll: Januari - Vad behöver jag göra inför semesterårsskiftet?",
+    "file": "semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet.md",
+    "slug": "semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 25 november 2025",
+    "url": "https://knowledge.flexapplications.se/semester%C3%A5rsskifte-hrm-payroll-januari-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
+    "isConfig": false,
+    "imageCount": 26,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du gör ett semesterskifte när du har semesterår 1 januari - 31 december.\nArbetsgång vid semesterårsbytet 1 januari\nImportmall och importfil för utbetalning av överskjutande..."
+  },
+  {
+    "title": "Semesterårsskifte HRM Payroll: April - Vad behöver jag göra inför semesterårsskiftet?",
+    "file": "semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet.md",
+    "slug": "semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/semester%C3%A5rsskifte-hrm-payroll-april-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
+    "isConfig": false,
+    "imageCount": 22,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du gör ett semesterskifte när du har semesterår 1 april–31 mars.\nArbetsgång vid semesterårsbytet 1 april\nImportmall och importfil för utbetalning av överskjutande dagar\nChe..."
+  },
+  {
+    "title": "Formelvariabler - Varifrån hämtar formelvariablerna information för semestergrundande närvaro och frånvaro i HRM Payroll?",
+    "file": "formelvariabler-varifran-hamtar-formelvariablerna-information-for-semestergrundande-narvaro-och-fran.md",
+    "slug": "formelvariabler-varifran-hamtar-formelvariablerna-information-for-semestergrundande-narvaro-och-fran",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 24 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/formelfunktioner",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Artikeln förklarar varifrån Flex HRM hämtar information om närvaro och frånvaro som räknas som semestergrundande.\nFormelvariabler för Närvaro/Frånvaro\nFormelvariabler är de värden som används i beräkn..."
+  },
+  {
+    "title": "Kalendarium - Hur kan jag se en sammanställning av frånvaro och schematid för en anställd?",
+    "file": "kalendarium-hur-kan-jag-se-en-sammanstallning-av-franvaro-och-schematid-for-en-anstalld.md",
+    "slug": "kalendarium-hur-kan-jag-se-en-sammanstallning-av-franvaro-och-schematid-for-en-anstalld",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 29 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/kalendarium-hur-kan-jag-se-en-sammanst%C3%A4llning-av-fr%C3%A5nvaro-och-schematid-f%C3%B6r-en-anst%C3%A4lld",
+    "isConfig": false,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "Kalendarium i Flex HRM Payroll är en funktion där du ser en enkel översikt över en anställds frånvaro och schematid för en vald period, med möjlighet att filtrera.\nKalendarium\nI funktionen Kalendarium..."
+  },
+  {
+    "title": "Vad styrs av inställningarna under Lönekörningar i HRM Payroll?",
+    "file": "vad-styrs-av-installningarna-under-lonekorningar-i-hrm-payroll.md",
+    "slug": "vad-styrs-av-installningarna-under-lonekorningar-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "semester",
+      "skatt"
+    ],
+    "date": "den 11 november 2025",
+    "url": "https://knowledge.flexapplications.se/vad-styrs-av-inst%C3%A4llningarna-under-l%C3%B6nek%C3%B6rningar-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Här ställer du in de allmänna inställningarna för lönekörningar. Du hittar inställningarna under Inställningar > Lön > Lönekörningar, fliken Allmänt.\nSkattetabell\nHär anger du företagets generella ska..."
+  },
+  {
+    "title": "⚙️Hur ställer man in Lönekoppling till HRM Payroll?",
+    "file": "hur-staller-man-in-lonekoppling-till-hrm-payroll.md",
+    "slug": "hur-staller-man-in-lonekoppling-till-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 11 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4ller-man-in-l%C3%B6nekoppling-till-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "I denna funktion görs inställningar gällande överföringen av företagets tidstransaktioner från HRM Time/resetransaktioner från HRM Travel till HRM Payroll. Observera att denna funktion endast finns ti..."
+  },
+  {
+    "title": "⚙️Skicka lönespecifikationer med Kivra i Flex HRM",
+    "file": "skicka-lonespecifikationer-med-kivra-i-flex-hrm.md",
+    "slug": "skicka-lonespecifikationer-med-kivra-i-flex-hrm",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 21 november 2025",
+    "url": "https://knowledge.flexapplications.se/skicka-l%C3%B6nespecifikationer-med-kivra-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du ställer in och skickar lönespecifikationer till dina anställda via den digitala brevlådan Kivra.\nFörutsättningar för att använda Kivra\nFör att kunna använda funktionen f..."
+  },
+  {
+    "title": "⚙️Hur fungerar Personalkategorier i HRM Payroll?",
+    "file": "hur-fungerar-personalkategorier-i-hrm-payroll.md",
+    "slug": "hur-fungerar-personalkategorier-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester",
+      "skatt"
+    ],
+    "date": "den 11 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-personalkategorier-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Personalkategori är en gruppering av anställda som du vill ska tillämpa samma beräkningsregler baserat på avtal och regelverk. Personalkategorierna möjliggör t.ex. avvikelser på lönearter som ska hant..."
+  },
+  {
+    "title": "⚙️Hur fungerar Utbetalningsgrupper i HRM Payroll?",
+    "file": "hur-fungerar-utbetalningsgrupper-i-hrm-payroll.md",
+    "slug": "hur-fungerar-utbetalningsgrupper-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "skatt"
+    ],
+    "date": "den 11 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-utbetalningsgrupper-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Förbättring av Knowledgebase artiklar Anpassad Gem Här är den optimerade texten för kunskapsdatabasen. Hantera utbetalningsgrupper I HRM Payroll använder du utbetalningsgrupper för att kunna betala ut..."
+  }
 ]

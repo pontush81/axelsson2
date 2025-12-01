@@ -2,6 +2,11 @@
 
 **Datum:** den 1 oktober 2025  
 **Kategori:** Travel & Expense  
+**Underkategori:** Inställningar  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** bil  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/hur-s%C3%A4tter-jag-upp-en-importmall-av-k%C3%B6rjopurnal-efr%C3%A5n-volvo-cars-appen
 
 ---
@@ -17,6 +22,7 @@ Inställningar > Import/export > Importmallar
 Skapa en ny mall och döp den till
 Volvo cars
 .
+![Bild](images/hur-satter-jag-upp-en-importmall-av-korjournal-for-filer-fran-volvo-cars-appen_19e9440c.png)
 Skapa bearbetningsjobb för import
 För att dina medarbetare ska kunna importera filerna måste du ställa in ett bearbetningsjobb.
 Gå till
@@ -29,5 +35,6 @@ Importmall
 : Volvo cars
 Typ
 : Personlig
+![Bild](images/hur-satter-jag-upp-en-importmall-av-korjournal-for-filer-fran-volvo-cars-appen_0be2e0a2.png)
 Tips! Vill du veta hur du exporterar körjournalen från Volvo cars?
 Klicka här

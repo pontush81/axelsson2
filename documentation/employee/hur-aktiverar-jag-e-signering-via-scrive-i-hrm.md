@@ -2,6 +2,11 @@
 
 **Datum:** den 18 september 2025  
 **Kategori:** Employee  
+**Underkategori:** Dokument & E-signering  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** anställning, cv, dokument, signering  
+**Bilder:** 8  
 **URL:** https://knowledge.flexapplications.se/aktivera-integration-till-scrive-0-0
 
 ---
@@ -22,11 +27,13 @@ Licens
 För att aktivera funktionen för e-signering måste du först aktivera licensen E-signering i HRM. Under
 Administration – Allmänt – Företag
 ser du att ditt företag har licensen:
+![Bild](images/hur-aktiverar-jag-e-signering-via-scrive-i-hrm_913a45af.png)
 Programlänk
 För att aktivera funktionen för e-signering måste du först skapa en programlänk till Scrive.
 Gå till
 Administration – Inställningar – Import/export – Programlänkar
 .
+![Bild](images/hur-aktiverar-jag-e-signering-via-scrive-i-hrm_8e66b0fc.png)
 Välj programlänk
 Scrive
 Ange namn, t.ex. Scrive
@@ -59,6 +66,7 @@ Avbruten, Avvisad eller Förfallen. När du aktiverar inställningen och sparar
 Notera även att du
 inte kommer att kunna se det kopierade dokumentet i E-signeringsvyn
 efter att kopian har sparats ner eller se status på vilka som har godkänt/signerat i HRM (se bild). Du kan fortsatt se vilka som har signerat dokumentet i HRM om du öppnar dokumentet. Fullständig information om samtliga godkännare/signerare finns inne i Scrive, under förutsättning att dokumentet finns kvar där. Godkännare syns enbart i Scrive.
+![Bild](images/hur-aktiverar-jag-e-signering-via-scrive-i-hrm_67eb9861.png)
 Om det är viktigt för er att kunna se den fullständiga statusen på ett e-signerat dokument direkt i HRM rekommenderar vi att endast använda denna inställning när man skall avsluta Scrive. Kontakta en konsult på Flex Applications om du har frågor.
 Välj dokument för e-signering
 För att kunna skicka ett anställningsavtal eller HR-blankett för digital signering som beskrevs tidigare måste du först aktivera detta i inställningarna för dokumentet.
@@ -71,8 +79,10 @@ på de dokument som är aktuella för det.
 Bocka i
 Tillåt ned- och uppladdning av mall innan e-signering
 i de fall du vill kunna redigera ett dokument innan det skickas.
+![Bild](images/hur-aktiverar-jag-e-signering-via-scrive-i-hrm_b399521c.png)
 Behörighet
 Ställ in nedan behörighet för e-signering på de roller som ska kunna se översiktsvyn för e-signering.
+![Bild](images/hur-aktiverar-jag-e-signering-via-scrive-i-hrm_6a5255a1.png)
 Tänk på att
 du måste ha behörighet till
 HR-blanketter/CV
@@ -82,7 +92,10 @@ för aktuella HR-blanketter och behörighet till
 Rapporten Anställningsavtal
 (gäller endast HR-blankett av typen Anställningsavtal) för att kunna hämta ut HR-blanketter för e-signering.
 Behörighet som styr att rollen får hämta ut HR-blanketter och CV
+![Bild](images/hur-aktiverar-jag-e-signering-via-scrive-i-hrm_8b295628.png)
 Styr vilka HR-blanketter som får hämtas (Dokumentkategori)
 Nedan får HR-blanketter kopplade till kategorierna "Anställningsdokument" och "CV" hämtas ut. Finns det HR-blanketter kopplade till kategorin "Diverse", kan denna roll inte hämta ut dessa blanketter.
+![Bild](images/hur-aktiverar-jag-e-signering-via-scrive-i-hrm_24670ef2.png)
 Rapport styr om HR-blanketter av typen "Anställningsavtal" får hämtas
 För anställningsavtal krävs ovan + denna behörighet
+![Bild](images/hur-aktiverar-jag-e-signering-via-scrive-i-hrm_1446a468.png)

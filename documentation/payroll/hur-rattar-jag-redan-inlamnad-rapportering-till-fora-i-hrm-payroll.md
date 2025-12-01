@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Payroll  
+**Underkategori:** Löneberedning  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** agi, lön, löneart, pension, skatt  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/hur-r%C3%A4ttar-jag-redan-inl%C3%A4mnad-rapportering-till-fora-i-hrm-payroll
 
 ---

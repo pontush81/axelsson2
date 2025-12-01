@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Komplett dokumentation för Flex HRM med sökning, filtrering och kategorisering">
+    <title>Flex HRM Dokumentation - Intelligent Sök & Navigation</title>
+    <style>
+        :root {
+            --primary: #667eea;
+            --primary-dark: #764ba2;
+            --background: #f5f5f5;
+            --card-bg: #ffffff;
+            --text: #333;
+            --text-light: #666;
+            --border: #e0e0e0;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: var(--background);
+            color: var(--text);
+            line-height: 1.6;
+        }
+
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 2rem 1rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        /* Search & Filter Section */
+        .search-section {
+            max-width: 1200px;
+            margin: -2rem auto 2rem;
+            padding: 0 1rem;
+        }
+
+        .search-card {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 2rem;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-box {
+            position: relative;
+            margin-bottom: 1.5rem;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 1rem 1rem 1rem 3rem;
+            font-size: 1.1rem;
+            border: 2px solid var(--border);
+            border-radius: 50px;
+            transition: all 0.3s ease;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 1.2rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-light);
+            font-size: 1.2rem;
+        }
+
+        .filters {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 0.5rem;
+            align-items: center;
+        }
+
+        .filter-group label {
+            font-weight: 600;
+            color: var(--text-light);
+            font-size: 0.9rem;
+        }
+
+        .filter-group select {
+            padding: 0.5rem 1rem;
+            border: 2px solid var(--border);
+            border-radius: 25px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .filter-group select:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .filter-tags {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+        }
+
+        .tag {
+            background: var(--primary);
+            color: white;
+            padding: 0.3rem 1rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .tag:hover {
+            background: var(--primary-dark);
+            transform: translateY(-2px);
+        }
+
+        /* Stats */
+        .stats-section {
+            max-width: 1200px;
+            margin: 0 auto 3rem;
+            padding: 0 1rem;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .stat-card {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 1.5rem;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            font-size: 0.95rem;
+            color: var(--text-light);
+        }
+
+        /* Results Section */
+        .results-section {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem 3rem;
+        }
+
+        .results-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .results-count {
+            font-size: 1.2rem;
+            color: var(--text-light);
+        }
+
+        .view-toggle {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .view-btn {
+            padding: 0.5rem 1rem;
+            border: 2px solid var(--border);
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .view-btn.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        /* Category Groups */
+        .category-group {
+            margin-bottom: 3rem;
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 3px solid var(--primary);
+        }
+
+        .category-header h2 {
+            font-size: 1.8rem;
+            color: var(--text);
+        }
+
+        .category-count {
+            background: var(--primary);
+            color: white;
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        /* Subcategory Groups */
+        .subcategory-group {
+            margin-bottom: 2rem;
+        }
+
+        .subcategory-header {
+            font-size: 1.3rem;
+            color: var(--text);
+            margin-bottom: 1rem;
+            padding-left: 1rem;
+            border-left: 4px solid var(--primary);
+        }
+
+        /* Articles Grid */
+        .articles-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .article-card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: 2px solid transparent;
+        }
+
+        .article-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+            border-color: var(--primary);
+        }
+
+        .article-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text);
+            line-height: 1.4;
+            margin-bottom: 0.8rem;
+        }
+
+        .article-excerpt {
+            color: var(--text-light);
+            font-size: 0.9rem;
+            line-height: 1.5;
+            margin-bottom: 1rem;
+        }
+
+        .article-footer {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            align-items: center;
+        }
+
+        .image-badge {
+            background: #e0f2fe;
+            color: #075985;
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .article-tag {
+            background: #f3f4f6;
+            color: var(--text);
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.75rem;
+        }
+
+        .image-badge {
+            background: #dbeafe;
+            color: #1e40af;
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.3rem;
+        }
+
+        .difficulty-badge {
+            padding: 0.2rem 0.6rem;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .diff-beginner { background: #d1fae5; color: #065f46; }
+        .diff-intermediate { background: #fed7aa; color: #92400e; }
+        .diff-advanced { background: #fecaca; color: #991b1b; }
+
+        /* List View */
+        .articles-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .article-list-item {
+            background: var(--card-bg);
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-left: 4px solid transparent;
+        }
+
+        .article-list-item:hover {
+            border-left-color: var(--primary);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: var(--text-light);
+        }
+
+        .empty-state-icon {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+        }
+
+        .empty-state h3 {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Loading */
+        .loading {
+            text-align: center;
+            padding: 3rem;
+        }
+
+        .spinner {
+            border: 4px solid var(--border);
+            border-top: 4px solid var(--primary);
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .filters {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .filter-group {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .articles-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <h1>📚 Flex HRM Dokumentation</h1>
+        </div>
+    </header>
+
+    <!-- Search & Filter -->
+    <div class="search-section">
+        <div class="search-card">
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="Sök efter artiklar, guider eller funktioner..."
+                    autocomplete="off"
+                >
+            </div>
+
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="categoryFilter">Kategori:</label>
+                    <select id="categoryFilter">
+                        <option value="">Alla kategorier</option>
+                        <option value="time">Time</option>
+                        <option value="employee">Employee</option>
+                        <option value="payroll">Payroll</option>
+                        <option value="travel-expense">Travel & Expense</option>
+                        <option value="systemgemensamt">Systemgemensamt</option>
+                        <option value="plan">Plan</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats-section">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number" id="totalArticles">...</div>
+                <div class="stat-label">Artiklar</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalCategories">6</div>
+                <div class="stat-label">Kategorier</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="visibleArticles">...</div>
+                <div class="stat-label">Visas just nu</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="lastUpdated">...</div>
+                <div class="stat-label">Senast uppdaterad</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Results -->
+    <div class="results-section">
+        <div class="results-header">
+            <div class="results-count" id="resultsCount">Laddar artiklar...</div>
+            <div class="view-toggle">
+                <button class="view-btn active" data-view="grid">📱 Rutnät</button>
+                <button class="view-btn" data-view="list">📋 Lista</button>
+            </div>
+        </div>
+
+        <div id="articlesContainer">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Laddar artiklar...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global state
+        let allArticles = [];
+        let filteredArticles = [];
+        let currentView = 'grid';
+
+        // Initialize
+        async function init() {
+            try {
+                // Load master index
+                const response = await fetch('/documentation/master_index.json');
+                const masterIndex = await response.json();
+
+                // Load all articles
+                for (const [categoryKey, categoryData] of Object.entries(masterIndex.categories)) {
+                    const catResponse = await fetch(`/documentation/${categoryKey}/index.json`);
+                    const articles = await catResponse.json();
+                    allArticles.push(...articles);
+                }
+
+                // Update stats
+                document.getElementById('totalArticles').textContent = allArticles.length;
+                document.getElementById('lastUpdated').textContent = new Date(masterIndex.last_updated).toLocaleDateString('sv-SE');
+
+                // Initialize display
+                filteredArticles = [...allArticles];
+                renderArticles();
+
+                // Setup event listeners
+                setupEventListeners();
+
+            } catch (error) {
+                console.error('Error loading articles:', error);
+                document.getElementById('articlesContainer').innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">⚠️</div>
+                        <h3>Kunde inte ladda artiklar</h3>
+                        <p>Försök igen senare eller kontakta support.</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Setup event listeners
+        function setupEventListeners() {
+            // Search
+            document.getElementById('searchInput').addEventListener('input', debounce(filterArticles, 300));
+
+            // Filters
+            document.getElementById('categoryFilter').addEventListener('change', filterArticles);
+
+            // View toggle
+            document.querySelectorAll('.view-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentView = btn.dataset.view;
+                    renderArticles();
+                });
+            });
+        }
+
+        // Filter articles
+        function filterArticles() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const categoryFilter = document.getElementById('categoryFilter').value;
+
+            filteredArticles = allArticles.filter(article => {
+                // Search term
+                if (searchTerm) {
+                    const searchableText = `${article.title} ${article.excerpt} ${article.tags.join(' ')}`.toLowerCase();
+                    if (!searchableText.includes(searchTerm)) return false;
+                }
+
+                // Category filter
+                if (categoryFilter && article.category !== categoryFilter) return false;
+
+                return true;
+            });
+
+            renderArticles();
+        }
+
+        // Render articles
+        function renderArticles() {
+            const container = document.getElementById('articlesContainer');
+            document.getElementById('visibleArticles').textContent = filteredArticles.length;
+            document.getElementById('resultsCount').textContent = 
+                `Visar ${filteredArticles.length} av ${allArticles.length} artiklar`;
+
+            if (filteredArticles.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div class="empty-state-icon">🔍</div>
+                        <h3>Inga artiklar hittades</h3>
+                        <p>Prova att ändra dina sökfilter</p>
+                    </div>
+                `;
+                return;
+            }
+
+            // Group by category and subcategory
+            const grouped = {};
+            filteredArticles.forEach(article => {
+                if (!grouped[article.category]) {
+                    grouped[article.category] = {};
+                }
+                if (!grouped[article.category][article.subcategory]) {
+                    grouped[article.category][article.subcategory] = [];
+                }
+                grouped[article.category][article.subcategory].push(article);
+            });
+
+            // Render
+            let html = '';
+            const categoryNames = {
+                'time': 'Time',
+                'employee': 'Employee',
+                'payroll': 'Payroll',
+                'travel-expense': 'Travel & Expense',
+                'systemgemensamt': 'Systemgemensamt',
+                'plan': 'Plan'
+            };
+
+            for (const [category, subcategories] of Object.entries(grouped)) {
+                const categoryTotal = Object.values(subcategories).flat().length;
+                html += `
+                    <div class="category-group">
+                        <div class="category-header">
+                            <h2>${categoryNames[category] || category}</h2>
+                            <span class="category-count">${categoryTotal}</span>
+                        </div>
+                `;
+
+                for (const [subcategory, articles] of Object.entries(subcategories)) {
+                    html += `
+                        <div class="subcategory-group">
+                            <h3 class="subcategory-header">${subcategory} (${articles.length})</h3>
+                            <div class="${currentView === 'grid' ? 'articles-grid' : 'articles-list'}">
+                    `;
+
+                    articles.forEach(article => {
+                        html += renderArticleCard(article);
+                    });
+
+                    html += `
+                            </div>
+                        </div>
+                    `;
+                }
+
+                html += `</div>`;
+            }
+
+            container.innerHTML = html;
+
+            // Add click handlers
+            document.querySelectorAll('.article-card, .article-list-item').forEach(card => {
+                card.addEventListener('click', () => {
+                    const slug = card.dataset.slug;
+                    const category = card.dataset.category;
+                    if (slug && category) {
+                        window.location.href = `/article.html?article=${slug}&category=${category}`;
+                    }
+                });
+            });
+        }
+
+        // Render article card
+        function renderArticleCard(article) {
+            if (currentView === 'list') {
+                const imageCount = article.imageCount || 0;
+                const imageBadge = imageCount > 0 ? 
+                    `<span class="image-badge">📸 ${imageCount}</span>` : '';
+
+                return `
+                    <div class="article-list-item" data-slug="${article.slug}" data-category="${article.category}">
+                        <div>
+                            <div class="article-title">${article.title}</div>
+                            <div style="margin-top: 0.5rem;">
+                                ${imageBadge}
+                                ${article.tags.slice(0, 3).map(tag => 
+                                    `<span class="article-tag">${tag}</span>`
+                                ).join('')}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }
+
+            const imageCount = article.imageCount || 0;
+            const imageBadge = imageCount > 0 ? 
+                `<span class="image-badge">📸 ${imageCount}</span>` : '';
+
+            return `
+                <div class="article-card" data-slug="${article.slug}" data-category="${article.category}">
+                    <div class="article-title">${article.title}</div>
+                    <div class="article-excerpt">${article.excerpt}</div>
+                    <div class="article-footer">
+                        ${imageBadge}
+                        ${article.tags.slice(0, 4).map(tag => 
+                            `<span class="article-tag">${tag}</span>`
+                        ).join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        // Debounce helper
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+
+        // Initialize on load
+        window.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
+

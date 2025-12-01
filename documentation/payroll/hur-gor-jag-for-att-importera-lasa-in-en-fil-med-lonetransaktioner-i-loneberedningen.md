@@ -2,6 +2,11 @@
 
 **Datum:** den 7 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Löneberedning  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** lön  
+**Bilder:** 4  
 **URL:** https://knowledge.flexapplications.se/hur-g%C3%B6r-jag-f%C3%B6r-att-importera/l%C3%A4sa-in-en-fil-med-l%C3%B6netransaktioner-i-l%C3%B6neberedningen
 
 ---
@@ -18,14 +23,18 @@ och välj
 Komplettera
 .
 Under Import av transaktioner via fil väljer du Ny fil.
+![Bild](images/hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedningen_960ce09a.png)
 Välj din fil som ska läsas in och den importmall som gäller för just denna fil, klicka på
 OK
 .
+![Bild](images/hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedningen_033c7b4a.png)
 Systemet gör en kontroll av filen och du ska få ett meddelande i notiser när detta är klart. Om du får ett felmeddelande behöver du först korrigera dessa (ev justera i filen/ importmallen eller andra inställningar som kan behövas för att kunna läsa in filen). Backa ur genom att stänga fönstret och gör dina justeringar. Gör sen om ovan steg för att välja fil att importera efter justeringarna.
+![Bild](images/hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedningen_300e90f8.png)
 När du får meddelande att filen inte innehåller några anmärkningar, klicka på
 Komplettera lönekörning
 för att läsa in transaktionerna.
 Transaktioner som lästs in via fil får en egen ikon, ett dokument, i kolumnen Ursp i löneberedningen.
+![Bild](images/hur-gor-jag-for-att-importera-lasa-in-en-fil-med-lonetransaktioner-i-loneberedningen_22c6c3ae.png)
 Relaterade artiklar:
 Var kan jag se vilka transaktioner som var med i en överföring/inläst fil?
 Det visas en varning att det finns transaktioner som inte hämtats in i lönekörningen, hur hittar jag och hanterar dessa?

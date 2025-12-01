@@ -2,6 +2,11 @@
 
 **Datum:** den 17 oktober 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** användare, behörighet, integration, mobil, säkerhet  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/vad-hanteras-i-vyn-s%C3%A4kerhet
 
 ---

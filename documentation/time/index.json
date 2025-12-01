@@ -1,240 +1,2427 @@
 [
-  {"title": "Avvikelsedagar - Hur ställer man in schema för avvikande dagar?", "file": "avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar.md"}
-,
-  {"title": "Begrepp i HRM Time - Vad betyder de olika begreppen i HRM Time?", "file": "begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time.md"}
-,
-  {"title": "Dagredovisning - Hur registrerar man närvaro, frånvaro och övertid för en dag?", "file": "dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag.md"}
-,
-  {"title": "Ersättningar - Hur hanterar man ej timbaserade ersättningar i HRM Time?", "file": "ersattningar-hur-hanterar-man-ej-timbaserade-ersattningar-i-hrm-time.md"}
-,
-  {"title": "Frånvaro - Hur ansöker och rapporterar jag frånvaro i mobilen?", "file": "franvaro-hur-ansoker-och-rapporterar-jag-franvaro-i-mobilen.md"}
-,
-  {"title": "Frånvaroorsaker i tidrapporten - Vad är en frånvaroorsak?", "file": "franvaroorsaker-i-tidrapporten-vad-ar-en-franvaroorsak.md"}
-,
-  {"title": "Frånvarostatistik - Vad betyder Ta endast med frånvaroperioder längre/kortare än?", "file": "franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an.md"}
-,
-  {"title": "Går det att behörighetsstyra en stämpelklocka?", "file": "gar-det-att-behorighetsstyra-en-stampelklocka.md"}
-,
-  {"title": "HRM Time: Vad är Generella händelseformler?", "file": "hrm-time-vad-ar-generella-handelseformler.md"}
-,
-  {"title": "Hur aktiverar jag funktionen "Fakturering" i HRM Time?", "file": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-time.md"}
-,
-  {"title": "Hur ändrar jag bakgrundsbild i stämpelklockan?", "file": "hur-andrar-jag-bakgrundsbild-i-stampelklockan.md"}
-,
-  {"title": "Hur ändrar jag knapparna i stämpelklockan?", "file": "hur-andrar-jag-knapparna-i-stampelklockan.md"}
-,
-  {"title": "Hur använder jag Min kalender på startsidan?", "file": "hur-anvander-jag-min-kalender-pa-startsidan.md"}
-,
-  {"title": "Hur använder man Händelser i HRM Time?", "file": "hur-anvander-man-handelser-i-hrm-time.md"}
-,
-  {"title": "Hur används Favoriter i Ersättningar?", "file": "hur-anvands-favoriter-i-ersattningar.md"}
-,
-  {"title": "Hur används funktionen Frisläpp till fakturering i HRM Time?", "file": "hur-anvands-funktionen-frislapp-till-fakturering-i-hrm-time.md"}
-,
-  {"title": "Hur arbetar man med delattestering i HRM Time?", "file": "hur-arbetar-man-med-delattestering-i-hrm-time.md"}
-,
-  {"title": "Hur attesterar man en tidrapport?", "file": "hur-attesterar-man-en-tidrapport.md"}
-,
-  {"title": "Hur fungerar avvikelserapportering?", "file": "hur-fungerar-avvikelserapportering.md"}
-,
-  {"title": "Hur fungerar beredskapsregelverk?", "file": "hur-fungerar-beredskapsregelverk.md"}
-,
-  {"title": "Hur fungerar Faktureringslogiken i HRM Time?", "file": "hur-fungerar-faktureringslogiken-i-hrm-time.md"}
-,
-  {"title": "Hur fungerar fasta saldojusteringar?", "file": "hur-fungerar-fasta-saldojusteringar.md"}
-,
-  {"title": "Hur fungerar Favoriter i periodredovisningen?", "file": "hur-fungerar-favoriter-i-periodredovisningen.md"}
-,
-  {"title": "Hur fungerar Närvarotablån på startsidan?", "file": "hur-fungerar-narvarotablan-pa-startsidan.md"}
-,
-  {"title": "Hur fungerar OB-regelverk?", "file": "hur-fungerar-ob-regelverk.md"}
-,
-  {"title": "Hur fungerar övertidsregelverk?", "file": "hur-fungerar-overtidsregelverk.md"}
-,
-  {"title": "Hur fungerar panelen Övertidsbevakning?", "file": "hur-fungerar-panelen-overtidsbevakning.md"}
-,
-  {"title": "Hur fungerar rapporten Projektuppföljning?", "file": "hur-fungerar-rapporten-projektuppfoljning.md"}
-,
-  {"title": "Hur fungerar stämplingsterminalen?", "file": "hur-fungerar-stamplingsterminalen.md"}
-,
-  {"title": "Hur gör man för att avslå tidrapporter?", "file": "hur-gor-man-for-att-avsla-tidrapporter.md"}
-,
-  {"title": "Hur granskar man sin tidrapport?", "file": "hur-granskar-man-sin-tidrapport.md"}
-,
-  {"title": "Hur hanterar man karensavdrag i HRM Time?", "file": "hur-hanterar-man-karensavdrag-i-hrm-time.md"}
-,
-  {"title": "Hur hanteras "manuella schemaändringar" vid skapandet av ett deltidsfrånvaroschema?", "file": "hur-hanteras-manuella-schemaandringar-vid-skapandet-av-ett-deltidsfranvaroschema.md"}
-,
-  {"title": "Hur importerar man ett schema till HRM Time?", "file": "hur-importerar-man-ett-schema-till-hrm-time.md"}
-,
-  {"title": "Hur justerar man avvikande dagar i regelverk i HRM Time?", "file": "hur-justerar-man-avvikande-dagar-i-regelverk-i-hrm-time.md"}
-,
-  {"title": "Hur kan jag i HRM Time få en bra överblick över de anställdas frånvaro under semestern?", "file": "hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-sem.md"}
-,
-  {"title": "Hur kan jag i HRM Time få en bra överblick över de anställdas frånvaro under semestern?", "file": "hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-semestern.md"}
-,
-  {"title": "Hur kan man kontera tiden i HRM Time?", "file": "hur-kan-man-kontera-tiden-i-hrm-time.md"}
-,
-  {"title": "Hur överför man tidrapporter till lön?", "file": "hur-overfor-man-tidrapporter-till-lon.md"}
-,
-  {"title": "Hur registrerar jag deltidsfrånvaro i HRM Time?", "file": "hur-registrerar-jag-deltidsfranvaro-i-hrm-time.md"}
-,
-  {"title": "Hur registrerar man två samtidiga deltidsfrånvaro?", "file": "hur-registrerar-man-tva-samtidiga-deltidsfranvaro.md"}
-,
-  {"title": "Hur skapar man ett personligt schema?", "file": "hur-skapar-man-ett-personligt-schema.md"}
-,
-  {"title": "Hur skapar man ett publikt schema?", "file": "hur-skapar-man-ett-publikt-schema.md"}
-,
-  {"title": "Hur ställer jag in regler för sjuk-OB?", "file": "hur-staller-jag-in-regler-for-sjuk-ob.md"}
-,
-  {"title": "Hur ställer man in att Ersättningar ska kunna stämplas i HRM Timeclock?", "file": "hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock.md"}
-,
-  {"title": "Hur ställer man in automatisk beräkning av heltidsmått vid en deltidsfrånvaro?", "file": "hur-staller-man-in-automatisk-berakning-av-heltidsmatt-vid-en-deltidsfranvaro.md"}
-,
-  {"title": "Hur ställer man in ett dagschema?", "file": "hur-staller-man-in-ett-dagschema.md"}
-,
-  {"title": "Hur ställer man in saldon?", "file": "hur-staller-man-in-saldon.md"}
-,
-  {"title": "Hur ställer man in tidkoder?", "file": "hur-staller-man-in-tidkoder.md"}
-,
-  {"title": "Hur ställer man in Tidrapporten?", "file": "hur-staller-man-in-tidrapporten.md"}
-,
-  {"title": "Hur ställer man in visning av saldon i tidrapporten och stämplingsterminer?", "file": "hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminer.md"}
-,
-  {"title": "Hur ställer vi in övertidsbevakningen för tvåmånadersperioder?", "file": "hur-staller-vi-in-overtidsbevakningen-for-tvamanadersperioder.md"}
-,
-  {"title": "Hur stämplar jag direkt i tidrapporten?", "file": "hur-stamplar-jag-direkt-i-tidrapporten.md"}
-,
-  {"title": "Hur stämplar man sin tid i mobilen?", "file": "hur-stamplar-man-sin-tid-i-mobilen.md"}
-,
-  {"title": "Hur tar jag bort en tidrapport?", "file": "hur-tar-jag-bort-en-tidrapport.md"}
-,
-  {"title": "Hur tidrapporterar jag i mobilen?", "file": "hur-tidrapporterar-jag-i-mobilen.md"}
-,
-  {"title": "Hur tillåter man avslag av tidrapporter?", "file": "hur-tillater-man-avslag-av-tidrapporter.md"}
-,
-  {"title": "Hur visas beredskap i tidrapporten?", "file": "hur-visas-beredskap-i-tidrapporten.md"}
-,
-  {"title": "I vilken ordning körs händelser, saldotak/-golv och fasta saldojusteringar som påverkar samma saldon?", "file": "i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-pav.md"}
-,
-  {"title": "I vilken ordning körs händelser, saldotak/-golv och fasta saldojusteringar som påverkar samma saldon?", "file": "i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-paverkar-samma-saldon.md"}
-,
-  {"title": "Kan anställda få en påminnelse när deras semester är godkänd?", "file": "kan-anstallda-fa-en-paminnelse-nar-deras-semester-ar-godkand.md"}
-,
-  {"title": "Kan delattestbehörighet användas för frånvarogranskning?", "file": "kan-delattestbehorighet-anvandas-for-franvarogranskning.md"}
-,
-  {"title": "Kan HRM Time skicka en påminnelse när alla periodens tidrapporter är redo att överföras till lön?", "file": "kan-hrm-time-skicka-en-paminnelse-nar-alla-periodens-tidrapporter-ar-redo-att-ov.md"}
-,
-  {"title": "Kan HRM Time skicka en påminnelse när alla periodens tidrapporter är redo att överföras till lön?", "file": "kan-hrm-time-skicka-en-paminnelse-nar-alla-periodens-tidrapporter-ar-redo-att-overforas-till-lon.md"}
-,
-  {"title": "Kan jag ändra i en tidrapport som är granskad/överförd till lön?", "file": "kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon.md"}
-,
-  {"title": "Kan jag få en påminnelse vid sammanhängande sjukfrånvaro?", "file": "kan-jag-fa-en-paminnelse-vid-sammanhangande-sjukfranvaro.md"}
-,
-  {"title": "Kan jag få ett meddelande om en anställd inte stämplat in?", "file": "kan-jag-fa-ett-meddelande-om-en-anstalld-inte-stamplat-in.md"}
-,
-  {"title": "Kan jag se information om mitt schema i mobilen?", "file": "kan-jag-se-information-om-mitt-schema-i-mobilen.md"}
-,
-  {"title": "Kan jag se mina saldon i mobilen?", "file": "kan-jag-se-mina-saldon-i-mobilen.md"}
-,
-  {"title": "Kan jag ta ut information om frånvaro i rapportgeneratorn?", "file": "kan-jag-ta-ut-information-om-franvaro-i-rapportgeneratorn.md"}
-,
-  {"title": "Kan konteringar falla ut automatiskt i tidrapporten beroende på vilken stämplingsterminal man använder?", "file": "kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-pa-vilken-stampling.md"}
-,
-  {"title": "Kan konteringar falla ut automatiskt i tidrapporten beroende på vilken stämplingsterminal man använder?", "file": "kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-pa-vilken-stamplingsterminal-man-anvand.md"}
-,
-  {"title": "Kan konteringar från tidrapporten följa med till lönesystemet?", "file": "kan-konteringar-fran-tidrapporten-folja-med-till-lonesystemet.md"}
-,
-  {"title": "Kan man ändra ett schema direkt i tidrapporten?", "file": "kan-man-andra-ett-schema-direkt-i-tidrapporten.md"}
-,
-  {"title": "Kan man begränsa stämplingen i HRM Mobile via plats?", "file": "kan-man-begransa-stamplingen-i-hrm-mobile-via-plats.md"}
-,
-  {"title": "Kan man överföra saldovärden till lön?", "file": "kan-man-overfora-saldovarden-till-lon.md"}
-,
-  {"title": "Kan man skicka meddelanden i stämpelklockan?", "file": "kan-man-skicka-meddelanden-i-stampelklockan.md"}
-,
-  {"title": "Kan man ställa in så att användare endast ser vissa projekt i sin tidrapport?", "file": "kan-man-stalla-in-sa-att-anvandare-endast-ser-vissa-projekt-i-sin-tidrapport.md"}
-,
-  {"title": "Kan tidrapporten tillfälligt lägga ut ett annat kostnadsställe än mitt hemkostnadsställe?", "file": "kan-tidrapporten-tillfalligt-lagga-ut-ett-annat-kostnadsstalle-an-mitt-hemkostna.md"}
-,
-  {"title": "Kan tidrapporten tillfälligt lägga ut ett annat kostnadsställe än mitt hemkostnadsställe?", "file": "kan-tidrapporten-tillfalligt-lagga-ut-ett-annat-kostnadsstalle-an-mitt-hemkostnadsstalle.md"}
-,
-  {"title": "Kan tidrapporter granskas automatiskt?", "file": "kan-tidrapporter-granskas-automatiskt.md"}
-,
-  {"title": "Loggas stämplingar som görs i HRM Timeclock?", "file": "loggas-stamplingar-som-gors-i-hrm-timeclock.md"}
-,
-  {"title": "Omräkning av tidrapporter - Hur kan ändringar få genomslag i granskade tidrapporter?", "file": "omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporte.md"}
-,
-  {"title": "Omräkning av tidrapporter - Hur kan ändringar få genomslag i granskade tidrapporter?", "file": "omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporter.md"}
-,
-  {"title": "Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?", "file": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodred.md"}
-,
-  {"title": "Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?", "file": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare.md"}
-,
-  {"title": "Saldotak/-golv - Hur sätter man gränser för saldovärden?", "file": "saldotak-golv-hur-satter-man-granser-for-saldovarden.md"}
-,
-  {"title": "Spärr för saldo - Kan man spärra semesteransökningar om det inte finns tillräckligt många semesterdagar att ta ut?", "file": "sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillracklig.md"}
-,
-  {"title": "Spärr för saldo - Kan man spärra semesteransökningar om det inte finns tillräckligt många semesterdagar att ta ut?", "file": "sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillrackligt-manga-semesterdaga.md"}
-,
-  {"title": "Stämpla i HRM Mobile med hjälp av plats", "file": "stampla-i-hrm-mobile-med-hjalp-av-plats.md"}
-,
-  {"title": "Stämplingstolerans - Kan man avrunda stämplingar?", "file": "stamplingstolerans-kan-man-avrunda-stamplingar.md"}
-,
-  {"title": "Tidkodsavrundning - Varför avrundas rapporterad tid?", "file": "tidkodsavrundning-varfor-avrundas-rapporterad-tid.md"}
-,
-  {"title": "Tidrapport - Hur fungerar vyn Översikt?", "file": "tidrapport-hur-fungerar-vyn-oversikt.md"}
-,
-  {"title": "Vad är en tidgrupp?", "file": "vad-ar-en-tidgrupp.md"}
-,
-  {"title": "Vad är "Schematid uppnådd"?", "file": "vad-ar-schematid-uppnadd.md"}
-,
-  {"title": "Vad betyder schemastartdatum?", "file": "vad-betyder-schemastartdatum.md"}
-,
-  {"title": "Vad händer när stämpelklockan är offline?", "file": "vad-hander-nar-stampelklockan-ar-offline.md"}
-,
-  {"title": "Vad innebär inställningen "Ge kortare karensperiod vid deltidsfrånvaro"", "file": "vad-innebar-installningen-ge-kortare-karensperiod-vid-deltidsfranvaro.md"}
-,
-  {"title": "Vad innebär inställningen "Skicka deltidsfrånvaro dag för dag till lön" under inställningar för Frånvaroorsaker?", "file": "vad-innebar-installningen-skicka-deltidsfranvaro-dag-for-dag-till-lon-under-inst.md"}
-,
-  {"title": "Vad innebär inställningen "Skicka deltidsfrånvaro dag för dag till lön" under inställningar för Frånvaroorsaker?", "file": "vad-innebar-installningen-skicka-deltidsfranvaro-dag-for-dag-till-lon-under-installningar-for-franva.md"}
-,
-  {"title": "Vad markeras som avvikelse i tidrapporten?", "file": "vad-markeras-som-avvikelse-i-tidrapporten.md"}
-,
-  {"title": "Varför faller sjuk-OB ut efter dag 14?", "file": "varfor-faller-sjuk-ob-ut-efter-dag-14.md"}
-,
-  {"title": "Varför har jag ospecad tid i min tidrapport?", "file": "varfor-har-jag-ospecad-tid-i-min-tidrapport.md"}
-,
-  {"title": "Varför har klockslagen i tidrapporten olika färger?", "file": "varfor-har-klockslagen-i-tidrapporten-olika-farger.md"}
-,
-  {"title": "Varför spärras min frånvaroansökan trots att det finns tillräckligt mycket i det utgående saldot?", "file": "varfor-sparras-min-franvaroansokan-trots-att-det-finns-tillrackligt-mycket-i-det-utgaende-saldot.md"}
-,
-  {"title": "Varför spärras min frånvaroansökan trots att det finns tillräckligt mycket i det utgående saldot?", "file": "varfor-sparras-min-franvaroansokan-trots-att-det-finns-tillrackligt-mycket-i-det.md"}
-,
-  {"title": "Varför visas ett framtida saldo i frånvarohanteraren?", "file": "varfor-visas-ett-framtida-saldo-i-franvarohanteraren.md"}
-,
-  {"title": "Vilka funktioner i HRM Time fungerar med modulen Koncern?", "file": "vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern.md"}
-,
-  {"title": "Vilka inställningar behöver göras för övertidsbevakning?", "file": "vilka-installningar-behover-goras-for-overtidsbevakning.md"}
-,
-  {"title": "Vilka inställningar i HRM krävs det för att en registrerad deltidsfrånvaro i HRM Time ska blir korrekt i HRM Payroll?", "file": "vilka-installningar-i-hrm-kravs-det-for-att-en-registrerad-deltidsfranvaro-i-hrm-time-ska-blir-korre.md"}
-,
-  {"title": "Vilka inställningar i HRM krävs det för att en registrerad deltidsfrånvaro i HRM Time ska blir korrekt i HRM Payroll?", "file": "vilka-installningar-i-hrm-kravs-det-for-att-en-registrerad-deltidsfranvaro-i-hrm.md"}
-,
-  {"title": "Vilka inställningar kan göras för korrigering av tidrapport?", "file": "vilka-installningar-kan-goras-for-korrigering-av-tidrapport.md"}
-,
-  {"title": "Vilka inställningar krävs för att vi ska kunna använda tillfällig utlåning?", "file": "vilka-installningar-kravs-for-att-vi-ska-kunna-anvanda-tillfallig-utlaning.md"}
-,
-  {"title": "Vilka inställningar krävs för delattestering av tidrader?", "file": "vilka-installningar-kravs-for-delattestering-av-tidrader.md"}
-,
-  {"title": "Vilka inställningar krävs i HRM Time för visning av deltidsfrånvaro som en tidkod i tidrapporten?", "file": "vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidko.md"}
-,
-  {"title": "Vilka inställningar krävs i HRM Time för visning av deltidsfrånvaro som en tidkod i tidrapporten?", "file": "vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten.md"}
-,
-  {"title": "Vilka olika funktioner finns i tidrapporten?", "file": "vilka-olika-funktioner-finns-i-tidrapporten.md"}
-,
-  {"title": "Vilka rapporter kan man få ut på deltidsfrånvaro?", "file": "vilka-rapporter-kan-man-fa-ut-pa-deltidsfranvaro.md"}
-,
-  {"title": "Vilken frånvaro gäller när det finns överlappande frånvaroposter?", "file": "vilken-franvaro-galler-nar-det-finns-overlappande-franvaroposter.md"}
-
+  {
+    "title": "Dagredovisning - Hur registrerar man närvaro, frånvaro och övertid för en dag?",
+    "file": "dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag.md",
+    "slug": "dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema",
+      "semester",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/dagredovisning-hur-registrerar-man-n%C3%A4rvaro-fr%C3%A5nvaro-och-%C3%B6vertid-f%C3%B6r-en-dag",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "Artikeln innehåller en steg för steg-beskrivning av registrering av tid i tidrapporten för dagredovisning.\nRegistrera tid i tidrapporten – dagredovisning\nMed\ndagredovisning\nmenas att registrering av t..."
+  },
+  {
+    "title": "Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?",
+    "file": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare.md",
+    "slug": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "ob",
+      "schema",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/periodredovisning-hur-registrerar-man-n%C3%A4rvaro-fr%C3%A5nvaro-och-%C3%B6vertid-f%C3%B6r-en-period",
+    "isConfig": false,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "Registrera tid i tidrapporten – periodredovisning\nAtt\nperiodredovisa\ninnebär att du inte jobbar med klockslag, endast antal timmar. Som periodredovisare kan du själv välja om du vill rapportera tiden ..."
+  },
+  {
+    "title": "Vilka olika funktioner finns i tidrapporten?",
+    "file": "vilka-olika-funktioner-finns-i-tidrapporten.md",
+    "slug": "vilka-olika-funktioner-finns-i-tidrapporten",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "saldo",
+      "schema",
+      "stämpling",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 18 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-olika-funktioner-finns-i-tidrapporten",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "En översikt av tidrapporten och en beskrivning av de knappar som hittas i menyraden högst upp.\nÖversikt tidrapport\nKnappar\nÖversikt tidrapport\nDu kan till viss del själv välja vilken information som v..."
+  },
+  {
+    "title": "Hur tidrapporterar jag i mobilen?",
+    "file": "hur-tidrapporterar-jag-i-mobilen.md",
+    "slug": "hur-tidrapporterar-jag-i-mobilen",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "attestering",
+      "mobil",
+      "ob",
+      "saldo",
+      "schema",
+      "stämpling",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 18 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-sk%C3%B6ter-jag-min-tidrapportering-i-mobilen",
+    "isConfig": false,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Tidrapporten kan administreras i HRM Mobile. Denna artikel beskriver hur tidrapporten i HRM Mobile fungerar för både dag- och periodredovisare.\nHantera tidrader\nDaginformation\nGranska dag\nUppdatera da..."
+  },
+  {
+    "title": "Varför har jag ospecad tid i min tidrapport?",
+    "file": "varfor-har-jag-ospecad-tid-i-min-tidrapport.md",
+    "slug": "varfor-har-jag-ospecad-tid-i-min-tidrapport",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "schema",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/varf%C3%B6r-har-jag-ospecad-tid-i-min-tidrapport",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Ospecificerad tid innebär att din tidrapport innehåller närvaro eller frånvaro som inte följer reglerna för ditt dagschema. Du måste specificera denna närvaro eller frånvaro, till exempel genom att re..."
+  },
+  {
+    "title": "Vad markeras som avvikelse i tidrapporten?",
+    "file": "vad-markeras-som-avvikelse-i-tidrapporten.md",
+    "slug": "vad-markeras-som-avvikelse-i-tidrapporten",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema",
+      "stämpling",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 27 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/vad-markeras-som-avvikelse-i-tidrapporten",
+    "isConfig": false,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Avvikelser visas med en gul markering i tidrapporten. Artikeln berättar om hur avvikelser hanteras i HRM Time.\nHur visas avvikelser?\nVad räknas som en avvikelse?\nUndanta tidkoder från avvikelser\nKan m..."
+  },
+  {
+    "title": "Vad är \"Schematid uppnådd\"?",
+    "file": "vad-ar-schematid-uppnadd.md",
+    "slug": "vad-ar-schematid-uppnadd",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-schematid-uppn%C3%A5dd",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Vad betyder det när det i min tidrapport står till exempel “Schematid uppnådd: 17:15”?\nSchematid uppnådd\nvisas i din tidrapport om du dagredovisar och har flextidsramar i ditt schema. Tiden som visas ..."
+  },
+  {
+    "title": "Varför har klockslagen i tidrapporten olika färger?",
+    "file": "varfor-har-klockslagen-i-tidrapporten-olika-farger.md",
+    "slug": "varfor-har-klockslagen-i-tidrapporten-olika-farger",
+    "category": "time",
+    "subcategory": "Schema & Planering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema",
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 15 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/varf%C3%B6r-har-klockslagen-i-tidrapporten-olika-f%C3%A4rger",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Klockslagen i tidrapporten kan vara gröna, orange eller svarta.\nGrön\n=\nStämplad\ntid.\nOrange\n= Tid som är\nutlagd av systemet.\nDet kan t.ex. handla om rast som läggs ut från dagschemats regler.\nSvart\n=\n..."
+  },
+  {
+    "title": "Hur kan man kontera tiden i HRM Time?",
+    "file": "hur-kan-man-kontera-tiden-i-hrm-time.md",
+    "slug": "hur-kan-man-kontera-tiden-i-hrm-time",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "saldo",
+      "tidrapport"
+    ],
+    "date": "den 18 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-kan-man-kontera-tiden-i-hrm-time",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur man kan kontera (märka upp) tiden i tidrapporten på två olika sätt, genom konteringsfördelning eller genom att kontera varje tidrad.\nKontera tiden\nTiden i en tidrapport kan märk..."
+  },
+  {
+    "title": "Vad är logiken bakom föreslagen kontering i dagvyn i HRM Time?",
+    "file": "vad-ar-logiken-bakom-foreslagen-kontering-i-dagvyn-i-hrm-time.md",
+    "slug": "vad-ar-logiken-bakom-foreslagen-kontering-i-dagvyn-i-hrm-time",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "frånvaro",
+      "hrm-time",
+      "mobil",
+      "ob",
+      "schema",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 20 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/logiken-bakom-f%C3%B6reslagen-kontering-i-dagvyn-i-hrm-time",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Här beskrivs vilka konteringar som har högst prioritet när konteringar genereras automatiskt i dagredovisningen. Manuellt angivna konteringar skrivs inte över.\nStämpelklockans konteringar\nhar högst pr..."
+  },
+  {
+    "title": "Kan tidrapporten tillfälligt lägga ut ett annat kostnadsställe än mitt hemkostnadsställe?",
+    "file": "kan-tidrapporten-tillfalligt-lagga-ut-ett-annat-kostnadsstalle-an-mitt-hemkostnadsstalle.md",
+    "slug": "kan-tidrapporten-tillfalligt-lagga-ut-ett-annat-kostnadsstalle-an-mitt-hemkostnadsstalle",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "tidrapport"
+    ],
+    "date": "den 19 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/kan-tidrapporten-tillf%C3%A4lligt-l%C3%A4gga-ut-ett-annat-kostnadsst%C3%A4lle-%C3%A4n-mitt-hemkostnadsst%C3%A4lle",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Tillfällig utlåning\nkan användas om du under en begränsad period vill att en eller flera konteringar (t.ex. kostnadsställe, projekt etc.) ska läggas ut på tidraderna i tidrapporten.\nDu hittar Tillfäll..."
+  },
+  {
+    "title": "Hur fungerar Favoriter i periodredovisningen?",
+    "file": "hur-fungerar-favoriter-i-periodredovisningen.md",
+    "slug": "hur-fungerar-favoriter-i-periodredovisningen",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "tidrapport"
+    ],
+    "date": "den 15 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-favoriter-i-periodredovisningen",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Det kan finnas möjlighet för dig som periodredovisar att markera rader i tidrapporten som favoritrader för att enklare registrera samma sak senare.\nStandard är att favoriter inte används. Aktiveras fa..."
+  },
+  {
+    "title": "Tidrapport - Hur fungerar vyn Översikt?",
+    "file": "tidrapport-hur-fungerar-vyn-oversikt.md",
+    "slug": "tidrapport-hur-fungerar-vyn-oversikt",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/tidrapport-hur-fungerar-vyn-%C3%B6versikt",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Översikt\nvisar grafiskt tider från din tidrapport (och de anställdas vars tidrapporter du är behörig till).\nAktuell tidpunkt visas med ett blått lodrätt streck. Samtliga tidrader som rapporterats visa..."
+  },
+  {
+    "title": "Hur används Favoriter i Ersättningar?",
+    "file": "hur-anvands-favoriter-i-ersattningar.md",
+    "slug": "hur-anvands-favoriter-i-ersattningar",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "ob",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 18 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-anv%C3%A4nds-favoriter-i-ers%C3%A4ttningar",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Du kan använda\nFavoriter\ni ersättningsvyn för att underlätta inmatning av ersättningsrader som du ofta registrerar.\nAtt favoritmarkera en rad i ersättningar i tidrapporten innebär att den visas i varj..."
+  },
+  {
+    "title": "Kan jag ändra i en tidrapport som är granskad/överförd till lön?",
+    "file": "kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon.md",
+    "slug": "kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "ob",
+      "tidrapport"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-%C3%A4ndra-i-en-tidrapport-som-%C3%A4r-granskad/%C3%B6verf%C3%B6rd-till-l%C3%B6n",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Behöver du ändra en tidrapport som redan är granskad eller överförd till lön? Med funktionen\nKorrigera tidrapport\nkan du göra justeringar utan att behöva ta bort granskningen eller backa överföringen...."
+  },
+  {
+    "title": "Kan jag visa veckonummer i tidrapportens kalender?",
+    "file": "kan-jag-visa-veckonummer-i-tidrapportens-kalender.md",
+    "slug": "kan-jag-visa-veckonummer-i-tidrapportens-kalender",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "explanation",
+    "difficulty": "beginner",
+    "tags": [
+      "frånvaro",
+      "tidrapport"
+    ],
+    "date": "den 29 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-visa-veckonummer-i-tidrapportens-kalender",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Kalendern i din tidrapport är användbar när du ska välja datum för rapportering eller planera till exempel frånvaro.\nOm du vill att kalendern ska visa\nveckonummer\nkan du göra en inställning för det.\n!..."
+  },
+  {
+    "title": "Hur fungerar avvikelserapportering?",
+    "file": "hur-fungerar-avvikelserapportering.md",
+    "slug": "hur-fungerar-avvikelserapportering",
+    "category": "time",
+    "subcategory": "Övertid & Ersättning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "ob",
+      "schema",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 18 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-avvikelserapportering",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Avvikelserapportering är en enklare typ av tidrapportering, där den anställde endast matar in avvikelser från sitt normala schema. Vid avvikelserapportering visas inte normal arbetstid i tidrapporten...."
+  },
+  {
+    "title": "⚙️Kan man ställa in så att användare endast ser vissa projekt i sin tidrapport?",
+    "file": "kan-man-stalla-in-sa-att-anvandare-endast-ser-vissa-projekt-i-sin-tidrapport.md",
+    "slug": "kan-man-stalla-in-sa-att-anvandare-endast-ser-vissa-projekt-i-sin-tidrapport",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "tidrapport"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-man-st%C3%A4lla-in-s%C3%A5-att-anv%C3%A4ndare-endast-ser-vissa-projekt-i-sin-tidrapport",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Projektdeltagare kan användas för att begränsa antal projekt som visas för användaren.\nProjektregistret kan vara omfattande. Om man endast rapporterar tid på vissa projekt kan det underlätta att endas..."
+  },
+  {
+    "title": "⚙️Vilka inställningar krävs för att vi ska kunna använda tillfällig utlåning?",
+    "file": "vilka-installningar-kravs-for-att-vi-ska-kunna-anvanda-tillfallig-utlaning.md",
+    "slug": "vilka-installningar-kravs-for-att-vi-ska-kunna-anvanda-tillfallig-utlaning",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "tidrapport"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-vi-ska-kunna-anv%C3%A4nda-tillf%C3%A4llig-utl%C3%A5ning",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Inställning per konteringsdimension samt behörighet.\nTillfällig utlåning kan användas för att du i tidrapporten ska kunna ange en eller flera konteringar som under ett valt datumintervall ska falla ut..."
+  },
+  {
+    "title": "⚙️Vilka inställningar kan göras för korrigering av tidrapport?",
+    "file": "vilka-installningar-kan-goras-for-korrigering-av-tidrapport.md",
+    "slug": "vilka-installningar-kan-goras-for-korrigering-av-tidrapport",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "mobil",
+      "ob",
+      "tidrapport"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kan-g%C3%B6ras-f%C3%B6r-korrigering-av-tidrapport",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Inställningar för behörighet och påminnelse vid korrigering av tidrapport.\nFunktionen\nKorrigera tidrapport\ngör det möjligt att ändra i en tidrapport som redan är granskad eller överförd till lön. Dett..."
+  },
+  {
+    "title": "Begrepp i HRM Time - Vad betyder de olika begreppen i HRM Time?",
+    "file": "begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time.md",
+    "slug": "begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "concept",
+    "difficulty": "advanced",
+    "tags": [
+      "attestering",
+      "frånvaro",
+      "hrm-time",
+      "lön",
+      "schema",
+      "stämpling",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 15 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I denna artikel går vi igenom några centrala begrepp i HRM Time.\nTidrapport\nDagvy, Månadsvy, Veckovy och Ersättningar. Används för att registrera tid och för att se sin rapporterade tid.\nDagredovisnin..."
+  },
+  {
+    "title": "⚙️Vad är en tidgrupp?",
+    "file": "vad-ar-en-tidgrupp.md",
+    "slug": "vad-ar-en-tidgrupp",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "concept",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "saldo",
+      "schema",
+      "tidkod"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/tidgrupper-hur-st%C3%A4ller-man-in-tidgrupper",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "En central del av HRM Time är tidgrupper. HRM använder tidgrupper för att knyta anställda till rätt regelverk, inställningar, scheman etc.\nTidgrupperna byggs utifrån de olika avtal och personalkategor..."
+  },
+  {
+    "title": "⚙️Hur ställer man in tidkoder?",
+    "file": "hur-staller-man-in-tidkoder.md",
+    "slug": "hur-staller-man-in-tidkoder",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "ob",
+      "saldo",
+      "schema",
+      "semester",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/tidkoder-hur-st%C3%A4ller-man-in-tidkoder",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Tidkoder i HRM Time länkar tidregistrering till lönesystemet. Nedan kan du läsa om inställningsvyn för tidkoder.\nFliken Allmänt\nFliken Överföring till lön\nFliken Behörighet\nTidkoder\n![Bilden visar att..."
+  },
+  {
+    "title": "⚙️Hur ställer man in Tidrapporten?",
+    "file": "hur-staller-man-in-tidrapporten.md",
+    "slug": "hur-staller-man-in-tidrapporten",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "tidrapport"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/tidrapporter-hur-st%C3%A4ller-man-in-tidrapporten",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Tidrapporten kan ställas in på flera nivåer. Den mest specifika nivån gäller.\nTidrapportsinställningar\nTidrapportens utseende och inställningar kan definieras på 3 olika nivåer:\nFöretag (\nTidrapporter..."
+  },
+  {
+    "title": "Frånvaro - Hur ansöker och rapporterar jag frånvaro i mobilen?",
+    "file": "franvaro-hur-ansoker-och-rapporterar-jag-franvaro-i-mobilen.md",
+    "slug": "franvaro-hur-ansoker-och-rapporterar-jag-franvaro-i-mobilen",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "tidrapport"
+    ],
+    "date": "den 18 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/fr%C3%A5nvaro-hur-ans%C3%B6ker-och-rapporterar-jag-fr%C3%A5nvaro",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Frånvaro i HRM Mobile\nI funktionen\nFrånvaro\nser du all din registrerade och ansökta frånvaro och du kan ansöka om frånvaro samt rapportera tidigare frånvaro.\n![Bild](images/franvaro-hur-ansoker-och-ra..."
+  },
+  {
+    "title": "Hur kan jag i HRM Time få en bra överblick över de anställdas frånvaro under semestern?",
+    "file": "hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-semestern.md",
+    "slug": "hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-semestern",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "frånvaro",
+      "hrm-time",
+      "ob",
+      "schema",
+      "semester",
+      "tidrapport"
+    ],
+    "date": "den 6 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-kan-jag-f%C3%A5-en-bra-%C3%B6verblick-%C3%B6ver-de-anst%C3%A4lldas-fr%C3%A5nvaro-under-semetsern",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "I denna artikel går vi igenom hur du i HRM Time kan ha koll på anställdas frånvaro via rapporten Semesterlista, kalenderfunktionen samt hur du kontrollerar granskning av tidrapporter inför och under s..."
+  },
+  {
+    "title": "Varför visas ett framtida saldo i frånvarohanteraren?",
+    "file": "varfor-visas-ett-framtida-saldo-i-franvarohanteraren.md",
+    "slug": "varfor-visas-ett-framtida-saldo-i-franvarohanteraren",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "ob",
+      "saldo",
+      "semester"
+    ],
+    "date": "den 18 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/varf%C3%B6r-visas-ett-framtida-saldo-i-fr%C3%A5nvarohanteraren",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Vid frånvaroansökan kan det underlätta att se saldon för att veta hur mycket frånvaro som går att ta ut. Saldot visas för aktuell månad, men ibland visas ett framtida saldo. Här förklarar vi vad det b..."
+  },
+  {
+    "title": "Varför spärras min frånvaroansökan trots att det finns tillräckligt mycket i det utgående saldot?",
+    "file": "varfor-sparras-min-franvaroansokan-trots-att-det-finns-tillrackligt-mycket-i-det-utgaende-saldot.md",
+    "slug": "varfor-sparras-min-franvaroansokan-trots-att-det-finns-tillrackligt-mycket-i-det-utgaende-saldot",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "saldo"
+    ],
+    "date": "den 27 november 2025",
+    "url": "https://knowledge.flexapplications.se/varf%C3%B6r-sp%C3%A4rras-min-fr%C3%A5nvaroans%C3%B6kan-trots-att-det-finns-tillr%C3%A4ckligt-mycket-i-det-utg%C3%A5ende-saldot",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Det går att visa saldon i frånvarohanteraren. Man kan till exempel visa kompsaldo vid ansökningar som gäller kompledighet, för att du ska se hur mycket tid det finns att ta ut. Det går också att spärr..."
+  },
+  {
+    "title": "Vilken frånvaro gäller när det finns överlappande frånvaroposter?",
+    "file": "vilken-franvaro-galler-nar-det-finns-overlappande-franvaroposter.md",
+    "slug": "vilken-franvaro-galler-nar-det-finns-overlappande-franvaroposter",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "tidrapport"
+    ],
+    "date": "den 18 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/vilken-fr%C3%A5nvaro-g%C3%A4ller-n%C3%A4r-det-finns-%C3%B6verlappande-fr%C3%A5nvaroposter",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Det går att skapa frånvaroposter som överlappar varandra. I tidrapporten kan frånvaro inte överlappa. \nDenna artikel informerar om hur frånvaro genereras när det finns överlappande frånvaroposter.\nHär..."
+  },
+  {
+    "title": "Hur registrerar jag deltidsfrånvaro i HRM Time?",
+    "file": "hur-registrerar-jag-deltidsfranvaro-i-hrm-time.md",
+    "slug": "hur-registrerar-jag-deltidsfranvaro-i-hrm-time",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "hrm-time",
+      "lön",
+      "ob",
+      "schema",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 22 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/deltidsfr%C3%A5nvaro-i-hrm-time",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "En anställd ska vara deltidsfrånvarande, t ex sjukskriven 20% i en månad. Hur registrerar man det i HRM Time?\nRegistrering av deltidsfrånvaro.\nVisning av deltidsfrånvaro i tidrapporten.\nRegistrering a..."
+  },
+  {
+    "title": "Hur registrerar man två samtidiga deltidsfrånvaro?",
+    "file": "hur-registrerar-man-tva-samtidiga-deltidsfranvaro.md",
+    "slug": "hur-registrerar-man-tva-samtidiga-deltidsfranvaro",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 27 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-registrerar-man-2-samtidiga-deltidsfr%C3%A5nvaro-",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Fler deltidsfrånvaro samtidigt\nScenario om frånvaro totalt 100%\nOm anställd redan har en deltidsfrånvaro och får ytterligare en deltidsfrånvaro vilket medför att man totalt är 100% frånvarande. Exempe..."
+  },
+  {
+    "title": "Hur hanteras \"manuella schemaändringar\" vid skapandet av ett deltidsfrånvaroschema?",
+    "file": "hur-hanteras-manuella-schemaandringar-vid-skapandet-av-ett-deltidsfranvaroschema.md",
+    "slug": "hur-hanteras-manuella-schemaandringar-vid-skapandet-av-ett-deltidsfranvaroschema",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema"
+    ],
+    "date": "den 27 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanteras-utf%C3%B6rda-manuella-schema%C3%A4ndringar-vid-skapandet-av-ett-deltidsfr%C3%A5nvaroschema",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Manuella schemaändringar vid deltidsfrånvaro\nOm det finns manuella schemaändringar under intervallet för en deltidsfrånvaro med Fast procent kommer du att få en fråga om du vill att schemat på de manu..."
+  },
+  {
+    "title": "Vilka rapporter kan man få ut på deltidsfrånvaro?",
+    "file": "vilka-rapporter-kan-man-fa-ut-pa-deltidsfranvaro.md",
+    "slug": "vilka-rapporter-kan-man-fa-ut-pa-deltidsfranvaro",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 27 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-rapporter-kan-man-f%C3%A5-ut-p%C3%A5-deltidsfr%C3%A5nvaro",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Rapportuttag kan tas ut på deltidsfrånvaro från följande funktioner i Flex HRM\nStandardrapporten - Frånvarostatistik\n- Välj datum samt frånvaroorsak\n- Markera alternativet \"Räkna med deltidsfrånvaro\"\n..."
+  },
+  {
+    "title": "Frånvarostatistik - Vad betyder Ta endast med frånvaroperioder längre/kortare än?",
+    "file": "franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an.md",
+    "slug": "franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "frånvaro"
+    ],
+    "date": "den 29 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/fr%C3%A5nvarostatistik-vad-betyder-ta-endast-med-fr%C3%A5nvaroperioder-l%C3%A4ngre/kortare-%C3%A4n",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "En förklaring av urvalsmöjligheterna Ta endast med frånvaroperioder längre än och Ta endast med frånvaroperioder kortare än.\nFilterera frånvaro baserat på längd\nI Flex HRM finns det möjlighet att filt..."
+  },
+  {
+    "title": "⚙️Frånvaroorsaker i tidrapporten - Vad är en frånvaroorsak?",
+    "file": "franvaroorsaker-i-tidrapporten-vad-ar-en-franvaroorsak.md",
+    "slug": "franvaroorsaker-i-tidrapporten-vad-ar-en-franvaroorsak",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "ob",
+      "saldo",
+      "schema",
+      "semester",
+      "stämpling",
+      "tidkod"
+    ],
+    "date": "den 6 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/fr%C3%A5nvaroorsaker-i-tidrapporten-vad-%C3%A4r-en-fr%C3%A5nvaroorsak",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Frånvaroorsaker används för att ställa in hur frånvarohantering ska fungera. Inställningarna som kan styras från fliken Tid förklaras nedan.\nFrånvaroorsaker används för att ställa in hur frånvarohante..."
+  },
+  {
+    "title": "⚙️Spärr för saldo - Kan man spärra semesteransökningar om det inte finns tillräckligt många semesterdagar att ta ut?",
+    "file": "sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillrackligt-manga-semesterdaga.md",
+    "slug": "sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillrackligt-manga-semesterdaga",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "ob",
+      "saldo",
+      "semester",
+      "stämpling"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/sp%C3%A4rr-f%C3%B6r-saldo-kan-man-sp%C3%A4rra-semesterans%C3%B6kningar-om-det-inte-finns-tillr%C3%A4ckligt-m%C3%A5nga-semesterdagar-att-ta-ut",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Under\nInställningar > Tid och Bemanning > Frånvaroorsaker\nkan man ställa in\nSpärr för saldo.\nSpärr för saldo är till för att man inte ska kunna registrera/godkänna frånvaro om den skulle innebära att ..."
+  },
+  {
+    "title": "⚙️Kan delattestbehörighet användas för frånvarogranskning?",
+    "file": "kan-delattestbehorighet-anvandas-for-franvarogranskning.md",
+    "slug": "kan-delattestbehorighet-anvandas-for-franvarogranskning",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "semester",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-delattestbeh%C3%B6righet-anv%C3%A4ndas-f%C3%B6r-fr%C3%A5nvarogranskning",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Kontering på frånvaro kan användas för att styra behörighet och för att generera konteringar på tidrader från frånvarohanteraren.\nDet går att knyta en eller flera konteringsdimensioner till frånvaroha..."
+  },
+  {
+    "title": "⚙️Hur hanterar man karensavdrag i HRM Time?",
+    "file": "hur-hanterar-man-karensavdrag-i-hrm-time.md",
+    "slug": "hur-hanterar-man-karensavdrag-i-hrm-time",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "lön",
+      "ob",
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/karensavdrag-hur-hanterar-man-karensavdrag-i-flex-hrm-time",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du i HRM Time hanterar karensavdrag. Den innehåller en beskrivning av de ändringar som har gjorts i och med skiftet från karensdag till karensavdrag, 1 januari 2019.\nKarensavdra..."
+  },
+  {
+    "title": "⚙️Vilka inställningar i HRM krävs det för att en registrerad deltidsfrånvaro i HRM Time ska blir korrekt i HRM Payroll?",
+    "file": "vilka-installningar-i-hrm-kravs-det-for-att-en-registrerad-deltidsfranvaro-i-hrm-time-ska-blir-korre.md",
+    "slug": "vilka-installningar-i-hrm-kravs-det-for-att-en-registrerad-deltidsfranvaro-i-hrm-time-ska-blir-korre",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "hrm-time",
+      "lön",
+      "ob",
+      "schema",
+      "semester"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-i-hrm-kr%C3%A4vs-det-f%C3%B6r-att-en-registrerad-deltidsfr%C3%A5nvaro-i-hrm-time-ska-blir-korrekt-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Detta artikel avser främst kunder som använder Flex HRM Time med  Flex HRM Payroll. Om annat lönesystem används, styrs inställningarna av det systemets möjlighet att hantera deltidsfrånvaro. Var uppmä..."
+  },
+  {
+    "title": "⚙️Vilka inställningar krävs i HRM Time för visning av deltidsfrånvaro som en tidkod i tidrapporten?",
+    "file": "vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten.md",
+    "slug": "vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten",
+    "category": "time",
+    "subcategory": "Lön & Överföring",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "hrm-time",
+      "lön",
+      "ob",
+      "schema",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-i-hrm-time-f%C3%B6r-visning-av-deltidsfr%C3%A5nvaro-som-en-tidkod-i-tidrapporten",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Inställningar i HRM Time: Visa deltidsfrånvaro som tidkod i tidrapporten\nSå här aktiverar du visningen:\nSkapa en ny tidkod endast för visning i tidrapporten:\nKopiera din befintliga tidkod för deltidsf..."
+  },
+  {
+    "title": "⚙️Hur ställer man in automatisk beräkning av heltidsmått vid en deltidsfrånvaro?",
+    "file": "hur-staller-man-in-automatisk-berakning-av-heltidsmatt-vid-en-deltidsfranvaro.md",
+    "slug": "hur-staller-man-in-automatisk-berakning-av-heltidsmatt-vid-en-deltidsfranvaro",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "ob",
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4ller-man-in-automatisk-ber%C3%A4kning-av-heltidsm%C3%A5tt-vid-en-deltidsfr%C3%A5nvaro",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Automatisk justering av antal timmar heltid\nOm du har intermittent deltidsfrånvaro och är helt ledig vissa dagar vill en del lönesystem att antal timmar heltid ska fördelas på arbetsdagarna. Man kan a..."
+  },
+  {
+    "title": "⚙️Vad innebär inställningen \"Skicka deltidsfrånvaro dag för dag till lön\" under inställningar för Frånvaroorsaker?",
+    "file": "vad-innebar-installningen-skicka-deltidsfranvaro-dag-for-dag-till-lon-under-installningar-for-franva.md",
+    "slug": "vad-innebar-installningen-skicka-deltidsfranvaro-dag-for-dag-till-lon-under-installningar-for-franva",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "ob",
+      "schema",
+      "semester",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/vad-inneb%C3%A4r-inst%C3%A4llningen-skicka-deltidsfr%C3%A5nvaro-dag-f%C3%B6r-dag-till-l%C3%B6n-under-inst%C3%A4llningar-f%C3%B6r-fr%C3%A5nvaroorsaker",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Deltidsfrånvaro dag för dag (Kollektiavtal IF-metall)\nOBS! denna funktion används enbart av företag inom kollektivavtalet IF-Metall som valt att tolka att deltidsfrånvaro skall behandlas på ett specif..."
+  },
+  {
+    "title": "⚙️Vad innebär inställningen \"Ge kortare karensperiod vid deltidsfrånvaro\"",
+    "file": "vad-innebar-installningen-ge-kortare-karensperiod-vid-deltidsfranvaro.md",
+    "slug": "vad-innebar-installningen-ge-kortare-karensperiod-vid-deltidsfranvaro",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "ob"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/vad-inneb%C3%A4r-inst%C3%A4llningen-ge-kortare-karensperiod-vid-deltidsfr%C3%A5nvaro-",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Under Frånvaroorsaker finns en inställning som gäller för vissa Kollektivavtal som tolkar att obetald deltidsfrånvaro såsom föräldraledighet och tjänstledighet ska ge kortare karensperiod på samma sät..."
+  },
+  {
+    "title": "Hur fungerar stämplingsterminalen?",
+    "file": "hur-fungerar-stamplingsterminalen.md",
+    "slug": "hur-fungerar-stamplingsterminalen",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "saldo",
+      "schema",
+      "semester",
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 21 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-st%C3%A4mplingsterminalen",
+    "isConfig": false,
+    "imageCount": 14,
+    "hasImages": true,
+    "excerpt": "Nedan kan du läsa om hur man använder stämplingsterminalen, HRM Timeclock. Artikeln beskriver hur du stämplar din tid och använder övriga funktioner.\nAnvända stämplingsterminalen\nStämpla din tid\nFör s..."
+  },
+  {
+    "title": "Hur stämplar man sin tid i mobilen?",
+    "file": "hur-stamplar-man-sin-tid-i-mobilen.md",
+    "slug": "hur-stamplar-man-sin-tid-i-mobilen",
+    "category": "time",
+    "subcategory": "Övertid & Ersättning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "stämpling",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 19 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4mplar-man-sin-tid-i-mobilen",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "HRM Mobile - Stämpling\nI\nHRM Mobile\n, vyn\nStämpling\nhittar du funktioner för stämpling.\nObservera\natt olika val kan finnas tillgängliga beroende på era inställningar.\n![Ikon Stämpling.](images/hur-sta..."
+  },
+  {
+    "title": "Hur stämplar jag direkt i tidrapporten?",
+    "file": "hur-stamplar-jag-direkt-i-tidrapporten.md",
+    "slug": "hur-stamplar-jag-direkt-i-tidrapporten",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "stämpling",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4mplar-man-direkt-i-tidrapporten",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Det finns olika sätt att stämpla sin tid i HRM Time. Det går att använda stämplingsterminaler (HRM Timeclock), det finns en stämplingsfunktion i HRM Mobile och du kan använda en stämplingsfunktion i m..."
+  },
+  {
+    "title": "Vad händer när stämpelklockan är offline?",
+    "file": "vad-hander-nar-stampelklockan-ar-offline.md",
+    "slug": "vad-hander-nar-stampelklockan-ar-offline",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 21 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/vad-h%C3%A4nder-n%C3%A4r-st%C3%A4mpelklockan-%C3%A4r-offline",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "När stämpelklockan saknar kontakt med HRM kan man ändå stämpla In/Ut. Stämplingen kommer att läsas in i tidrapporten när kontakten återupprättas.\nHRM Timeclock kan endast ta emot In/Ut-stämplingar vid..."
+  },
+  {
+    "title": "Loggas stämplingar som görs i HRM Timeclock?",
+    "file": "loggas-stamplingar-som-gors-i-hrm-timeclock.md",
+    "slug": "loggas-stamplingar-som-gors-i-hrm-timeclock",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "hrm-time",
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 22 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/loggas-st%C3%A4mplingar-som-g%C3%B6rs-i-hrm-timeclock",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Det finns en logg i tidrapporten där man kan se information om dagens stämplingar. Den finns i\nDagvyn\n, under\nMer > Logg.\nPå bilden nedan kan man se att den anställde har stämplat kl 14:21 och fått en..."
+  },
+  {
+    "title": "⚙️Hur ändrar jag knapparna i stämpelklockan?",
+    "file": "hur-andrar-jag-knapparna-i-stampelklockan.md",
+    "slug": "hur-andrar-jag-knapparna-i-stampelklockan",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "ob",
+      "stämpling"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-%C3%A4ndrar-jag-knapparna-i-st%C3%A4mpelklockan",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Under\nSystemregister > Stämpelklockor\nkan man skapa och redigera stämpelklockornas utseende och funktion.\n![Inställningar stämpelklocka](images/hur-andrar-jag-knapparna-i-stampelklockan_532ea5cb.png)\n..."
+  },
+  {
+    "title": "⚙️Stämplingstolerans - Kan man avrunda stämplingar?",
+    "file": "stamplingstolerans-kan-man-avrunda-stamplingar.md",
+    "slug": "stamplingstolerans-kan-man-avrunda-stamplingar",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "ob",
+      "schema",
+      "stämpling",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/t%C3%A4mplingstolerans-kan-man-avrunda-st%C3%A4mplingar",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Det går att använda\nstämplingstoleranser\nför att stämplad tid ska avrundas till schematid, eller till flexramen om ni använder flextid.\nEtt exempel på användningsområde kan vara när flextid inte använ..."
+  },
+  {
+    "title": "⚙️Stämpla i HRM Mobile med hjälp av plats",
+    "file": "stampla-i-hrm-mobile-med-hjalp-av-plats.md",
+    "slug": "stampla-i-hrm-mobile-med-hjalp-av-plats",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "ob",
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/st%C3%A4mpla-i-hrm-mobile-med-hj%C3%A4lp-av-plats",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "HRM Mobile kan lägga ut konteringar i tidrapporten baserat på plats. Artikeln beskriver hur det går till och vilka inställningar som behöver göras för att använda funktionen.\nStämpling\nInställningar\nV..."
+  },
+  {
+    "title": "⚙️Kan man begränsa stämplingen i HRM Mobile via plats?",
+    "file": "kan-man-begransa-stamplingen-i-hrm-mobile-via-plats.md",
+    "slug": "kan-man-begransa-stamplingen-i-hrm-mobile-via-plats",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "ob",
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-man-begr%C3%A4nsa-st%C3%A4mplingen-i-hrm-mobile-via-plats-",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Artikeln informerar om att sätta upp ett platsregister i HRM och att begränsa stämplingar i HRM Mobile till dessa platser.\nDu kan sätta upp ett platsregister under\nInställningar > Tid och Bemanning > ..."
+  },
+  {
+    "title": "⚙️Hur ställer man in att Ersättningar ska kunna stämplas i HRM Timeclock?",
+    "file": "hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock.md",
+    "slug": "hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "stämpling",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4ller-man-in-att-ers%C3%A4ttningar-ska-kunna-st%C3%A4mplas-i-hrm-timeclock",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Stämplingsbara ersättningar\nI HRM Timeclock finns möjlighet att stämpla ersättningar, det vill säga ange ersättningskoder eller tidkoder som faller ut under fliken\nErsättningar\ni tidrapporten.\nErsättn..."
+  },
+  {
+    "title": "⚙️Kan konteringar falla ut automatiskt i tidrapporten beroende på vilken stämplingsterminal man använder?",
+    "file": "kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-pa-vilken-stamplingsterminal-man-anvand.md",
+    "slug": "kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-pa-vilken-stamplingsterminal-man-anvand",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-p%C3%A5-vilken-st%C3%A4mplingsterminal-man-anv%C3%A4nder",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Under\nSystemregister > Stämpelklockor\nfinns fliken\nKontering\ndär du kan koppla konteringar till stämpelklockor, det vill säga att ange att alla anställda som stämplar på en viss stämpelklocka automati..."
+  },
+  {
+    "title": "⚙️Går det att behörighetsstyra en stämpelklocka?",
+    "file": "gar-det-att-behorighetsstyra-en-stampelklocka.md",
+    "slug": "gar-det-att-behorighetsstyra-en-stampelklocka",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/g%C3%A5r-det-att-beh%C3%B6righetsstyra-en-st%C3%A4mpelklocka",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Under\nSystemregister > Stämpelklockor > Fliken Behörighet\nkan du ange vilka som får stämpla på vald stämpelklocka.\nDu kan lägga till och ta bort behörigheter genom att klicka på\nLägg till rad\nrespekti..."
+  },
+  {
+    "title": "⚙️Kan man skicka meddelanden i stämpelklockan?",
+    "file": "kan-man-skicka-meddelanden-i-stampelklockan.md",
+    "slug": "kan-man-skicka-meddelanden-i-stampelklockan",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "ob",
+      "stämpling"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-man-skicka-meddelanden-i-st%C3%A4mpelklockan",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Observera\nDenna artikel handlar endast om meddelanden som visas i stämpelklockor. För att skicka ett meddelande till alla användare i HRM/Mobile kan du använda funktionen\nMeddelanden\nsom finns på star..."
+  },
+  {
+    "title": "⚙️Hur ändrar jag bakgrundsbild i stämpelklockan?",
+    "file": "hur-andrar-jag-bakgrundsbild-i-stampelklockan.md",
+    "slug": "hur-andrar-jag-bakgrundsbild-i-stampelklockan",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-%C3%A4ndrar-jag-bakgrundsbild-i-st%C3%A4mpelklockan",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Under\nSystemregister > Stämpelklockor > Bakgrundsbilder\nkan du markera en klocka och bocka i\nAnvänd bakgrundsbilder\n.\nNär du har gjort det kommer det automatiskt att läggas upp en bild per årstid; en ..."
+  },
+  {
+    "title": "Hur granskar man sin tidrapport?",
+    "file": "hur-granskar-man-sin-tidrapport.md",
+    "slug": "hur-granskar-man-sin-tidrapport",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "ob",
+      "tidrapport"
+    ],
+    "date": "den 22 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-granskar-man-sin-tidrapport",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "En steg för steg-beskrivning för hur du granskar din tidrapport.\nNär din tidrapport är helt klar ska detta markeras genom att du granskar tidrapporten och sätter din signatur på att den är helt klar.\n..."
+  },
+  {
+    "title": "Hur attesterar man en tidrapport?",
+    "file": "hur-attesterar-man-en-tidrapport.md",
+    "slug": "hur-attesterar-man-en-tidrapport",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "frånvaro",
+      "lön",
+      "ob",
+      "saldo",
+      "schema",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 14 november 2025",
+    "url": "https://knowledge.flexapplications.se/attestera-tidrapporter-hur-attesterar-man-en-tidrapport",
+    "isConfig": false,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du attesterar tidrapporter och hur du grupperar tidrapporter i granskningsvyn.\nAttestera tidrapporter\nGruppering i granskningsvy per dag\nAttestera tidrapporter\nAttestering av ti..."
+  },
+  {
+    "title": "Hur arbetar man med delattestering i HRM Time?",
+    "file": "hur-arbetar-man-med-delattestering-i-hrm-time.md",
+    "slug": "hur-arbetar-man-med-delattestering-i-hrm-time",
+    "category": "time",
+    "subcategory": "Attestering & Granskning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "hrm-time",
+      "ob",
+      "tidrapport"
+    ],
+    "date": "den 25 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-arbetar-man-med-delattestering-i-hrm-time",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Granskning per tidrad i tidrapport och i granskningsvy.\nDelattestering är att granska per tidrad. Ofta klarmarkerar anställda sin tidrapport per dag, en chef granskar tidrader konterade med de projekt..."
+  },
+  {
+    "title": "Hur gör man för att avslå tidrapporter?",
+    "file": "hur-gor-man-for-att-avsla-tidrapporter.md",
+    "slug": "hur-gor-man-for-att-avsla-tidrapporter",
+    "category": "time",
+    "subcategory": "Attestering & Granskning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "tidrapport"
+    ],
+    "date": "den 22 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%B6r-man-f%C3%B6r-att-avsl%C3%A5-tidrapporter",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Det kan finnas möjlighet att avslå en granskad tidrapport och skriva en kommentar till den anställde kring vad som behöver korrigeras. När en dag avslås tas alla tidigare granskningar bort och dagen b..."
+  },
+  {
+    "title": "⚙️Hur ställer jag in granskning av tidrapporter?",
+    "file": "hur-staller-jag-in-granskning-av-tidrapporter.md",
+    "slug": "hur-staller-jag-in-granskning-av-tidrapporter",
+    "category": "time",
+    "subcategory": "Attestering & Granskning",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "frånvaro",
+      "ob",
+      "saldo",
+      "schema",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4ller-jag-in-granskning-av-tidrapporter",
+    "isConfig": true,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Ett exempel för uppsättning av klarmarkering, delattestering och attestering.\nDu kan använda hur många granskningsnivåer du vill i ditt företag, och det finns stora möjligheter att ställa in nivåerna ..."
+  },
+  {
+    "title": "⚙️Vilka inställningar kan göras för granskning av tidrapporter?",
+    "file": "vilka-installningar-kan-goras-for-granskning-av-tidrapporter.md",
+    "slug": "vilka-installningar-kan-goras-for-granskning-av-tidrapporter",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "frånvaro",
+      "lön",
+      "ob",
+      "saldo",
+      "semester",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 22 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kan-g%C3%B6ras-f%C3%B6r-granskning-av-tidrapporter",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "I Flex HRM kan du ställa in olika granskningsnivåer för tidrapporter. Denna artikel beskriver de inställningar du kan göra under\nInställningar > Allmänt > Granskningsnivåer > Tidrapporter\n.\nOm du vill..."
+  },
+  {
+    "title": "⚙️Vilka inställningar krävs för delattestering av tidrader?",
+    "file": "vilka-installningar-kravs-for-delattestering-av-tidrader.md",
+    "slug": "vilka-installningar-kravs-for-delattestering-av-tidrader",
+    "category": "time",
+    "subcategory": "Attestering & Granskning",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "ob",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-delattestering-av-tidrader",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Granskning per tidrad, inställningar och behörighet.\nInställning granskningsnivå\nDelattestering i tidrapport och i granskningsvy\nBehörighet\nObservera\nGranskning per tidrad kallas ofta delattestering, ..."
+  },
+  {
+    "title": "⚙️Kan tidrapporter granskas automatiskt?",
+    "file": "kan-tidrapporter-granskas-automatiskt.md",
+    "slug": "kan-tidrapporter-granskas-automatiskt",
+    "category": "time",
+    "subcategory": "Attestering & Granskning",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "frånvaro",
+      "lön",
+      "ob",
+      "saldo",
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-tidrapporter-granskas-automatiskt",
+    "isConfig": true,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Granskning av tidrapporter (klarmarkering, attestering etc) är en kontroll för att uppgifterna ska vara korrekta, till lön och för statistik.\nDet finns dock tillfällen där du kan vilja automatisera gr..."
+  },
+  {
+    "title": "⚙️Hur tillåter man avslag av tidrapporter?",
+    "file": "hur-tillater-man-avslag-av-tidrapporter.md",
+    "slug": "hur-tillater-man-avslag-av-tidrapporter",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "ob",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-till%C3%A5ter-man-avslag-av-tidrapporter",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Inställningar för att tillåta avslag, behörighet samt påminnelse till anställd.\nHär beskriver vi inställningarna som behöver göras för att man ska kunna avslå tidrapporter. Vill du läsa om hur man gör..."
+  },
+  {
+    "title": "Hur överför man tidrapporter till lön?",
+    "file": "hur-overfor-man-tidrapporter-till-lon.md",
+    "slug": "hur-overfor-man-tidrapporter-till-lon",
+    "category": "time",
+    "subcategory": "Lön & Överföring",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "ob",
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 22 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/bearbetningar-hur-%C3%B6verf%C3%B6r-man-tidrapporter-och-reser%C3%A4kningar-till-l%C3%B6n",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Under\nBearbetningar\nfinns menyn\nÖverföring av tidrapporter till lön.\nObservera\nDu som använder HRM Payroll hämtar tidrapporterna från löneberedningen. Denna artikel rör endast de som har annat lönesys..."
+  },
+  {
+    "title": "⚙️Hur överförs information från tidrapporterna till lönesystemet?",
+    "file": "hur-overfors-information-fran-tidrapporterna-till-lonesystemet.md",
+    "slug": "hur-overfors-information-fran-tidrapporterna-till-lonesystemet",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "ob",
+      "schema",
+      "semester",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 3 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-%C3%B6verf%C3%B6rs-information-fr%C3%A5n-tidrapporterna-till-l%C3%B6nesystemet",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Information från tidrapporter till lön skickas på olika sätt beroende på mottagande lönesystem. Denna artikel berättar om hur man kan anpassa inställningar för överföring till lön i vyn för lönekoppli..."
+  },
+  {
+    "title": "⚙️Kan man överföra saldovärden till lön?",
+    "file": "kan-man-overfora-saldovarden-till-lon.md",
+    "slug": "kan-man-overfora-saldovarden-till-lon",
+    "category": "time",
+    "subcategory": "Lön & Överföring",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "saldo",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-man-%C3%B6verf%C3%B6ra-saldov%C3%A4rden-till-l%C3%B6n",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Saldovärden överförs till lön om du anger en löneart under\nInställningar > Saldon > Definiera saldon.\nFör periodbundna saldon, som närvaro, överförs alltid periodens värde. För rullande saldon, som in..."
+  },
+  {
+    "title": "⚙️Kan konteringar från tidrapporten följa med till lönesystemet?",
+    "file": "kan-konteringar-fran-tidrapporten-folja-med-till-lonesystemet.md",
+    "slug": "kan-konteringar-fran-tidrapporten-folja-med-till-lonesystemet",
+    "category": "time",
+    "subcategory": "Lön & Överföring",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-konteringar-fr%C3%A5n-tidrapporten-f%C3%B6lja-med-till-l%C3%B6nesystemet",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Under\nInställningar > Lön > Lönekoppling\nställer man in vilka konteringar (till exempel kostnadsställe eller projekt) som ska skickas till lönesystemet. Det handlar då om registrerad kontering från ti..."
+  },
+  {
+    "title": "⚙️Kan anställda få en påminnelse när deras semester är godkänd?",
+    "file": "kan-anstallda-fa-en-paminnelse-nar-deras-semester-ar-godkand.md",
+    "slug": "kan-anstallda-fa-en-paminnelse-nar-deras-semester-ar-godkand",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "semester"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-anst%C3%A4llda-f%C3%A5-en-p%C3%A5minnelse-n%C3%A4r-deras-semester-%C3%A4r-godk%C3%A4nd",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Artikeln innehåller information om de påminnelser som kan skickas vid frånvaroansökan.\nPåminnelsen\nFrånvaroansökan\nkan skickas när:\nEn anställd har ansökt om frånvaro.\nEn anställd har registrerat en f..."
+  },
+  {
+    "title": "⚙️Kan jag få ett meddelande om en anställd inte stämplat in?",
+    "file": "kan-jag-fa-ett-meddelande-om-en-anstalld-inte-stamplat-in.md",
+    "slug": "kan-jag-fa-ett-meddelande-om-en-anstalld-inte-stamplat-in",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "schema",
+      "stämpling"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-f%C3%A5-ett-meddelande-om-en-anst%C3%A4lld-inte-st%C3%A4mplat-in",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Beskrivning av påminnelsen för sen ankomst, med inställningar och exempel.\nFå påminnelser om sen ankomst\nDu kan få en notis och/eller ett e-postmeddelande om en anställd är schemalagd men inte har stä..."
+  },
+  {
+    "title": "⚙️Kan HRM Time skicka en påminnelse när alla periodens tidrapporter är redo att överföras till lön?",
+    "file": "kan-hrm-time-skicka-en-paminnelse-nar-alla-periodens-tidrapporter-ar-redo-att-overforas-till-lon.md",
+    "slug": "kan-hrm-time-skicka-en-paminnelse-nar-alla-periodens-tidrapporter-ar-redo-att-overforas-till-lon",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "lön",
+      "mobil",
+      "ob",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-hrm-time-skicka-en-p%C3%A5minnelse-n%C3%A4r-alla-periodens-tidrapporter-%C3%A4r-redo-att-%C3%B6verf%C3%B6ras-till-l%C3%B6n",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Artikeln informerar om påminnelsen \"Alla tidrapporter granskade\".\nMed hjälp av påminnelsen\nAlla tidrapporter granskade\nkan du få en påminnelse när alla tidrapporter som ska granskas har blivit granska..."
+  },
+  {
+    "title": "⚙️Kan jag få en påminnelse vid sammanhängande sjukfrånvaro?",
+    "file": "kan-jag-fa-en-paminnelse-vid-sammanhangande-sjukfranvaro.md",
+    "slug": "kan-jag-fa-en-paminnelse-vid-sammanhangande-sjukfranvaro",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-f%C3%A5-en-p%C3%A5minnelse-vid-sammanh%C3%A4ngande-sjukfr%C3%A5nvaro",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Beskrivning av påminnelsen för sammanhängande sjukfrånvaro, med inställningar och exempel.\nI HRM Time finns en funktion för att skicka ut påminnelser vid sammanhängande frånvaro. Den här påminnelsen k..."
+  },
+  {
+    "title": "Kan jag se information om mitt schema i mobilen?",
+    "file": "kan-jag-se-information-om-mitt-schema-i-mobilen.md",
+    "slug": "kan-jag-se-information-om-mitt-schema-i-mobilen",
+    "category": "time",
+    "subcategory": "Schema & Planering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "ob",
+      "schema",
+      "övertid"
+    ],
+    "date": "den 22 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-se-information-om-mitt-schema-i-mobilen",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "HRM Mobile - Mitt schema\nI\nHRM Mobile\nfinns vyn\nMitt schema.\nDär visas schemat veckovis. Du kan bläddra mellan veckor med pilarna eller klicka på veckonumret för att välja ett annat.\n![ikon Mitt schem..."
+  },
+  {
+    "title": "⚙️Hur ställer man in ett dagschema?",
+    "file": "hur-staller-man-in-ett-dagschema.md",
+    "slug": "hur-staller-man-in-ett-dagschema",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "schema",
+      "stämpling",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/schema-dagsschema-hur-st%C3%A4ller-man-in-ett-dagsschema",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "En förklaring av dagschemats inställningar.\nAtt bygga scheman i HRM\nAlla personer bör ha ett schema kopplat till sig. Det kan vara ett publikt eller ett personligt schema. Schemat kan innehålla tider ..."
+  },
+  {
+    "title": "⚙️Hur skapar man ett publikt schema?",
+    "file": "hur-skapar-man-ett-publikt-schema.md",
+    "slug": "hur-skapar-man-ett-publikt-schema",
+    "category": "time",
+    "subcategory": "Schema & Planering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "ob",
+      "schema"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-man-ett-publikt-schema",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur man skapar ett publikt schema, hur man kan förskjuta ett publikt schema och hur man schemalägger anställda på ett publikt schema.\nPublikt schema\nTilldela publikt schema\nFörskjut..."
+  },
+  {
+    "title": "⚙️Hur skapar man ett personligt schema?",
+    "file": "hur-skapar-man-ett-personligt-schema.md",
+    "slug": "hur-skapar-man-ett-personligt-schema",
+    "category": "time",
+    "subcategory": "Schema & Planering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "schema"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/schema-personligt-schema-hur-skapar-man-ett-personligt-schema",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Det finns två sätt att skapa ett personligt schema, genom fliken Anställning i Anställdaregistret eller i Grundschemavyn. Båda tillvägagångssätten beskrivs i följande artikel.\nI vissa fall önskar man ..."
+  },
+  {
+    "title": "⚙️Vad betyder schemastartdatum?",
+    "file": "vad-betyder-schemastartdatum.md",
+    "slug": "vad-betyder-schemastartdatum",
+    "category": "time",
+    "subcategory": "Schema & Planering",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "ob",
+      "schema"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/vad-betyder-schemastartdatum",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Artikeln förklarar med exempel begreppet \"Schemastartdatum\" som används i flerveckorsscheman.\nI\npublika och personliga scheman\nskapar man\ndelscheman/schemacykler\ndär man definierar hur schemat ska se ..."
+  },
+  {
+    "title": "⚙️Kan man ändra ett schema direkt i tidrapporten?",
+    "file": "kan-man-andra-ett-schema-direkt-i-tidrapporten.md",
+    "slug": "kan-man-andra-ett-schema-direkt-i-tidrapporten",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "ob",
+      "schema",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-man-%C3%A4ndra-ett-schema-direkt-i-tidrapporten",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Artikeln visar hur du ger anställda behörighet att ändra schema direkt i tidrapporten, samt hur du ställer in att en avvikelse ska genereras när schema ändras i tidrapporten.\nÄndra schema i tidrapport..."
+  },
+  {
+    "title": "⚙️Avvikelsedagar - Hur ställer man in schema för avvikande dagar?",
+    "file": "avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar.md",
+    "slug": "avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/avvikelsedagar-hur-st%C3%A4ller-man-in-avvikande-dagar",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Denna artikel förklarar inställningarna i vyn Avvikelsedagar\n![test bredd](images/avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar_82bcded6.png)\nAvvikelsedagar används för att\nställa in de..."
+  },
+  {
+    "title": "⚙️Hur importerar man ett schema till HRM Time?",
+    "file": "hur-importerar-man-ett-schema-till-hrm-time.md",
+    "slug": "hur-importerar-man-ett-schema-till-hrm-time",
+    "category": "time",
+    "subcategory": "Schema & Planering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "hrm-time",
+      "ob",
+      "schema",
+      "tidkod"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-importerar-man-ett-schema-till-hrm-time",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Om man önskar importera scheman till anställd från annat system till HRM Time så kan man använda importmallen \"Schema\"\nAllmänt Schemaimport\nDu importerar alltså schema per anställd och datum, vilket i..."
+  },
+  {
+    "title": "Kan jag se mina saldon i mobilen?",
+    "file": "kan-jag-se-mina-saldon-i-mobilen.md",
+    "slug": "kan-jag-se-mina-saldon-i-mobilen",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "saldo",
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 22 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-se-mina-saldon-i-mobilen",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "HRM Mobile - Tidsaldon\nI\nHRM Mobile\n, funktionen\nTidsaldon\nser du periodens summeringar. Samtliga periodsaldon som visas i tidrapporten i HRM visas också här. Du kan bläddra mellan perioder, eller kli..."
+  },
+  {
+    "title": "⚙️Hur ställer man in saldon?",
+    "file": "hur-staller-man-in-saldon.md",
+    "slug": "hur-staller-man-in-saldon",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "ob",
+      "saldo",
+      "schema",
+      "semester",
+      "stämpling",
+      "tidkod"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/saldon-hur-anpassar-och-visar-man-saldon",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Den här artikeln förklarar hur man definierar olika saldon i systemet, som närvaro, frånvaro och övertid.\nHär berättar vi om hur man skapar och ställer in saldon. Vill du veta mer om hur man anger vil..."
+  },
+  {
+    "title": "⚙️Hur ställer man in visning av saldon i tidrapporten och stämplingsterminaler?",
+    "file": "hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler.md",
+    "slug": "hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "ob",
+      "saldo",
+      "schema",
+      "semester",
+      "stämpling",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 29 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4ller-man-in-visning-av-saldo-i-tidrapporten-och-st%C3%A4mplingsterminer",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Under Layoutinställningar saldon kan man ställa in visning av saldon i tidrapporten och i HRM Timeclock. Det är även möjligt att anpassa vilka saldon som syns för olika tidgrupper.\nHär berättar vi om ..."
+  },
+  {
+    "title": "⚙️Saldotak/-golv - Hur sätter man gränser för saldovärden?",
+    "file": "saldotak-golv-hur-satter-man-granser-for-saldovarden.md",
+    "slug": "saldotak-golv-hur-satter-man-granser-for-saldovarden",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "saldo",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/saldotak/-golv-hur-s%C3%A4tter-man-gr%C3%A4nser-f%C3%B6r-saldov%C3%A4rden",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Saldotak/-golv\nanvänds för att sätta ett tak och/eller golv för saldon, och ange vad som ska hända om man går över taket/under golvet.\nDet går att ställa in saldotak/-golv på företags-, tidgrupps- ell..."
+  },
+  {
+    "title": "⚙️Hur fungerar fasta saldojusteringar?",
+    "file": "hur-fungerar-fasta-saldojusteringar.md",
+    "slug": "hur-fungerar-fasta-saldojusteringar",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "saldo",
+      "semester",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-fasta-saldojusteringar",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Fasta saldojusteringar\nkan användas för saldohändelser som ska påverka alla/en grupp av anställda. Det kan t.ex. handla om ett saldo som ska nollställas vid varje årsskifte.\n![Bild](images/hur-fungera..."
+  },
+  {
+    "title": "⚙️I vilken ordning körs händelser, saldotak/-golv och fasta saldojusteringar som påverkar samma saldon?",
+    "file": "i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-paverkar-samma-saldon.md",
+    "slug": "i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-paverkar-samma-saldon",
+    "category": "time",
+    "subcategory": "Saldon & Beräkning",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "ob",
+      "saldo",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/i-vilken-ordning-k%C3%B6rs-h%C3%A4ndelser-saldotak/-golv-och-fasta-saldojusteringar-som-p%C3%A5verkar-samma-saldon",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I HRM Time finns det en bestämd ordning för hur händelser, saldotak/-golv och fasta saldojusteringar körs, vilket är viktigt om de påverkar samma saldon. Ordningen ser ut så här:\nFasta saldojusteringa..."
+  },
+  {
+    "title": "Kan jag ta ut information om frånvaro i rapportgeneratorn?",
+    "file": "kan-jag-ta-ut-information-om-franvaro-i-rapportgeneratorn.md",
+    "slug": "kan-jag-ta-ut-information-om-franvaro-i-rapportgeneratorn",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema"
+    ],
+    "date": "den 6 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-ta-ut-information-om-fr%C3%A5nvaro-i-rapportgeneratorn-",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Du kan ta fram anpassade rapporter över alla typer av frånvaro i HRM Time med hjälp av datakällan Frånvaro i Rapportgeneratorn.\nMed datakällan\nFrånvaro\nkan du ta fram olika uppgifter för att få en tyd..."
+  },
+  {
+    "title": "Hur fungerar rapporten Projektuppföljning?",
+    "file": "hur-fungerar-rapporten-projektuppfoljning.md",
+    "slug": "hur-fungerar-rapporten-projektuppfoljning",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "ob",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-rapporten-projektuppf%C3%B6ljning",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Så bygger du upp rapporten\nGör urval och välj detaljnivå\nBehörighet för Projektuppföljning\nRapporten\nProjektuppföljning\nger dig möjlighet att följa upp dina projekt. Du kan bland annat se budgeterad, ..."
+  },
+  {
+    "title": "Kan jag skriva ut min tidrapport?",
+    "file": "kan-jag-skriva-ut-min-tidrapport.md",
+    "slug": "kan-jag-skriva-ut-min-tidrapport",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "ob",
+      "saldo",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-skriva-ut-min-tidrapport",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Månadsrapporten kan skrivas ut direkt från tidrapporten eller via vyn Rapporter.\nMånadsrapporten ger dig en översikt över de tider du har matat in under en månad.\n![Bild](images/kan-jag-skriva-ut-min-..."
+  },
+  {
+    "title": "⚙️Hur fungerar övertidsregelverk?",
+    "file": "hur-fungerar-overtidsregelverk.md",
+    "slug": "hur-fungerar-overtidsregelverk",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "mobil",
+      "ob",
+      "schema",
+      "stämpling",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-%C3%B6vertidsregelverk",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "En förklaring av inställningarna för övertidsregelverk och information om att tilldela anställda övertidsregelverk.\nStäll in ett övertidsregelverk\nFörklaring av tidkodinställningar\nTilldela övertidsre..."
+  },
+  {
+    "title": "⚙️Vilka inställningar behöver göras för övertidsbevakning?",
+    "file": "vilka-installningar-behover-goras-for-overtidsbevakning.md",
+    "slug": "vilka-installningar-behover-goras-for-overtidsbevakning",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "ob",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-beh%C3%B6ver-g%C3%B6ras-f%C3%B6r-%C3%B6vertidsbevakning",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Inställningar för panel på startsidan och för påminnelse vid uppnådd gräns.\nInställningar\nBehörighet\nPåminnelse\nMed övertidsbevakningen i Flex HRM kan du enkelt hålla koll på den anställdes övertid så..."
+  },
+  {
+    "title": "⚙️Hur ställer vi in övertidsbevakningen för tvåmånadersperioder?",
+    "file": "hur-staller-vi-in-overtidsbevakningen-for-tvamanadersperioder.md",
+    "slug": "hur-staller-vi-in-overtidsbevakningen-for-tvamanadersperioder",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4ller-vi-in-%C3%B6vertidsbevakningen-f%C3%B6r-tv%C3%A5m%C3%A5nadersperioder",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "O\nm du har avtal som reglerar övertidsuttag per tvåmånadersperiod kan du använda inställningarna för övertidsbevakning för att hantera detta. Flex HRM kan då bevaka två olika perioder samtidigt: en so..."
+  },
+  {
+    "title": "Varför faller sjuk-OB ut efter dag 14?",
+    "file": "varfor-faller-sjuk-ob-ut-efter-dag-14.md",
+    "slug": "varfor-faller-sjuk-ob-ut-efter-dag-14",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "explanation",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "ob",
+      "tidrapport"
+    ],
+    "date": "den 2 september 2025",
+    "url": "https://knowledge.flexapplications.se/varf%C3%B6r-faller-sjuk-ob-ut-efter-dag-14",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Denna artikel förklarar varför det i tidrapporten kan se ut som att man fått för mycket sjuk-OB.\nEn inställning som kan göras per anställd, tidgrupp eller för hela företaget styr vilka dagar i en sjuk..."
+  },
+  {
+    "title": "⚙️Hur ställer jag in regler för sjuk-OB?",
+    "file": "hur-staller-jag-in-regler-for-sjuk-ob.md",
+    "slug": "hur-staller-jag-in-regler-for-sjuk-ob",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "ob",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4ller-jag-in-regler-f%C3%B6r-sjuk-ob",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Sjuk-OB används när OB-regler ska gälla vid sjukfrånvaro. För att detta ska fungera behöver du ställa in särskilda tidkoder och regler i systemet.\nSkapa tidkoder för sjuk-OB\nLägg upp regler för sjuk-O..."
+  },
+  {
+    "title": "⚙️Hur fungerar OB-regelverk?",
+    "file": "hur-fungerar-ob-regelverk.md",
+    "slug": "hur-fungerar-ob-regelverk",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "ob",
+      "schema",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-ob-regelverk",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "En förklaring av inställningarna för OB-regelverk och information om att tilldela anställda OB-regelverk.\nSkapa OB-regelverk\nDagtyper\nTidkodinställningar\nTilldela OB-regelverk till anställda\nOB-regelv..."
+  },
+  {
+    "title": "Hur visas beredskap i tidrapporten?",
+    "file": "hur-visas-beredskap-i-tidrapporten.md",
+    "slug": "hur-visas-beredskap-i-tidrapporten",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "beredskap",
+      "schema",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 15 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-visas-beredskap-i-tidrapporten",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Du kan i tidrapportens kolumn\nDaginformation\nse information om ditt beredskapsschema.\nBilde\nn nedan visar en dag med bere\ndskap hela dygnet, en dag med beredskap fram till kl 6 på morgonen och en dag ..."
+  },
+  {
+    "title": "⚙️Hur fungerar beredskapsregelverk?",
+    "file": "hur-fungerar-beredskapsregelverk.md",
+    "slug": "hur-fungerar-beredskapsregelverk",
+    "category": "time",
+    "subcategory": "Övertid & Ersättning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "beredskap",
+      "ob",
+      "schema",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 21 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-beredskapsregelverk",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Artikeln informerar om att skapa regelverk för beredskap, hur man schemalägger anställda på beredskapsscheman och visar med exempel hur beredskap faller ut i tidrapporten.\nRegelverk\nTilldela regelverk..."
+  },
+  {
+    "title": "⚙️Kan beredskap på ledig dag gälla även för dagen före och dagen efter ledig dag?",
+    "file": "kan-beredskap-pa-ledig-dag-galla-aven-for-dagen-fore-och-dagen-efter-ledig-dag.md",
+    "slug": "kan-beredskap-pa-ledig-dag-galla-aven-for-dagen-fore-och-dagen-efter-ledig-dag",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "beredskap",
+      "schema",
+      "tidkod"
+    ],
+    "date": "den 30 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/kan-beredskap-p%C3%A5-ledig-dag-g%C3%A4lla-%C3%A4ven-f%C3%B6r-dagen-f%C3%B6re-och-dagen-efter-ledig-dag",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I Flex HRM finns det en inställning i beredskapsregelverket för att en tidkodsinställning endast ska gälla på ledig dag. Om beredskap ska falla ut med en särskild ersättning även kvällen innan och mor..."
+  },
+  {
+    "title": "Hur använder jag Min kalender på startsidan?",
+    "file": "hur-anvander-jag-min-kalender-pa-startsidan.md",
+    "slug": "hur-anvander-jag-min-kalender-pa-startsidan",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema"
+    ],
+    "date": "den 5 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-anv%C3%A4nder-jag-min-kalender-p%C3%A5-startsidan",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "På startsidan ser du en panel som heter Min kalender. Här får du en snabb överblick över din arbetstid och eventuell frånvaro.\n![Bild](images/hur-anvander-jag-min-kalender-pa-startsidan_9f93d37a.png)\n..."
+  },
+  {
+    "title": "Hur fungerar Närvarotablån på startsidan?",
+    "file": "hur-fungerar-narvarotablan-pa-startsidan.md",
+    "slug": "hur-fungerar-narvarotablan-pa-startsidan",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "mobil",
+      "ob",
+      "schema",
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-n%C3%A4rvarotabl%C3%A5n-p%C3%A5-startsidan-",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Närvarotablån i HRM Time\nOm HRM Time ingår i din licens får du tillgång till en närvarotablå som ger en översikt över aktuell status för samtliga anställda. Här kan du enkelt se om en anställd:\nEj har..."
+  },
+  {
+    "title": "Hur fungerar panelen Övertidsbevakning?",
+    "file": "hur-fungerar-panelen-overtidsbevakning.md",
+    "slug": "hur-fungerar-panelen-overtidsbevakning",
+    "category": "time",
+    "subcategory": "Övertid & Ersättning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "övertid"
+    ],
+    "date": "den 8 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-%C3%B6vertidsbevakning",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Med övertidsbevakningen i Flex HRM kan du enkelt hålla koll på den anställdes övertid så att du inte beordrar mer övertid än vad som är tillåtet. Vanligt är att den anställde kan arbeta maximalt 50 ti..."
+  },
+  {
+    "title": "⚙️Hur använder man Händelser i HRM Time?",
+    "file": "hur-anvander-man-handelser-i-hrm-time.md",
+    "slug": "hur-anvander-man-handelser-i-hrm-time",
+    "category": "time",
+    "subcategory": "Saldon & Beräkning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "hrm-time",
+      "ob",
+      "saldo",
+      "schema",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-anv%C3%A4nder-man-h%C3%A4ndelser-i-hrm-time",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Generell information om att skapa händelser i HRM Time.\nInställningar, behörighet, avvikelse på händelse, exempel.\nPopup Händelser\nBehörighet\nGör avvikelse på händelse\nExempel\nHändelser byggs av forml..."
+  },
+  {
+    "title": "⚙️HRM Time: Vad är Generella händelseformler?",
+    "file": "hrm-time-vad-ar-generella-handelseformler.md",
+    "slug": "hrm-time-vad-ar-generella-handelseformler",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "concept",
+    "difficulty": "advanced",
+    "tags": [
+      "hrm-time",
+      "ob",
+      "schema",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hrm-time-vad-%C3%A4r-generella-h%C3%A4ndelseformler",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Generella händelseformler kan användas för händelser på olika nivåer.\nHändelser byggs av formler och används för att utifrån vissa förutsättningar generera tidkoder eller ersättningskoder i tidrapport..."
+  },
+  {
+    "title": "Hur används funktionen Frisläpp till fakturering i HRM Time?",
+    "file": "hur-anvands-funktionen-frislapp-till-fakturering-i-hrm-time.md",
+    "slug": "hur-anvands-funktionen-frislapp-till-fakturering-i-hrm-time",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-hrm-time",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I denna funktion frisläpps de tider i tidrapporterna som är markerade som fakturerbara. Därmed låses tidrapporterna och ett fakturaunderlag skapas.\nAdministration > Bearbetningar > Frisläpp till faktu..."
+  },
+  {
+    "title": "⚙️Hur fungerar Faktureringslogiken i HRM Time?",
+    "file": "hur-fungerar-faktureringslogiken-i-hrm-time.md",
+    "slug": "hur-fungerar-faktureringslogiken-i-hrm-time",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-faktureringslogiken-i-hrm-time",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Hur fungerar funktureringslogiken i HRM Time avseende inställningarna Ja, Ja, Alltid, Nej, Nej Aldrig.\nFaktureringslogik per tidrad:\n1. Om inga konteringar finns registrerade ska fakturering aldrig sk..."
+  },
+  {
+    "title": "⚙️Hur aktiverar jag funktionen \"Fakturering\" i HRM Time?",
+    "file": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-time.md",
+    "slug": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-time",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "hrm-time",
+      "mobil",
+      "ob",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering",
+    "isConfig": true,
+    "imageCount": 15,
+    "hasImages": true,
+    "excerpt": "Funktionen “Fakturering” eller “Frisläpp till fakturering” används antingen för att få ut faktureringsunderlag för att fakturera kunder direkt alternativt få ut arbetade timmar per konteringar för upp..."
+  },
+  {
+    "title": "Omräkning av tidrapporter - Hur kan ändringar få genomslag i granskade tidrapporter?",
+    "file": "omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporter.md",
+    "slug": "omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporter",
+    "category": "time",
+    "subcategory": "Övertid & Ersättning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "ob",
+      "schema",
+      "stämpling",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 18 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/omr%C3%A4kning-av-tidrapporter-hur-kan-%C3%A4ndringar-f%C3%A5-genomslag-i-granskade-tidrapporter",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Granskade tidrapporter kan räknas om för att ta del av ändrade inställningar.\nHar du gjort en ändring i inställningarna, kanske i ett övertidsregelverk eller hemkonteringar, och vill att det ska få ge..."
+  },
+  {
+    "title": "Hur tar jag bort en tidrapport?",
+    "file": "hur-tar-jag-bort-en-tidrapport.md",
+    "slug": "hur-tar-jag-bort-en-tidrapport",
+    "category": "time",
+    "subcategory": "Lön & Överföring",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "lön",
+      "ob",
+      "schema",
+      "tidrapport"
+    ],
+    "date": "den 19 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-tar-jag-bort-en-tidrapport",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I tidrapporten kan du använda\nRensa dag/Rensa period\nför att ta bort de manuella ändringar som gjorts i tidrapporten.\nVill du rensa ett större urval av tidrapporter kan du använda funktionen\nBorttag a..."
+  },
+  {
+    "title": "Vilka funktioner i HRM Time fungerar med modulen Koncern?",
+    "file": "vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern.md",
+    "slug": "vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern",
+    "category": "time",
+    "subcategory": "Frånvaro & Semester",
+    "type": "explanation",
+    "difficulty": "advanced",
+    "tags": [
+      "attestering",
+      "frånvaro",
+      "hrm-time",
+      "övertid"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i HRM Time\nVad ingår i koncernhanteringen?\nDashboard:\nSjukfrånvaro\nStartsida\n: Närvarotablå, ..."
+  },
+  {
+    "title": "⚙️Hur justerar man avvikande dagar i regelverk i HRM Time?",
+    "file": "hur-justerar-man-avvikande-dagar-i-regelverk-i-hrm-time.md",
+    "slug": "hur-justerar-man-avvikande-dagar-i-regelverk-i-hrm-time",
+    "category": "time",
+    "subcategory": "Övertid & Ersättning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "beredskap",
+      "hrm-time",
+      "ob",
+      "tidkod",
+      "övertid"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/avvikande-dagar-hur-justerar-man-avvikande-dagar-i-regelverk-i-hrm-time",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Avvikande dagar i regelverk för OB, övertid och beredskap behöver kontrolleras och ibland justeras från det ena året till det andra. Nedan visas med exempel hur avvikande dagar fungerar.\nTidregelverk\n..."
+  },
+  {
+    "title": "⚙️Tidkodsavrundning - Varför avrundas rapporterad tid?",
+    "file": "tidkodsavrundning-varfor-avrundas-rapporterad-tid.md",
+    "slug": "tidkodsavrundning-varfor-avrundas-rapporterad-tid",
+    "category": "time",
+    "subcategory": "Övertid & Ersättning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "ob",
+      "saldo",
+      "tidkod",
+      "tidrapport",
+      "övertid"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/tidkodsavrundning-varf%C3%B6r-avrundas-min-rapporterade-tid-i-saldot",
+    "isConfig": true,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "Tidkodsavrundning används för att avrunda registrering av vissa tidkoder. Det handlar ofta om övertid som ska avrundas till jämna halvtimmar.\nDenna artikel förklarar vad inställningarna i vyn tidkodsa..."
+  },
+  {
+    "title": "⚙️Ersättningar - Hur hanterar man ej timbaserade ersättningar i HRM Time?",
+    "file": "ersattningar-hur-hanterar-man-ej-timbaserade-ersattningar-i-hrm-time.md",
+    "slug": "ersattningar-hur-hanterar-man-ej-timbaserade-ersattningar-i-hrm-time",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "lön",
+      "schema",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/ers%C3%A4ttningar-hur-hanterar-man-ej-timbaserade-ers%C3%A4ttningar-i-hrm-time",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Ersättningar används istället för tidkoder om man vill ha ersättningar med i systemet som inte styrs via timmar. Det kan t.ex. vara utryckningstillägg för snö eller extra tillägg vid sen förändring av..."
+  }
 ]

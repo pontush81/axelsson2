@@ -2,6 +2,11 @@
 
 **Datum:** den 11 september 2025  
 **Kategori:** Employee  
+**Underkategori:** Integration  
+**Typ:** other  
+**Svårighetsgrad:** advanced  
+**Tags:** Ingen  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/fragor-och-svar-winningtemp-paneler-0
 
 ---
@@ -28,6 +33,8 @@ Detta beror på att panelen i HRM alltid visar hel månad. I Winningtemp finns 
 Bilderna nedan visar hur du hittar
 Resultat & analys - Heatmap-analys - Senaste hela månaden
 i Winningtemp.
+![Bild](images/fragor-och-svar-winningtemp-hrm_2d668e0a.png)
+![Bild](images/fragor-och-svar-winningtemp-hrm_df2f9e50.png)
 Relaterade artiklar
 ⚙️Exempel på Winningtemp-paneler i HRM Dashboard
 ⚙️Skapa Dashboard i HRM med Winningtemp-paneler

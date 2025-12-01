@@ -2,6 +2,11 @@
 
 **Datum:** den 15 oktober 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** användare, behörighet, hrm-time, roll  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/hur-loggar-jag-in-i-hrm-timeclock
 
 ---

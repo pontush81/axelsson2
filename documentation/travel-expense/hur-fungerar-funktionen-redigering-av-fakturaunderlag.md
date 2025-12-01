@@ -2,6 +2,11 @@
 
 **Datum:** den 2 oktober 2025  
 **Kategori:** Travel & Expense  
+**Underkategori:** Inställningar  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** bil  
+**Bilder:** 3  
 **URL:** https://knowledge.flexapplications.se/hur-fungerar-funktionen-redigering-av-fakturaunderlag-
 
 ---
@@ -11,12 +16,15 @@ Redigering av fakturaunderlag
 Fakturaunderlag kan redigeras och godkännas i HRM innan det förs över till ditt ekonomisystem.
 Aktivera “Redigering av fakturaunderlag”
 Under Administration – Allmänt – Roller ställer du in vilka roller som ska ha behörighet till vyn “Redigering av fakturaunderlag” som ligger under Bearbetningar.
+![Bild](images/hur-fungerar-funktionen-redigering-av-fakturaunderlag_40f3ee82.png)
 Godkännande av fakturaunderlag
 Aktivera “Godkännande av fakturaunderlag”
 Under Administration – Inställningar – Allmänt – Fakturering kan du välja om du vill använda godkännande av fakturaunderlag. Det innebär att t.ex. en projektledare eller kundansvarig kan godkänna fakturaunderlagsraderna innan de exporteras till ekonomisystemet. Behörighet krävs till menyn “Redigering av fakturaunderlag”
 Inställningar - Allmänt - Fakturering
+![Bild](images/hur-fungerar-funktionen-redigering-av-fakturaunderlag_c442053b.png)
 “Redigering och godkännande av fakturaunderlag”
 Vyn Redigering och godkännande av fakturaunderlag ser ut såhär:
+![Bild](images/hur-fungerar-funktionen-redigering-av-fakturaunderlag_5690de08.png)
 Här visas alla de rader i fakturaunderlaget som blivit frisläppta per fakturadatum och kund. Du kan göra eventuella korrigeringar och godkänna raderna (om den funktionen används).
 Kolumner som visas i vyn
 Vilka kolumner som ska visas i redigeringsvyn och ordningen på dem ställer du in under Administration – Inställningar – Allmänt – Fakturering.

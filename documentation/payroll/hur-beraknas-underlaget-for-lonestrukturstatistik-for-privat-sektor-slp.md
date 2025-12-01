@@ -2,6 +2,11 @@
 
 **Datum:** den 7 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Löneberedning  
+**Typ:** howto  
+**Svårighetsgrad:** advanced  
+**Tags:** lön, löneart, semester  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/hur-skapas-underlaget-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp
 
 ---

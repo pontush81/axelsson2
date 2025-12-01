@@ -2,6 +2,11 @@
 
 **Datum:** den 19 augusti 2025  
 **Kategori:** Time  
+**Underkategori:** Övertid & Ersättning  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** frånvaro, mobil, ob, stämpling, tidrapport, övertid  
+**Bilder:** 3  
 **URL:** https://knowledge.flexapplications.se/hur-st%C3%A4mplar-man-sin-tid-i-mobilen
 
 ---
@@ -14,6 +19,8 @@ Stämpling
 hittar du funktioner för stämpling.
 Observera
 att olika val kan finnas tillgängliga beroende på era inställningar.
+![Ikon Stämpling.](images/hur-stamplar-man-sin-tid-i-mobilen_cac51301.jpg)
+![Vyn Stämpling i HRM Mobile. Visar en klocka, status Inne, knappar In/ut, Frånvaro ut, Frånvaro in, Frånvaro aktuell dag, Övertid in/ut, Byt kontering.](images/hur-stamplar-man-sin-tid-i-mobilen_2d8c3273.jpg)
 In/ut
 Används för att stämpla ankomst, rast och hemgång. Information om status efter stämpling visas längst upp.
 Frånvaro ut
@@ -29,6 +36,7 @@ Frånvaro aktuell dag
 Används när du stämplar ut med frånvaro för resten av dagen.
 Övertid in/ut
 Med denna funktion stämplar du antingen ankomst eller hemgång samt anger vilken typ av övertidsersättning som ska falla ut.
+![Klickar på Övertid in/ut, väljer övertidsmarkering Betald, stämpling bekräftas.](images/hur-stamplar-man-sin-tid-i-mobilen_2269ce9a.png)
 Byt kontering
 Klicka på den konteringsdimension du vill byta. Vet du t.ex. vad projektet heter, kan du skriva i en sökruta, och möjliga träffar listas i sökresultatet. Vill du välja från konteringsregistret istället för att söka hittar du menyn
 Register

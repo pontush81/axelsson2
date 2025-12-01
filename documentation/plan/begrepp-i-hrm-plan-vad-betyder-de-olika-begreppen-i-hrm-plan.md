@@ -2,6 +2,11 @@
 
 **Datum:** den 14 oktober 2025  
 **Kategori:** Plan  
+**Underkategori:** Schemaläggning  
+**Typ:** concept  
+**Svårighetsgrad:** beginner  
+**Tags:** schema  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/begrepp-i-hrm-plan-vad-betyder-de-olika-begreppen-i-hrm-plan
 
 ---

@@ -2,12 +2,18 @@
 
 **Datum:** den 2 oktober 2025  
 **Kategori:** Travel & Expense  
+**Underkategori:** Inställningar  
+**Typ:** concept  
+**Svårighetsgrad:** beginner  
+**Tags:** bil  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/restid-vad-betyder-de-olika-alternativen-i-inst%C3%A4llningarna-i-restid
 
 ---
 
 Info Restid
 Vad är skillnaden på “Schema i HRM” och “Tidrapport”?
+![Bild](images/vad-betyder-de-olika-alternativen-i-installningarna-i-restid_45ce4c5f.png)
 Schema i HRM
 - betyder att oavsett hur jag registrerat arbetstid i min tidrapport så föreslås mina planerade arbetstider.
 Exempelvis om jag är schemalagd 8-17 och har registrerat arbetstid 7.30 - 17.05 så utgår min restid ändå från 8-17.
@@ -15,6 +21,7 @@ Tidrapport
 - betyder att systemet utgår från de faktiskt registrerade arbetstiderna i tidrapporten.
 Exempelvis om jag är schemalagd 8-17 men har registrerat arbetstid 7.30 - 17.05 så utgår min restid från 7.30-17.05 istället för 8-17
 Vad betyder “Uppdelning utifrån schema i HRM”?
+![Bild](images/vad-betyder-de-olika-alternativen-i-installningarna-i-restid_42b84fd5.png)
 Uppdelningen mellan löneart för arbetsdag och löneart för ledig dag görs enligt schema i HRM Time. Detta är användbart om en anställd tillfälligt arbetar på en ledig dag och då ska få restidsersättning för restid på ledig dag.
 Vad betyder “Ej schemalagd vardag fördelas alltid som helg”
 Det innebär att om jag registrerar restid på en ledig ej schemalagd vardag så får jag ändå helgersättning.

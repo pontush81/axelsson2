@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Time  
+**Underkategori:** Inställningar  
+**Typ:** concept  
+**Svårighetsgrad:** advanced  
+**Tags:** frånvaro, saldo, schema, tidkod  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/tidgrupper-hur-st%C3%A4ller-man-in-tidgrupper
 
 ---

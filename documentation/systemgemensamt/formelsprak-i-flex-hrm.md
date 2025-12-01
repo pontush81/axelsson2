@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** användare, roll  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/formelspr%C3%A5k-i-flex-hrm
 
 ---
@@ -47,6 +52,7 @@ I systemet finns ett antal funktioner som kan användas för att hämta informat
 För att se vilka funktioner som är tillgängliga för det aktuella området, klicka på knappen ”Formelfunktioner” bredvid editorn.
 Funktioner används enligt följande struktur:
 Funktionsnamn(argument1; argument2)
+![Bild](images/formelsprak-i-flex-hrm_8e409613.png)
 Jämförelseoperatorer
 Det finns möjlighet att jämföra variabler i HRM enligt följande:
 == Lika med

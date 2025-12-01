@@ -2,6 +2,11 @@
 
 **Datum:** den 5 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Mobil  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** Ingen  
+**Bilder:** 3  
 **URL:** https://knowledge.flexapplications.se/hur-fungerar-p%C3%A5minnelser-p%C3%A5-startsidan
 
 ---
@@ -18,9 +23,12 @@ Du kan klicka på en påminnelse för att se detaljer. Vissa uppgifter, som att 
 För påminnelser med en informationsikon i hörnet: Klicka på
 i
 för att se detaljer, klicka på påminnelsen för att komma till vyn.
+![Bild](images/hur-fungerar-paminnelser-pa-startsidan_f33cd821.png)
 Markera som hanterad
 Vissa påminnelser behöver inte hanteras i systemet utan är bara en upplysning. Om du vill att en sådan påminnelse ska sluta visas kan du markera den som hanterad. Klicka på bocken längst ut till höger om påminnelsen för att dölja den.
+![Bild](images/hur-fungerar-paminnelser-pa-startsidan_545fe550.png)
 Påminnelser med deadline
 Påminnelser som är kopplade till en deadline, som till exempel
 Klarmarkering av tidrapport
 , visar hur lång tid det är kvar till deadline. Om du håller muspekaren över notisen kan du se den exakta tiden för när deadline går ut.
+![Bild](images/hur-fungerar-paminnelser-pa-startsidan_adbc605b.png)

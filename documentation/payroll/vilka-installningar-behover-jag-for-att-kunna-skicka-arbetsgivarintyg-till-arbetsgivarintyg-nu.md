@@ -2,6 +2,11 @@
 
 **Datum:** den 2 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Inställningar  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** lön, löneart, semester  
+**Bilder:** 10  
 **URL:** https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg.nu
 
 ---
@@ -19,31 +24,38 @@ Programlänk till Arbetsgivarintyg.nu
 Det första som behöver göras är att skapa en programlänk som kopplar företaget i Flex HRM till rätt företag i arbetsgivarintyg.nu. Detta gör du genom att skapa en ny programlänk via
 Administration > Inställningar > Import/export > Programlänkar
 .
+![Bilden visar fälten man kan fylla i för att aktivera programlänken till arbetsgivarintyg.nu.](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_11ed8072.png)
 Under valet
 Skicka arbetsgivarintyg
 till kan du välja om du vill skicka till Testmiljö eller Produktionsmiljö som Arbetsgivarintyg.nu tillhandahåller.
 Du behöver också ange API-nyckel samt Arbetsgivarid för att koppla till rätt företag på Arbetsgivarintyg.nu. Du hittar dessa uppgifter under företagsuppgifterna när du är inloggad på Arbetsgivarintyg.nu.
+![Exempelbild på hur man ser integrationsuppgifterna på arbetsgivarintyg.nu.](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_9fc843af.png)
 Integration
 Du behöver se till att det finns en aktiv integration till Arbetsgivarintyg.nu. Detta gör du via
 Administration > Systemregister > Integrationer
 .
+![Bild på en aktiv integration mot arbetsgivarintyg.nu.](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_bd5c6c91.png)
 Anställningsformer
 För att arbetsgivarintyg ska kunna sammanställas på ett korrekt sätt måste anställningsformerna vara korrekt typade. Detta gör du under
 Administration > Inställningar > Personal > Anställningsformer
 .
+![Bilden visar en anställningsform där det finns ett fält för Typ, där man kan välja från en lista av olika typer av anställningar. ](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_dc0dbe8b.png)
 Har den anställde haft flera anställningsperioder som ligger i direkt följd och har samma typ av anställningsform kommer de slås ihop i arbetsgivarintyget. Provanställning och tillsvidareanställning räknas som samma anställningsform.
 Avgångsorsaker
 För att uppgifter om anledning till att en anställning har upphört ska kunna tas fram korrekt behöver man lägga in slutdatum och avgångsorsak på anställningsperioden. Avgångsorsaken måste också vara markerad med vilken avgångsorsak denna ska redovisas som i arbetsgivarintyget. Detta gör du via
 Administration > Inställningar >Personal > Avgångsorsaker
 .
+![Bilden visar lista på olika avgångsorsaker i arbetsgivarintyget som du kan välja för en avgångsorsak.](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_773c8a63.png)
 Tidkoder
 Om du använder Flex HRM Time och väljer att hämta information om arbetad tid och frånvaro från tidrapporterna måste du ange vilka tidkoder som avser arbetad tid, frånvaro, övertid samt mertid. Detta gör du under
 Administration > Inställningar > Tid och bemanning > Tidkoder > fliken Lön
 .
+![Bilden visar fliken Lön på en tidkod, där man i en lista kan välja hur tidkoden ska summeras i arbetsgivarintyget..](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_0c0abc37.png)
 Obs!
 Tänk på att betald ledighet, såsom semester och permission, ska räknas som arbetad tid.
 Observera även att deltidsfrånvaro räknas som frånvaro eller arbetad tid enligt inställning på frånvaroorsaken.
 Löneartsinställningar
+![Bilden inställning på en löneart i löneartsregistret, under fliken Lön, där man kan välja vilken typ av ersättning den ska vara för arbetsgivarintyget.](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_e8ed4726.png)
 I arbetsgivarintyget ska man redovisa vissa ersättningar och lönetillägg utöver fast lön. För att göra detta anger du per löneart vilken typ av ersättning denna ska räknas som. Inställningen hittar du på fliken
 Lön
 i löneartsregistret.
@@ -66,6 +78,7 @@ Lönetillägg
 Endast belopp redovisas.
 När ersättningar summeras från lönetransaktioner kommer de räknas tillhöra den månad som transaktionens datum gäller. Anger man inget datum på transaktionen räknas den tillhöra lönekörningens avvikelseperiod.
 Om du väljer att arbetad tid ska hämtas från schema eller från lönetransaktioner behöver du också ange vilka lönearter som ska räknas som Övertid och Mertid. Hämtar du arbetad tid från lönetransaktioner måste du också ange vilka lönearter som ska räknas som Arbetad tid. Observera att frånvaro som ska räknas som arbetad tid inte ska markeras som arbetad tid på lönearten. Denna tid hämtas via frånvaroorsakens inställning från kalendariet.
+![Bild](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_c2aa55d8.png)
 När arbetad tid, övertid och mertid summeras från lönetransaktioner kommer de räknas tillhöra den månad som transaktionens datum gäller. Anger man inget datum på transaktionen räknas den tillhöra lönekörningens avvikelseperiod.
 Frånvaroorsaker
 Vid beräkning av ersättning för a-kassan räknas frånvaro med bibehållen lön, såsom semester och permission, som arbetad tid. För att rapporteringen ska bli korrekt när arbetad tid hämtas från schema, från lönetransaktioner eller från tidrapporten (gäller deltidsfrånvaro) måste man ange vilka frånvaroorsaker som ska räknas som närvaro. Detta gör du på fliken
@@ -73,12 +86,14 @@ Lön
 via
 Administration > Inställningar > Tid och bemanning > Frånvaroorsaker.
 .
+![Bild](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_d4fcc136.png)
 Avvikelsedagar – röda dagar
 För den som har en fastställd arbetstid och har månadslön räknas arbetsfria ”röda dagar” och ”klämdagar” som arbete, om löneavdrag inte görs för ledigheten. För att hantera detta behöver man ange vilka avvikelsedagar som ska räknas som ”röda dagar” i arbetsgivarintyget under
 Avvikelsedagar
 som du hittar under
 Administration > Inställningar > Tid och bemanning > Scheman > Avvikelsedagar
 .
+![Bilden visar översikten för avvikelsedagar med kolumnen "Röd dag arbg-intyg" markerad för att visa var man kan ställa in röda dagar för arbetsgivarintyget.](images/vilka-installningar-behover-jag-for-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg-nu_52cc59c8.png)
 Om du har olika grupper av personal och inte alla omfattas av reglerna för röda dagar behöver du ange per tidgrupp vilka som ska räknas som röda dagar genom att lägga upp flera rader med olika inställningar.
 En dag som är markerad som röd dag kommer räknas som arbetad tid motsvarande hur schemat skulle se ut om det inte hade varit en avvikelsedag.
 Exempel 1: Långfredag

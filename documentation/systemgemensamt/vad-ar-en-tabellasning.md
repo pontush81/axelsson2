@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** concept  
+**Svårighetsgrad:** beginner  
+**Tags:** användare  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-en-tabell%C3%A5sning
 
 ---
@@ -14,6 +19,7 @@ Var hittar jag tabellåsningar?
 Du kan se vilka funktioner och rader som är låsta av olika användare under
 Allmänt > Tabellåsningar
 .
+![Bild](images/vad-ar-en-tabellasning_244b0017.png)
 I vyn visas följande information:
 Användare
 – Användarens inloggnings-id.
@@ -42,3 +48,4 @@ Kan gamla tabellåsningar tas bort automatiskt?
 Ja, för att undvika onödiga låsningar kan du ställa in en regelbunden rensning. Under
 Allmänt > Schemalagda körningar
 kan du konfigurera en automatisk körning som till exempel tar bort låsningar som är äldre än 24 timmar. I exemplet nedan ska rensningen göras dagligen kl 05:00.
+![Bild](images/vad-ar-en-tabellasning_d8bf28de.png)

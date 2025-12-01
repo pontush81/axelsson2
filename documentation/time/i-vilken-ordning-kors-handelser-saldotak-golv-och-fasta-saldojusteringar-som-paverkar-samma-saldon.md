@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Time  
+**Underkategori:** Saldon & Beräkning  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** ob, saldo, tidrapport  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/i-vilken-ordning-k%C3%B6rs-h%C3%A4ndelser-saldotak/-golv-och-fasta-saldojusteringar-som-p%C3%A5verkar-samma-saldon
 
 ---

@@ -1,7 +1,12 @@
 # Hur rapporterar jag pension till Fora månadsvis i Flex HRM Payroll?
 
-**Datum:** den 26 september 2025  
+**Datum:** den 11 november 2025  
 **Kategori:** Payroll  
+**Underkategori:** Löneberedning  
+**Typ:** howto  
+**Svårighetsgrad:** advanced  
+**Tags:** lön, löneart, pension  
+**Bilder:** 15  
 **URL:** https://knowledge.flexapplications.se/hur-rapporterar-jag-pension-till-fora-m%C3%A5nadsvis-i-hrm-payroll
 
 ---
@@ -30,12 +35,15 @@ Löpande arbete för rapportering till Fora
 Varje månad ska man rapportera löneunderlag för arbetare till Fora. Uppgifterna redovisas på individnivå, och består i huvudsak av pensionsgrundande lön samt en uppmärkning som talar om vilket kollektivavtal den anställde omfattas av. Detta gör du i Flex HRM Payroll under Lön – Pension.
 Skapa underlag
 Första steget i rapporteringen är att skapa ett underlag för månadens rapportering. Detta gör du genom att välja Rapportering till Fora och därefter klicka på knappen Ny i knappraden.
+![Bilden visar knappen "Ny" som skapar nytt underlag.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_f520d077.png)
 Du väljer här redovisningstyp månad samt vilken månad du vill rapportera löneunderlag för. Du kan också välja att göra urval på anställda om du skulle vilja.
+![Bilden visar popup-ruta där urval för redovisningstyp samt datum är markerade.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_bdb2333b.png)
 När du klickar på knappen
 Skapa
 påbörjas arbetet med att skapa underlag. När underlaget är skapat ser du underlaget med statusen satt som
 Preliminär
 i vyn.
+![Bilden visar översikten av ett skapat Fora-underlag med statusen "Preliminär" markerad.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_7426a0bf.png)
 Komplettera och ta bort underlag
 Om du hittat ett fel i underlaget kan du beräkna om underlaget för alla eller ett urval av anställda genom att klicka på knappen
 Komplettera
@@ -46,20 +54,26 @@ Ta bort
 Kontrollera underlaget
 Nästa steg är att kontrollera underlaget innan du skickar in uppgifterna till Fora. Detta gör du genom att granska underlaget i vyn.
 Överst i vyn väljer du vilken rapportering (om du har fler än Fora) samt vilken redovisningsperiod du vill titta på. Tidigare redovisningar finns kvar och är enkelt tillgängliga.
+![Bilden visar vilken pensionsrapportering man valt samt redovisningsperiod.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_3bcc9ef7.png)
 I listan visas underlaget för alla arbetare som sammanställts och som kommer med i filen till Fora. Ovanför listan finns ett sökfält där du kan söka på olika uppgifter, såsom namn och personnummer.
+![Bilden visar översikten för Fora-underlaget.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_d6c5bf4f.png)
 Först på varje rad ser du en status som ger en indikation på om något är fel eller borde tittas närmare på. Här får du t.ex. en varning om en anställd saknar personnummer eller samordningsnummer, samt om den anställde saknar uppmärkning trots att det finns en anställning. Om systemet inte hittar några avvikelser visas en grön boll. Detta betyder dock inte att alla uppgifter i underlaget är korrekta, bara att ingen varning har registrerats.
 I kolumnen för
 Varav hänförlig lön
 kan du klicka i fältet för att se detaljer om vilka månader som den hänförliga lönen kommer fördelas på. Läs mer om hur hänförlig lön beräknas i avsnittet för
 fördjupad information om hur underlag skapas
 .
+![Bilden visar detaljuppgifter för hänförlig lön.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_71658468.png)
 Om den anställde har haft fler uppmärkningar under rapporteringsmånaden visas en siffra inom parentes i kolumnen för uppmärkningskoden. Genom att klicka på den anställdes uppmärkningskod kan du se alla de uppmärkningar som rapporteras för den anställde. Här ser du också de tillval som rapporteras.
+![Bilden visar samtliga uppmärkningskoder under rapporteringsmånaden för vald anställd.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_bce0dd84.png)
 När underlaget är granskat markerar du underlaget som kontrollerat genom att klicka på knappen
 Markera som kontrollerad
 i knappraden.
+![Bild](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_36530a34.png)
 Statusen på underlaget ändras då till
 Kontrollerad
 , vilket innebär att underlaget nu är låst för ändringar. Datum, tid samt signatur för användaren som markerade underlaget som kontrollerat sparas ner på underlaget.
+![Bilden visar information om status, datum och tid samt signatur.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_57f2896a.png)
 Om du hittar ett fel i ett kontrollerat underlag kan du ta bort kontrollmarkeringen igen. Då sätts statusen om till
 Preliminär
 , och du kan nu komplettera underlaget igen. När du därefter markerar underlaget som kontrollerat igen sätts en ny tidpunkt när underlaget blev kontrollerat för att du ska kunna se om filen som skickats in till Fora är skapad från det senast uppdaterade underlaget.
@@ -67,14 +81,20 @@ Skapa fil för rapportering
 När underlaget är markerat som kontrollerat kan du skapa filen för redovisning av arbetare till Fora. Detta gör du med knappen för
 Skapa fil
 i knappraden.
+![Bilden visar knappen för "Skapa fil".](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_7ecb3dc9.png)
 I dialogen som öppnas ser du vilken period som kommer med i filen.
+![Bilden visar dialogruta med underlagsinformation för filen som skapas.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_dd90c581.png)
 När filen är skapad visas en notis om detta på sidan.
 Du kan välja att ladda ner filen för rapportering genom att klicka på länken i notisen.
+![Bild](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_dd2cf7fd.png)
 Du kan också se och hämta filen för rapportering samt felloggar genom att klicka på knappen
 Visa filer
 i knappraden.
+![Bilden visar knappen "Visa filer".](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_273c7ec0.png)
 Filen kvar till dess att du väljer att ta bort den från listan. Filerna visas för det underlag du står på i vyn.
+![Bilden visar symbolen för att ladda ned filen.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_9aaf6c39.png)
 Om något fel upptäckts när filen skapades, visas information om det via en notis på sidan. Du kan se fler detaljer om vad som är fel genom att öppna loggfilen.
+![Bilden visar symbolen för att ladda ned fellogg-filen.](images/hur-rapporterar-jag-pension-till-fora-manadsvis-i-flex-hrm-payroll_55d43bfc.png)
 Skicka in filen till Fora
 När filen är skapad i Flex HRM laddar du ner den enligt ovan och skickar in den till Fora. Detta gör du genom att logga in på Foras hemsida och där följa instruktionerna för rapportering av arbetare via fil.
 För information om hur du rättar fel i tidigare rapportering, klicka på
@@ -121,7 +141,7 @@ Den uppmärkning som kommer gälla följder denna prioriteringsordning:
 I första hand gäller den uppmärkning som ligger på den anställde i anställdaregistret, fliken Pension & försäkring.
 Om uppmärkning enligt första punkten saknas för en period då det finns en anställning som arbetare kommer uppmärkningen hämtas från anställningsperiodens gällande personalkategori om denne har uppmärkningskod.
 Om personalkategorin också saknar uppmärkningskod kommer ingen uppmärkning komma med i rapporteringen för den anställde. Du behöver då göra uppmärkningen manuellt på Foras Mina sidor.
-Slutdatum för anställning skickas om det finns en anställningsperiod som Arbetare som slutar under rapporteringsmånaden. Om det finns flera anställningsperioder som slutar under månaden är det det sista slutdatumet som kommer med i rapporteringen. Detta beror på en begränsning i filen till Fora som bara kan innehålla ett slutdatum per anställd och månad.
+Slutdatum för anställning skickas om det finns en anställningsperiod som Arbetare som slutar under rapporteringsmånaden, även om det finns fler anställningsperioder efter rapporteringsmånaden då varje anställningsperiod rapporteras separat. Om det finns flera anställningsperioder som slutar under månaden är det det sista slutdatumet som kommer med i rapporteringen. Detta beror på en begränsning i filen till Fora som bara kan innehålla ett slutdatum per anställd och månad.
 Relaterade artiklar:
 Vilka inställningar krävs för att rapportera månadsvis till Fora i HRM Payroll?
 Hur hanteras Foras FOK-koder i Flex HRM Payroll?

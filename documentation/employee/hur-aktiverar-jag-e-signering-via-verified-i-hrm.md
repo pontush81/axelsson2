@@ -2,6 +2,11 @@
 
 **Datum:** den 26 augusti 2025  
 **Kategori:** Employee  
+**Underkategori:** Dokument & E-signering  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** anställning, cv, dokument, signering  
+**Bilder:** 8  
 **URL:** https://knowledge.flexapplications.se/aktivera-integration-till-verified-0-0-0
 
 ---
@@ -22,17 +27,20 @@ Licens
 För att aktivera funktionen för e-signering måste du först aktivera licensen E-signering i HRM. Under
 Administration – Allmänt – Företag
 ser du att ditt företag har licensen:
+![Bild](images/hur-aktiverar-jag-e-signering-via-verified-i-hrm_913a45af.png)
 Programlänk
 För att aktivera funktionen för e-signering måste du först skapa en programlänk till Verified.
 Gå till
 Administration – Inställningar – Import/export – Programlänkar
 .
+![Bild](images/hur-aktiverar-jag-e-signering-via-verified-i-hrm_b2db457f.png)
 Välj programlänk Verified
 Ange namn, t.ex. Verified
 Lägg in URL https://app.verified.eu
 Här anger du den användare i Verified som Flex HRM ska använda för kommunikation med Verified. Vi rekommenderar att du här anger ett administratörskonto som har tillgång till alla HR-relaterade dokument i Verified. Alla dokument som skickas för signering från Flex HRM kommer vara kopplade till detta konto i Verified. För att status på dokumenten ska kunna visas i Flex HRM måste denna användare komma åt status på alla dokument.
 Klicka på knappen Test för att se att du får en anslutning till Verified. Du ser längst ner i högra hörnet om du lyckades eller inte.
 Du behöver ange ett CompanyId för att dokumenten ska komma till rätt företag i Verified. När du loggat in i Verified hittar du detta id i url:en efter likhetstecknet. Har du fler företag upplagda i Verified hittar du dem där under menyn Grupp. Lägg då respektive CompanyId i motsvarande företags programlänk i HRM.
+![Bild](images/hur-aktiverar-jag-e-signering-via-verified-i-hrm_c7f5f262.png)
 Ange hur många dagar före deadline som Verified ska skicka en påminnelse till mottagaren.
 Spara enbart kopior av signerade dokument – se separat rubrik nedan.
 Välj vilken eller vilka signeringsmetoder ni använder er av.
@@ -58,8 +66,10 @@ på de dokument som är aktuella för det.
 Bocka i
 Tillåt ned- och uppladdning av mall innan e-signering
 i de fall du vill kunna redigera ett dokument innan det skickas.
+![Bild](images/hur-aktiverar-jag-e-signering-via-verified-i-hrm_b399521c.png)
 Behörighet
 Ställ in nedan behörighet för e-signering på de roller som ska kunna se översiktsvyn för e-signering.
+![Bild](images/hur-aktiverar-jag-e-signering-via-verified-i-hrm_6a5255a1.png)
 Tänk på att
 du måste ha behörighet till
 HR-blanketter/CV
@@ -69,7 +79,10 @@ för aktuella HR-blanketter och behörighet till
 Rapporten Anställningsavtal
 (gäller endast HR-blankett av typen Anställningsavtal) för att kunna hämta ut HR-blanketter för e-signering.
 Behörighet som styr att rollen får hämta ut HR-blanketter och CV
+![Bild](images/hur-aktiverar-jag-e-signering-via-verified-i-hrm_8b295628.png)
 Styr vilka HR-blanketter som får hämtas (Dokumentkategori)
 Nedan får HR-blanketter kopplade till kategorierna "Anställningsdokument" och "CV" hämtas ut. Finns det HR-blanketter kopplade till kategorin "Diverse", kan denna roll inte hämta ut dessa blanketter.
+![Bild](images/hur-aktiverar-jag-e-signering-via-verified-i-hrm_24670ef2.png)
 Rapport styr om HR-blanketter av typen "Anställningsavtal" får hämtas
 För anställningsavtal krävs ovan + denna behörighet
+![Bild](images/hur-aktiverar-jag-e-signering-via-verified-i-hrm_1446a468.png)

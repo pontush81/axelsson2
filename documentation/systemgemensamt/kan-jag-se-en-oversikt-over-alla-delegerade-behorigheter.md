@@ -2,6 +2,11 @@
 
 **Datum:** den 3 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** faq  
+**Svårighetsgrad:** intermediate  
+**Tags:** användare, behörighet, roll  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/kan-jag-se-en-%C3%B6versikt-%C3%B6ver-alla-delegerade-beh%C3%B6righeter
 
 ---
@@ -12,6 +17,7 @@ Användare/Behörigheter > Delegerade behörigheter
 I listan till vänster ser du aktuella delegeringar. Vill du se historiska delegeringar går det att välja. Du ser datum för delegeringen samt vilken användare som delegerat till vilken användare. Om du håller muspekaren över
 infosymbolen
 får du också information om vem som senast sparade delegeringen och när det gjordes.
+![Bild](images/kan-jag-se-en-oversikt-over-alla-delegerade-behorigheter_2d926179.png)
 Skapa nya delegeringar
 För att skapa en ny delegering väljer du först vilken användare behörigheten ska delegeras
 från

@@ -2,6 +2,11 @@
 
 **Datum:** den 7 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Löneberedning  
+**Typ:** other  
+**Svårighetsgrad:** advanced  
+**Tags:** lön, skatt  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/fos-f%C3%B6rfr%C3%A5gan-fr%C3%A5ga-om-skatteavdrag-hur-skickar-jag-in-fos-f%C3%B6rfr%C3%A5gan-i-flex-hrm-payroll
 
 ---
@@ -34,6 +39,7 @@ När uppgifterna har hämtats visas de i en preliminär lista och uppdaterar all
 Inkomstår
 .
 För att göra det enkelt för dig att se vilka uppgifter som har ändrats markeras dessa med en gul bakgrundsfärg.
+![Bild](images/fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-payroll_b03145f8.png)
 Notera att även anställda med sidoinkomst tas med och får sina uppgifter uppdaterade. Så länge den anställda är markerad för sidoinkomst påverkas inte skatteberäkningen. Om hen senare skulle få en huvudsaklig anställning hos er finns då den korrekta skattetabellen redan på plats.
 Verkställ underlaget
 När du har kontrollerat att allt ser korrekt ut är det dags att verkställa underlaget. Det innebär att de nya skatteuppgifterna förs över till anställdaregistret och kommer att ligga till grund för framtida skatteberäkningar.
@@ -45,4 +51,5 @@ innan
 du gör några lönekörningar för det nya året.
 Du verkställer underlaget genom att klicka på knappen
 Verkställ underlag.
+![Bild](images/fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-payroll_d30b07f6.png)
 Observera att ett verkställande inte kan ångras.

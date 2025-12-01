@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Time  
+**Underkategori:** Mobil & Stämpling  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** hrm-time, stämpling, tidkod, tidrapport  
+**Bilder:** 3  
 **URL:** https://knowledge.flexapplications.se/hur-st%C3%A4ller-man-in-att-ers%C3%A4ttningar-ska-kunna-st%C3%A4mplas-i-hrm-timeclock
 
 ---
@@ -21,9 +26,12 @@ Stämplingsbara ersättningar.
 Klicka på
 Lägg till rad
 för att lägga till en ersättning eller tidkod som ska finnas som valbar för användarna i HRM Timeclock. Du kan även ange vilken knapptext som ska användas samt om användarna själva ska få välja antal eller om det alltid ska läggas ut med ett fast värde.
+![Stämplingsbara ersättningar. Rad 1: Ersättning Matavdrag, Antal anges av användaren, Knapptext “Matavdrag”. Rad 2: Tidkod EXTRA, Fast antal 1,00, Knapptext “Använd denna vid arbete HALL 2”.](images/hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock_5a045a6c.png)
+![Bild](images/hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock_8e6d33a8.png)
 De stämplade ersättningarna hamnar under fliken
 Ersättningar
 i tidrapporten.
+![Bild](images/hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock_f852442a.png)
 Tips!
 Det går att ställa in en knapp i stämpelklockan för en specifik ersättningskod, istället för att användarna ska välja kod. Det gör du med hjälp av funktionen
 Direktval

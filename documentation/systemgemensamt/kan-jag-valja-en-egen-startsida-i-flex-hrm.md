@@ -2,6 +2,11 @@
 
 **Datum:** den 5 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Mobil  
+**Typ:** faq  
+**Svårighetsgrad:** intermediate  
+**Tags:** Ingen  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/kan-jag-v%C3%A4lja-en-egen-startsida-i-flex-hrm
 
 ---
@@ -12,6 +17,7 @@ Börja med att söka efter den sida du vill ha som startsida i sökfältet.
 I sökresultatet ser du en liten husikon till höger om sidans namn. Klicka på
 husikonen
 för att ställa in den som din startsida.
+![Bild](images/kan-jag-valja-en-egen-startsida-i-flex-hrm_0b80e117.png)
 Navigera till din startsida
 När du har valt en personlig startsida hittar du den i menyn till vänster.
 Välj
@@ -20,3 +26,4 @@ för att komma till din valda sida.
 Om du istället väljer
 Hem > Startsida
 kommer du till den vanliga startsidan för Flex HRM.
+![Bild](images/kan-jag-valja-en-egen-startsida-i-flex-hrm_30d51b52.png)

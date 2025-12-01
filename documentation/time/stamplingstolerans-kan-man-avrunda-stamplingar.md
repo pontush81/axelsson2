@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Time  
+**Underkategori:** Inställningar  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** ob, schema, stämpling, tidrapport, övertid  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/t%C3%A4mplingstolerans-kan-man-avrunda-st%C3%A4mplingar
 
 ---
@@ -17,6 +22,7 @@ tidgrupp
 eller på
 företagsnivå
 (under Tidrapporter). Mest specifik nivå gäller. Har du ställt in stämplingstoleranser på alla nivåer (dagschema, tidgrupp och företag) gäller endast dagschemats stämplingstoleranser.
+![Inställning stämplingstolerans.](images/stamplingstolerans-kan-man-avrunda-stamplingar_715f5e6c.jpg)
 Tolerans före/efter
 Ange hur många minuter före och/eller efter en händelse (schemastart, raststart, rastslut och schemaslut) som stämpling ska tillåtas. En stämpling som görs inom intervallet kommer i tidrapporten att visas med händelsens klockslag, exempelvis kl. 08:00 om schemastart är då.
 Om flexramar används anpassas toleranser efter det. Ett schema med schemastart 08:00 och flexram fr.o.m. 07:00 skulle hantera “Tolerans före schemastart” som tiden före 07:00.
@@ -31,6 +37,7 @@ Tips
 Hovra över klockslaget i tidrapporten för att se faktiskt stämplad tid. Det går också att se den faktiskt stämplade tiden under
 Mer > Logg
 .
+![Bild](images/stamplingstolerans-kan-man-avrunda-stamplingar_ab7dc191.jpg)
 Observera
 Detta är en
 stämplings

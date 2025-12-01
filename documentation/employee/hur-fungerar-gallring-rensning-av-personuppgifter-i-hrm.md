@@ -1,12 +1,18 @@
 # ⚙️Hur fungerar gallring/rensning av personuppgifter i HRM?
 
-**Datum:** den 26 augusti 2025  
+**Datum:** den 23 oktober 2025  
 **Kategori:** Employee  
+**Underkategori:** Anställningshantering  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** anställning, dokument  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm-0
 
 ---
 
 I artikeln hittar du information om hur gallring hanteras i HRM Employee.
+![Bild](images/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm_5f7bc97e.png)
 Under
 Personal> Anställda
 i HRM hittar du anställdaregister med personuppgifter och övriga anställningsuppgifter.
@@ -16,6 +22,17 @@ Automatisk gallring sker för
 Närmast anhörig
 Bankkontouppgifter
 Övriga personuppgifter gallras manuellt.
+Tänk på att om dokument laddas upp i HRM behöver du hantera gallringen manuellt.
+Har en bilaga lagts upp i en frånvaroansökan i HRM Time gallras den bilagan i frånvaron. Gå till den anställdes
+tidrapport
+, klicka på
+Frånvaro
+, välj aktuell frånvaro och klicka på
+Bilagor
+. Här hittar du bilagan och väljer ikonen
+Ta bort bilaga
+.
+![Bild](images/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm_411493da.png)
 Radering av personuppgifter - Inställningar
 Med denna funktion tas den anställdes uppgifter bort automatiskt efter att en anställning har avslutats. Detta sker via ett bakgrundsjobb strax före midnatt varje dygn.
 Borttaget sker för alla anställda som uppfyller följande kriterier.

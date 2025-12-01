@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Time  
+**Underkategori:** Saldon & Beräkning  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** hrm-time, ob, saldo, schema, tidkod, tidrapport, övertid  
+**Bilder:** 4  
 **URL:** https://knowledge.flexapplications.se/hur-anv%C3%A4nder-man-h%C3%A4ndelser-i-hrm-time
 
 ---
@@ -37,6 +42,7 @@ Händelser
 . För att skapa en händelse som ska gälla en tidgrupp använder du knappen
 Händelser
 i tidgruppens inställningar osv.
+![Bild](images/hur-anvander-man-handelser-i-hrm-time_16dbbedf.png)
 En förklaring av inställningarna i popupen
 Händelser
 följer nedan:
@@ -96,17 +102,20 @@ Gör avvikelse på händelse
 Öppna knappen
 Händelser
 i tidgruppens inställningar. Fäll ut inställningen för att göra avvikelse och välj den händelse du vill avvika från. Den händelse som är upplagd för företaget kommer då inte längre att gälla just denna tidgrupp. Där gäller istället den händelse du nu skapat.
+![Händelsen "ÖT tjm" ska gälla istället för företagets händelse "*Övertid NRV/SUM".](images/hur-anvander-man-handelser-i-hrm-time_62b646b5.png)
 Bilden ovar visar att händelsen "ÖT tjm" ska gälla istället för företagets händelse "*Övertid NRV/SUM". Detta går att göra även på andra nivåer, t.ex. om en specifik anställd ska avvika från tidgruppens händelse.
 Exempel
 Ett företag vill ställa in att om man arbetar på vissa helgdagar ska en extra ersättning utbetalas.
 För att lösa detta skapar vi en ny tidkod för ersättningen (EXT).
 Vi skapar en generell händelseformel som säger att om närvarotid finns ska tidkoden EXT falla ut med samma värde som närvarotiden. Vi anger att formeln får användas på avvikelsedagar.
+![Bild](images/hur-anvander-man-handelser-i-hrm-time_07c014aa.png)
 I inställningarna för avvikelsedagar har varje rad knappen
 Händelser.
 Vi använder formeln på de dagar som ska generera EXT vid arbete, bland annat avvikelsedagen för första maj.
 Anställd 1 arbetar två timmar den första maj, vilket gör att tidkoden EXT läggs ut på fliken
 Ersättningar
 i hennes tidrapport.
+![Ersättningar. Tidkoden EXT 2 timmar.](images/hur-anvander-man-handelser-i-hrm-time_b588920e.png)
 Relaterat
 Formelspråk i Flex HRM.
 HRM Time: Vad är generella händelseformler?

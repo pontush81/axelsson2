@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Time  
+**Underkategori:** Inställningar  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** hrm-time  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/hur-fungerar-faktureringslogiken-i-hrm-time
 
 ---

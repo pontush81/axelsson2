@@ -2,6 +2,11 @@
 
 **Datum:** den 11 september 2025  
 **Kategori:** Employee  
+**Underkategori:** Anställningshantering  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** dokument  
+**Bilder:** 7  
 **URL:** https://knowledge.flexapplications.se/skapa-dashboard-i-hrm-med-winningtemp-paneler
 
 ---
@@ -11,6 +16,7 @@ Skapa Dashboard i HRM med Winningtemp-paneler
 För att skapa nya Dashboards i HRM går du in under
 Systemregister > Dashboard > Dashboards
 . Varje dashboard byggs upp av olika paneler med data i. Det går att blanda de vanliga HRM-panelerna med paneler av typen Winningtemp.
+![Bild](images/skapa-dashboard-i-hrm-med-winningtemp-paneler_9d3e9dd0.png)
 Mer information om hur du skapar och redigerar paneler och dashboards hittar du i hjälpen i HRM samt i separat dokumentation på om rapporter och statistik.
 Varje gång du
 sparar
@@ -18,11 +24,14 @@ i en Dashboard som har en eller flera paneler med Winningtemp-data så kommer et
 I det övre högra hörnet på en Winningtemp-panel finns en
 lila logotyp
 . Om du klickar på den kommer du direkt till inloggningen för Winningtemp.
+![Bild](images/skapa-dashboard-i-hrm-med-winningtemp-paneler_0115a10c.png)
 Notera:
 Behörighet per dashboard gäller inte för paneler med data från Winningtemp
 En användare som har behörighet att se dashboarden med data från Winningtemp kommer att se data baserat på samtliga anställda.
+![Bild](images/skapa-dashboard-i-hrm-med-winningtemp-paneler_024e8509.png)
 Du kan även se din Dashboard i
 HRM Mobile
+![Bild](images/skapa-dashboard-i-hrm-med-winningtemp-paneler_9226c72d.png)
 Beskrivning Winningtemp-paneler i HRM Dashboard
 När du skapar paneler med typen Winningtemp har du ett antal olika val. Nedan beskrivs de olika valen.
 Fråga
@@ -50,6 +59,9 @@ Vi visar hel månad dvs föregående månad i Winningtemp-panelerna i HRM. Exemp
 I Winningtemp kan du som administratör se en
 Heatmap analys
 - här kan man som användare i Winningtemp visa hel månad om man vill jämföra siffrorna.
+![Bild](images/skapa-dashboard-i-hrm-med-winningtemp-paneler_25f10f6c.png)
+![Bild](images/skapa-dashboard-i-hrm-med-winningtemp-paneler_367fe153.png)
+![Bild](images/skapa-dashboard-i-hrm-med-winningtemp-paneler_f50854f7.png)
 Relaterade artiklar
 ⚙️Pulsmätningar
 och

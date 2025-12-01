@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Time  
+**Underkategori:** Frånvaro & Semester  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** frånvaro, ob, saldo, semester, stämpling  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/sp%C3%A4rr-f%C3%B6r-saldo-kan-man-sp%C3%A4rra-semesterans%C3%B6kningar-om-det-inte-finns-tillr%C3%A4ckligt-m%C3%A5nga-semesterdagar-att-ta-ut
 
 ---
@@ -18,7 +23,9 @@ Semester.
 Den är inställd på att i frånvarohanteraren visa utgående saldovärde för saldot SEM, och att spärra vid värde 0.
 Spärra alltid saldo vid sparning
 är ibockat.
+![Frånvaroorsak Semester. Inställd att visa saldo SEM, spärra vid 0, spärra vid sparning.](images/sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillrackligt-manga-semesterdaga_76f9c81d.jpg)
 Anställd 5 har 10 dagar i sitt semestersaldo. Om han försöker ansöka om 14 dagar semester får han ett felmeddelande som informerar om varför det inte går att spara.
+![Felmeddelande i frånvarohanteraren: Det finns inte tillräckligt många dagar eller timmar.](images/sparr-for-saldo-kan-man-sparra-semesteransokningar-om-det-inte-finns-tillrackligt-manga-semesterdaga_266d133d.jpg)
 Observera
 Inställningen ställs in per
 frånvaroorsak

@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Time  
+**Underkategori:** Tidrapportering  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** tidrapport  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-vi-ska-kunna-anv%C3%A4nda-tillf%C3%A4llig-utl%C3%A5ning
 
 ---
@@ -13,6 +18,7 @@ Tillfällig utlåning
 Du aktiverar tillfällig utlåning för en eller flera konteringsnivåer under
 Inställningar > Allmänt > Konteringsdimensioner > Tid: Använd vid tillfällig utlåning
 .
+![Inställningen "Använd vid tillfällig utlåning".](images/vilka-installningar-kravs-for-att-vi-ska-kunna-anvanda-tillfallig-utlaning_1bc5e2cb.png)
 Du måste också ge behörighet till de användare som ska kunna se och ange tillfälliga konteringar. Under
 Användare/Behörigheter > Roller
 finns
@@ -27,3 +33,4 @@ D
 e
 konteringar du anger under Tillfällig utlåning ko
 mmer att läggas ut i tidrapporten, om ingen annan kontering angetts. Tillfällig utlåning kan användas i både dag- och periodredovisning.
+![Tidrapport. Tillfällig utlånings-popup visar att kostnadsställe S ska falla ut 7-15 augusti.](images/vilka-installningar-kravs-for-att-vi-ska-kunna-anvanda-tillfallig-utlaning_b432e781.png)

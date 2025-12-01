@@ -2,6 +2,11 @@
 
 **Datum:** den 7 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Löneberedning  
+**Typ:** other  
+**Svårighetsgrad:** advanced  
+**Tags:** lön, löneart  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-och-hur-ber%C3%A4knas-dem
 
 ---
@@ -15,6 +20,7 @@ Den anställde ska ha haft en anställning under redovisningsperioden.
 Sysselsättningsgrad och arbetsmått måste finnas inlagda i anställdaregistret.
 För anställda som saknar avtalad veckoarbetstid, såsom behovsanställda kan du lägga 0 % sysselsättningsgrad. För dessa anställda måste det i stället finnas en löneart med arbetade timmar (se nedan).
 Om nödvändig information saknas på en anställd undantas denne från beräkningen och visas istället i en separat varningslista i vyn enligt nedan.
+![Bild](images/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-struktur-lcs-och-hur-b_f983e3f6.png)
 A – Anställda
 Beräkningen av de olika delarna görs för en månad i taget i urvalsperioden. Därefter beräknas ett genomsnitt över hela perioden.
 Vi utgår ifrån den anställdes sysselsättningsgrad. Om sysselsättningsgraden är satt till 0 % beräknar vi sysselsättningsgraden varje enskild månad utifrån arbetade timmar och heltidsmåttet enligt följande.

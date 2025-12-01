@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Time  
+**Underkategori:** Tidrapportering  
+**Typ:** concept  
+**Svårighetsgrad:** advanced  
+**Tags:** hrm-time, ob, schema, tidkod, tidrapport  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/hrm-time-vad-%C3%A4r-generella-h%C3%A4ndelseformler
 
 ---
@@ -30,6 +35,7 @@ för att förklara formeln, det underlättar framtida användande.
 Knappen
 Formelfunktioner
 ger en popup som listar de formelfunktioner som finns.
+![Bild](images/hrm-time-vad-ar-generella-handelseformler_447c6c69.png)
 I exemplet ovan finns en generell händelseformel som ska summera tid arbetad på ledig dag på tidkoden “EXT”. Denna formel ska gå att använda på företags-, tidgrupps- och anställdnivå.
 Denna formel får inget genomslag så länge den endast finns som generell händelseformel. Det är först när man skapar en händelse som den kan generera tidkoden i tidrapporter.
 Relaterat

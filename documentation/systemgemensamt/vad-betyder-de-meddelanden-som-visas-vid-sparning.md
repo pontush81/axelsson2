@@ -2,6 +2,11 @@
 
 **Datum:** den 5 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Inställningar  
+**Typ:** concept  
+**Svårighetsgrad:** beginner  
+**Tags:** Ingen  
+**Bilder:** 3  
 **URL:** https://knowledge.flexapplications.se/vad-betyder-de-meddelanden-som-visas-vid-sparning
 
 ---
@@ -15,8 +20,11 @@ Varning
 .
 Information
 Informationsmeddelanden har en blå symbol och blå text. De dyker upp som en bekräftelse när en åtgärd har genomförts i programmet utan fel, till exempel när du har sparat något.
+![Bild](images/vad-betyder-de-meddelanden-som-visas-vid-sparning_46fd455c.png)
 Fel
 Felmeddelanden har en röd symbol och röd text. Dessa meddelanden visas när du försöker spara något utan att de nödvändiga villkoren är uppfyllda. Åtgärda felet enligt anvisningen och försök sedan att spara igen.
+![Bild](images/vad-betyder-de-meddelanden-som-visas-vid-sparning_35b5ee51.png)
 Varning
 Varningsmeddelanden kan visas när du sparar, trots att själva sparandet fungerar. Varningen signalerar att det kan finnas andra förutsättningar som gör att det förväntade resultatet kanske inte uppnås.
 Ett exempel är om det finns en inställning som kräver att ett ärende måste anges på resor. Du kan då spara en resa utan ärende, men du måste lägga till ett ärende för att reseräkningen ska kunna granskas.
+![Bild](images/vad-betyder-de-meddelanden-som-visas-vid-sparning_1e7ce6a1.png)

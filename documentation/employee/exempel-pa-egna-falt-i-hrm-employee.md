@@ -2,6 +2,11 @@
 
 **Datum:** den 11 september 2025  
 **Kategori:** Employee  
+**Underkategori:** Anställningshantering  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** cv, dokument, hrm-employee, medarbetarsamtal, signering  
+**Bilder:** 27  
 **URL:** https://knowledge.flexapplications.se/exempel-egna-falt-i-hrm-employee-0-0
 
 ---
@@ -23,17 +28,28 @@ Valbart med datumhistorik
 Du kan välja om fältens värden i en
 fältgrupp
 ska kunna sparas med eller utan datumhistorik. Detta val gör man när du skapar fältgruppen första gången och kan därefter inte ändras.
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_6f7ab78c.png)
 Fält med
 datumhistorik
 används för att kunna ha en datumstyrning för ett värde samt få en historik på värdets förändring. Detta är användbart för till exempel lönetillägg och olika förmåner.
 I anställdaregistret visas fältet enligt nedan med dagens aktuella värde för respektive fält. För att ändra fältets värde samt se datum-historiken klickar man på ikonen till höger på raden.
 Så här kan ett exempel se ut där vi använder datumfält:
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_a7f55ee4.jpg)
 Du sätter upp exemplet ovan enligt bilderna nedan:
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_5f5d2cca.jpg)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_3e80b5c9.jpg)
 Exempel: Passageutrustning – med Rubrik - Nivå 1,
 fältgrupp utan datumhistorik och radioknappar
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_ebf63149.jpg)
 För att sätta upp ovan fält, gör enligt bilderna nedan:
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_c37c77dc.jpg)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_2aa1c0c8.jpg)
 Exempel: Arbetskläder – med Rubrik - Nivå 1, fältgrupp utan datumhistorik och fälttyp radioknappar och lista
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_0c36b176.jpg)
 För att sätta upp ovan fält, gör enligt bilderna nedan:
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_117f9d6e.jpg)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_1b999612.jpg)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_06243514.jpg)
 Exempel:  Formulärmallar eller medarbetarsamtal – med formulärmall/medarbetarsamtal med gradering, rubriker och textfält
 HRM Employee erbjuder systemstöd för att förenkla hanteringen av
 medarbetarsamtal
@@ -45,11 +61,13 @@ sidinnehåll
 genom att skapa en rad i listan, ge den ett namn som du vill ska användas i anställdaregistret samt välja typen
 Medarbetarsamtal
 . Här är ett exempel på hur det kan se ut:
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_e1652902.png)
 Förutom typen Medarbetarsamtal kan du välja typerna
 Formulärmall
 och
 Fältgrupper
 . För mer information om fältgrupper kan du läsa föregående avsnitt om egna fält. Typerna Medarbetarsamtal och Formulärmallar är dock olika. Skillnaden är att för typen Medarbetarsamtal anger du ansvarig samt datum när du fyller i en mall i anställdaregistret.
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_76358ec5.jpg)
 Tanken är att man ska kunna använda dessa
 formulärmallar
 till annat än bara medarbetarsamtal. Man skulle till exempel kunna skapa upp olika enkäter och låta de anställda svara på olika frågor. De kan även användas för enklare samtalsformulär (där ansvarig och signering inte är så viktigt att notera) exempelvis vid uppföljning- eler kortare avstämningssamtal. Användningsområdena kan vara många, så här är det upp till dig att använda fantasin för att komma fram till hur just er organisation kan nyttja möjligheten med formulär.
@@ -59,6 +77,8 @@ skapa mallar
 . Detta gör du genom att
 klicka på ikonen till höger i listan
 . I fönstret som öppnas skapar du de olika mallarna som innehåller de frågor som ska fyllas i under medarbetarsamtalet eller i formuläret.
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_bc14e385.png)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_16860248.jpg)
 Till vänster i bild listas de olika mallarna. För varje mall ska du sätta ett
 namn
 samt välja om den ska vara
@@ -77,6 +97,7 @@ markera raden i listan
 Du kan ändra ordningen på frågor och rubriker i listan genom att dra och släppa raderna i listan med hjälp av
 pilarna
 till höger.
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_53ab4af6.jpg)
 Varje rubrik eller fråga har en rad egenskaper som du matar in till höger om listan.
 Nummer
 Varje rubrik och fråga får automatiskt ett nummer. Den första rubriken får nummer 1, den andra nummer 2 osv. Den första frågan efter rubrik 1 får nummer 1.1, den andra frågan under rubrik 1 får nummer 1.2 osv. På så sätt byggs en struktur för formuläret upp.
@@ -98,13 +119,24 @@ Används till svar där man vill ha en bedömning på en skala 1-5.
 Läs mer om funktionaliten i medarbetarsamtal, under avsnittet
 Medarbetarsamtal.
 Exempel: Personalintroduktion – med Rubrik 1-2, fältgupp utan datumhistorik med stjärnor och kryssrutor
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_43be08b5.jpg)
 För att sätta upp exemplet ovan, gör enligt bilderna nedan:
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_df9959c5.jpg)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_1df8985a.jpg)
 Exempel: CV – Tabell
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_a55e9462.png)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_b2db8204.jpg)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_d5999af5.jpg)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_026dc080.jpg)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_ccee5abb.jpg)
 Exempel på datumfält för bevakning
 Det finns möjlighet att skapa egna fält av typen datumfält. På så sätt kan man enkelt välja ett korrekt datum även för egna fält som kan vara användbart i till exempel egna tabeller eller för fält som du önskar sätta en bevakning på.
 Välj Fältgrupp utan datumhistorik med fälttypen Datum. Därefter väljer du om du vill ha ett fristående datum, eller en datumperiod där du anger både fr.o.m.- och t.o.m.-datum.
 Exempel på Inventeringsdatum – med datumfält
 Som ett exempel tänker vi oss att man har ett fält för nyckelkort upplagt i systemet och att man årligen vill inventera dessa nyckelkort relativt när den anställde fick nyckelkortet. För att hålla reda på detta behöver vi ett inventeringsdatum per anställd.
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_3a9cbced.jpg)
 I anställdaregistret får vi då ett fält där vi bara kan ange ett korrekt datum enligt användarens nationella inställningar.
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_2185128b.jpg)
 Ett konkret användningsområde för datumfält är möjligheten att sätta påminnelser relativt ett inmatat datum. Detta blir perfekt i vårt exempel för att ge chefen en notis till exempel 30 dagar före inventeringsdatumet.
 Exempel på hur man kan ställa in en påminnelse för ett eget fält:
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_920bdd37.jpg)

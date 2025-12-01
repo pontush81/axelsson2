@@ -2,6 +2,11 @@
 
 **Datum:** den 6 oktober 2025  
 **Kategori:** Time  
+**Underkategori:** Frånvaro & Semester  
+**Typ:** faq  
+**Svårighetsgrad:** intermediate  
+**Tags:** frånvaro, schema  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/kan-jag-ta-ut-information-om-fr%C3%A5nvaro-i-rapportgeneratorn-
 
 ---

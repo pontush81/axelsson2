@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Time  
+**Underkategori:** Tidrapportering  
+**Typ:** config  
+**Svårighetsgrad:** advanced  
+**Tags:** frånvaro, lön, ob, tidkod, tidrapport  
+**Bilder:** 4  
 **URL:** https://knowledge.flexapplications.se/hur-st%C3%A4ller-jag-in-regler-f%C3%B6r-sjuk-ob
 
 ---
@@ -19,6 +24,7 @@ Inställningar > Tid och Bemanning > Tidkoder > fliken Allmänt
 och löneart på fliken
 Överföring till lön
 .
+![Tidkodsregistret. Tidkod SOB1 har kodtyp Frånvaro - OB.](images/hur-staller-jag-in-regler-for-sjuk-ob_4794003c.png)
 Lägg upp regler för sjuk-OB
 I OB-regelverket behöver du skapa regler för sjuk-OB. Dessa regler briukar spegla dina vanliga OB-regler. Om du till exempel har en OB-regel som säger att
 OB1
@@ -28,16 +34,19 @@ som också gäller mellan 19:00 och 22:00.
 Sjuk-OB-reglerna ska vara inställda på att falla ut tillsammans med tidkoden för
 Sjukfrånvaro
 .
+![OB-regelverk, tidkod SOB1. Inställd på att falla ut 19-22, endast på tidkod SJUK.](images/hur-staller-jag-in-regler-for-sjuk-ob_951c0281.png)
 Tidkodsinställning för att få kombineras med OB
 För att systemet ska kunna beräkna sjuk-OB korrekt måste du se till att tidkoden för
 Sjukfrånvaro
 kan kombineras med OB. Det gör du i tidkodsregistret, inställningen
 Kan kombineras med OB.
+![Tidkodsregistret. Tidkod SJUK. "Kan kombineras med OB" är ibockat.](images/hur-staller-jag-in-regler-for-sjuk-ob_5b5f0f2e.png)
 Borttag av sjuk-OB
 Systemet beräknar initialt sjuk-OB för alla sjukdagar, oavsett hur lång sjukperioden är. Varje natt körs en automatisk process som tar bort sjuk-OB från granskade dagar utifrån inställningen
 Dagar för sjuk-OB
 som kan göras per anställd, tidgrupp eller för hela företaget.
 Det görs också en koll vid löneöverföring, så om man granskat tidrapporten samma dag som lönekörningen görs så plockas sjuk-OB bort vid överföringen till lön.
+![Dagar för sjuk-OB.](images/hur-staller-jag-in-regler-for-sjuk-ob_baec475c.png)
 Inställningen
 Dagar för sjuk-OB
 kan vara:

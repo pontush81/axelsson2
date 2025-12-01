@@ -2,6 +2,11 @@
 
 **Datum:** den 7 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Pension  
+**Typ:** other  
+**Svårighetsgrad:** intermediate  
+**Tags:** lön, pension  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/m%C3%A5nadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll-och-flex-l%C3%B6n-classic
 
 ---
@@ -16,9 +21,11 @@ Register med företagets uppmärkningskoder
 Först och främst behöver du lägga in de uppmärkningskoder som ska användas i företaget. De koder som gäller ditt företag hittar du på Foras Mina sidor. I Flex HRM Payroll gör du detta under
 Inställningar > Lön > Pension och försäkring
 . Det kommer se ut ungefär så här:
+![Bilden visar register med uppmärkningskoder.](images/manadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll_b7d40e45.png)
 Uppmärkning per individ
 Det kommer finnas flera sätt att göra uppmärkningen på de anställda. I anställdaregistret kan du lägga in för vilken period den anställde omfattas av en viss kod. Om en anställd kommer att  byta anställning och i och med det omfattas av en annan uppmärkning lägger du här in en ny datumperiod med den nya uppmärkningen.
 Så här kan det komma att se ut i anställdaregistret:
+![Bilden visar var man ställer in uppmärkningskod i anställdaregistret.](images/manadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll_5243c733.png)
 Uppmärkning per personalkategori
 För att slippa lägga in en uppmärkningskod på samtliga anställda finns det också en möjlighet att lägga in en uppmärkningskod per personalkategori. Om du inte lagt in en uppmärkningskod direkt på den anställde, kommer koden från personalkategorin att användas istället.
 Möjlighet att importera uppmärkningskoder per individ

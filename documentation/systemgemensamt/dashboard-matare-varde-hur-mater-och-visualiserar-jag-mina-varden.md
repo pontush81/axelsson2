@@ -2,12 +2,18 @@
 
 **Datum:** den 17 oktober 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Inställningar  
+**Typ:** other  
+**Svårighetsgrad:** intermediate  
+**Tags:** Ingen  
+**Bilder:** 11  
 **URL:** https://knowledge.flexapplications.se/m%C3%A4tare/v%C3%A4rde-hur-m%C3%A4ter-och-visualiserar-jag-mina-v%C3%A4rden
 
 ---
 
 Artikeln ger information om och exempel av visningen av Mätare/Värde, idag, aktuell period och valfri period. Dessutom beskrivs färginställningarna som är möjliga för vissa paneler.
 Mätare/Värde (idag)
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_c4557c7a.png)
 Används för typerna
 Antal anställda, Genomsnittlig anställningstid
 och
@@ -22,6 +28,7 @@ månad
 där dagens datum är 2023-02-10 är:
 Aktuell period: 2023-02-01 - 2023-02-10
 Föregående period: 2023-01-01-2023-01-31
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_eb6e898b.png)
 Väljer du att jämföra med föregående
 år
 skapas en period, den aktuella, med alla månader i aktuellt år fram till månaden som dagens datum tillhör. Den aktuella perioden jämförs sedan med perioden för hela föregående år.
@@ -30,6 +37,7 @@ Ett exempel där vi jämför med föregående
 där dagens datum är 2023-02-10 är:
 Aktuell period: 2023-01-01 - 2023-02-10
 Föregående period: 2022-01-01 - 2022-12-31
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_b958810f.png)
 Mätare/Värde (aktuell period)
 Används för typerna
 Antal heltidstjänster (FTE), Frisläppt belopp till fakturering, Personalomsättning
@@ -44,6 +52,7 @@ månad
 där dagens datum är 2023-02-10 är:
 Aktuell period: 2023-02-01 - 2023-02-28
 Föregående period: 2023-01-01-2023-01-31
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_eb6e898b.png)
 Väljer du att jämföra med föregående
 år
 skapas en period, den aktuella, med hela året i aktuellt år som dagens datum tillhör. Den aktuella perioden jämförs sedan med perioden för hela föregående år.
@@ -52,6 +61,7 @@ månad
 där dagens datum är 2023-02-10 är:
 Aktuell period: 2023-01-01 - 2023-12-31
 Föregående period: 2022-01-01 - 2022-12-31
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_b958810f.png)
 Mätare/Värde (valfri period)
 Används för typerna
 Frisläppt belopp till fakturering, Personalomsättning
@@ -62,15 +72,21 @@ Ett exempel med
 24 år bakåt
 där dagens datum är lika med 2023-02-10 är:
 Period: 1999-01-01 → 2022-12-31
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_368825f0.png)
 Ett exempel med
 24 månader bakåt
 där dagens datum är 2023-02-10är:
 Period: 2021-02-01 - 2023-01-31
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_c201343a.png)
 Mätare
 Du kan också ställa in min-, max- och normalvärde för mätaren. Det innebär att färgerna justeras utifrån din inställning.
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_8b2842bd.png)
 I nedanstående exempel, där vi har satt minvärde till 0, normalvärde till 5 och maxvärde till 10,  är alltså målet att den genomsnittliga anställningstiden minst bör vara 5 år vilket visas som det gula området.
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_4afecd13.png)
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_b76dd473.png)
 Färg
 Vissa paneler som visar grafer med linjer eller staplar har inställningar för färgval.
+![Bild](images/dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden_9367805d.png)
 Standard
 - ger blå färg.
 Olika färger per stapel

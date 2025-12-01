@@ -2,6 +2,11 @@
 
 **Datum:** den 18 augusti 2025  
 **Kategori:** Time  
+**Underkategori:** Tidrapportering  
+**Typ:** other  
+**Svårighetsgrad:** intermediate  
+**Tags:** frånvaro, tidrapport  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/vilken-fr%C3%A5nvaro-g%C3%A4ller-n%C3%A4r-det-finns-%C3%B6verlappande-fr%C3%A5nvaroposter
 
 ---
@@ -15,3 +20,4 @@ Om en frånvaro helt innesluts av en annan genereras den inre frånvaron. Detta 
 Om inget av fallen ovan stämmer in genereras den frånvaro som är registrerad senast.
 Tips:
 Det går att se om en frånvaro har varit rullande. Frånvaroposter som varit rullande, men numera har ett slutdatum, får ett info-i som informerar om det. Bilden nedan visar en sådan frånvaro i frånvarohanteraren.
+![Bild](images/vilken-franvaro-galler-nar-det-finns-overlappande-franvaroposter_5c9dd075.png)

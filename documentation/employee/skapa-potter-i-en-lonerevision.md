@@ -2,6 +2,11 @@
 
 **Datum:** den 30 september 2025  
 **Kategori:** Employee  
+**Underkategori:** Anställningshantering  
+**Typ:** other  
+**Svårighetsgrad:** advanced  
+**Tags:** lönerevision  
+**Bilder:** 10  
 **URL:** https://knowledge.flexapplications.se/skapa-potter-i-en-lonerevision-0
 
 ---
@@ -9,6 +14,7 @@
 Här beskriver vi hur du arbetar med årets lönerevision. 
 
 Läs vidare för att se hur du som administratör skapar upp potter i lönerevisionen.
+![Bild](images/skapa-potter-i-en-lonerevision_b8720f89.png)
 Potter i lönerevisionen
 För att skapa och hantera potter i lönerevisionen klickar du på knappen
 Potter
@@ -22,6 +28,7 @@ Skapa en pott
 För att ställa in de olika potterna i lönerevisionen klickar du på knappen
 Potter
 i knappraden.
+![Bild](images/skapa-potter-i-en-lonerevision_427acff2.png)
 För varje pott fyller du i följande fält:
 Namn:
 Ange ett namn för potten.
@@ -48,6 +55,7 @@ Generera potter efter fackförbund:
 Använd den här knappen för att enkelt skapa en pott per fackförbund. Därefter kan du lägga in fackens krav för minsta löneökning per pott för att kontrollera att kraven följs.
 Lägg ut föreslagen lön efter pott:
 Med denna funktion kan du fördela den beräknade potten som en föreslagen löneökning för de anställda. Detta kan vara en bra utgångspunkt för lönerevisionen.
+![Bild](images/skapa-potter-i-en-lonerevision_d2b5dfb3.png)
 Du kan välja mellan två alternativ:
 Skriv över befintlig ny lön:
 Ersätter en eventuellt redan inmatad ny lön med den nya lönen som beräknas från pottvillkoret.
@@ -60,22 +68,29 @@ Använd utökad potthantering
 när du skapar en ny lönerevision. Tänk på att när du har klickat på
 Skapa
 kan du inte ångra detta val utan att ta bort lönerevisionen och skapa en ny.
+![Bild](images/skapa-potter-i-en-lonerevision_5869ddd0.png)
 När du använder utökad potthantering får du följande val för dina potter:
 Generell pott:
 Innebär att potten kan påverkas av andra potter, men den kan inte själv påverka någon annan pott.
 Påverka pott:
 Innebär att potten kan påverka en annan generell pott.
 Exempel på en pott som inte påverkar någon annan pott
+![Bild](images/skapa-potter-i-en-lonerevision_622c4a87.png)
 Exempel på en pott som är helt fristående från övriga potter, det vill säga den varken påverkar eller påverkas av någon annan pott
+![Bild](images/skapa-potter-i-en-lonerevision_b4e6f524.png)
 Exempel på en pott som påverkar en annan pott
+![Bild](images/skapa-potter-i-en-lonerevision_74f4273d.png)
 Lägg till kolumner för potter
 Vid utökad potthantering behöver du lägga till kolumner för de olika potterna för att kunna se dem och lägga ut föreslagen lön. Det gör du under
 Mer > Välj kolumner.
+![Bild](images/skapa-potter-i-en-lonerevision_eedddb57.png)
 Välj dina potter genom att klicka i rutan till höger och flytta upp dem till önskad plats med hjälp av de blå pilarna.
 Spara
 .
+![Bild](images/skapa-potter-i-en-lonerevision_3c76d2ec.png)
 Här kan du hitta mer info om valbara kolumner.
 När du har lagt till kolumnerna kan du välja att lägga ut
 föreslagen lön från potten.
+![Bild](images/skapa-potter-i-en-lonerevision_c904f190.png)
 När du har gjort alla förberedelser är du redo för
 Nästa steg - Starta lönerevision

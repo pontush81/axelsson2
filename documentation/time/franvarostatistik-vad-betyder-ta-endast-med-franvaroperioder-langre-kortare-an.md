@@ -2,6 +2,11 @@
 
 **Datum:** den 29 augusti 2025  
 **Kategori:** Time  
+**Underkategori:** Frånvaro & Semester  
+**Typ:** concept  
+**Svårighetsgrad:** beginner  
+**Tags:** frånvaro  
+**Bilder:** 5  
 **URL:** https://knowledge.flexapplications.se/fr%C3%A5nvarostatistik-vad-betyder-ta-endast-med-fr%C3%A5nvaroperioder-l%C3%A4ngre/kortare-%C3%A4n
 
 ---
@@ -22,13 +27,18 @@ Så fungerar inställningarna
 All frånvaro tas med om du inte anger något i fälten för att ta med frånvaroperioder längre/kortare än.
 Endast frånvaro längre än X antal dagar:
 Om du ställer in att endast perioder längre än exempelvis fjorton dagar ska tas med, kommer hela frånvaroperioden att räknas in. En frånvaroperiod på trettio dagar kommer alltså att räknas med i sin helhet.
+![google-1750671699969-Jun-23-2025-09-41-43-6641-AM](images/franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an_decc2e5e.png)
 Långa frånvaroperioder men exkludera X antal första dagar:
 Om du vill ta med långa frånvaroperioder, men inte räkna de första dagarna, gör du den här inställningen. Om en frånvaroperiod är trettio dagar och du ställer in så att de fjorton första dagarna inte ska räknas med, kommer endast de sista sexton dagarna att räknas in.
+![google-1750671699969-1](images/franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an_e23c87d7.png)
 Endast frånvaro kortare än X antal dagar:
 Denna inställning gör att endast frånvaroperioder kortare än exempelvis femton dagar tas med i ditt urval.
+![google-1750671699969-Jun-23-2025-09-41-42-8233-AM](images/franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an_88e1592c.png)
 Långa frånvaroperioder men inkludera endast X antal första dagar:
 Denna variant tar med längre frånvaroperioder, men bara de första fjorton dagarna av perioden.
+![google-1750671699969](images/franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an_f484f43a.png)
 Du kan också kombinera inställningarna, till exempel för att enbart inkludera frånvaro som är längre än fjorton dagar men kortare än nittioen dagar.
+![Bild](images/franvarostatistik-vad-betyder-ta-endast-med-franvaroperioder-langre-kortare-an_83a061cd.png)
 Återinsjuknande
 I företag med basland Sverige räknas en sjukperiod som sammanhängande om en anställd återinsjuknar inom fem dagar. Dagarna när den anställda arbetar räknas inte som sjukdagar.
 Bra att veta om exporter

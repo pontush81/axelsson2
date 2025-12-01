@@ -2,6 +2,11 @@
 
 **Datum:** den 15 oktober 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Mobil  
+**Typ:** other  
+**Svårighetsgrad:** intermediate  
+**Tags:** mobil  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/inloggning-i-flex-hrm-och-byte-av-l%C3%B6senord-
 
 ---

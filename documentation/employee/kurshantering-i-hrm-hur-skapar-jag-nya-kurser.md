@@ -2,6 +2,11 @@
 
 **Datum:** den 26 augusti 2025  
 **Kategori:** Employee  
+**Underkategori:** Kompetens & Kurser  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** cv, kompetens, kurs  
+**Bilder:** 5  
 **URL:** https://knowledge.flexapplications.se/kurshantering-i-hrm-hur-skapa-nya-kurser-0
 
 ---
@@ -22,6 +27,7 @@ Bygga upp kurser
 De kurser som det ska gå att välja bland lägger du upp i kursregistret under
 Administration – Register – Kurser
 .
+![Bild](images/kurshantering-i-hrm-hur-skapar-jag-nya-kurser_54ee47d3.png)
 Du anger där följande uppgifter under
 Allmänt:
 Namn
@@ -39,6 +45,7 @@ Beskrivning
 En kort beskrivning av kursens innehåll.
 Kurstillfällen
 För varje kurs behöver du också lägga upp de kurstillfällen som ska vara valbara i registret per kurs.
+![Bild](images/kurshantering-i-hrm-hur-skapar-jag-nya-kurser_3c5b09f0.png)
 Kurstillfällenummer
 E
 ventuellt kurstillfällenummer hos utbildningsleverantören.
@@ -54,10 +61,13 @@ Behörigheter
 För att kunna använda funktionen för kurser behöver du aktivera detta på rollen/rollerna.
 Följande styr att en administratör kommer åt
 registret för kurser och kurstillfällen
+![Bild](images/kurshantering-i-hrm-hur-skapar-jag-nya-kurser_08e40b85.png)
 Följande styr om en roll har behörighet till
 Kurshanteringsvyn
 under
 Personal
+![Bild](images/kurshantering-i-hrm-hur-skapar-jag-nya-kurser_3658117c.png)
 För att komma åt och
 lägga in kompetenser/kurser på en anställd i anställdaregister
 behövs följande behörighet
+![Bild](images/kurshantering-i-hrm-hur-skapar-jag-nya-kurser_2ae0422a.png)

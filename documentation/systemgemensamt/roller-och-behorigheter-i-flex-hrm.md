@@ -2,6 +2,11 @@
 
 **Datum:** den 17 oktober 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Användare & Behörighet  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** användare, behörighet, roll  
+**Bilder:** 6  
 **URL:** https://knowledge.flexapplications.se/roller-och-beh%C3%B6righeter-i-flex-hrm
 
 ---
@@ -20,22 +25,28 @@ inte ger denna behörighet. Användaren Meja ska få tillgång till att ta ut ra
 Här har användaren rollen
 Rapporter
 enbart under sitt eget namn och kan därför bara se sig själv i rapporten:
+![Bild](images/roller-och-behorigheter-i-flex-hrm_b116a58b.png)
 Här har användaren rollen
 Rapporter
 för hela företaget men inte under sitt eget namn, vilket innebär att hen kan se samtliga andra anställda i företaget i rapporten, men inte sig själv:
+![Bild](images/roller-och-behorigheter-i-flex-hrm_0aa8b98a.png)
 Här har användaren rollen
 Rapporter
 både på företagsnivå och under sitt eget namn, vilket innebär att hen kan se samtliga anställda i företaget, inklusive sig själv, i rapporten:
+![Bild](images/roller-och-behorigheter-i-flex-hrm_50ddc487.png)
 Här har användaren rollen
 Rapporter
 för både ett kostnadsställe och hela företaget men saknar rollen under sitt eget namn, vilket innebär att hen kan se alla andra i företaget i rapporten men inte sig själv, även om hen tillhör det aktuella kostnadsstället:
+![Bild](images/roller-och-behorigheter-i-flex-hrm_72e4dd59.png)
 Här har användaren rollen
 Rapporter
 både för ett kostnadsställe och för hela företaget samt under sitt eget namn och kan därför se samtliga anställda i företaget, inklusive sig själv, i rapporten:
+![Bild](images/roller-och-behorigheter-i-flex-hrm_1cf83c63.png)
 Ni hittar era roller under
 Administration > Användare/Behörigheter > Roller
 och ni hittar era användare under
 Administration > Användare/Behörigheter > Användare.
 💡Om du önskar att en roll endast ska kunna tilldelas på medarbetarnivå kan du begränsa rollen så att den endast kan sättas på individnivå. Detta görs för att undvika att exempelvis medarbetarroller tilldelas på företagsnivå.
+![Bild](images/roller-och-behorigheter-i-flex-hrm_aaf1466f.png)
 Relaterat
 Vad är en roll?

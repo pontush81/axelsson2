@@ -1,112 +1,1436 @@
 [
-  {"title": "Anställd ingår i aktiv Lönerevision", "file": "anstalld-ingar-i-aktiv-lonerevision.md"}
-,
-  {"title": "Anställningsmall - Hur skapar jag ett effektivt anställningsflöde?", "file": "anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode.md"}
-,
-  {"title": "Använd organisationsöversikten i HRM Employee", "file": "anvand-organisationsoversikten-i-hrm-employee.md"}
-,
-  {"title": "Arbeta med årets Lönerevision", "file": "arbeta-med-arets-lonerevision.md"}
-,
-  {"title": "Digital signering - Hur använder jag e-signering via Scrive i HRM?", "file": "digital-signering-hur-anvander-jag-e-signering-via-scrive-i-hrm.md"}
-,
-  {"title": "Digital signering - Hur använder jag e-signering via Verified i HRM?", "file": "digital-signering-hur-anvander-jag-e-signering-via-verified-i-hrm.md"}
-,
-  {"title": "Digitala checklistor - Hur skapar jag ett uppdrag i HRM?", "file": "digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm.md"}
-,
-  {"title": "Exempel på egna fält i HRM Employee", "file": "exempel-pa-egna-falt-i-hrm-employee.md"}
-,
-  {"title": "Exempel på Winningtemp-paneler i HRM Dashboard", "file": "exempel-pa-winningtemp-paneler-i-hrm-dashboard.md"}
-,
-  {"title": "Frågor och svar - Winningtemp & HRM", "file": "fragor-och-svar-winningtemp-hrm.md"}
-,
-  {"title": "Hur aktiverar jag e-signering via Scrive i HRM?", "file": "hur-aktiverar-jag-e-signering-via-scrive-i-hrm.md"}
-,
-  {"title": "Hur aktiverar jag e-signering via Verified i HRM?", "file": "hur-aktiverar-jag-e-signering-via-verified-i-hrm.md"}
-,
-  {"title": "Hur fungerar anonymisera anställda i HRM?", "file": "hur-fungerar-anonymisera-anstallda-i-hrm.md"}
-,
-  {"title": "Hur fungerar Dokumentkategorier i HRM Employee?", "file": "hur-fungerar-dokumentkategorier-i-hrm-employee.md"}
-,
-  {"title": "Hur fungerar gallring/rensning av personuppgifter i HRM?", "file": "hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm.md"}
-,
-  {"title": "Hur hanterar HRM Employee offboarding av anställda?", "file": "hur-hanterar-hrm-employee-offboarding-av-anstallda.md"}
-,
-  {"title": "Hur hanterar jag anställda med skyddad folkbokföring?", "file": "hur-hanterar-jag-anstallda-med-skyddad-folkbokforing.md"}
-,
-  {"title": "Hur hanterar jag uppgifter och uppdrag i HRM?", "file": "hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm.md"}
-,
-  {"title": "Hur hanterar man dokument för anställda i HRM Employee?", "file": "hur-hanterar-man-dokument-for-anstallda-i-hrm-employee.md"}
-,
-  {"title": "Hur integrerar jag Teamtailor med HRM?", "file": "hur-integrerar-jag-teamtailor-med-hrm.md"}
-,
-  {"title": "Hur lägger jag upp ett dokument på startsidan i HRM?", "file": "hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm.md"}
-,
-  {"title": "Hur registrerar man personaldata och anställningsuppgifter i HRM Employee?", "file": "hur-registrerar-man-personaldata-och-anstallningsuppgifter-i-hrm-employee.md"}
-,
-  {"title": "Hur skapar jag Egna flikar och fält i HRM Employee?", "file": "hur-skapar-jag-egna-flikar-och-falt-i-hrm-employee.md"}
-,
-  {"title": "Hur skapar jag ett organisationsträd i HRM Employee?", "file": "hur-skapar-jag-ett-organisationstrad-i-hrm-employee.md"}
-,
-  {"title": "Hur skapar jag HR-blanketter för CV i HRM Employee?", "file": "hur-skapar-jag-hr-blanketter-for-cv-i-hrm-employee.md"}
-,
-  {"title": "Hur skapar jag HR-blanketter för startsidan i HRM Employee?", "file": "hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee.md"}
-,
-  {"title": "Hur skapar jag HR-blanketter i HRM Employee?", "file": "hur-skapar-jag-hr-blanketter-i-hrm-employee.md"}
-,
-  {"title": "Hur skickar jag en HR-blankett för e-signering i HRM Employee?", "file": "hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee.md"}
-,
-  {"title": "Hur startar jag nya uppgifter och uppdrag i HRM?", "file": "hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm.md"}
-,
-  {"title": "Hur tar jag bort en anställd?", "file": "hur-tar-jag-bort-en-anstalld.md"}
-,
-  {"title": "Hur tar jag bort en anställningsperiod?", "file": "hur-tar-jag-bort-en-anstallningsperiod.md"}
-,
-  {"title": "Hur tar jag fram ett CV för en anställd i HRM Employee?", "file": "hur-tar-jag-fram-ett-cv-for-en-anstalld-i-hrm-employee.md"}
-,
-  {"title": "Hur verkställer jag årets Lönerevision?", "file": "hur-verkstaller-jag-arets-lonerevision.md"}
-,
-  {"title": "Integration till BKY - Hur kopplar jag BKY och HRM?", "file": "integration-till-bky-hur-kopplar-jag-bky-och-hrm.md"}
-,
-  {"title": "Kan jag exportera årets Lönerevision till en Excell-fil?", "file": "kan-jag-exportera-arets-lonerevision-till-en-excell-fil.md"}
-,
-  {"title": "Kan jag få en notis när ett nytt dokument läggs upp i HRM?", "file": "kan-jag-fa-en-notis-nar-ett-nytt-dokument-laggs-upp-i-hrm.md"}
-,
-  {"title": "Kom igång med Lönerevision i HRM", "file": "kom-igang-med-lonerevision-i-hrm.md"}
-,
-  {"title": "Kompetenshantering i HRM - Hur skapar jag nya kompetenser?", "file": "kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser.md"}
-,
-  {"title": "Kopiera anställd mellan bolag – smartare personalhantering för hela koncernen", "file": "kopiera-anstalld-mellan-bolag-smartare-personalhantering-for-hela-koncernen.md"}
-,
-  {"title": "Kurshantering i HRM - Hur skapar jag nya kurser?", "file": "kurshantering-i-hrm-hur-skapar-jag-nya-kurser.md"}
-,
-  {"title": "LAS - Beräkningsdetaljer fördjupning", "file": "las-berakningsdetaljer-fordjupning.md"}
-,
-  {"title": "LAS - Inställningar och beräkningsdetaljer", "file": "las-installningar-och-berakningsdetaljer.md"}
-,
-  {"title": "Ny anställning? - Så hanterar HRM Employee onboarding av anställda", "file": "ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda.md"}
-,
-  {"title": "Nyanställning - Hur skapar jag ett effektivt anställningsflöde?", "file": "nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode.md"}
-,
-  {"title": "Överför Lönerevision till Flex Classic Lön", "file": "overfor-lonerevision-till-flex-classic-lon.md"}
-,
-  {"title": "Performance managemant - Hur genomför jag ett medarbetarsamtal i HRM Employee?", "file": "performance-managemant-hur-genomfor-jag-ett-medarbetarsamtal-i-hrm-employee.md"}
-,
-  {"title": "Performance managemant - Hur skapar jag samtalsmallar för medarbetarsamtal i HRM Employee?", "file": "performance-managemant-hur-skapar-jag-samtalsmallar-for-medarbetarsamtal-i-hrm-e.md"}
-,
-  {"title": "Performance managemant - Hur skapar jag samtalsmallar för medarbetarsamtal i HRM Employee?", "file": "performance-managemant-hur-skapar-jag-samtalsmallar-for-medarbetarsamtal-i-hrm-employee.md"}
-,
-  {"title": "Så får du full överblick över vilka kompetenser dina anställda har – och saknar?", "file": "sa-far-du-full-overblick-over-vilka-kompetenser-dina-anstallda-har-och-saknar.md"}
-,
-  {"title": "Så här fungerar Närmaste chef i HRM Employee", "file": "sa-har-fungerar-narmaste-chef-i-hrm-employee.md"}
-,
-  {"title": "Skapa Dashboard i HRM med Winningtemp-paneler", "file": "skapa-dashboard-i-hrm-med-winningtemp-paneler.md"}
-,
-  {"title": "Skapa en lönerevision", "file": "skapa-en-lonerevision.md"}
-,
-  {"title": "Skapa potter i en lönerevision", "file": "skapa-potter-i-en-lonerevision.md"}
-,
-  {"title": "Starta Lönerevision", "file": "starta-lonerevision.md"}
-,
-  {"title": "Valbara kolumner i Lönerevision", "file": "valbara-kolumner-i-lonerevision.md"}
-
+  {
+    "title": "Hur registrerar man personaldata och anställningsuppgifter i HRM Employee?",
+    "file": "hur-registrerar-man-personaldata-och-anstallningsuppgifter-i-hrm-employee.md",
+    "slug": "hur-registrerar-man-personaldata-och-anstallningsuppgifter-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "hrm-employee",
+      "offboarding",
+      "onboarding"
+    ],
+    "date": "den 14 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanterar-man-personaldata-och-anst%C3%A4llningsuppgifter-i-flex-hrm-employee",
+    "isConfig": false,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "HRM Employee, som nås via \"Personal\" i HRM, är huvudplatsen för att hantera anställdas person- och anställningsuppgifter. Användare kan navigera mellan anställda och anställningsperioder, redigera dat..."
+  },
+  {
+    "title": "Hantering av skyddade personuppgifter i HRM",
+    "file": "hantering-av-skyddade-personuppgifter-i-hrm.md",
+    "slug": "hantering-av-skyddade-personuppgifter-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hantering-av-skyddade-personuppgifter",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I artikeln hittar du information om hur Flex HRM har stöd för hantering av anställda med skyddade personuppgifter\nSkyddade personuppgifter\nHanteringen av skyddade personuppgifter är ett oerhört viktig..."
+  },
+  {
+    "title": "Hur hanterar jag anställda med skyddad folkbokföring?",
+    "file": "hur-hanterar-jag-anstallda-med-skyddad-folkbokforing.md",
+    "slug": "hur-hanterar-jag-anstallda-med-skyddad-folkbokforing",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanterar-jag-skyddad-folkbokforing-0",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du hanterar en anställd med skyddad folkbokföring.\nVad innebär skyddad folkbokföring?\nSkyddad folkbokföring är en skyddsåtgärd från Skatteverket för personer so..."
+  },
+  {
+    "title": "Hur fungerar rapporten Personallista i HRM Employee?",
+    "file": "hur-fungerar-rapporten-personallista-i-hrm-employee.md",
+    "slug": "hur-fungerar-rapporten-personallista-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-employee"
+    ],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/rapport-personallista-hrm-employee-0",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Rapporten\nPersonallistan\när en standardrapport i HRM Employee.\n![Bild](images/hur-fungerar-rapporten-personallista-i-hrm-employee_4ff1a7bb.png)\nRapporten är behörighetsstyrd vilket innebär att du enda..."
+  },
+  {
+    "title": "Kopiera anställd mellan bolag – smartare personalhantering för hela koncernen",
+    "file": "kopiera-anstalld-mellan-bolag-smartare-personalhantering-for-hela-koncernen.md",
+    "slug": "kopiera-anstalld-mellan-bolag-smartare-personalhantering-for-hela-koncernen",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 23 september 2025",
+    "url": "https://knowledge.flexapplications.se/kopiera-anstalld-inom-koncern",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du enkelt kan flytta anställda mellan olika juridiska bolag inom er koncern, där viktig grunddata automatiskt följer med.\nAtt manuellt registrera en anställd so..."
+  },
+  {
+    "title": "⚙️Hur ställer jag in våra befattningar?",
+    "file": "hur-staller-jag-in-vara-befattningar.md",
+    "slug": "hur-staller-jag-in-vara-befattningar",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 22 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-stalla-in-befattningar-0",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I detta register kan du som administratör lägga upp de befattningar som ni har i ert företag.\nBefattningar\nGå till\nAdministration > Register\noch välj\nBefattningar\nfrån menyn.\nDu får då upp följande vy..."
+  },
+  {
+    "title": "⚙️Hur ställer jag in anställningsformer?",
+    "file": "hur-staller-jag-in-anstallningsformer.md",
+    "slug": "hur-staller-jag-in-anstallningsformer",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 22 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-stalla-in-anstallningsform-0",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I detta register kan du som administratör lägga upp ett register över de anställlningsformer ni behöver hantera.\nAnställningsformer\nKlicka på\nInställningar > Personal\noch välj\nAnställningsformer\nfrån ..."
+  },
+  {
+    "title": "⚙️Så här fungerar Närmaste chef i HRM Employee",
+    "file": "sa-har-fungerar-narmaste-chef-i-hrm-employee.md",
+    "slug": "sa-har-fungerar-narmaste-chef-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Organisation",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning",
+      "hrm-employee"
+    ],
+    "date": "den 17 september 2025",
+    "url": "https://knowledge.flexapplications.se/sa-har-fungerar-narmaste-chef",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Funktionen Närmaste chef i HRM Employee hjälper dig att tydligt visa och hantera vem som är ansvarig chef för varje anställd.\n\nDen här artikeln beskriver hur närmaste chef fungerar i HRM.\nHär visas nä..."
+  },
+  {
+    "title": "Ny anställning? - Så hanterar HRM Employee onboarding av anställda",
+    "file": "ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda.md",
+    "slug": "ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument",
+      "hrm-employee",
+      "offboarding",
+      "onboarding",
+      "signering"
+    ],
+    "date": "den 23 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanterar-flex-hrm-employee-onboarding-och-offboarding-av-anst%C3%A4llda",
+    "isConfig": false,
+    "imageCount": 21,
+    "hasImages": true,
+    "excerpt": "HRM Employee effektiviserar onboarding genom guidade anställningsprocesser där man lägger upp nya anställda eller anställningsperioder, fyller i uppgifter och godkänner granskningssteg. Systemet stöde..."
+  },
+  {
+    "title": "⚙️Anställningsmall - Hur skapar jag ett effektivt anställningsflöde?",
+    "file": "anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode.md",
+    "slug": "anstallningsmall-hur-skapar-jag-ett-effektivt-anstallningsflode",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 26 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/anstallningsmall-hur-skapa",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Anställningsmall används för att förenkla processen när nyanställda skall läggas upp i systemet. Denna artikel beskriver hur du ställer in anställningsmallar i HRM.\nSkapa anställningsmallar\nAnställnin..."
+  },
+  {
+    "title": "⚙️Nyanställning - Hur skapar jag ett effektivt anställningsflöde?",
+    "file": "nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode.md",
+    "slug": "nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument",
+      "onboarding"
+    ],
+    "date": "den 26 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/nyanstallning-hur-skapa-0",
+    "isConfig": true,
+    "imageCount": 17,
+    "hasImages": true,
+    "excerpt": "Processen för att hantera nyanställda i systemet kan se väldigt olika ut i olika organisationer, och inte sällan sköter man delar av denna process med hjälp av dokument vid sidan av systemet. För att ..."
+  },
+  {
+    "title": "Hur skickar jag en HR-blankett för e-signering i HRM Employee?",
+    "file": "hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee.md",
+    "slug": "hur-skickar-jag-en-hr-blankett-for-e-signering-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument",
+      "hrm-employee",
+      "signering"
+    ],
+    "date": "den 12 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skickar-jag-en-hrblankett-for-esignering-i-hrm-employee",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "HRM Employee möjliggör e-signering av HR-blanketter så som Anställningsavtal och andra HR-blanketter så som intyg.\nSkicka för E-signering\nLägg till mottagare\n- Kontrollera/välj mottagarnas uppgifter s..."
+  },
+  {
+    "title": "Digital signering - Hur använder jag e-signering via Verified i HRM?",
+    "file": "digital-signering-hur-anvander-jag-e-signering-via-verified-i-hrm.md",
+    "slug": "digital-signering-hur-anvander-jag-e-signering-via-verified-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "signering"
+    ],
+    "date": "den 25 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/integration-till-verified-0-0",
+    "isConfig": false,
+    "imageCount": 19,
+    "hasImages": true,
+    "excerpt": "Syftet med integrationen mellan Verified och HRM är att smidigt skicka anställningsdokument för e-signering. \nDenna artikel beskriver hur du använder e-signering via Verified- HRM.\n⚙️\nAdministratör so..."
+  },
+  {
+    "title": "Digital signering - Hur använder jag e-signering via Scrive i HRM?",
+    "file": "digital-signering-hur-anvander-jag-e-signering-via-scrive-i-hrm.md",
+    "slug": "digital-signering-hur-anvander-jag-e-signering-via-scrive-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "signering"
+    ],
+    "date": "den 26 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/integration-till-scrive-0",
+    "isConfig": false,
+    "imageCount": 17,
+    "hasImages": true,
+    "excerpt": "Syftet med integrationen mellan Scrive och HRM är att smidigt skicka anställningsdokument för e-signering. \nDenna artikel beskriver hur du använder e-signering via Scrive - HRM.\n⚙️\nAdministratör som s..."
+  },
+  {
+    "title": "⚙️Hur aktiverar jag e-signering via Scrive i HRM?",
+    "file": "hur-aktiverar-jag-e-signering-via-scrive-i-hrm.md",
+    "slug": "hur-aktiverar-jag-e-signering-via-scrive-i-hrm",
+    "category": "employee",
+    "subcategory": "Dokument & E-signering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "signering"
+    ],
+    "date": "den 18 september 2025",
+    "url": "https://knowledge.flexapplications.se/aktivera-integration-till-scrive-0-0",
+    "isConfig": true,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Syftet med integrationen mellan Scrive och HRM är att smidigt skicka anställningsdokument för e-signering. \nDenna artikel beskriver hur du aktiverar integrationen för e-signering via Scrive - HRM.\n💻Hä..."
+  },
+  {
+    "title": "⚙️Hur aktiverar jag e-signering via Verified i HRM?",
+    "file": "hur-aktiverar-jag-e-signering-via-verified-i-hrm.md",
+    "slug": "hur-aktiverar-jag-e-signering-via-verified-i-hrm",
+    "category": "employee",
+    "subcategory": "Dokument & E-signering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "signering"
+    ],
+    "date": "den 26 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/aktivera-integration-till-verified-0-0-0",
+    "isConfig": true,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Syftet med integrationen mellan Verified och HRM är att smidigt skicka anställningsdokument för e-signering. \nDenna artikel beskriver hur du aktiverar integrationen för e-signering via Verified - HRM...."
+  },
+  {
+    "title": "Hur hanterar man dokument för anställda i HRM Employee?",
+    "file": "hur-hanterar-man-dokument-for-anstallda-i-hrm-employee.md",
+    "slug": "hur-hanterar-man-dokument-for-anstallda-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "hrm-employee",
+      "signering"
+    ],
+    "date": "den 12 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanterar-man-dokument-for-anstallda-i-hrm-employee",
+    "isConfig": false,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "HRM Employee möjliggör uppladdning, nedladdning och radering av dokument kopplade till anställda, med möjlighet att kategorisera dem för behörighetsstyrning. Det finns även stöd för att generera HR-bl..."
+  },
+  {
+    "title": "Hur tar jag fram ett CV för en anställd i HRM Employee?",
+    "file": "hur-tar-jag-fram-ett-cv-for-en-anstalld-i-hrm-employee.md",
+    "slug": "hur-tar-jag-fram-ett-cv-for-en-anstalld-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "hrm-employee",
+      "kompetens",
+      "kurs"
+    ],
+    "date": "den 26 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-tar-jag-fram-ett-cv-for-en-anstalld",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "I HRM Employee finns stöd för att generera HR-blanketter (som intyg och CV) med data från anställningsuppgifter.\nCV för erfarenheter, kompetenser och/eller tidigareprojekt.\nLadda hem HR-blanketter - C..."
+  },
+  {
+    "title": "Hur lägger jag upp ett dokument på startsidan i HRM?",
+    "file": "hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm.md",
+    "slug": "hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "dokument"
+    ],
+    "date": "den 17 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-lagger-jag-upp-ett-dokument-pa-startsidan-0",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du delar dokument via startsidan i HRM.\nDela dokument på startsidan\nPå Startidan kan du lägga upp dokument som andra ska kunna ta del av. Vanliga dokument på startsidan är ..."
+  },
+  {
+    "title": "⚙️Hur fungerar Dokumentkategorier i HRM Employee?",
+    "file": "hur-fungerar-dokumentkategorier-i-hrm-employee.md",
+    "slug": "hur-fungerar-dokumentkategorier-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "hrm-employee",
+      "kurs",
+      "signering"
+    ],
+    "date": "den 17 september 2025",
+    "url": "https://knowledge.flexapplications.se/sa-har-fungerar-dokumentkategorier-0",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "I HRM Employee finns det möjlighet att lägga upp dokument på anställda, på startsidan och hantera olika typer av HR-blanketter. För att kategorisera in olika dokument används dokumentkategorier i HRM...."
+  },
+  {
+    "title": "⚙️Kan jag få en notis när ett nytt dokument läggs upp i HRM?",
+    "file": "kan-jag-fa-en-notis-nar-ett-nytt-dokument-laggs-upp-i-hrm.md",
+    "slug": "kan-jag-fa-en-notis-nar-ett-nytt-dokument-laggs-upp-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument",
+      "signering"
+    ],
+    "date": "den 17 september 2025",
+    "url": "https://knowledge.flexapplications.se/notis-nar-ett-nytt-dokument-laggs-upp-0",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "I HRM Employee finns det möjlighet att lägga upp dokument på anställda och på startsidan. För att göra det enklare att uppmärksamma när ett nytt dokument lagts upp finns det en påminnelse för dokument..."
+  },
+  {
+    "title": "⚙️Hur skapar jag HR-blanketter i HRM Employee?",
+    "file": "hur-skapar-jag-hr-blanketter-i-hrm-employee.md",
+    "slug": "hur-skapar-jag-hr-blanketter-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "hrm-employee",
+      "signering"
+    ],
+    "date": "den 17 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-hr-blanketter-0",
+    "isConfig": true,
+    "imageCount": 23,
+    "hasImages": true,
+    "excerpt": "HRM Employee möjliggör för att generera HR-blanketter så som anställningavtal, olika intyg och CV med data från anställningsuppgifter.\n\nDenna artikel beskriver hur du som administratör skapar och redi..."
+  },
+  {
+    "title": "⚙️Hur skapar jag HR-blanketter för CV i HRM Employee?",
+    "file": "hur-skapar-jag-hr-blanketter-for-cv-i-hrm-employee.md",
+    "slug": "hur-skapar-jag-hr-blanketter-for-cv-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "hrm-employee",
+      "kompetens",
+      "kurs"
+    ],
+    "date": "den 27 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-hr-blanketter-for-cv-0",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "HRM Employee gör det möjligt att generera HR-blanketter, som till exempel CV, baserat på anställningsuppgifter, kompetenser, kurser och erfarenheter.\n\nDenna artikel beskriver hur du som administratör ..."
+  },
+  {
+    "title": "⚙️Hur skapar jag HR-blanketter för startsidan i HRM Employee?",
+    "file": "hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee.md",
+    "slug": "hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument",
+      "hrm-employee"
+    ],
+    "date": "den 26 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-hr-blanketter-for-startsidan-0",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Dela dokument på startsidan via HR-blanketter\n\nDenna artikel beskriver hur du som administratör skapar och redigerar mallar för HR-blanketter för delning via startsidan i HRM.\n⚙️Här kan du läsa mer om..."
+  },
+  {
+    "title": "Hur hanterar jag uppgifter och uppdrag i HRM?",
+    "file": "hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm.md",
+    "slug": "hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "offboarding",
+      "onboarding"
+    ],
+    "date": "den 4 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanterar-jag-uppgifter-och-uppdrag-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "HRM effektiviserar onboarding och offboarding genom guidade anställningsprocesser där man kan följa upp uppdrag via en panel på startsidan. \n\nDenna artikel beskriver hur du hanterar dina tilldelade up..."
+  },
+  {
+    "title": "Hur startar jag nya uppgifter och uppdrag i HRM?",
+    "file": "hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm.md",
+    "slug": "hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "offboarding",
+      "onboarding"
+    ],
+    "date": "den 27 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-uppgifter-och-uppdrag-i-flex-hrm-0",
+    "isConfig": false,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "HRM Employee effektiviserar onboarding och offboarding genom guidade anställningsprocesser där man kan följa upp uppdrag via en panel på startsidan. Uppgifter och Uppdrag kan även användas för uppfölj..."
+  },
+  {
+    "title": "⚙️Digitala checklistor - Hur skapar jag ett uppdrag i HRM?",
+    "file": "digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm.md",
+    "slug": "digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm",
+    "category": "employee",
+    "subcategory": "Onboarding & Offboarding",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument",
+      "offboarding",
+      "onboarding"
+    ],
+    "date": "den 17 september 2025",
+    "url": "https://knowledge.flexapplications.se/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm-0",
+    "isConfig": true,
+    "imageCount": 19,
+    "hasImages": true,
+    "excerpt": "HRM Employee effektiviserar onboarding och offboarding genom guidade anställningsprocesser där man kan följa upp uppdrag via en panel på startsidan. Uppgifter och Uppdrag kan även användas för uppfölj..."
+  },
+  {
+    "title": "Performance managemant - Hur genomför jag ett medarbetarsamtal i HRM Employee?",
+    "file": "performance-managemant-hur-genomfor-jag-ett-medarbetarsamtal-i-hrm-employee.md",
+    "slug": "performance-managemant-hur-genomfor-jag-ett-medarbetarsamtal-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Dokument & E-signering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "dokument",
+      "hrm-employee",
+      "medarbetarsamtal",
+      "signering"
+    ],
+    "date": "den 16 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-genomfor-jag-ett-medarbetarsamtal-i-hrm-employee-0",
+    "isConfig": false,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "I HRM Employee kan du dokumentera och hantera medarbetarsamtal direkt i systemet, inklusive använda funktionalitet för delning och signering.\nMedarbetarsamtal\nNär det är dags för medarbetarsamtal kan ..."
+  },
+  {
+    "title": "Hur följer jag upp vilka som har gjort sina medarbetarsamtal?",
+    "file": "hur-foljer-jag-upp-vilka-som-har-gjort-sina-medarbetarsamtal.md",
+    "slug": "hur-foljer-jag-upp-vilka-som-har-gjort-sina-medarbetarsamtal",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "medarbetarsamtal"
+    ],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-folja-upp-medarbetarsamtal-0",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Denna artikel innehåller vanliga frågor för medarbetarsamtal i HRM\nDu kan följ upp medarbetarsamtalens status via\nRapportgeneratorn.\nAnvänd huvuddatakälla\nAnställda\noch kopplingsbar datakälla\nMedarbet..."
+  },
+  {
+    "title": "⚙️Performance managemant - Hur skapar jag samtalsmallar för medarbetarsamtal i HRM Employee?",
+    "file": "performance-managemant-hur-skapar-jag-samtalsmallar-for-medarbetarsamtal-i-hrm-employee.md",
+    "slug": "performance-managemant-hur-skapar-jag-samtalsmallar-for-medarbetarsamtal-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Medarbetarsamtal",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "dokument",
+      "hrm-employee",
+      "medarbetarsamtal",
+      "signering"
+    ],
+    "date": "den 11 september 2025",
+    "url": "https://knowledge.flexapplications.se/performance-management-hur-skapar-jag-en-samtalsmall-i-hrm-employee-0",
+    "isConfig": true,
+    "imageCount": 29,
+    "hasImages": true,
+    "excerpt": "I HRM Employee kan du dokumentera och hantera medarbetarsamtal direkt i systemet, inklusive använda funktionalitet för delning och signering.\n\nDenna artikel beskriver hur du skapar samtalsmallar för p..."
+  },
+  {
+    "title": "Frågor och svar - Winningtemp & HRM",
+    "file": "fragor-och-svar-winningtemp-hrm.md",
+    "slug": "fragor-och-svar-winningtemp-hrm",
+    "category": "employee",
+    "subcategory": "Integration",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 11 september 2025",
+    "url": "https://knowledge.flexapplications.se/fragor-och-svar-winningtemp-paneler-0",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Den här artikeln svarar på vanligt förekommande frågor om integrationen om Winningtemp & HRM\nKan vi visa SMART-index i HRM?\nNej, SMART-index ser du endast i Winningtemp\nVisas jämförande index för orga..."
+  },
+  {
+    "title": "⚙️Exempel på Winningtemp-paneler i HRM Dashboard",
+    "file": "exempel-pa-winningtemp-paneler-i-hrm-dashboard.md",
+    "slug": "exempel-pa-winningtemp-paneler-i-hrm-dashboard",
+    "category": "employee",
+    "subcategory": "Integration",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 11 september 2025",
+    "url": "https://knowledge.flexapplications.se/exempel-winningtemp-paneler-0",
+    "isConfig": true,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Den här artikeln ger exempel på hur Winningtemp-paneler kan se ut i HRM.\nVälj vilka paneler som ni vill visa i HRM. I panelens inställningar kan du välja mätare eller graf utifrån ert behov. Nedan kom..."
+  },
+  {
+    "title": "⚙️Pulsmätningar och medarbetarundersökningar - Hur integrerar jag Winningtemp & HRM?",
+    "file": "pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm.md",
+    "slug": "pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/aktivera-integration-winningtemp-hrm-0",
+    "isConfig": true,
+    "imageCount": 9,
+    "hasImages": true,
+    "excerpt": "Winningtemps kompletta medarbetarundersökning samlar löpande anonym feedback kring hur era medarbetare upplever sitt jobb och sin arbetssituation. Med sin unika kombination av pulsundersökningar och f..."
+  },
+  {
+    "title": "⚙️Skapa Dashboard i HRM med Winningtemp-paneler",
+    "file": "skapa-dashboard-i-hrm-med-winningtemp-paneler.md",
+    "slug": "skapa-dashboard-i-hrm-med-winningtemp-paneler",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "dokument"
+    ],
+    "date": "den 11 september 2025",
+    "url": "https://knowledge.flexapplications.se/skapa-dashboard-i-hrm-med-winningtemp-paneler",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Den här artikeln beskriver hur du skapar en dashboard i HRM med temperaturer från Winningtemp.\nSkapa Dashboard i HRM med Winningtemp-paneler\nFör att skapa nya Dashboards i HRM går du in under\nSystemre..."
+  },
+  {
+    "title": "Så får du full överblick över vilka kompetenser dina anställda har – och saknar?",
+    "file": "sa-far-du-full-overblick-over-vilka-kompetenser-dina-anstallda-har-och-saknar.md",
+    "slug": "sa-far-du-full-overblick-over-vilka-kompetenser-dina-anstallda-har-och-saknar",
+    "category": "employee",
+    "subcategory": "Kompetens & Kurser",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "cv",
+      "kompetens",
+      "kurs"
+    ],
+    "date": "den 5 september 2025",
+    "url": "https://knowledge.flexapplications.se/sa-far-du-full-overblick-over-kompetenser",
+    "isConfig": false,
+    "imageCount": 36,
+    "hasImages": true,
+    "excerpt": "HRM Employee möjliggör centraliserad hantering av kompetenser och kurser för anställda. Systemet tillåter koppling av kompetenser till roller och individer, spårning av kompetensnivåer och målnivåer, ..."
+  },
+  {
+    "title": "Kan jag ta ur en rapport med anställdas kompetenser/kurser?",
+    "file": "kan-jag-ta-ur-en-rapport-med-anstalldas-kompetenser-kurser.md",
+    "slug": "kan-jag-ta-ur-en-rapport-med-anstalldas-kompetenser-kurser",
+    "category": "employee",
+    "subcategory": "Kompetens & Kurser",
+    "type": "faq",
+    "difficulty": "beginner",
+    "tags": [
+      "kompetens",
+      "kurs"
+    ],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/rapport-kompetenser-kurser-0",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Denna artikel innehåller vanliga frågor för kompetenser och kurser i HRM\nJa, du kan ta ut rapporter med anställdas kompetenser och kurser i rapportgeneratorn i HRM. Använd huvuddatakälla Anställda och..."
+  },
+  {
+    "title": "Kan jag importera Kompetenser och kurser i HRM?",
+    "file": "kan-jag-importera-kompetenser-och-kurser-i-hrm.md",
+    "slug": "kan-jag-importera-kompetenser-och-kurser-i-hrm",
+    "category": "employee",
+    "subcategory": "Kompetens & Kurser",
+    "type": "faq",
+    "difficulty": "intermediate",
+    "tags": [
+      "kompetens",
+      "kurs"
+    ],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/import-kompetenser-kurser-0",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Denna artikel innehåller vanliga frågor för kompetenser och kurser i HRM\nKan jag importera in register för kompetens och kurser i HRM?\nNej, idag kan du inte importera in registren för kompetenser och ..."
+  },
+  {
+    "title": "⚙️Kompetenshantering i HRM - Hur skapar jag nya kompetenser?",
+    "file": "kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser.md",
+    "slug": "kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning",
+      "kompetens",
+      "kurs"
+    ],
+    "date": "den 26 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/kompetenshantering-i-hrm-hur-skapa-nya-kompetenser-0",
+    "isConfig": true,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "HRM Employee möjliggör centraliserad hantering av kompetenser för anställda. Systemet tillåter koppling av kompetenser till roller och individer samt spårning av kompetensnivåer och målnivåer.\n\nDenna ..."
+  },
+  {
+    "title": "⚙️Kurshantering i HRM - Hur skapar jag nya kurser?",
+    "file": "kurshantering-i-hrm-hur-skapar-jag-nya-kurser.md",
+    "slug": "kurshantering-i-hrm-hur-skapar-jag-nya-kurser",
+    "category": "employee",
+    "subcategory": "Kompetens & Kurser",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "cv",
+      "kompetens",
+      "kurs"
+    ],
+    "date": "den 26 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/kurshantering-i-hrm-hur-skapa-nya-kurser-0",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "HRM Employee möjliggör hantering av kurser och uppföljning av kurstillfällen för anställda.\n\nDenna artikel beskriver hur du administrerar och skapar nya kurser och kurstillfällen.\n💻Här finns en beskri..."
+  },
+  {
+    "title": "⚙️Integration till BKY - Hur kopplar jag BKY och HRM?",
+    "file": "integration-till-bky-hur-kopplar-jag-bky-och-hrm.md",
+    "slug": "integration-till-bky-hur-kopplar-jag-bky-och-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "kompetens"
+    ],
+    "date": "den 26 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/integration-till-bky-",
+    "isConfig": true,
+    "imageCount": 15,
+    "hasImages": true,
+    "excerpt": "Syftet med integrationen mellan BKY och HRM är att säkerställa att ingen anställd framför fordon utan giltig behörighet/kompetens.\nDenna artikel beskriver hur du aktiverar anslutningen till BKY från H..."
+  },
+  {
+    "title": "Hur hanterar HRM Employee offboarding av anställda?",
+    "file": "hur-hanterar-hrm-employee-offboarding-av-anstallda.md",
+    "slug": "hur-hanterar-hrm-employee-offboarding-av-anstallda",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "hrm-employee",
+      "offboarding",
+      "onboarding"
+    ],
+    "date": "den 20 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanterar-flex-hrm-employee-offboarding-av-anst%C3%A4llda-0",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "HRM Employee effektiviserar offboarding genom guidad anställningsprocess där man avslutar anställningar och följer upp uppdrag via en panel på startsidan.\nOffboarding - Avsluta anställd\nAtt avsluta an..."
+  },
+  {
+    "title": "⚙️Hur ställer jag in avgångsorsaker?",
+    "file": "hur-staller-jag-in-avgangsorsaker.md",
+    "slug": "hur-staller-jag-in-avgangsorsaker",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 22 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-stalla-in-avgangsorsak-0",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Det finns flera anledningar till att hålla ordning på varför anställda slutar, dels för att ha koll på reglerna i lagen om anställningsskydd (LAS) samt orsaken till personalomsättning, dels för att ku..."
+  },
+  {
+    "title": "Genomför Lönekartläggning i HRM - Steg 1 förberedelser",
+    "file": "genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser.md",
+    "slug": "genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 4 november 2025",
+    "url": "https://knowledge.flexapplications.se/genomfor-lonekartlaggning-i-hrm-forberedelser-0",
+    "isConfig": false,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg för steg.\n\nLönekartläggning är ett lagkrav (Diskrimineringslagen 2008:567 3kap.) och ska utföras varje år i syfte att arbetsgiva..."
+  },
+  {
+    "title": "Genomför Lönekartläggning i HRM - Steg 2 arbetsvärdering",
+    "file": "genomfor-lonekartlaggning-i-hrm-steg-2-arbetsvardering.md",
+    "slug": "genomfor-lonekartlaggning-i-hrm-steg-2-arbetsvardering",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 4 november 2025",
+    "url": "https://knowledge.flexapplications.se/genomfor-lonekartlaggning-i-hrm-arbetsvardering-0",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg för steg.\n\nHär går vi igenom hur du gör steget för arbetsvärdering.\nArbetsvärdering\n![Bild](images/genomfor-lonekartlaggning-i-h..."
+  },
+  {
+    "title": "Genomför Lönekartläggning i HRM - Steg 3 anställda",
+    "file": "genomfor-lonekartlaggning-i-hrm-steg-3-anstallda.md",
+    "slug": "genomfor-lonekartlaggning-i-hrm-steg-3-anstallda",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 4 november 2025",
+    "url": "https://knowledge.flexapplications.se/genomfor-lonekartlaggning-i-hrm-anstallda-0",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg för steg.\n\nHär går vi igenom vyn Anställda.\nAnställda\n![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_93a05898.p..."
+  },
+  {
+    "title": "Genomför Lönekartläggning i HRM - Steg 4 analys",
+    "file": "genomfor-lonekartlaggning-i-hrm-steg-4-analys.md",
+    "slug": "genomfor-lonekartlaggning-i-hrm-steg-4-analys",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument"
+    ],
+    "date": "den 4 november 2025",
+    "url": "https://knowledge.flexapplications.se/genomfor-lonekartlaggning-i-hrm-analys-0",
+    "isConfig": false,
+    "imageCount": 21,
+    "hasImages": true,
+    "excerpt": "Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg för steg.\n\nHär går vi igenom hur du gör analyserna i lönekartläggningen.\nAnalys\n![Bild](images/genomfor-lonekartlaggning-i-hrm-s..."
+  },
+  {
+    "title": "Genomför Lönekartläggning i HRM - Steg 5 dokument",
+    "file": "genomfor-lonekartlaggning-i-hrm-steg-5-dokument.md",
+    "slug": "genomfor-lonekartlaggning-i-hrm-steg-5-dokument",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument"
+    ],
+    "date": "den 4 november 2025",
+    "url": "https://knowledge.flexapplications.se/genomfor-lonekartlaggning-i-hrm-dokument-0",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg för steg.\n\nHär går vi igenom funktionen för slutrapport och dokumentation.\nDokumentation\n![Bild](images/genomfor-lonekartlaggnin..."
+  },
+  {
+    "title": "Exportera värden från Lönekartläggningen i HRM",
+    "file": "exportera-varden-fran-lonekartlaggningen-i-hrm.md",
+    "slug": "exportera-varden-fran-lonekartlaggningen-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 4 november 2025",
+    "url": "https://knowledge.flexapplications.se/export-i-hrm-lonekartlagging-0",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Export\nDu kan exportera följande från lönekartläggningen\nSamtliga arbeten\nKlarmarkerade arbeten\nKlarmarkerade arbeten\n![Bild](images/exportera-varden-fran-lonekartlaggningen-i-hrm_561463fa.png)\nNär du..."
+  },
+  {
+    "title": "Vad loggas i Lönekartläggningen i HRM?",
+    "file": "vad-loggas-i-lonekartlaggningen-i-hrm.md",
+    "slug": "vad-loggas-i-lonekartlaggningen-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "beginner",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 4 november 2025",
+    "url": "https://knowledge.flexapplications.se/vad-loggas-i-hrm-lonekartlagging-0",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Följande loggas i lönekartläggningen\nLönekartläggning skapad\nLönekartläggning beräknas\nAnställning borttagen/tillagd\nKlarmarkering/Klarmarkering borttagen\nByte av arbete i Förberedelser\nInställning be..."
+  },
+  {
+    "title": "⚙️Kom igång med Lönekartläggning i HRM - Förbered HRM för din första lönekartläggning",
+    "file": "kom-igang-med-lonekartlaggning-i-hrm-forbered-hrm-for-din-forsta-lonekartlaggning.md",
+    "slug": "kom-igang-med-lonekartlaggning-i-hrm-forbered-hrm-for-din-forsta-lonekartlaggning",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 22 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/kom-igang-med-lonekartlaggning-i-hrm-0",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Den här artikeln guidar dig steg för steg vad du behöver förbereda och ställa in i HRM för att vara redo att genomföra en Lönekartläggning.\nLönekartläggning - Inställningar\nLicens\nAktivera licensen fö..."
+  },
+  {
+    "title": "Arbeta med årets Lönerevision",
+    "file": "arbeta-med-arets-lonerevision.md",
+    "slug": "arbeta-med-arets-lonerevision",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "lönerevision"
+    ],
+    "date": "den 30 september 2025",
+    "url": "https://knowledge.flexapplications.se/arbeta-med-arets-lonerevision-0",
+    "isConfig": false,
+    "imageCount": 16,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  \n\nNedan beskrivs funktionerna i lönerevisionen när den har status Startad.\n![Bild](images/arbeta-med-arets-lonerevisi..."
+  },
+  {
+    "title": "Kan jag exportera årets Lönerevision till en Excell-fil?",
+    "file": "kan-jag-exportera-arets-lonerevision-till-en-excell-fil.md",
+    "slug": "kan-jag-exportera-arets-lonerevision-till-en-excell-fil",
+    "category": "employee",
+    "subcategory": "Lönerevision",
+    "type": "faq",
+    "difficulty": "advanced",
+    "tags": [
+      "lönerevision"
+    ],
+    "date": "den 30 september 2025",
+    "url": "https://knowledge.flexapplications.se/exportera-arets-lonerevision-0",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  \n\nNedan beskrivs funktionen Exportera i lönerevisionen.\nArbeta med lönerevisionen -\nExport till Excel\n![Bild](images/..."
+  },
+  {
+    "title": "Skapa en lönerevision",
+    "file": "skapa-en-lonerevision.md",
+    "slug": "skapa-en-lonerevision",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "lönerevision"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/skapa-lonerevision-0",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Här beskriver vi hur du arbetar med årets lönerevision. \n\nLäs vidare för att se hur du som administratör skapar upp lönerevisionen och gör de förberedande stegen.\n![Bild](images/skapa-en-lonerevision_..."
+  },
+  {
+    "title": "Skapa potter i en lönerevision",
+    "file": "skapa-potter-i-en-lonerevision.md",
+    "slug": "skapa-potter-i-en-lonerevision",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lönerevision"
+    ],
+    "date": "den 30 september 2025",
+    "url": "https://knowledge.flexapplications.se/skapa-potter-i-en-lonerevision-0",
+    "isConfig": false,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "Här beskriver vi hur du arbetar med årets lönerevision. \n\nLäs vidare för att se hur du som administratör skapar upp potter i lönerevisionen.\n![Bild](images/skapa-potter-i-en-lonerevision_b8720f89.png)..."
+  },
+  {
+    "title": "Valbara kolumner i Lönerevision",
+    "file": "valbara-kolumner-i-lonerevision.md",
+    "slug": "valbara-kolumner-i-lonerevision",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "lönerevision"
+    ],
+    "date": "den 30 september 2025",
+    "url": "https://knowledge.flexapplications.se/valbara-kolumner-i-lonerevision-0",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  \n\nNedan beskrivs funktionen Valbara kolumner under systemets förberedande steg.\n![Bild](images/valbara-kolumner-i-lon..."
+  },
+  {
+    "title": "Starta Lönerevision",
+    "file": "starta-lonerevision.md",
+    "slug": "starta-lonerevision",
+    "category": "employee",
+    "subcategory": "Lönerevision",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "lönerevision"
+    ],
+    "date": "den 24 september 2025",
+    "url": "https://knowledge.flexapplications.se/starta-lonerevision-0",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Här beskriver vi hur du arbetar med årets lönerevision. \n\nLäs vidare för att se hur du som administratör startar lönerevisionen när alla förberedande steg är klara.\n![Bild](images/starta-lonerevision_..."
+  },
+  {
+    "title": "Hur verkställer jag årets Lönerevision?",
+    "file": "hur-verkstaller-jag-arets-lonerevision.md",
+    "slug": "hur-verkstaller-jag-arets-lonerevision",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lönerevision"
+    ],
+    "date": "den 24 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-verkstaller-jag-arets-lonerevision-0",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  \n\nNedan beskrivs funktionen Verkställ i lönerevisionen.\n![Bild](images/hur-verkstaller-jag-arets-lonerevision_059724d..."
+  },
+  {
+    "title": "Överför Lönerevision till Flex Classic Lön",
+    "file": "overfor-lonerevision-till-flex-classic-lon.md",
+    "slug": "overfor-lonerevision-till-flex-classic-lon",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lönerevision"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/overfor-lonerevision-till-flex-lon",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  \n\nNedan beskrivs funktionen Överför till lön.\n![Bild](images/overfor-lonerevision-till-flex-classic-lon_d98ef478.png)..."
+  },
+  {
+    "title": "Anställd ingår i aktiv Lönerevision",
+    "file": "anstalld-ingar-i-aktiv-lonerevision.md",
+    "slug": "anstalld-ingar-i-aktiv-lonerevision",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "beginner",
+    "tags": [
+      "lönerevision"
+    ],
+    "date": "den 24 september 2025",
+    "url": "https://knowledge.flexapplications.se/anstalld-ingar-i-aktiv-lonerevision",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "För att uppmärksamma att en anställd ingår i en aktiv lönerevision, d.v.s. där den anställdes nya lön inte blivit verkställd, visas nedan information i sidomenyn Lön i anställdaregistret\n![Bild](image..."
+  },
+  {
+    "title": "⚙️Kom igång med Lönerevision i HRM",
+    "file": "kom-igang-med-lonerevision-i-hrm.md",
+    "slug": "kom-igang-med-lonerevision-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lönerevision"
+    ],
+    "date": "den 30 september 2025",
+    "url": "https://knowledge.flexapplications.se/kom-igang-med-lonerevision-i-hrm",
+    "isConfig": true,
+    "imageCount": 9,
+    "hasImages": true,
+    "excerpt": "Första gången du ska genomföra en lönerevision i HRM behöver du göra några grundinställningar. \n\nDen här guiden hjälper dig som administratör att förbereda systemet steg för steg.\nGrundinställningar\nL..."
+  },
+  {
+    "title": "LAS - Företräde till återanställning",
+    "file": "las-foretrade-till-ateranstallning.md",
+    "slug": "las-foretrade-till-ateranstallning",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning",
+      "kurs"
+    ],
+    "date": "den 20 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/las-foretrade-till-ateranstallning-0",
+    "isConfig": false,
+    "imageCount": 9,
+    "hasImages": true,
+    "excerpt": "I denna artikel fokuserar vi på LAS-listan Företrädesrätt till återanställning som används när en verksamhet har möjlighet att anställa och därmed återanställa personal. \n\nOm du behöver rekrytera, mås..."
+  },
+  {
+    "title": "LAS - Rätt till tillsvidareanställning",
+    "file": "las-ratt-till-tillsvidareanstallning.md",
+    "slug": "las-ratt-till-tillsvidareanstallning",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/las-ratt-till-tillsvidareanstallning-0",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "I denna artikel fokuserar vi på LAS-listan Rätt till tillsvidareanställning som är en funktion i HRM som hjälper dig att hålla koll på om en anställd med Särskild visstidsanställning eller vikariat bö..."
+  },
+  {
+    "title": "LAS - Turordning vid uppsägning",
+    "file": "las-turordning-vid-uppsagning.md",
+    "slug": "las-turordning-vid-uppsagning",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/las-turordning-vid-uppsagning-0",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "I denna artikel fokuserar vi på Turordning vid uppsägning som används när en verksamhet behöver minska på personalen på grund av arbetsbrist eller sviktande ekonomi. \n\nTurordningen bestämmer i vilken ..."
+  },
+  {
+    "title": "⚙️LAS - Inställningar och beräkningsdetaljer",
+    "file": "las-installningar-och-berakningsdetaljer.md",
+    "slug": "las-installningar-och-berakningsdetaljer",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 20 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/las-installningar-och-berakningsdetaljer-0",
+    "isConfig": true,
+    "imageCount": 21,
+    "hasImages": true,
+    "excerpt": "Funktionen LAS ingår i modulerna HRM Employee och HRM Payroll. LAS-listor är viktiga verktyg inom arbetsrätt och personaladministration. Dessa listor hjälper arbetsgivaren att hantera vissa anställnin..."
+  },
+  {
+    "title": "⚙️LAS - Beräkningsdetaljer fördjupning",
+    "file": "las-berakningsdetaljer-fordjupning.md",
+    "slug": "las-berakningsdetaljer-fordjupning",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/las-berakningsdetaljer-fordjupning-0",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Funktionen LAS ingår i modulerna HRM Employee och HRM Payroll.\n\nI denna artikel finns en beskrivning om beräkningarna för SÄVA och Vikariat i LAS-listorna.\nBeräkning för Vikariat (VIK)\nBeräkningen för..."
+  },
+  {
+    "title": "⚙️Exempel på egna fält i HRM Employee",
+    "file": "exempel-pa-egna-falt-i-hrm-employee.md",
+    "slug": "exempel-pa-egna-falt-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "cv",
+      "dokument",
+      "hrm-employee",
+      "medarbetarsamtal",
+      "signering"
+    ],
+    "date": "den 11 september 2025",
+    "url": "https://knowledge.flexapplications.se/exempel-egna-falt-i-hrm-employee-0-0",
+    "isConfig": true,
+    "imageCount": 27,
+    "hasImages": true,
+    "excerpt": "Egna fält kan byggas under befintliga flikar i personregistret eller i egna flikar. Dessa erbjuder en frihet för er att välja hur flikarna ska byggas, vilket innehåll som ska visas och på vilket sätt...."
+  },
+  {
+    "title": "⚙️Hur skapar jag Egna flikar och fält i HRM Employee?",
+    "file": "hur-skapar-jag-egna-flikar-och-falt-i-hrm-employee.md",
+    "slug": "hur-skapar-jag-egna-flikar-och-falt-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "cv",
+      "dokument",
+      "hrm-employee",
+      "kompetens",
+      "lönerevision",
+      "medarbetarsamtal"
+    ],
+    "date": "den 11 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-egna-flikar-falt-i-hrm-employee-0",
+    "isConfig": true,
+    "imageCount": 32,
+    "hasImages": true,
+    "excerpt": "Egna fält kan byggas under befintliga flikar i personregistret eller i egna flikar. Dessa erbjuder en frihet för er att välja hur flikarna ska byggas, vilket innehåll som ska visas och på vilket sätt...."
+  },
+  {
+    "title": "Hur tar jag bort en anställd?",
+    "file": "hur-tar-jag-bort-en-anstalld.md",
+    "slug": "hur-tar-jag-bort-en-anstalld",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument"
+    ],
+    "date": "den 14 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-tar-jag-bort-en-anst%C3%A4lld",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du tar bort en anställd i HRM Employee.\n![Bild](images/hur-tar-jag-bort-en-anstalld_5f7bc97e.png)\nUnder\nPersonal> Anställda\ni HRM hittar du anställdaregister me..."
+  },
+  {
+    "title": "Hur tar jag bort en anställningsperiod?",
+    "file": "hur-tar-jag-bort-en-anstallningsperiod.md",
+    "slug": "hur-tar-jag-bort-en-anstallningsperiod",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning"
+    ],
+    "date": "den 14 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-tar-jag-bort-en-anst%C3%A4llningsperiod",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du tar bort en anställningsperiod i HRM Employee.\n![Bild](images/hur-tar-jag-bort-en-anstallningsperiod_5f7bc97e.png)\nUnder\nPersonal> Anställda\ni HRM hittar du ..."
+  },
+  {
+    "title": "Hur fungerar anonymisera anställda i HRM?",
+    "file": "hur-fungerar-anonymisera-anstallda-i-hrm.md",
+    "slug": "hur-fungerar-anonymisera-anstallda-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "dokument",
+      "medarbetarsamtal"
+    ],
+    "date": "den 14 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-anonymisera-anstallda-i-hrm-0",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur anonymisering av anställda fungerar i HRM Employee.\nObservera att anonymisering av anställd inte kan ångras.\nNär du väl genomfört aktiviteten på en anställd kan..."
+  },
+  {
+    "title": "⚙️Hur fungerar gallring/rensning av personuppgifter i HRM?",
+    "file": "hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm.md",
+    "slug": "hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "dokument"
+    ],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm-0",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur gallring hanteras i HRM Employee.\n![Bild](images/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm_5f7bc97e.png)\nUnder\nPersonal> Anställda\ni HRM hittar du..."
+  },
+  {
+    "title": "Använd organisationsöversikten i HRM Employee",
+    "file": "anvand-organisationsoversikten-i-hrm-employee.md",
+    "slug": "anvand-organisationsoversikten-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Organisation",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "hrm-employee",
+      "kompetens"
+    ],
+    "date": "den 23 september 2025",
+    "url": "https://knowledge.flexapplications.se/anvand-organisationsoversikt-i-hrm",
+    "isConfig": false,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Ju större en organisation blir, desto viktigare är det att ha en tydlig överblick över hur den är uppbyggd. I HRM kan du använda funktionen Organisationsöversikt i anställdaregistret för att enkelt se..."
+  },
+  {
+    "title": "⚙️Hur skapar jag ett organisationsträd i HRM Employee?",
+    "file": "hur-skapar-jag-ett-organisationstrad-i-hrm-employee.md",
+    "slug": "hur-skapar-jag-ett-organisationstrad-i-hrm-employee",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "anställning",
+      "hrm-employee"
+    ],
+    "date": "den 23 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-skapar-jag-ett-organisationstrad-0",
+    "isConfig": true,
+    "imageCount": 9,
+    "hasImages": true,
+    "excerpt": "Ju större en organisation blir, desto viktigare är det att ha en tydlig överblick över hur den är uppbyggd. I HRM kan du använda funktionen Organisationsöversikt i anställdaregistret för att enkelt se..."
+  },
+  {
+    "title": "⚙️Hur integrerar jag Teamtailor med HRM?",
+    "file": "hur-integrerar-jag-teamtailor-med-hrm.md",
+    "slug": "hur-integrerar-jag-teamtailor-med-hrm",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "anställning",
+      "onboarding"
+    ],
+    "date": "den 11 september 2025",
+    "url": "https://knowledge.flexapplications.se/aktivera-integration-teamtailor-0",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "För dig som kund med Teamtailor som rekryteringsverktyg finns möjlighet att integrera med HRM. Via API-integrationen förs en kandidat, som blir erbjuden en tjänst, över till HRM Employee för en ännu e..."
+  },
+  {
+    "title": "⚙️Visselblåsning via Qnister Whistle",
+    "file": "visselblasning-via-qnister-whistle.md",
+    "slug": "visselblasning-via-qnister-whistle",
+    "category": "employee",
+    "subcategory": "Anställningshantering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 22 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/instruktion-hrm-visselblasning-via-qnister-whistle",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "HRM erbjuder stöd för visselblåsning genom integration med Qnister Whistle, vilket möjliggör en säker och anonym hantering av rapporter om missförhållanden. Lösningen uppfyller lagkraven för interna r..."
+  }
 ]

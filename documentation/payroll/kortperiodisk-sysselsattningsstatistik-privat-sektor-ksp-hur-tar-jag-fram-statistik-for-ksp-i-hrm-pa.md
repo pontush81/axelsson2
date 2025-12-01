@@ -2,6 +2,11 @@
 
 **Datum:** den 7 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Semesterhantering  
+**Typ:** other  
+**Svårighetsgrad:** advanced  
+**Tags:** lön, semester  
+**Bilder:** 6  
 **URL:** https://knowledge.flexapplications.se/kortperiodisk-syssels%C3%A4ttningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-f%C3%B6r-ksp-i-hrm-payroll-
 
 ---
@@ -16,11 +21,13 @@ Löpande arbete för rapportering av konjunkturstatistik (KSP)
 En gång per månad ska du som blivit utvald rapportera konjunkturstatistik över löner till SCB. Detta gör du i Flex HRM Payroll under
 Administration > Bearbetningar >Statistikrapportering > Kortperiodisk sysselsättningsstatistik, privat sektor (KSP)
 .
+![Bild](images/kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa_021a5207.png)
 Skapa underlag
 Det första steget i rapporteringen är att skapa ett underlag för datumets rapportering. Detta gör du genom att klicka på knappen
 Ny
 i knappraden.
 Du väljer här vilket datum du vill skapa rapporteringsunderlag för. Du kan också välja att göra urval på anställda om du skulle vilja, i urvalet kan man även specificera vilket arbetsställe (CFAR-nummer från SCB) man vill göra urval på. Arbetsställe (CFAR-nummer) kan man sätta på en anställd.
+![Bild](images/kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa_1ead16e6.png)
 När du klickar på knappen
 Skapa
 påbörjas arbetet med att skapa underlag. När underlaget är skapat ser du underlaget med statusen satt som Preliminär i vyn.
@@ -29,17 +36,21 @@ Om du hittat ett fel i underlaget kan du ta bort ett underlag för att börja om
 Kontrollera underlaget
 Nästa steg är att kontrollera underlaget innan du skickar in uppgifterna till SCB. Detta gör du genom att granska underlaget i vyn.
 Överst i vyn väljer du vilket redovisningsdatum du vill titta på. Tidigare redovisningar finns kvar och är enkelt tillgängliga.
+![Bild](images/kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa_284b90d1.png)
 I tabellen visas det underlag som sammanställts och som ska rapporteras till SCB.
+![Bilden visar KSP-underlagets översikt, med fyra delar: "Antal anställda", "Antal heltidsanställda", "Nyanställda" samt "Avgångar".](images/kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa_a4eb7348.png)
 När underlaget är granskat markerar du underlaget som kontrollerat genom att klicka på knappen
 Markera som kontrollerad
 . Statusen på underlaget ändras då till
 Kontrollerad
 . Datum, tid samt signatur för användaren som markerade underlaget som kontrollerat sparas ner på underlaget.
+![Bild](images/kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa_ae4b9a2b.png)
 Om du hittar ett fel i ett kontrollerat underlag kan du ta bort kontrollmarkeringen igen,  via knappen
 Ta bort kontrollmarkering
 . Detta gör att statusen återigen blir
 Preliminär
 .
+![Bild](images/kortperiodisk-sysselsattningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-for-ksp-i-hrm-pa_a27d0098.png)
 Fördjupad information om hur underlaget skapas och beräknas
 Nedan hittar du detaljerad information om hur underlaget skapas i systemet.
 Beräkning för de fyra olika frågorna

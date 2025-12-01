@@ -2,6 +2,11 @@
 
 **Datum:** den 14 augusti 2025  
 **Kategori:** Employee  
+**Underkategori:** Anställningshantering  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** dokument, medarbetarsamtal  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/hur-fungerar-anonymisera-anstallda-i-hrm-0
 
 ---
@@ -16,6 +21,7 @@ anonymisera anställda
 Allmänt > Gallring > Anonymisera anställda
 Med denna funktion finns möjlighet att anonymisera anställdas personuppgifter, vilket innebär att namn, personnummer, telefonnummer, adress och andra uppgifter som identifierar en person ändras eller tas bort.
 Detta kan vara användbart då man vill ta bort information om den anställde men inte har möjlighet att ta bort den anställde helt. Ett annat användningsområde är att i testmiljöer kunna anonymisera alla anställda för att minska risken att exponera personuppgifter i onödan.
+![Bild](images/hur-fungerar-anonymisera-anstallda-i-hrm_fad44f15.png)
 Här kan du välja att endera anonymisera alla anställda i de företag du är behörig till eller göra detsamma i ett enstaka företag. Om du har valt ett företag kan du dessutom välja en specifik anställd att anonymisera. Om du inte väljer en anställd kommer anonymiseringen att utföras på alla anställda i valt företag.
 OBS!
 När du har utfört anonymiseringen går det

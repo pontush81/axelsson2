@@ -2,6 +2,11 @@
 
 **Datum:** den 26 september 2025  
 **Kategori:** Time  
+**Underkategori:** Mobil & Stämpling  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** stämpling, tidrapport  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-p%C3%A5-vilken-st%C3%A4mplingsterminal-man-anv%C3%A4nder
 
 ---
@@ -17,3 +22,4 @@ visas på bilden nedan. Här väljer du per företag en eller flera konteringsdi
 Här har vi ställt in att tidrader från stämplingar som görs på klockan
 Lager
 av anställda i företag 18421 kommer att få kostnadsställe S och projekt P20r.
+![Bild](images/kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-pa-vilken-stamplingsterminal-man-anvand_ba567f92.png)

@@ -1,114 +1,1508 @@
 [
-  {"title": "Administrativa funktioner - Vilka administrativa funktioner kan jag styra direkt i mobilen?", "file": "administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen.md"}
-,
-  {"title": "Administrativa funktioner - Vilka administrativa funktioner kan jag styra direkt i mobilen?", "file": "administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i.md"}
-,
-  {"title": "Allmänna tips och förberedelser inför semester", "file": "allmanna-tips-och-forberedelser-infor-semester.md"}
-,
-  {"title": "Dashboard - Mätare/Värde - Hur mäter och visualiserar jag mina värden?", "file": "dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden.md"}
-,
-  {"title": "Dashboard - Vad är en Dashboard?", "file": "dashboard-vad-ar-en-dashboard.md"}
-,
-  {"title": "Exporter - Hur skapar och hanterar vi exportmallar för att få ut data från Flex HRM?", "file": "exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hr.md"}
-,
-  {"title": "Exporter - Hur skapar och hanterar vi exportmallar för att få ut data från Flex HRM?", "file": "exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hrm.md"}
-,
-  {"title": "Formelspråk i Flex HRM", "file": "formelsprak-i-flex-hrm.md"}
-,
-  {"title": "Går det att kopiera projekt?", "file": "gar-det-att-kopiera-projekt.md"}
-,
-  {"title": "Granskningsnivåer - Hur fungerar granskningsnivåer i Flex HRM?", "file": "granskningsnivaer-hur-fungerar-granskningsnivaer-i-flex-hrm.md"}
-,
-  {"title": "Hur arbetar man med filimporter i Flex HRM?", "file": "hur-arbetar-man-med-filimporter-i-flex-hrm.md"}
-,
-  {"title": "Hur byter jag från Flex Lön till Flex HRM som master för personuppgifter?", "file": "hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter.md"}
-,
-  {"title": "Hur fungerar företagsknuten behörighet?", "file": "hur-fungerar-foretagsknuten-behorighet.md"}
-,
-  {"title": "Hur fungerar konteringskombinationer?", "file": "hur-fungerar-konteringskombinationer.md"}
-,
-  {"title": "Hur fungerar Påminnelser på startsidan?", "file": "hur-fungerar-paminnelser-pa-startsidan.md"}
-,
-  {"title": "Hur fungerar Påminnelser?", "file": "hur-fungerar-paminnelser.md"}
-,
-  {"title": "Hur går jag tillväga för att presentera Dashboards på Startsidan (Hem)?", "file": "hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem.md"}
-,
-  {"title": "Hur gör man för att registrera nyanställd och användare manuellt?", "file": "hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt.md"}
-,
-  {"title": "Hur hanterar man konteringsdimensioner i Flex HRM?", "file": "hur-hanterar-man-konteringsdimensioner-i-flex-hrm.md"}
-,
-  {"title": "Hur hanteras notiser i HRM Mobile?", "file": "hur-hanteras-notiser-i-hrm-mobile.md"}
-,
-  {"title": "Hur hittar jag lättast rätt menyer i Flex HRM?", "file": "hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm.md"}
-,
-  {"title": "Hur loggar jag in i HRM Timeclock?", "file": "hur-loggar-jag-in-i-hrm-timeclock.md"}
-,
-  {"title": "Hur ställer vi in konteringskombinationer?", "file": "hur-staller-vi-in-konteringskombinationer.md"}
-,
-  {"title": "Inloggning i Flex HRM och byte av lösenord", "file": "inloggning-i-flex-hrm-och-byte-av-losenord.md"}
-,
-  {"title": "Kan jag delegera min attestbehörighet tillfälligt till någon annan när jag är ledig?", "file": "kan-jag-delegera-min-attestbehorighet-tillfalligt-till-nagon-annan-nar-jag-ar-le.md"}
-,
-  {"title": "Kan jag delegera min attestbehörighet tillfälligt till någon annan när jag är ledig?", "file": "kan-jag-delegera-min-attestbehorighet-tillfalligt-till-nagon-annan-nar-jag-ar-ledig.md"}
-,
-  {"title": "Kan jag se en översikt över alla delegerade behörigheter?", "file": "kan-jag-se-en-oversikt-over-alla-delegerade-behorigheter.md"}
-,
-  {"title": "Kan jag se en översikt över alla delegerade behörigheter?", "file": "kan-jag-se-oversikt-delegerade-behorigheter.md"}
-,
-  {"title": "Kan jag själv anpassa min startsida i Flex HRM?", "file": "kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm.md"}
-,
-  {"title": "Kan jag välja en egen startsida i Flex HRM?", "file": "kan-jag-valja-en-egen-startsida-i-flex-hrm.md"}
-,
-  {"title": "Meddelanden - Hur fungerar meddelanden i Flex HRM Mobile?", "file": "meddelanden-hur-fungerar-meddelanden-i-flex-hrm-mobile.md"}
-,
-  {"title": "Mina kollegor - Var hittar jag information om mina kollegor?", "file": "mina-kollegor-var-hittar-jag-information-om-mina-kollegor.md"}
-,
-  {"title": "Nyheter - Hur jobbar jag med nyhetsflöden i Flex HRM?", "file": "nyheter-hur-jobbar-jag-med-nyhetsfloden-i-flex-hrm.md"}
-,
-  {"title": "Paneler i Dashboard- Hur fungerar de gemensamma inställningarna för paneler i Dashboard?", "file": "paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-das.md"}
-,
-  {"title": "Paneler i Dashboard- Hur fungerar de gemensamma inställningarna för paneler i Dashboard?", "file": "paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard.md"}
-,
-  {"title": "Rapportgenerator - Hur kan jag få ut rapporter om medarbetarsamtal från rapportgeneratorn?", "file": "rapportgenerator-hur-kan-jag-fa-ut-rapporter-om-medarbetarsamtal-fran-rapportgen.md"}
-,
-  {"title": "Rapportgenerator - Hur kan jag få ut rapporter om medarbetarsamtal från rapportgeneratorn?", "file": "rapportgenerator-hur-kan-jag-fa-ut-rapporter-om-medarbetarsamtal-fran-rapportgeneratorn.md"}
-,
-  {"title": "Rapportgenerator - Hur schemalägger jag uttag av rapporter från rapportgeneratorn?", "file": "rapportgenerator-hur-schemalagger-jag-uttag-av-rapporter-fran-rapportgeneratorn.md"}
-,
-  {"title": "Rapportgenerator - Vad är Rapportgeneratorn?", "file": "rapportgenerator-vad-ar-rapportgeneratorn.md"}
-,
-  {"title": "Rapportpaket -Vad är och hur fungerar rapportpaket?", "file": "rapportpaket-vad-ar-och-hur-fungerar-rapportpaket.md"}
-,
-  {"title": "Roller och behörigheter i Flex HRM", "file": "roller-och-behorigheter-i-flex-hrm.md"}
-,
-  {"title": "Statistik på startsidan - Hur konfigurerar och ser jag statistik på startsidan?", "file": "statistik-pa-startsidan-hur-konfigurerar-och-ser-jag-statistik-pa-startsidan.md"}
-,
-  {"title": "Statistikcentral- Vad är statistikcentralen?", "file": "statistikcentral-vad-ar-statistikcentralen.md"}
-,
-  {"title": "Statistikcentralen: Statistiktyper - Vad innebär de olika statistiktyperna i statistikcentralen?", "file": "statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statis.md"}
-,
-  {"title": "Statistikcentralen: Statistiktyper - Vad innebär de olika statistiktyperna i statistikcentralen?", "file": "statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen.md"}
-,
-  {"title": "Vad är en användare?", "file": "vad-ar-en-anvandare.md"}
-,
-  {"title": "Vad är en hemkontering?", "file": "vad-ar-en-hemkontering.md"}
-,
-  {"title": "Vad är en roll?", "file": "vad-ar-en-roll.md"}
-,
-  {"title": "Vad är en tabellåsning?", "file": "vad-ar-en-tabellasning.md"}
-,
-  {"title": "Vad är ett konteringsregister?", "file": "vad-ar-ett-konteringsregister.md"}
-,
-  {"title": "Vad är ett kundregister?", "file": "vad-ar-ett-kundregister.md"}
-,
-  {"title": "Vad är ett projektregister?", "file": "vad-ar-ett-projektregister.md"}
-,
-  {"title": "Vad är skillnaden mellan en anställd och en användare i Flex HRM?", "file": "vad-ar-skillnaden-mellan-en-anstalld-och-en-anvandare-i-flex-hrm.md"}
-,
-  {"title": "Vad betyder de meddelanden som visas vid sparning?", "file": "vad-betyder-de-meddelanden-som-visas-vid-sparning.md"}
-,
-  {"title": "Vad hanteras i vyn Säkerhet?", "file": "vad-hanteras-i-vyn-sakerhet.md"}
-,
-  {"title": "Vilken roll gäller när en användare har flera roller?", "file": "vilken-roll-galler-nar-en-anvandare-har-flera-roller.md"}
-
+  {
+    "title": "När skickas e-post ut om ändringar på anställd?",
+    "file": "nar-skickas-e-post-ut-om-andringar-pa-anstalld.md",
+    "slug": "nar-skickas-e-post-ut-om-andringar-pa-anstalld",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 21 november 2025",
+    "url": "https://knowledge.flexapplications.se/andring-utskick-anstalld-flex-hrm-0",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver när ett utskick via e-post sker till anställd vid ändringar av uppgifter.\nFlex HRM skickar automatiskt ut e-postmeddelanden när vissa uppgifter på en anställd ändras eller tas ..."
+  },
+  {
+    "title": "Skapas Visma Connect-konton automatiskt för nyanställda i Flex HRM?",
+    "file": "skapas-visma-connect-konton-automatiskt-for-nyanstallda-i-flex-hrm.md",
+    "slug": "skapas-visma-connect-konton-automatiskt-for-nyanstallda-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "mobil",
+      "säkerhet"
+    ],
+    "date": "den 30 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/skapas-visma-connect-konton-automatiskt-f%C3%B6r-nyanst%C3%A4llda-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Om du använder användarmall kan du ange e-postadressen för kopplingen till Visma Connect redan när du lägger upp den nyanställda.\nInloggning till Flex HRM och HRM Mobile sker via\nVisma Connect\n. För a..."
+  },
+  {
+    "title": "Automatisk hantering vid borttag av Visma Connect-koppling",
+    "file": "automatisk-hantering-vid-borttag-av-visma-connect-koppling.md",
+    "slug": "automatisk-hantering-vid-borttag-av-visma-connect-koppling",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "mobil",
+      "säkerhet"
+    ],
+    "date": "den 21 november 2025",
+    "url": "https://knowledge.flexapplications.se/automatisk-hantering-borttag-visma-connect",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "När en anställd slutar i företaget tas kopplingen till Visma Connect bort automatiskt. Artikeln beskriver hur den här funktionen fungerar i Flex HRM.\nInloggning till Flex HRM och HRM Mobile sker via\nV..."
+  },
+  {
+    "title": "Hur gör man för att registrera nyanställd och användare manuellt?",
+    "file": "hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt.md",
+    "slug": "hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%B6r-man-f%C3%B6r-att-registrera-nyanst%C3%A4lld-och-anv%C3%A4ndare-manuellt",
+    "isConfig": false,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "Instruktion för hur en nyanställd registreras manuellt i HRM samt hur en användare kopplas för inloggning till systemet.\nRegistrera anställd manuellt\nRegistrera användare manuellt\nRegistrera nyanställ..."
+  },
+  {
+    "title": "Vad betyder varningen när jag lägger in ett avgångsdatum på anställd?",
+    "file": "vad-betyder-varningen-nar-jag-lagger-in-ett-avgangsdatum-pa-anstalld.md",
+    "slug": "vad-betyder-varningen-nar-jag-lagger-in-ett-avgangsdatum-pa-anstalld",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "roll"
+    ],
+    "date": "den 20 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/varning-avg%C3%A5ngsdatum",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Här får du svar på vad varningen som dyker upp när du avslutar en anställd betyder.\nOffboarding - Avsluta anställd\nNär du ska avsluta en anställning i HRM anger du ett avgångsdatum för anställningsper..."
+  },
+  {
+    "title": "⚙️Vad är en användare?",
+    "file": "vad-ar-en-anvandare.md",
+    "slug": "vad-ar-en-anvandare",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll",
+      "säkerhet"
+    ],
+    "date": "den 30 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-en-anv%C3%A4ndare",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "En beskrivning av användare, rolltilldelning, koppling till anställd och koppling till Visma Connect.\nRoller och behörigheter\nKoppling till Visma Connect\nKoppling till anställd\nInaktivering och återak..."
+  },
+  {
+    "title": "⚙️Vad är skillnaden mellan en anställd och en användare i Flex HRM?",
+    "file": "vad-ar-skillnaden-mellan-en-anstalld-och-en-anvandare-i-flex-hrm.md",
+    "slug": "vad-ar-skillnaden-mellan-en-anstalld-och-en-anvandare-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil"
+    ],
+    "date": "den 8 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-skillnaden-mellan-en-anst%C3%A4lld-och-en-anv%C3%A4ndare-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I Flex HRM finns det en skillnad mellan vad systemet definierar som en anställd och vad som är en användare. Kortfattat handlar det om att den anställda är personen som systemet hanterar data för (til..."
+  },
+  {
+    "title": "Kan jag se en översikt över alla delegerade behörigheter?",
+    "file": "kan-jag-se-en-oversikt-over-alla-delegerade-behorigheter.md",
+    "slug": "kan-jag-se-en-oversikt-over-alla-delegerade-behorigheter",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 3 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-se-en-%C3%B6versikt-%C3%B6ver-alla-delegerade-beh%C3%B6righeter",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Du ser en översikt över delegerade behörigheter i vyn\nAnvändare/Behörigheter > Delegerade behörigheter\n. Här kan du också redigera och skapa delegeringar.\nI listan till vänster ser du aktuella deleger..."
+  },
+  {
+    "title": "Kan jag delegera min attestbehörighet tillfälligt till någon annan när jag är ledig?",
+    "file": "kan-jag-delegera-min-attestbehorighet-tillfalligt-till-nagon-annan-nar-jag-ar-ledig.md",
+    "slug": "kan-jag-delegera-min-attestbehorighet-tillfalligt-till-nagon-annan-nar-jag-ar-ledig",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 3 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-delegera-min-attestbeh%C3%B6righet-tillf%C3%A4lligt-till-n%C3%A5gon-annan-n%C3%A4r-jag-%C3%A4r-ledig",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Du kan tillfälligt delegera din attestbehörighet till en kollega när du är ledig. Det är en funktion som ofta används när en chef behöver hjälp att attestera till exempel reseräkningar och tidrapporte..."
+  },
+  {
+    "title": "Vilken roll gäller när en användare har flera roller?",
+    "file": "vilken-roll-galler-nar-en-anvandare-har-flera-roller.md",
+    "slug": "vilken-roll-galler-nar-en-anvandare-har-flera-roller",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 19 september 2025",
+    "url": "https://knowledge.flexapplications.se/vilken-roll-g%C3%A4ller-n%C3%A4r-en-anv%C3%A4ndare-har-flera-roller",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Roller styr vad du kan se och göra i Flex HRM. Du kan ha flera olika roller, som tilldelas på olika nivåer: företagsnivå, konteringsnivå och anställdnivå.\nSpecifika roller går före generella\nDen mest ..."
+  },
+  {
+    "title": "⚙️Vad är en roll?",
+    "file": "vad-ar-en-roll.md",
+    "slug": "vad-ar-en-roll",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll",
+      "säkerhet"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-en-roll",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Användares roller styr vad de kan se och göra i HRM. Nedan följer en beskrivning av inställningsmöjligheterna för roller.\nAllmänna inställningar för en roll\nInställningar för menyer\nTilldelning av rol..."
+  },
+  {
+    "title": "⚙️Roller och behörigheter i Flex HRM",
+    "file": "roller-och-behorigheter-i-flex-hrm.md",
+    "slug": "roller-och-behorigheter-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/roller-och-beh%C3%B6righeter-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "En generell guide till roller och behörigheter.\nVad\nman kan se/redigera avgörs av rollen.\nVilka\nman kan se/redigera (till exempel i en rapport) avgörs av var man lägger rollen på användaren. Exempelvi..."
+  },
+  {
+    "title": "⚙️Hur fungerar företagsknuten behörighet?",
+    "file": "hur-fungerar-foretagsknuten-behorighet.md",
+    "slug": "hur-fungerar-foretagsknuten-behorighet",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 22 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-f%C3%B6retagsknuten-beh%C3%B6righet",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Vissa register kan behörighetsstyras per företag.\nF\nöretagsknuten behörighet används för register som kan se olika ut mellan olika företag, som till exempel konteringsdimensioner. Eftersom uppsättning..."
+  },
+  {
+    "title": "⚙️Vad hanteras i vyn Säkerhet?",
+    "file": "vad-hanteras-i-vyn-sakerhet.md",
+    "slug": "vad-hanteras-i-vyn-sakerhet",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "integration",
+      "mobil",
+      "säkerhet"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vad-hanteras-i-vyn-s%C3%A4kerhet",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I vyn\nSäkerhet\ngör du inställningar som rör säkerheten för systemets användare.\nGenerell lösenordspolicy\nInloggning till Flex HRM och HRM Mobile sker via ett Visma Connect-konto. Det innebär att lösen..."
+  },
+  {
+    "title": "Inloggning i Flex HRM och byte av lösenord",
+    "file": "inloggning-i-flex-hrm-och-byte-av-losenord.md",
+    "slug": "inloggning-i-flex-hrm-och-byte-av-losenord",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/inloggning-i-flex-hrm-och-byte-av-l%C3%B6senord-",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Denna artikel beskriver hur du loggar in i Flex HRM och hur du byter ditt lösenord.\nHur loggar jag in i Flex HRM?\nDu loggar in i Flex HRM med hjälp av ett\nVisma Connect-konto\n.\nNär du anger webbadress..."
+  },
+  {
+    "title": "Hur hittar jag lättast rätt menyer i Flex HRM?",
+    "file": "hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm.md",
+    "slug": "hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "behörighet"
+    ],
+    "date": "den 6 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hittar-jag-l%C3%A4ttast-r%C3%A4tt-menyer-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Tips på hur du snabbt och smidigt hittar rätt menyer i Flex HRM.\nAnvänd sökfunktionen\nDet snabbaste sättet att hitta det du letar efter är att använda sökfunktionen, som alltid syns högst upp i progra..."
+  },
+  {
+    "title": "Kan jag välja en egen startsida i Flex HRM?",
+    "file": "kan-jag-valja-en-egen-startsida-i-flex-hrm.md",
+    "slug": "kan-jag-valja-en-egen-startsida-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 5 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-v%C3%A4lja-en-egen-startsida-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Välj din startsida\nDu kan ställa in vilken sida du vill se direkt när du loggar in i Flex HRM. Om du till exempel använder din tidrapport oftast kan du välja den som din startsida.\nBörja med att söka ..."
+  },
+  {
+    "title": "Vad betyder de meddelanden som visas vid sparning?",
+    "file": "vad-betyder-de-meddelanden-som-visas-vid-sparning.md",
+    "slug": "vad-betyder-de-meddelanden-som-visas-vid-sparning",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [],
+    "date": "den 5 september 2025",
+    "url": "https://knowledge.flexapplications.se/vad-betyder-de-meddelanden-som-visas-vid-sparning",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Systemmeddelanden visas som rutor längst ned till höger i skärmen. Det finns tre olika typer av meddelanden:\nInformation\n,\nFel\noch\nVarning\n.\nInformation\nInformationsmeddelanden har en blå symbol och b..."
+  },
+  {
+    "title": "Kan jag själv anpassa min startsida i Flex HRM?",
+    "file": "kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm.md",
+    "slug": "kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "explanation",
+    "difficulty": "intermediate",
+    "tags": [
+      "behörighet"
+    ],
+    "date": "den 5 september 2025",
+    "url": "https://knowledge.flexapplications.se/kan-jag-sj%C3%A4lv-anpassa-min-startsida-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Du kan själv anpassa din startsida i Flex HRM. Du kan dölja och flytta runt paneler, samt ändra deras storlek.\nPå startsidan visas de paneler som ditt företag använder och som du har behörighet till.\n..."
+  },
+  {
+    "title": "Hur loggar jag in i HRM Timeclock?",
+    "file": "hur-loggar-jag-in-i-hrm-timeclock.md",
+    "slug": "hur-loggar-jag-in-i-hrm-timeclock",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "hrm-time",
+      "roll"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-loggar-jag-in-i-hrm-timeclock",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Användaruppgifter för HRM Timeclock\nFör att logga in i HRM Timeclock använder du det\nAnvändar-ID\noch\nlösenord\nsom finns i Flex HRM under\nAnvändare/Behörigheter > Användare\n. Lösenordet finns under\nAva..."
+  },
+  {
+    "title": "⚙️Vad är en tabellåsning?",
+    "file": "vad-ar-en-tabellasning.md",
+    "slug": "vad-ar-en-tabellasning",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-en-tabell%C3%A5sning",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Information om att se och hantera tabellåsningar, samt om att schemalägga en regelbunden rensning.\nEn tabellåsning är en funktion som hindrar att flera användare arbetar med samma sak samtidigt i Flex..."
+  },
+  {
+    "title": "Rapportpaket -Vad är och hur fungerar rapportpaket?",
+    "file": "rapportpaket-vad-ar-och-hur-fungerar-rapportpaket.md",
+    "slug": "rapportpaket-vad-ar-och-hur-fungerar-rapportpaket",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 9 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/rapportpaket-vad-%C3%A4r-och-hur-fungerar-rapportpaket",
+    "isConfig": false,
+    "imageCount": 16,
+    "hasImages": true,
+    "excerpt": "Nedan kan du läsa om vad rapportpaket i Flex HRM är. Samt hur du använder dig av dem och dess funktioner.\nGenerellt\nEtt rapportpaket är ett sätt att välja flera rapporter med förinställda urval som sk..."
+  },
+  {
+    "title": "Rapportgenerator - Hur schemalägger jag uttag av rapporter från rapportgeneratorn?",
+    "file": "rapportgenerator-hur-schemalagger-jag-uttag-av-rapporter-fran-rapportgeneratorn.md",
+    "slug": "rapportgenerator-hur-schemalagger-jag-uttag-av-rapporter-fran-rapportgeneratorn",
+    "category": "systemgemensamt",
+    "subcategory": "Rapporter",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "behörighet"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/rapportgeneratorn-hur-schemal%C3%A4gger-man-exporter-fr%C3%A5n-rapportgeneratorn",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du schemalägger uttag av rapporter från rapportgeneratorn.\nSchemalägg export av rapporter\nDu kan schemalägga automatiska uttag av rapporter som du har skapat i rapportgener..."
+  },
+  {
+    "title": "Rapportgenerator - Vad är Rapportgeneratorn?",
+    "file": "rapportgenerator-vad-ar-rapportgeneratorn.md",
+    "slug": "rapportgenerator-vad-ar-rapportgeneratorn",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/rapportgeneratorn-vad-%C3%A4r-rapportgeneratorn",
+    "isConfig": false,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Artikeln ger en kort beskrivning av rapportgeneratorn i Flex HRM.\nRapportgeneratorn\nDu hittar rapportgeneratorn under menyn\nRapporter > Rapportgenerator\n.\n![Bilden visar menyingången till Rapportgener..."
+  },
+  {
+    "title": "⚙️Rapportgenerator - Hur kan jag få ut rapporter om medarbetarsamtal från rapportgeneratorn?",
+    "file": "rapportgenerator-hur-kan-jag-fa-ut-rapporter-om-medarbetarsamtal-fran-rapportgeneratorn.md",
+    "slug": "rapportgenerator-hur-kan-jag-fa-ut-rapporter-om-medarbetarsamtal-fran-rapportgeneratorn",
+    "category": "systemgemensamt",
+    "subcategory": "Rapporter",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/rapportgeneratorn-vilka-typer-av-rapporter-kan-h%C3%A4mtas-fr%C3%A5n-rapportgeneratorn",
+    "isConfig": true,
+    "imageCount": 17,
+    "hasImages": true,
+    "excerpt": "Artikeln visar exempel på rapporter om medarbetarsamtal från rapportgeneratorn. Den tar även upp exempel på arkiverade mallar, historik och kommande värden.\nStatus för medarbetarsamtal och formulärmal..."
+  },
+  {
+    "title": "Statistikcentral- Vad är statistikcentralen?",
+    "file": "statistikcentral-vad-ar-statistikcentralen.md",
+    "slug": "statistikcentral-vad-ar-statistikcentralen",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/statistikcentralen-vad-%C3%A4r-statistikcentralen",
+    "isConfig": false,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "Artikel beskriver hur modulen Statistikcentralen är ett komplement till befintliga rapporter samt hur du använder den.\nGenerellt\nPrincipen med statistikcentralen är att den ska fungera som ett komplem..."
+  },
+  {
+    "title": "Statistikcentralen: Statistiktyper - Vad innebär de olika statistiktyperna i statistikcentralen?",
+    "file": "statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen.md",
+    "slug": "statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/statistikcentralen-statistiktyper-vad-inneb%C3%A4r-de-olika-statistiktyperna-i-statistikcentralen",
+    "isConfig": false,
+    "imageCount": 24,
+    "hasImages": true,
+    "excerpt": "Artikeln ger en beskrivning av de olika statistiktyperna du hittar i statistikcentralen och exempel på hur du kan använda dem.\nStatistiktyper\nBemanning - Uppföljning\nMed kategorin Bemanning kan du enk..."
+  },
+  {
+    "title": "Dashboard - Mätare/Värde - Hur mäter och visualiserar jag mina värden?",
+    "file": "dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden.md",
+    "slug": "dashboard-matare-varde-hur-mater-och-visualiserar-jag-mina-varden",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/m%C3%A4tare/v%C3%A4rde-hur-m%C3%A4ter-och-visualiserar-jag-mina-v%C3%A4rden",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "Artikeln ger information om och exempel av visningen av Mätare/Värde, idag, aktuell period och valfri period. Dessutom beskrivs färginställningarna som är möjliga för vissa paneler.\nMätare/Värde (idag..."
+  },
+  {
+    "title": "⚙️Dashboard - Vad är en Dashboard?",
+    "file": "dashboard-vad-ar-en-dashboard.md",
+    "slug": "dashboard-vad-ar-en-dashboard",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/dashboard-vad-%C3%A4r-en-dashboard",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Dashboarden i Flex HRM ger en översikt av HR-nyckeltal som bl. a. sjukfrånvaro och personalomsättning, presenterade med diagram och mätare. Du kan bygga flera dashboards med olika paneler och styra be..."
+  },
+  {
+    "title": "⚙️Hur går jag tillväga för att presentera Dashboards på Startsidan (Hem)?",
+    "file": "hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem.md",
+    "slug": "hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-g%C3%A5r-jag-tillv%C3%A4ga-f%C3%B6r-att-presentera-dashboards-p%C3%A5-startsidan-hem",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Ge roller behörighet till dashboards. Lär dig aktivera funktionen för att se detaljerad information om anställda i graferna.\nGe en användarroll behörighet till en dashboard\nFör att en användare ska ku..."
+  },
+  {
+    "title": "⚙️Statistik på startsidan - Hur konfigurerar och ser jag statistik på startsidan?",
+    "file": "statistik-pa-startsidan-hur-konfigurerar-och-ser-jag-statistik-pa-startsidan.md",
+    "slug": "statistik-pa-startsidan-hur-konfigurerar-och-ser-jag-statistik-pa-startsidan",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/statistik-p%C3%A5-startsidan-hur-konfigurerar-och-ser-jag-statistik-p%C3%A5-startsidan",
+    "isConfig": true,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "Artikeln innehåller information om hur du publicerar statistik på startsidan, delar statistik, urvalsinställningar, samt hur du ser statistiken på startsidan.\nPublicera statistik på startsidan\nI stati..."
+  },
+  {
+    "title": "⚙️Paneler i Dashboard- Hur fungerar de gemensamma inställningarna för paneler i Dashboard?",
+    "file": "paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard.md",
+    "slug": "paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 17 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/paneler-gemensamt-hur-fungerar-de-gemensamma-inst%C3%A4llningar-f%C3%B6r-paneler",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "I artikeln beskrivs de inställningar och funktioner som är gemensamma för samtliga olika typer av Dashboard-paneler.\nDu hittar inställningarna för panelerna under\nAdministration > Systemregister > Das..."
+  },
+  {
+    "title": "Hur fungerar konteringskombinationer?",
+    "file": "hur-fungerar-konteringskombinationer.md",
+    "slug": "hur-fungerar-konteringskombinationer",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 19 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-konteringskombinationer",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Konteringskombinationer kan användas för att begränsa hur olika konteringar kan kombineras med varandra.\nKonteringskombinationer i Flex HRM är ett verktyg som hjälper dig att styra hur olika kontering..."
+  },
+  {
+    "title": "⚙️Hur hanterar man konteringsdimensioner i Flex HRM?",
+    "file": "hur-hanterar-man-konteringsdimensioner-i-flex-hrm.md",
+    "slug": "hur-hanterar-man-konteringsdimensioner-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 19 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanterar-man-konteringsdimensioner-i-systemet",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Konteringar används för att kategorisera information för bland annat bokföring och statistik samt för behörighetsstyrning. \nI denna artikel går vi igenom inställningarna som kan göras i vyn för konter..."
+  },
+  {
+    "title": "⚙️Vad är ett konteringsregister?",
+    "file": "vad-ar-ett-konteringsregister.md",
+    "slug": "vad-ar-ett-konteringsregister",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-ett-konteringsregister",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver enkla, ej utökade, konteringsregister.\nFlex HRM använder konteringsregister för att styra behörighet och för att märka upp poster, som till exempel poster för bokföring och statisti..."
+  },
+  {
+    "title": "⚙️Vad är ett projektregister?",
+    "file": "vad-ar-ett-projektregister.md",
+    "slug": "vad-ar-ett-projektregister",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "concept",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "integration",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 30 september 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-ett-projektregister",
+    "isConfig": true,
+    "imageCount": 16,
+    "hasImages": true,
+    "excerpt": "En omfattande beskrivning av den information och de inställningar som finns på respektive flik i ett utökat projektregister. Gå direkt till den flik du söker med hjälp av innehållsförteckningen.\nUtöka..."
+  },
+  {
+    "title": "⚙️Går det att kopiera projekt?",
+    "file": "gar-det-att-kopiera-projekt.md",
+    "slug": "gar-det-att-kopiera-projekt",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/g%C3%A5r-det-att-kopiera-projekt",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "En beskrivning av kopieringsfunktionen i det utökade projektregistret.\nDu kan\nkopiera projekt\ni det utökade projektregistret genom att använda knappen\nKopiera\n. Det här är användbart om du har flera l..."
+  },
+  {
+    "title": "⚙️Vad är ett kundregister?",
+    "file": "vad-ar-ett-kundregister.md",
+    "slug": "vad-ar-ett-kundregister",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 22 september 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-ett-kundregister",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver utökat kundregister.\nEtt kundregister är ett av företagets konteringsregister som har utökats med kunduppgifter.\nFör att ställa in\nett konteringsregister som kundregister går du til..."
+  },
+  {
+    "title": "⚙️Vad är en hemkontering?",
+    "file": "vad-ar-en-hemkontering.md",
+    "slug": "vad-ar-en-hemkontering",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet"
+    ],
+    "date": "den 22 september 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-en-hemkontering",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Hemkonteringar ställs in i anställdaregistret och kan användas för behörighet, för urval och för att läggas ut i tidrapporter och reseräkningar.\nTilldela hemkontering\nDatumstyrda hemkonteringar\nHemkon..."
+  },
+  {
+    "title": "⚙️Hur ställer vi in konteringskombinationer?",
+    "file": "hur-staller-vi-in-konteringskombinationer.md",
+    "slug": "hur-staller-vi-in-konteringskombinationer",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 19 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4ller-vi-in-konteringskombinationer",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Konteringskombinationer kan användas för att begränsa hur olika konteringar kan kombineras med varandra. Här går vi igenom de inställningar som behöver göras för att använda konteringskombinationer.\nK..."
+  },
+  {
+    "title": "⚙️Hur arbetar man med filimporter i Flex HRM?",
+    "file": "hur-arbetar-man-med-filimporter-i-flex-hrm.md",
+    "slug": "hur-arbetar-man-med-filimporter-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-arbetar-man-med-filimporter-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Information om att skapa importmallar, importera data, schemalägga importer.\nImporttyper\nSkapa en importmall\nImportera data från fil\nSchemalägga import\nImportera data till Flex HRM\nGenom att importera..."
+  },
+  {
+    "title": "⚙️Exporter - Hur skapar och hanterar vi exportmallar för att få ut data från Flex HRM?",
+    "file": "exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hrm.md",
+    "slug": "exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/exportmallar-hur-skapar-och-hanterar-du-exportmallar-f%C3%B6r-att-f%C3%A5-ut-data-fr%C3%A5n-flex-hrm",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Exportmallar i Flex HRM är ett kraftfullt verktyg för att enkelt exportera rådata från olika källor, som tidrapporter och anställda, till filformat som Excel eller text. Du kan också schemalägga autom..."
+  },
+  {
+    "title": "Vad är bakgrundsjobb och var hittar jag dem?",
+    "file": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem.md",
+    "slug": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet"
+    ],
+    "date": "den 6 november 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-bakgrundsjobb-och-var-hittar-jag-dem",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I Flex HRM använder vi bakgrundsjobb för att hantera många funktioner. Detta gör vi för att\nbibehålla systemets prestanda\nför dig och dina kollegor, även under tunga processer.\nExempel på funktioner s..."
+  },
+  {
+    "title": "Hur kan jag skapa ett nytt företag eller kopiera ett företag?",
+    "file": "hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag.md",
+    "slug": "hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-kan-jag-skapa-ett-nytt-f%C3%B6retag-eller-kopiera-ett-f%C3%B6retag",
+    "isConfig": false,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Lär dig skapa ett nytt företag i Flex HRM. Vi går igenom hur du skapar nytt eller kopierar inställningar från ett befintligt företag.\nFöretagsinställningar\nSkapa nytt företag\nLadda ned företagsrapport..."
+  },
+  {
+    "title": "Var hittar jag information om närmast anhöriga?",
+    "file": "var-hittar-jag-information-om-narmast-anhoriga.md",
+    "slug": "var-hittar-jag-information-om-narmast-anhoriga",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 20 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/var-hittar-jag-info-om-narmast-anhorig-0",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "I HRM anges Närmast anhöriga under dina personuppgifter. Det finns tillgängligt under Mina uppgifter både via dator och mobil.\nUnder närmast anhöriga anger du den/de personer som din arbetsgivare ska ..."
+  },
+  {
+    "title": "Mina kollegor - Var hittar jag information om mina kollegor?",
+    "file": "mina-kollegor-var-hittar-jag-information-om-mina-kollegor.md",
+    "slug": "mina-kollegor-var-hittar-jag-information-om-mina-kollegor",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 7 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/mina-kollegor-var-kan-jag-se-information-om-mina-kollegor",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Mina kollegor - HRM Mobile\n![Bild](images/mina-kollegor-var-hittar-jag-information-om-mina-kollegor_3591f590.png)\nFunktionen Mina kollegor i appen HRM Mobile fungerar både som närvarotablå och kontakt..."
+  },
+  {
+    "title": "Hur fungerar Påminnelser på startsidan?",
+    "file": "hur-fungerar-paminnelser-pa-startsidan.md",
+    "slug": "hur-fungerar-paminnelser-pa-startsidan",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 5 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-p%C3%A5minnelser-p%C3%A5-startsidan",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "På startsidan i Flex HRM finns en panel som heter\nPåminnelser\n. Här visas olika typer av notiser, som till exempel:\nPåminnelser om att granska tidrapporter, reseräkningar och frånvaro\nFödelsedagar\nMed..."
+  },
+  {
+    "title": "Vilka språk är möjliga att välja på i Flex HRM?",
+    "file": "vilka-sprak-ar-mojliga-att-valja-pa-i-flex-hrm.md",
+    "slug": "vilka-sprak-ar-mojliga-att-valja-pa-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "explanation",
+    "difficulty": "beginner",
+    "tags": [
+      "användare"
+    ],
+    "date": "den 7 november 2025",
+    "url": "https://knowledge.flexapplications.se/mojliga-sprak-flex-hrm-0",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Med funktionen för språk har ni möjlighet att ge användaren möjlighet att själv välja språk. Då ser användaren Flex HRM utifrån valt språk.\nMöjliga val av språk\nSvenska\nN\norsk bokmål\nDansk\nEnglish\nSuo..."
+  },
+  {
+    "title": "Hur byter jag språk i Flex HRM?",
+    "file": "hur-byter-jag-sprak-i-flex-hrm.md",
+    "slug": "hur-byter-jag-sprak-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 7 november 2025",
+    "url": "https://knowledge.flexapplications.se/byt-sprak-flex-hrm-0",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du byter språk.\nNär du ska logga in i Flex HRM kan du välja språk vid inloggning. Längst ned ser du valt språk:\n![Bild](images/hur-byter-jag-sprak-i-flex-hrm_f19249ce.png)\n..."
+  },
+  {
+    "title": "Användarlogg - Kan jag se vem som har loggat in i Flex HRM?",
+    "file": "anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm.md",
+    "slug": "anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare"
+    ],
+    "date": "den 7 november 2025",
+    "url": "https://knowledge.flexapplications.se/anv%C3%A4ndarlogg-flex-hrm-0",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Användarlogg\nAllmänt > Loggning > Användarlogg\nAnvändarloggen kan användas för att se om någon användare är inloggad när ett större arbete ska göras, underlättar felsökning och ger dig möjlighet att u..."
+  },
+  {
+    "title": "Hur fungerar Meddelanden i Flex HRM?",
+    "file": "hur-fungerar-meddelanden-i-flex-hrm.md",
+    "slug": "hur-fungerar-meddelanden-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 29 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-meddelanden-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "På startsidan i Flex HRM finns en panel där du kan skicka meddelanden till enskilda anställda eller till hela grupper. Du kan ha behörighet att både skicka och ta emot meddelanden, eller bara att ta e..."
+  },
+  {
+    "title": "Hur fungerar meddelanden i HRM Mobile?",
+    "file": "hur-fungerar-meddelanden-i-hrm-mobile.md",
+    "slug": "hur-fungerar-meddelanden-i-hrm-mobile",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 29 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/meddelande-notiser-och-p%C3%A5minnelser-hur-fungerar-meddelanden-och-notiser-i-flex-hrm-mobile",
+    "isConfig": false,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur HRM Mobile har en inbyggd meddelandefunktion för kommunikation mellan användare och hur du skickar ett meddelande.\nMeddelanden\n![Bild](images/hur-fungerar-meddelanden-i-hrm..."
+  },
+  {
+    "title": "Hur hanteras notiser i HRM Mobile?",
+    "file": "hur-hanteras-notiser-i-hrm-mobile.md",
+    "slug": "hur-hanteras-notiser-i-hrm-mobile",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 29 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/hur-hanteras-notiser-i-hrm-mobile",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Hantera notiser och påminnelser i HRM Mobile\nI HRM Mobile får du notiser som påminner dig om olika uppgifter, till exempel att du ska attestera en reseräkning eller klarmarkera din tidrapport. Du kan ..."
+  },
+  {
+    "title": "Administrativa funktioner - Vilka administrativa funktioner kan jag styra direkt i mobilen?",
+    "file": "administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen.md",
+    "slug": "administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "behörighet",
+      "mobil"
+    ],
+    "date": "den 30 september 2025",
+    "url": "https://knowledge.flexapplications.se/administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen",
+    "isConfig": false,
+    "imageCount": 28,
+    "hasImages": true,
+    "excerpt": "Flex HRM Mobile  ger dig möjlighet att attestera tidrapporter, reseräkningar och frånvaroansökningar, samt utföra delattestering av tid- och reseräknings transaktioner.\nAttestering av tidrapporter\nAtt..."
+  },
+  {
+    "title": "Hur aktiverar jag koncernhantering i Flex HRM?",
+    "file": "hur-aktiverar-jag-koncernhantering-i-flex-hrm.md",
+    "slug": "hur-aktiverar-jag-koncernhantering-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-aktivera-jag-koncernhantering-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du aktiverar koncernhantering i Flex HRM: licensinställningar, moderbolag och dotterbolagskoppling.\nKoncernhatering\nKoncernhantering i Flex HRM är en tilläggsmodul som låter dig..."
+  },
+  {
+    "title": "Hur byter jag från Flex Lön till Flex HRM som master för personuppgifter?",
+    "file": "hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter.md",
+    "slug": "hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter",
+    "category": "systemgemensamt",
+    "subcategory": "Integration",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "integration",
+      "roll"
+    ],
+    "date": "den 30 september 2025",
+    "url": "https://knowledge.flexapplications.se/hur-byter-jag-fr%C3%A5n-att-ha-flex-l%C3%B6n-som-master-till-att-ha-flex-hrm-som-master",
+    "isConfig": false,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver, med bl.a. checklista, hur du byter master för personuppgifter från Flex Lön till Flex HRM.\nChecklista inför bytet\nRegister att kontrollera\nSkapa en kontrollrapport i Flex Lön\n..."
+  },
+  {
+    "title": "⚙️Hur fungerar Påminnelser?",
+    "file": "hur-fungerar-paminnelser.md",
+    "slug": "hur-fungerar-paminnelser",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/p%C3%A5minnelser-hur-anv%C3%A4nder-man-sig-av-p%C3%A5minnelser",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Detta är en generell artikel gällande påminnelser. Se enskilda artiklar för fördjupning i specifika påminnelser.\nPåminnelser\nI HRM kan du skapa anpassade påminnelser för olika händelser som frånvaro, ..."
+  },
+  {
+    "title": "⚙️Översättning i Flex HRM",
+    "file": "oversattning-i-flex-hrm.md",
+    "slug": "oversattning-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "roll"
+    ],
+    "date": "den 7 november 2025",
+    "url": "https://knowledge.flexapplications.se/oversattning-flex-hrm-0",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Standardmenyer och innehåll är redan översatt åt dig i Flex HRM. Det finns vissa möjligheter att påverka översättningen i just ditt företag. Här beskriver vi vilka delar som kan översättas och hur du ..."
+  },
+  {
+    "title": "⚙️Hur kan jag använda teman i Flex HRM?",
+    "file": "hur-kan-jag-anvanda-teman-i-flex-hrm.md",
+    "slug": "hur-kan-jag-anvanda-teman-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-kan-jag-anv%C3%A4nda-teman-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Anpassa utseendet i Flex HRM. Lär dig hur du enkelt byter färgschema, lägger till en egen logotyp och anpassar inloggningssidan.\nAnpassa utseendet i Flex HRM med teman\nMed funktionen för teman kan du ..."
+  },
+  {
+    "title": "⚙️Hur fungerar färgscheman i Flex HRM?",
+    "file": "hur-fungerar-fargscheman-i-flex-hrm.md",
+    "slug": "hur-fungerar-fargscheman-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-f%C3%A4rgscheman-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Lär dig skapa och anpassa färgscheman i Flex HRM. Matcha företagets grafiska profil genom att ändra färger på menyer, paneler och i HRM Mobile.\nGränssnitt – Färgscheman\nMed den här funktionen kan du s..."
+  },
+  {
+    "title": "⚙️Granskningsnivåer - Hur fungerar granskningsnivåer i Flex HRM?",
+    "file": "granskningsnivaer-hur-fungerar-granskningsnivaer-i-flex-hrm.md",
+    "slug": "granskningsnivaer-hur-fungerar-granskningsnivaer-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 13 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/granskningsniv%C3%A5er-",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Artikeln ger dig information om granskningsnivåer i systemet och beskriver olika nivåer och anpassningar av flöden för t.ex. tidrapporter och reseräkningar.\nAllmänt - Granskningsnivåer\nUnder\nAdministr..."
+  },
+  {
+    "title": "⚙️Hur fungerar ändringsloggen i Flex HRM?",
+    "file": "hur-fungerar-andringsloggen-i-flex-hrm.md",
+    "slug": "hur-fungerar-andringsloggen-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 6 november 2025",
+    "url": "https://knowledge.flexapplications.se/loggning-flex-hrm-0-0",
+    "isConfig": true,
+    "imageCount": 12,
+    "hasImages": true,
+    "excerpt": "Visa ändringsloggen\nI Flex HRM kan du logga (spåra) ändringar som görs i många av systemets register. I loggen sparas information om tidpunkten för ändringen, vem som gjorde den, det gamla värdet och ..."
+  },
+  {
+    "title": "⚙️Hur ställer jag in vilka ändringsloggar som ska vara aktiva i Flex HRM?",
+    "file": "hur-staller-jag-in-vilka-andringsloggar-som-ska-vara-aktiva-i-flex-hrm.md",
+    "slug": "hur-staller-jag-in-vilka-andringsloggar-som-ska-vara-aktiva-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "roll"
+    ],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/logginst%C3%A4llningar-flex-hrm-0",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Ställa in loggning (Logginställningar)\nI Flex HRM kan du logga (spåra) ändringar som görs i många av systemets register. I loggen sparas information om tidpunkten för ändringen, vem som ändrat, det ga..."
+  },
+  {
+    "title": "⚙️Hur fungerar styrföretag?",
+    "file": "hur-fungerar-styrforetag.md",
+    "slug": "hur-fungerar-styrforetag",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 10 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-styrf%C3%B6retag",
+    "isConfig": true,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Med styrföretag kan du kan göra ändringar i ett bolag, och få genomslag i flera.\nVilka register kan synkroniseras?\nSå här ställer du in ett styrföretag\nRegler för synkronisering\nSynkronisera inställni..."
+  },
+  {
+    "title": "⚙️Hur lägger jag upp instruktionsfilmer i Flex HRM?",
+    "file": "hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm.md",
+    "slug": "hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "roll"
+    ],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/instruktionsfilmer-flex-hrm-0",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Du kan enkelt göra instruktionsfilmer tillgängliga för medarbetarna så att de kan se dem direkt i Flex HRM.\n![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_12144ca8.png)\nLägg upp filme..."
+  },
+  {
+    "title": "⚙️Vilka behörigheter finns för meddelanden i Flex HRM?",
+    "file": "vilka-behorigheter-finns-for-meddelanden-i-flex-hrm.md",
+    "slug": "vilka-behorigheter-finns-for-meddelanden-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 30 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-beh%C3%B6righeter-finns-f%C3%B6r-meddelanden-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "På startsidan i Flex HRM finns en panel där du kan skicka meddelanden till enskilda anställda eller till hela grupper. Du kan ha behörighet att\nbåde skicka och ta emot\nmeddelanden, eller\nbara att ta e..."
+  },
+  {
+    "title": "⚙️Hur kan jag lägga in kontaktpersoner i Flex HRM?",
+    "file": "hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm.md",
+    "slug": "hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "roll"
+    ],
+    "date": "den 24 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-kan-jag-l%C3%A4gga-in-kontaktpersoner-i-flex-hem",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Den här artikeln beskriver hur du kan lägga in kontaktpersoner i Flex HRM på företagsnivå eller på systemnivå.\nHantera kontaktpersoner\nI Flex HRM kan du visa viktiga kontaktpersoner i en panel på star..."
+  },
+  {
+    "title": "⚙️Inställningar för närmast anhöriga",
+    "file": "installningar-for-narmast-anhoriga.md",
+    "slug": "installningar-for-narmast-anhoriga",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 22 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/var-hittar-jag-info-om-narmast-anhorig-0-0",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "I HRM anges Närmast anhöriga under den anställdes personuppgifter.\n\nDenna artikel beskriver vilka inställningar som du som administratör kan ställa in.\nUnder närmast anhöriga anger anställda den/de pe..."
+  },
+  {
+    "title": "⚙️Allmänna tips och förberedelser inför semester",
+    "file": "allmanna-tips-och-forberedelser-infor-semester.md",
+    "slug": "allmanna-tips-och-forberedelser-infor-semester",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 1 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/tips-inf%C3%B6r-semester",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Här har vi samlat praktiska tips på vad som är bra att tänka på i Flex HRM inför och under semesterperioden. I HRM kan du förbereda rapportering, frånvaro och delegera behörigheter när ordinarie perso..."
+  },
+  {
+    "title": "⚙️Formelspråk i Flex HRM",
+    "file": "formelsprak-i-flex-hrm.md",
+    "slug": "formelsprak-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "roll"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/formelspr%C3%A5k-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I Flex HRM finns det en rad funktioner som har stöd för att användaren skriver egna formler. Här beskrivs språket som används i Flex HRM för att skriva dessa formler.\nGenerellt\nFormler skrivs i en for..."
+  },
+  {
+    "title": "⚙️Nyheter - Hur jobbar jag med nyhetsflöden i Flex HRM?",
+    "file": "nyheter-hur-jobbar-jag-med-nyhetsfloden-i-flex-hrm.md",
+    "slug": "nyheter-hur-jobbar-jag-med-nyhetsfloden-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 29 september 2025",
+    "url": "https://knowledge.flexapplications.se/nyheter-hur-jobbar-jag-med-nyhetsfl%C3%B6den-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du administrera nyhetspanelen, skapar kategorier, lägger till egna RSS-flöden och styr behörigheten för vilka nyheter dina användare ska se.\nNyheter\nI panelen\nNyheter\npå startsi..."
+  },
+  {
+    "title": "Checklista vid årsskifte i Flex HRM Payroll",
+    "file": "checklista-vid-arsskifte-i-flex-hrm-payroll.md",
+    "slug": "checklista-vid-arsskifte-i-flex-hrm-payroll",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "howto",
+    "difficulty": "beginner",
+    "tags": [
+      "roll"
+    ],
+    "date": "den 18 november 2025",
+    "url": "https://knowledge.flexapplications.se/checklista-vid-%C3%A5rsskifte-i-flex-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Kontrollera\navvikelsedagar\nför det nya året.\nGör färdigt och avräkna alla löneutbetalningar för det gamla året.\nKontrollera att du har versionen som är förberedd för det nya året.\nKör\nFOS-rutinen\nför ..."
+  },
+  {
+    "title": "⚙️Vad behöver vi tänka på inför årsskiftet i HRM Travel?",
+    "file": "vad-behover-vi-tanka-pa-infor-arsskiftet-i-hrm-travel.md",
+    "slug": "vad-behover-vi-tanka-pa-infor-arsskiftet-i-hrm-travel",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "roll"
+    ],
+    "date": "den 18 november 2025",
+    "url": "https://knowledge.flexapplications.se/%C3%A5rsskiftet-hrm-travel",
+    "isConfig": true,
+    "imageCount": 14,
+    "hasImages": true,
+    "excerpt": "Artikeln demonstrerar det som förändras eller är bra att veta inför årsskiftet. Det angår traktamente, loggning, milersättningar, reseräkningar och hämtning av belopp och procent.\nÅrsskifte i Flex HRM..."
+  },
+  {
+    "title": "⚙️Everything you need to know for the year-end closing in HRM Travel (en)",
+    "file": "everything-you-need-to-know-for-the-year-end-closing-in-hrm-travel-en.md",
+    "slug": "everything-you-need-to-know-for-the-year-end-closing-in-hrm-travel-en",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "roll"
+    ],
+    "date": "den 18 november 2025",
+    "url": "https://knowledge.flexapplications.se/new-year-hrm-travel-0",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "This article describes all the steps you need to get a smooth transition in to the new year. Remember to change the settings for the new year.\nBefore you can register travels for the new year, you nee..."
+  },
+  {
+    "title": "⚙️Alt du må tenke på før årsskiftet i HRM Travel? (no)",
+    "file": "alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no.md",
+    "slug": "alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "roll"
+    ],
+    "date": "den 18 november 2025",
+    "url": "https://knowledge.flexapplications.se/%C3%A5rsskifte-hrm-travel-no",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "I denne artikkelen beskrives samtlige steg du skal følge for å forberede systemet for det nye året. Husk å gjøre innstillinger for årsskifte.\nFør du kan registrere reiser for det nye året må du kontro..."
+  },
+  {
+    "title": "⚙️Kontrollera avvikelsedagar vid årsskifte",
+    "file": "kontrollera-avvikelsedagar-vid-arsskifte.md",
+    "slug": "kontrollera-avvikelsedagar-vid-arsskifte",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "roll"
+    ],
+    "date": "den 18 november 2025",
+    "url": "https://knowledge.flexapplications.se/kontrollera-avvikelsedagar-vid-%C3%A5rsskifte",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Kontrollera avvikelsedagarna för det nya året genom att gå in under Administration – Inställningar – Tid och Bemanning – Scheman – Avvikelsedagar. Har du använt någon av de fasta dagarna under kolumne..."
+  },
+  {
+    "title": "⚙️Control discrepancy days at year end/new year (en)",
+    "file": "control-discrepancy-days-at-year-end-new-year-en.md",
+    "slug": "control-discrepancy-days-at-year-end-new-year-en",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 18 november 2025",
+    "url": "https://knowledge.flexapplications.se/kontrollera-avvikelsedagar-vid-%C3%A5rsskifte-0",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "This article describes how to proceed now that we are entering a new year. In Flex HRM Time, the program organizes most things related to the new year without you having to do anything. The only thing..."
+  },
+  {
+    "title": "⚙️Kontroller avviksdager ved årsskiftet (no)",
+    "file": "kontroller-avviksdager-ved-arsskiftet-no.md",
+    "slug": "kontroller-avviksdager-ved-arsskiftet-no",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "roll"
+    ],
+    "date": "den 18 november 2025",
+    "url": "https://knowledge.flexapplications.se/kontrollera-avvikelsedagar-vid-%C3%A5rsskifte-1",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Denne artikkelen informerer deg om hva du bør være oppmerksom på ved overgangen til et nytt år. Systemet håndterer det meste som gjelder årsskiftet automatisk, så du trenger som regel ikke å gjøre noe..."
+  },
+  {
+    "title": "⚙️Hämta skattetabeller för det nya året vid årsskiftet",
+    "file": "hamta-skattetabeller-for-det-nya-aret-vid-arsskiftet.md",
+    "slug": "hamta-skattetabeller-for-det-nya-aret-vid-arsskiftet",
+    "category": "systemgemensamt",
+    "subcategory": "Integration",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/h%C3%A4mta-skattetabeller-f%C3%B6r-det-nya-%C3%A5ret-vid-%C3%A5rsskiftet",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Under\nAdministration > Systemregister > Importera skattetabeller\nhämtar du in skattetabellerna för det nya året. Dessa behöver läsas in innan du öppnar den första lönekörningen för året.\n![Bild](image..."
+  },
+  {
+    "title": "⚙️Hur uppdateras fasta värden för belopp och procent vid årsskiftet?",
+    "file": "hur-uppdateras-fasta-varden-for-belopp-och-procent-vid-arsskiftet.md",
+    "slug": "hur-uppdateras-fasta-varden-for-belopp-och-procent-vid-arsskiftet",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 23 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-uppdateras-fasta-v%C3%A4rden-f%C3%B6r-belopp-och-procent-vid-%C3%A5rsskiftet",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Från och med version 2023.10 hämtas belopp och procent automatiskt in till Flex HRM. Möjligheten att hämta värden manuellt finns fortfarande kvar och kan användas vid behov. Värden hämtas allteftersom..."
+  }
 ]

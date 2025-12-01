@@ -2,6 +2,11 @@
 
 **Datum:** den 18 augusti 2025  
 **Kategori:** Time  
+**Underkategori:** Övertid & Ersättning  
+**Typ:** other  
+**Svårighetsgrad:** advanced  
+**Tags:** lön, ob, schema, stämpling, tidrapport, övertid  
+**Bilder:** 3  
 **URL:** https://knowledge.flexapplications.se/omr%C3%A4kning-av-tidrapporter-hur-kan-%C3%A4ndringar-f%C3%A5-genomslag-i-granskade-tidrapporter
 
 ---
@@ -15,7 +20,10 @@ Exempel
 Hem
 kostnadsställe läggs u
 t i tidrapporterna. Anställd 2 har klarmarkerat sin tidrapport för de första nio dagarna i juli. Jag ändrar hans hemkostnadsställe i efterhand, och vill att det ska få genomslag fr.o.m. 1 juli. Dagarna från 10 juli ändras automatiskt då de inte är granskade, men 1-9 juli ligger kvar på det tidigare hemkostnadsstället.
+![Månadsvy. 1-9 juli har kostnadsställe SL.](images/omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporter_c1d81e24.png)
 Under
 Bearbetningar > Servicerutiner > Omräkning av tidrapporter
 gör jag urval på anställd 2 och 1-9 juli.
+![Omräkning av tidrapporter, urvalsmöjligheter: tidgrupp, konteringar och anställningsnummer och datum. Knapp “Räkna om”.](images/omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporter_0f5b83c9.jpg)
 En notis visas när omräkningen är klar. Tidrapporten visar nu det nya hemkostnadsstället från 1 juli, utan att jag behövt ta bort klarmarkeringen som anställd 2 gjort.
+![Månadsvy. 1-9 juli har kostnadsställe N.](images/omrakning-av-tidrapporter-hur-kan-andringar-fa-genomslag-i-granskade-tidrapporter_ce838fa3.png)

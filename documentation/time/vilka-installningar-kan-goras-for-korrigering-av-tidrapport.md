@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Time  
+**Underkategori:** Inställningar  
+**Typ:** config  
+**Svårighetsgrad:** intermediate  
+**Tags:** lön, mobil, ob, tidrapport  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kan-g%C3%B6ras-f%C3%B6r-korrigering-av-tidrapport
 
 ---
@@ -17,6 +22,7 @@ Användare > Behörigheter > Roller
 , under noden som heter
 Tid
 . En chef kan till exempel ha behörighet att korrigera tidrapporter som är klarmarkerade men inte de som är granskade på högre nivåer.
+![Bild](images/vilka-installningar-kan-goras-for-korrigering-av-tidrapport_1794d233.png)
 Påminnelse vid korrigering
 Det är möjligt att en påminnelse skickas ut när en tidrapport korrigeras. Påminnelsen, som heter
 Korrigering av tidrapport
@@ -27,6 +33,7 @@ En specifik användare.
 Om du, som på bilden nedan, ställer in att påminnelsen ska skickas till den anställda via e-post och notis, kommer hen att få e-post och notis i
 HRM Mobile
 när en korrigering sparas i hens tidrapport.
+![Bild](images/vilka-installningar-kan-goras-for-korrigering-av-tidrapport_43917dd6.png)
 Relaterat
 Kan jag ändra i en tidrapport som är granskad/överförd till lön?
 Hur fungerar Påminnelser?

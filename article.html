@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artikel - Flex HRM Dokumentation</title>
+    <style>
+        :root {
+            --primary: #667eea;
+            --primary-dark: #764ba2;
+            --background: #f5f5f5;
+            --card-bg: #ffffff;
+            --text: #333;
+            --text-light: #666;
+            --border: #e0e0e0;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: var(--background);
+            color: var(--text);
+            line-height: 1.6;
+        }
+
+        /* Navigation */
+        .nav {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .nav-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            text-decoration: none;
+            color: white;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 1.5rem;
+        }
+
+        .nav-link {
+            color: white;
+            text-decoration: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .nav-link:hover {
+            opacity: 0.8;
+        }
+
+        /* Breadcrumbs */
+        .breadcrumbs {
+            max-width: 1200px;
+            margin: 1.5rem auto;
+            padding: 0 2rem;
+            display: flex;
+            gap: 0.5rem;
+            align-items: center;
+            font-size: 0.9rem;
+        }
+
+        .breadcrumb-link {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        .breadcrumb-link:hover {
+            text-decoration: underline;
+        }
+
+        .breadcrumb-separator {
+            color: var(--text-light);
+        }
+
+        /* Article Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem 4rem;
+            display: grid;
+            grid-template-columns: 1fr 300px;
+            gap: 3rem;
+        }
+
+        /* Article Content */
+        .article-content {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 3rem;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+        }
+
+        .article-header {
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .article-title {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--text);
+        }
+
+        .article-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+
+        .meta-badge {
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .badge-category { background: #dbeafe; color: #1e40af; }
+        .badge-type { background: #dcfce7; color: #166534; }
+        .badge-difficulty { background: #fef3c7; color: #92400e; }
+
+        .article-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .tag {
+            background: #f3f4f6;
+            color: var(--text);
+            padding: 0.3rem 0.8rem;
+            border-radius: 15px;
+            font-size: 0.8rem;
+        }
+
+        .article-body {
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        .article-body h1,
+        .article-body h2,
+        .article-body h3 {
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            color: var(--text);
+        }
+
+        .article-body p {
+            margin-bottom: 1rem;
+        }
+
+        .article-body ul,
+        .article-body ol {
+            margin-left: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .article-body code {
+            background: #f3f4f6;
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+            font-family: monospace;
+        }
+
+        .article-body img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            margin: 2rem 0;
+            display: block;
+        }
+
+        .article-images {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid var(--border);
+        }
+
+        .images-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+
+        .image-card {
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+
+        .image-card:hover {
+            transform: scale(1.05);
+        }
+
+        .image-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Lightbox for images */
+        .lightbox {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+        }
+
+        .lightbox.active {
+            display: flex;
+        }
+
+        .lightbox img {
+            max-width: 90%;
+            max-height: 90%;
+            box-shadow: 0 0 50px rgba(255, 255, 255, 0.1);
+        }
+
+        /* Sidebar */
+        .sidebar {
+            position: sticky;
+            top: 2rem;
+            height: fit-content;
+        }
+
+        .sidebar-section {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .sidebar-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            color: var(--text);
+        }
+
+        .toc-list {
+            list-style: none;
+        }
+
+        .toc-item {
+            margin-bottom: 0.5rem;
+        }
+
+        .toc-link {
+            color: var(--text-light);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .toc-link:hover {
+            color: var(--primary);
+        }
+
+        /* Related Articles */
+        .related-articles {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid var(--border);
+        }
+
+        .related-title {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            color: var(--text);
+        }
+
+        .related-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .related-card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 1.5rem;
+            border: 2px solid var(--border);
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .related-card:hover {
+            border-color: var(--primary);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .related-card-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text);
+        }
+
+        .related-card-meta {
+            display: flex;
+            gap: 0.5rem;
+            font-size: 0.8rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 968px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .sidebar {
+                position: static;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .article-content {
+                padding: 1.5rem;
+            }
+
+            .article-title {
+                font-size: 1.8rem;
+            }
+
+            .related-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-content">
+            <a href="/" class="nav-logo">📚 Flex HRM Dokumentation</a>
+            <div class="nav-links">
+                <a href="/" class="nav-link">Hem</a>
+                <a href="#search" class="nav-link">Sök</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Breadcrumbs -->
+    <div class="breadcrumbs" id="breadcrumbs">
+        <a href="/" class="breadcrumb-link">Hem</a>
+        <span class="breadcrumb-separator">›</span>
+        <span id="breadcrumbCategory">...</span>
+        <span class="breadcrumb-separator">›</span>
+        <span id="breadcrumbSubcategory">...</span>
+    </div>
+
+    <!-- Container -->
+    <div class="container">
+        <!-- Article Content -->
+        <main class="article-content">
+            <article>
+                <header class="article-header">
+                    <h1 class="article-title" id="articleTitle">Laddar...</h1>
+                    
+                    <div class="article-meta" id="articleMeta"></div>
+                    <div class="article-tags" id="articleTags"></div>
+                </header>
+
+                <div class="article-body" id="articleBody">
+                    <p>Laddar artikel...</p>
+                </div>
+            </article>
+
+            <!-- Images Section -->
+            <section class="article-images" id="articleImages" style="display: none;">
+                <h2 class="related-title">📸 Bilder från artikeln</h2>
+                <div class="images-grid" id="imagesGrid"></div>
+            </section>
+
+            <!-- Related Articles -->
+            <section class="related-articles" id="relatedArticles" style="display: none;">
+                <h2 class="related-title">📌 Relaterade artiklar</h2>
+                <div class="related-grid" id="relatedGrid"></div>
+            </section>
+        </main>
+
+        <!-- Lightbox for images -->
+        <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+            <img id="lightboxImg" src="" alt="">
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">📄 Innehåll</h3>
+                <ul class="toc-list" id="tocList">
+                    <li class="toc-item">Laddar...</li>
+                </ul>
+            </div>
+
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">ℹ️ Information</h3>
+                <div id="articleInfo"></div>
+            </div>
+        </aside>
+    </div>
+
+    <script>
+        // Get article slug from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const articleSlug = urlParams.get('article');
+        const categoryParam = urlParams.get('category');
+
+        let allArticles = [];
+        let currentArticle = null;
+
+        // Initialize
+        async function init() {
+            if (!articleSlug || !categoryParam) {
+                document.getElementById('articleBody').innerHTML = 
+                    '<p>❌ Ingen artikel angiven. <a href="/">Gå till startsidan</a></p>';
+                return;
+            }
+
+            try {
+                // Load all articles
+                const masterResponse = await fetch('/documentation/master_index.json');
+                const masterIndex = await masterResponse.json();
+
+                for (const [categoryKey] of Object.entries(masterIndex.categories)) {
+                    const catResponse = await fetch(`/documentation/${categoryKey}/index.json`);
+                    const articles = await catResponse.json();
+                    allArticles.push(...articles);
+                }
+
+                // Find current article
+                currentArticle = allArticles.find(a => a.slug === articleSlug && a.category === categoryParam);
+
+                if (!currentArticle) {
+                    document.getElementById('articleBody').innerHTML = 
+                        '<p>❌ Artikel hittades inte. <a href="/">Gå till startsidan</a></p>';
+                    return;
+                }
+
+                // Load article content
+                await loadArticleContent();
+                updateBreadcrumbs();
+                updateMetadata();
+                generateTOC();
+                loadImages();
+                loadRelatedArticles();
+
+            } catch (error) {
+                console.error('Error loading article:', error);
+                document.getElementById('articleBody').innerHTML = 
+                    '<p>❌ Kunde inte ladda artikel. <a href="/">Gå till startsidan</a></p>';
+            }
+        }
+
+        // Load article content from markdown file
+        async function loadArticleContent() {
+            const response = await fetch(`/documentation/${currentArticle.category}/${currentArticle.file}`);
+            const markdown = await response.text();
+
+            // Parse markdown (simple parser)
+            const lines = markdown.split('\n');
+            let contentStarted = false;
+            let content = [];
+
+            for (const line of lines) {
+                if (line.trim() === '---' && !contentStarted) {
+                    contentStarted = true;
+                    continue;
+                }
+                if (contentStarted) {
+                    content.push(line);
+                }
+            }
+
+            // Convert to HTML (enhanced conversion with image support)
+            let html = content.join('\n')
+                // Images: ![alt](path)
+                .replace(/!\[(.*?)\]\((.*?)\)/g, '<img src="/documentation/' + currentArticle.category + '/$2" alt="$1" style="max-width: 100%; height: auto; margin: 2rem 0; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">')
+                // Headers
+                .replace(/^# (.*$)/gim, '<h1>$1</h1>')
+                .replace(/^## (.*$)/gim, '<h2>$1</h2>')
+                .replace(/^### (.*$)/gim, '<h3>$1</h3>')
+                // Bold
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                // Paragraphs
+                .replace(/\n\n/g, '</p><p>')
+                .replace(/\n/g, '<br>');
+
+            html = '<p>' + html + '</p>';
+
+            document.getElementById('articleTitle').textContent = currentArticle.title;
+            document.getElementById('articleBody').innerHTML = html;
+        }
+
+        // Update breadcrumbs
+        function updateBreadcrumbs() {
+            const categoryNames = {
+                'time': 'Time',
+                'employee': 'Employee',
+                'payroll': 'Payroll',
+                'travel-expense': 'Travel & Expense',
+                'systemgemensamt': 'Systemgemensamt',
+                'plan': 'Plan'
+            };
+
+            document.getElementById('breadcrumbCategory').textContent = 
+                categoryNames[currentArticle.category] || currentArticle.category;
+            document.getElementById('breadcrumbSubcategory').textContent = 
+                currentArticle.subcategory;
+        }
+
+        // Update metadata
+        function updateMetadata() {
+            const categoryNames = {
+                'time': 'Time',
+                'employee': 'Employee',
+                'payroll': 'Payroll',
+                'travel-expense': 'Travel & Expense',
+                'systemgemensamt': 'Systemgemensamt',
+                'plan': 'Plan'
+            };
+
+            const typeLabels = {
+                'howto': 'Hur gör jag',
+                'concept': 'Begrepp',
+                'config': 'Inställningar',
+                'faq': 'FAQ',
+                'feature': 'Funktion',
+                'other': 'Övrigt'
+            };
+
+            const diffLabels = {
+                'beginner': 'Nybörjare',
+                'intermediate': 'Mellannivå',
+                'advanced': 'Avancerad'
+            };
+
+            // Meta badges
+            let metaHtml = `
+                <span class="meta-badge badge-category">${categoryNames[currentArticle.category]}</span>
+                <span class="meta-badge badge-type">${typeLabels[currentArticle.type]}</span>
+                <span class="meta-badge badge-difficulty">${diffLabels[currentArticle.difficulty]}</span>
+            `;
+            
+            // Add image badge if article has images
+            if (currentArticle.hasImages && currentArticle.imageCount > 0) {
+                metaHtml += `<span class="meta-badge" style="background: #e0f2fe; color: #075985;">📸 ${currentArticle.imageCount} bilder</span>`;
+            }
+            
+            document.getElementById('articleMeta').innerHTML = metaHtml;
+
+            // Tags
+            const tagsHtml = currentArticle.tags.map(tag => 
+                `<span class="tag">#${tag}</span>`
+            ).join('');
+            document.getElementById('articleTags').innerHTML = tagsHtml;
+
+            // Sidebar info
+            const infoHtml = `
+                <p><strong>Datum:</strong><br>${currentArticle.date}</p>
+                <p style="margin-top: 1rem;"><strong>Källa:</strong><br>
+                    <a href="${currentArticle.url}" target="_blank" style="color: var(--primary); text-decoration: none;">
+                        Öppna på Flex Knowledge →
+                    </a>
+                </p>
+            `;
+            document.getElementById('articleInfo').innerHTML = infoHtml;
+        }
+
+        // Generate table of contents
+        function generateTOC() {
+            const headings = document.querySelectorAll('.article-body h1, .article-body h2, .article-body h3');
+            
+            if (headings.length === 0) {
+                document.getElementById('tocList').innerHTML = '<li class="toc-item">Inget innehåll</li>';
+                return;
+            }
+
+            let tocHtml = '';
+            headings.forEach((heading, index) => {
+                const id = `heading-${index}`;
+                heading.id = id;
+                const level = parseInt(heading.tagName[1]);
+                const indent = (level - 1) * 1;
+                
+                tocHtml += `
+                    <li class="toc-item" style="margin-left: ${indent}rem;">
+                        <a href="#${id}" class="toc-link">${heading.textContent}</a>
+                    </li>
+                `;
+            });
+
+            document.getElementById('tocList').innerHTML = tocHtml;
+        }
+
+        // Load related articles
+        function loadRelatedArticles() {
+            // Find related articles based on tags and category
+            const related = allArticles
+                .filter(a => a.slug !== currentArticle.slug)
+                .map(article => {
+                    let score = 0;
+                    
+                    // Same category
+                    if (article.category === currentArticle.category) score += 3;
+                    
+                    // Same subcategory
+                    if (article.subcategory === currentArticle.subcategory) score += 5;
+                    
+                    // Shared tags
+                    const sharedTags = article.tags.filter(tag => 
+                        currentArticle.tags.includes(tag)
+                    );
+                    score += sharedTags.length * 2;
+                    
+                    return { article, score };
+                })
+                .filter(item => item.score > 0)
+                .sort((a, b) => b.score - a.score)
+                .slice(0, 6)
+                .map(item => item.article);
+
+            if (related.length > 0) {
+                document.getElementById('relatedArticles').style.display = 'block';
+                
+                const relatedHtml = related.map(article => `
+                    <div class="related-card" onclick="navigateToArticle('${article.slug}', '${article.category}')">
+                        <div class="related-card-title">${article.title}</div>
+                        <div class="related-card-meta">
+                            <span class="tag">${article.subcategory}</span>
+                        </div>
+                    </div>
+                `).join('');
+                
+                document.getElementById('relatedGrid').innerHTML = relatedHtml;
+            }
+        }
+
+        // Load images
+        function loadImages() {
+            if (!currentArticle.images || currentArticle.images.length === 0) {
+                return;
+            }
+
+            document.getElementById('articleImages').style.display = 'block';
+            
+            const imagesHtml = currentArticle.images.map((imagePath, index) => `
+                <div class="image-card" onclick="openLightbox('/documentation/${currentArticle.category}/${imagePath}')">
+                    <img src="/documentation/${currentArticle.category}/${imagePath}" 
+                         alt="Bild ${index + 1}" 
+                         loading="lazy">
+                </div>
+            `).join('');
+            
+            document.getElementById('imagesGrid').innerHTML = imagesHtml;
+
+            // Add images to article body as well
+            const articleBody = document.getElementById('articleBody');
+            currentArticle.images.forEach((imagePath, index) => {
+                const img = document.createElement('img');
+                img.src = `/documentation/${currentArticle.category}/${imagePath}`;
+                img.alt = `Bild ${index + 1}`;
+                img.loading = 'lazy';
+                img.onclick = () => openLightbox(`/documentation/${currentArticle.category}/${imagePath}`);
+                img.style.cursor = 'pointer';
+            });
+        }
+
+        // Lightbox functions
+        function openLightbox(imageSrc) {
+            document.getElementById('lightboxImg').src = imageSrc;
+            document.getElementById('lightbox').classList.add('active');
+        }
+
+        function closeLightbox() {
+            document.getElementById('lightbox').classList.remove('active');
+        }
+
+        // Navigate to article
+        function navigateToArticle(slug, category) {
+            window.location.href = `/article.html?article=${slug}&category=${category}`;
+        }
+
+        // Keyboard navigation for lightbox
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeLightbox();
+            }
+        });
+
+        // Initialize on load
+        window.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
+

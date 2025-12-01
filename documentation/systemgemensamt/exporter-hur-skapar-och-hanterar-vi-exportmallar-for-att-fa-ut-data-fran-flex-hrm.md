@@ -2,6 +2,11 @@
 
 **Datum:** den 29 september 2025  
 **Kategori:** Systemgemensamt  
+**Underkategori:** Register  
+**Typ:** howto  
+**Svårighetsgrad:** advanced  
+**Tags:** användare, behörighet  
+**Bilder:** 4  
 **URL:** https://knowledge.flexapplications.se/exportmallar-hur-skapar-och-hanterar-du-exportmallar-f%C3%B6r-att-f%C3%A5-ut-data-fr%C3%A5n-flex-hrm
 
 ---
@@ -57,6 +62,7 @@ att sk
 apa en ny exportmall, gå till
 Inställningar > Import/Export> Exportmallar
 .
+![Bild](images/exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hrm_733e06a4.png)
 Klicka på knappen
 Ny,
 ge exportmallen ett namn och v
@@ -89,6 +95,7 @@ Fält
 Ange de fält som du vill ska skrivas till filen och hur de ska skrivas. För vissa fält, som till exempel datum, kan du välja hur det ska formateras. Klicka på info-i vid
 Text/Format
 för instruktion.
+![Bild](images/exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hrm_143a83a2.png)
 När du är klar med inställningarna, klicka på
 Spara
 .
@@ -97,6 +104,7 @@ För att exportera data, gå till
 Bearbetningar >
 Servicerutiner > Export
 .
+![Bild](images/exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hrm_ed81af96.png)
 Ge exporten ett namn.
 Ange vad filen ska heta.
 Välj den exportmall som du har skapat.
@@ -113,6 +121,7 @@ Du har också möjlighet att schemalägga export av data. Om du har skapat och s
 Inställningar >
 Import/Export > Schemalagda körningar
 .
+![Bild](images/exporter-hur-skapar-och-hanterar-vi-exportmallar-for-att-fa-ut-data-fran-flex-hrm_c8a86a9b.png)
 Ge den schemalagda körningen ett namn.
 Välj vilken export du vill schemalägga.
 Ställ in hur ofta exporten ska köras samt ett klockslag.

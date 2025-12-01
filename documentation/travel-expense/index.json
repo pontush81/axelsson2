@@ -1,60 +1,461 @@
 [
-  {"title": "Hur aktiverar jag funktionen Fakturering i HRM Travel?", "file": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-travel.md"}
-,
-  {"title": "Hur aktiverar vi möjligheten för anställda att importera körjournaler till HRM Travel?", "file": "hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-t.md"}
-,
-  {"title": "Hur aktiverar vi möjligheten för anställda att importera körjournaler till HRM Travel?", "file": "hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel.md"}
-,
-  {"title": "Hur används funktionen "Frisläpp till fakturering i Flex HRM Travel?", "file": "hur-anvands-funktionen-frislapp-till-fakturering-i-flex-hrm-travel.md"}
-,
-  {"title": "Hur exporterar jag en reseräkningsspecifikation?", "file": "hur-exporterar-jag-en-reserakningsspecifikation.md"}
-,
-  {"title": "Hur fakturerar jag en reseräkning?", "file": "hur-fakturerar-jag-en-reserakning.md"}
-,
-  {"title": "Hur fungerar funktionen "Redigering av fakturaunderlag"?", "file": "hur-fungerar-funktionen-redigering-av-fakturaunderlag.md"}
-,
-  {"title": "Hur granskar och attesterar jag en reseräkning?", "file": "hur-granskar-och-attesterar-jag-en-reserakning.md"}
-,
-  {"title": "Hur importerar jag en körjournal från Volvo cars-appen till HRM Travel?", "file": "hur-importerar-jag-en-korjournal-fran-volvo-cars-appen-till-hrm-travel.md"}
-,
-  {"title": "Hur importerar jag en körjournal till en reseräkning i HRM Travel?", "file": "hur-importerar-jag-en-korjournal-till-en-reserakning-i-hrm-travel.md"}
-,
-  {"title": "Hur konfigurerar vi generella inställningar för reseräkningar i HRM Travel?", "file": "hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel.md"}
-,
-  {"title": "Hur rapporterar jag bilresor i HRM Travel?", "file": "hur-rapporterar-jag-bilresor-i-hrm-travel.md"}
-,
-  {"title": "Hur rapporterar jag traktamentsresor i HRM Travel?", "file": "hur-rapporterar-jag-traktamentsresor-i-hrm-travel.md"}
-,
-  {"title": "Hur rapporterar jag utlägg och representation i HRM Travel?", "file": "hur-rapporterar-jag-utlagg-och-representation-i-hrm-travel.md"}
-,
-  {"title": "Hur registrerar jag bilresor med drivmedelsförmån i körjournalen samt anger utgående mätarställning i månadens slut?", "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utga.md"}
-,
-  {"title": "Hur registrerar jag bilresor med drivmedelsförmån i körjournalen samt anger utgående mätarställning i månadens slut?", "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-.md"}
-,
-  {"title": "Hur registrerar jag bilresor med drivmedelsförmån i reseräkningsvyn samt anger utgående mätarställning i månadens slut?", "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-u.md"}
-,
-  {"title": "Hur registrerar jag bilresor med drivmedelsförmån i reseräkningsvyn samt anger utgående mätarställning i månadens slut?", "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni.md"}
-,
-  {"title": "Hur registrerar jag en kontokortstransaktion?", "file": "hur-registrerar-jag-en-kontokortstransaktion.md"}
-,
-  {"title": "Hur registrerar jag en reseräkning i HRM Travel?", "file": "hur-registrerar-jag-en-reserakning-i-hrm-travel.md"}
-,
-  {"title": "Hur registrerar jag reseräkningar i HRM Mobile?", "file": "hur-registrerar-jag-reserakningar-i-hrm-mobile.md"}
-,
-  {"title": "Hur sätter jag upp en importmall av körjournal för filer från Volvo cars-appen?", "file": "hur-satter-jag-upp-en-importmall-av-korjournal-for-filer-fran-volvo-cars-appen.md"}
-,
-  {"title": "Hur sätter vi upp en utläggskod för hyrbilar där vi har rätt att dra av 50% av momsbeloppet?", "file": "hur-satter-vi-upp-en-utlaggskod-for-hyrbilar-dar-vi-har-ratt-att-dra-av-50-av-mo.md"}
-,
-  {"title": "Hur sätter vi upp en utläggskod för hyrbilar där vi har rätt att dra av 50% av momsbeloppet?", "file": "hur-satter-vi-upp-en-utlaggskod-for-hyrbilar-dar-vi-har-ratt-att-dra-av-50-av-momsbeloppet.md"}
-,
-  {"title": "Utlägg och representation - Var redigerar man de olika inställningarna för utlägg och representation?", "file": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-.md"}
-,
-  {"title": "Utlägg och representation - Var redigerar man de olika inställningarna för utlägg och representation?", "file": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation.md"}
-,
-  {"title": "Vad behöver vi tänka på inför årsskiftet i HRM Travel?", "file": "vad-behover-vi-tanka-pa-infor-arsskiftet-i-hrm-travel.md"}
-,
-  {"title": "Vad betyder de olika alternativen i inställningarna i Restid?", "file": "vad-betyder-de-olika-alternativen-i-installningarna-i-restid.md"}
-,
-  {"title": "Var och hur hanterar vi inställningarna för bilresor?", "file": "var-och-hur-hanterar-vi-installningarna-for-bilresor.md"}
-
+  {
+    "title": "Hur importerar jag en körjournal från Volvo cars-appen till HRM Travel?",
+    "file": "hur-importerar-jag-en-korjournal-fran-volvo-cars-appen-till-hrm-travel.md",
+    "slug": "hur-importerar-jag-en-korjournal-fran-volvo-cars-appen-till-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "resa"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-importerar-jag-en-k%C3%B6rjournal-fr%C3%A5n-volvo-cars-appen-till-hrm-travel",
+    "isConfig": false,
+    "imageCount": 21,
+    "hasImages": true,
+    "excerpt": "I HRM Travel kan man importera körjournaler från Volvo cars-appen. Artikeln beskriver dels hur man skapar en csv-fil i appen samt hur man importerar filen till en reseräkning i HRM Travel.\nInställning..."
+  },
+  {
+    "title": "Hur importerar jag en körjournal till en reseräkning i HRM Travel?",
+    "file": "hur-importerar-jag-en-korjournal-till-en-reserakning-i-hrm-travel.md",
+    "slug": "hur-importerar-jag-en-korjournal-till-en-reserakning-i-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "resa"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-importerar-jag-en-k%C3%B6rjournal-till-en-reser%C3%A4kning-i-hrm-travel",
+    "isConfig": false,
+    "imageCount": 9,
+    "hasImages": true,
+    "excerpt": "Antingen har jag själv laddad ner en körjournal som jag vill importera alternativt har en administratör importerat körjournalen och jag behöver stämma av den importerade körjournalsfilen.\nImportera bi..."
+  },
+  {
+    "title": "⚙️Hur sätter jag upp en importmall av körjournal för filer från Volvo cars-appen?",
+    "file": "hur-satter-jag-upp-en-importmall-av-korjournal-for-filer-fran-volvo-cars-appen.md",
+    "slug": "hur-satter-jag-upp-en-importmall-av-korjournal-for-filer-fran-volvo-cars-appen",
+    "category": "travel-expense",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil"
+    ],
+    "date": "den 1 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-s%C3%A4tter-jag-upp-en-importmall-av-k%C3%B6rjopurnal-efr%C3%A5n-volvo-cars-appen",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur jag sätter upp en importmall i HRM Travel som är anpassad för att kunna importera körjournaler från Volvo cars via en csv-fil.\nStäll in en importmall för Volvo cars\nDen här arti..."
+  },
+  {
+    "title": "⚙️Hur aktiverar vi möjligheten för anställda att importera körjournaler till HRM Travel?",
+    "file": "hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel.md",
+    "slug": "hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "bil",
+      "resa"
+    ],
+    "date": "den 1 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-aktiverar-vi-m%C3%B6jligheten-f%C3%B6r-anst%C3%A4llda-att-importera-k%C3%B6rjournaler-till-hrm-travel",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "För att kunna importera körjournaler från andra system så måste du skapa importmallar för bilresor och körjournaler.\nImportera körjournaler\nI Flex HRM kan du importera körjournaler från externa levera..."
+  },
+  {
+    "title": "Hur granskar och klarmarkerar jag en reseräkning?",
+    "file": "hur-granskar-och-klarmarkerar-jag-en-reserakning.md",
+    "slug": "hur-granskar-och-klarmarkerar-jag-en-reserakning",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "beginner",
+    "tags": [
+      "bil"
+    ],
+    "date": "den 14 november 2025",
+    "url": "https://knowledge.flexapplications.se/granska-reser%C3%A4kning-hur-granskar-och-klarmarkerar-man-en-reser%C3%A4kning",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Hur granskar och klarmarkerar jag en reseräkning så att den kan gå vidare till attest?\nNär din reseräkning är helt klar och du vill låta den gå vidare för attest håller du muspekaren över ”Status: Pre..."
+  },
+  {
+    "title": "Hur granskar och attesterar jag en reseräkning?",
+    "file": "hur-granskar-och-attesterar-jag-en-reserakning.md",
+    "slug": "hur-granskar-och-attesterar-jag-en-reserakning",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "attestering",
+      "bil"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/attestering-av-reser%C3%A4kning-hur-genomf%C3%B6r-man-en-attestering-av-en-reser%C3%A4kning",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "En beskrivning för attestering av reseräkning, samt hur man avslår en reseräkning.\nAttestering av reseräkning\nAttestering av reseräkning kan göras direkt i registreringsvyn på reseräkningen, genom att..."
+  },
+  {
+    "title": "⚙️Var och hur hanterar vi inställningarna för bilresor?",
+    "file": "var-och-hur-hanterar-vi-installningarna-for-bilresor.md",
+    "slug": "var-och-hur-hanterar-vi-installningarna-for-bilresor",
+    "category": "travel-expense",
+    "subcategory": "Bilresor",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "bil"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/bilresor-",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Under Bilresor i administrationen kan du ställa in generella inställningar som enhet för körsträcka och beräkning av drivmedelsförmån. Du kan även hantera fordonstyper, definiera om de ska användas me..."
+  },
+  {
+    "title": "Hur registrerar jag reseräkningar i HRM Mobile?",
+    "file": "hur-registrerar-jag-reserakningar-i-hrm-mobile.md",
+    "slug": "hur-registrerar-jag-reserakningar-i-hrm-mobile",
+    "category": "travel-expense",
+    "subcategory": "Utlägg & Kvitton",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "kvitto",
+      "mobil",
+      "resa",
+      "utlägg"
+    ],
+    "date": "den 27 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-registrerar-jag-reser%C3%A4kningar-i-mobilen",
+    "isConfig": false,
+    "imageCount": 17,
+    "hasImages": true,
+    "excerpt": "I HRM Mobile kan du enkelt fotografera kvitton, registrera körda mil, hantera utlägg och signera din reseräkning, oavsett var du befinner dig.\nSkapa och hantera reseräkningar i HRM Mobile\nI HRM Mobile..."
+  },
+  {
+    "title": "Hur registrerar jag bilresor med drivmedelsförmån i reseräkningsvyn samt anger utgående mätarställning i månadens slut?",
+    "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni.md",
+    "slug": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "resa"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-registrerar-jag-resor-med-f%C3%B6rm%C3%A5nsbilar-med-drivmedelsf%C3%B6rm%C3%A5n-i-reser%C3%A4kningsvyn",
+    "isConfig": false,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Vid drivmedelsförmånsbilar måste du registrera dina tjänsteresor samt ange utgående mätarställning vid månadens slut för att kunna beräkna vilken drivmedelsförmån du haft under månaden för de privat k..."
+  },
+  {
+    "title": "Hur registrerar jag bilresor med drivmedelsförmån i körjournalen samt anger utgående mätarställning i månadens slut?",
+    "file": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-.md",
+    "slug": "hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "resa"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-registrerar-jag-resor-med-f%C3%B6rm%C3%A5nsbil-i-k%C3%B6rjournalen",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Vid drivmedelsförmånsbilar måste du registrera dina tjänsteresor samt ange utgående mätarställning vid månadens slut för att kunna beräkna vilken drivmedelsförmån du haft under månaden för de privat k..."
+  },
+  {
+    "title": "Hur rapporterar jag bilresor i HRM Travel?",
+    "file": "hur-rapporterar-jag-bilresor-i-hrm-travel.md",
+    "slug": "hur-rapporterar-jag-bilresor-i-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "resa"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-rapporterar-jag-bilresresor-i-hrm-travel",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Hur rapporterar jag bilresor i HRM Travel och ser att jag fått korrekta ersättningar?\nRapportera bilresor\nDu rapporterar dina resor genom att gå till menyn\nResa > Reseräkning\n.\nSkapa en ny reseräkning..."
+  },
+  {
+    "title": "Hur rapporterar jag traktamentsresor i HRM Travel?",
+    "file": "hur-rapporterar-jag-traktamentsresor-i-hrm-travel.md",
+    "slug": "hur-rapporterar-jag-traktamentsresor-i-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "bil",
+      "resa",
+      "traktamente"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/rapportera-resetransaktioner-hur-rapporterar-man-resetransaktioner-i-hrm-travel",
+    "isConfig": false,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Hur rapporterar jag inrikes-och utrikes traktamentesresor i HRM Travel?\nRapportera resetransaktioner\nFör att rapportera dina resetransaktioner använder du först menyn\nResa\noch sedan\nReseräkning\n.\n![Bi..."
+  },
+  {
+    "title": "Hur rapporterar jag utlägg och representation i HRM Travel?",
+    "file": "hur-rapporterar-jag-utlagg-och-representation-i-hrm-travel.md",
+    "slug": "hur-rapporterar-jag-utlagg-och-representation-i-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Utlägg & Kvitton",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "kvitto",
+      "utlägg"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-rapporterar-jag-utl%C3%A4gg-och-representation",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Hur rapporterar jag privata utlägg och representation i i HRM Travel samt bifogar kvitton på gjorda utlägg?\nSå här lägger du till ett utlägg\nFör att registrera ett nytt utlägg börjar du med att fylla ..."
+  },
+  {
+    "title": "Hur registrerar jag en reseräkning i HRM Travel?",
+    "file": "hur-registrerar-jag-en-reserakning-i-hrm-travel.md",
+    "slug": "hur-registrerar-jag-en-reserakning-i-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "resa",
+      "traktamente",
+      "utlägg"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/reser%C3%A4kning-hur-skapar-jag-en-reser%C3%A4kning",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "Hur registrerar jag en reseräkning i HRM Travel för gjorda utlägg, traktamentesnätter samt bilresor.\nÖversikt reseräkning\nReseräkningens huvudinformation visas alltid högst upp i reseräkningsvyn. Dina..."
+  },
+  {
+    "title": "⚙️Utlägg och representation - Var redigerar man de olika inställningarna för utlägg och representation?",
+    "file": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation.md",
+    "slug": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation",
+    "category": "travel-expense",
+    "subcategory": "Utlägg & Kvitton",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "utlägg"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/utl%C3%A4gg-och-representation-var-redigerar-man-de-olikainst%C3%A4llningarna-f%C3%B6r-utl%C3%A4gg-och-representation",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Under \"Utlägg & representation\" ställer man in koder för olika utlägg. Här definierar man allmänna uppgifter som namn och momssats, kopplar lönearter och konton för bokföring, samt specificerar regist..."
+  },
+  {
+    "title": "Hur fakturerar jag en reseräkning?",
+    "file": "hur-fakturerar-jag-en-reserakning.md",
+    "slug": "hur-fakturerar-jag-en-reserakning",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "utlägg"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/fakturering-hur-fakturerar-man-en-reser%C3%A4kning",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Utöver fakturering av en reseräkning beskriver artikeln även hur man kan fakturera olika delar av en reseräkningspost, samt förklarar externa kommentarer.\nFakturering\nEn reseräkning kan sättas som fak..."
+  },
+  {
+    "title": "⚙️Hur aktiverar jag funktionen Fakturering i HRM Travel?",
+    "file": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-travel.md",
+    "slug": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "resa",
+      "traktamente",
+      "utlägg"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-hrm-travel",
+    "isConfig": true,
+    "imageCount": 14,
+    "hasImages": true,
+    "excerpt": "Funktionen “Fakturering” eller “Frisläpp till fakturering” används antingen för att få ut faktureringsunderlag för att fakturera kunder direkt alternativt exportera utläggsbelopp, traktamentesbelopp e..."
+  },
+  {
+    "title": "⚙️Hur fungerar funktionen \"Redigering av fakturaunderlag\"?",
+    "file": "hur-fungerar-funktionen-redigering-av-fakturaunderlag.md",
+    "slug": "hur-fungerar-funktionen-redigering-av-fakturaunderlag",
+    "category": "travel-expense",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-funktionen-redigering-av-fakturaunderlag-",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Fakturaunderlag kan redigeras och godkännas i HRM innan det förs över till ditt ekonomisystem.\nRedigering av fakturaunderlag\nFakturaunderlag kan redigeras och godkännas i HRM innan det förs över till ..."
+  },
+  {
+    "title": "⚙️Hur används funktionen \"Frisläpp till fakturering i Flex HRM Travel?",
+    "file": "hur-anvands-funktionen-frislapp-till-fakturering-i-flex-hrm-travel.md",
+    "slug": "hur-anvands-funktionen-frislapp-till-fakturering-i-flex-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Traktamente",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "traktamente",
+      "utlägg"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-flex-hrm-travel",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I denna funktion kan jag frisläppa utlägg, resor eller traktamenten från reseräkningarna som är markerade som fakturerbara. Därmed låses reseräkningarna och ett fakturaunderlag kan skapas.\nFrisläpp ti..."
+  },
+  {
+    "title": "Hur registrerar jag en kontokortstransaktion?",
+    "file": "hur-registrerar-jag-en-kontokortstransaktion.md",
+    "slug": "hur-registrerar-jag-en-kontokortstransaktion",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "utlägg"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/utl%C3%A4gg-hur-registrerar-och-hanterar-man-utl%C3%A4gg-och-representation",
+    "isConfig": false,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Hur registrerar jag en kontokortstransaktion och kopplar den mot rätt utläggskod?\nUtlägg eller representation från kontokortstransaktion\nFinns det en koppling till kontokort för den anställde finns de..."
+  },
+  {
+    "title": "⚙️Vad betyder de olika alternativen i inställningarna i Restid?",
+    "file": "vad-betyder-de-olika-alternativen-i-installningarna-i-restid.md",
+    "slug": "vad-betyder-de-olika-alternativen-i-installningarna-i-restid",
+    "category": "travel-expense",
+    "subcategory": "Inställningar",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "bil"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/restid-vad-betyder-de-olika-alternativen-i-inst%C3%A4llningarna-i-restid",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Info Restid\nVad är skillnaden på “Schema i HRM” och “Tidrapport”?\n![Bild](images/vad-betyder-de-olika-alternativen-i-installningarna-i-restid_45ce4c5f.png)\nSchema i HRM\n- betyder att oavsett hur jag r..."
+  },
+  {
+    "title": "Hur exporterar jag en reseräkningsspecifikation?",
+    "file": "hur-exporterar-jag-en-reserakningsspecifikation.md",
+    "slug": "hur-exporterar-jag-en-reserakningsspecifikation",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/reser%C3%A4kningsspecifikation-hur-exporterar-man-en-reser%C3%A4kningsspecifikation",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "För att skriva ut din reseräkningsspecifikation, använd knappen:\n![Bild](images/hur-exporterar-jag-en-reserakningsspecifikation_cf342007.png)\nUtskriften öppnas i en ny flik, varifrån du sedan kan expo..."
+  },
+  {
+    "title": "⚙️Hur sätter vi upp en utläggskod för hyrbilar där vi har rätt att dra av 50% av momsbeloppet?",
+    "file": "hur-satter-vi-upp-en-utlaggskod-for-hyrbilar-dar-vi-har-ratt-att-dra-av-50-av-momsbeloppet.md",
+    "slug": "hur-satter-vi-upp-en-utlaggskod-for-hyrbilar-dar-vi-har-ratt-att-dra-av-50-av-momsbeloppet",
+    "category": "travel-expense",
+    "subcategory": "Utlägg & Kvitton",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "utlägg"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-s%C3%A4tter-man-upp-en-utl%C3%A4ggskod-f%C3%B6r-hyrbilar-d%C3%A4r-man-har-r%C3%A4tt-att-dra-av-50-av-momsbeloppet",
+    "isConfig": true,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Info Hyrbil\nHar du hyrt bilen får du vanligtvis dra av 50 procent av momsbeloppet. En förutsättning för avdrag vid hyra av personbil är att bilen körs minst 100 mil per år i en verksamhet som du ska b..."
+  },
+  {
+    "title": "⚙️Hur konfigurerar vi generella inställningar för reseräkningar i HRM Travel?",
+    "file": "hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel.md",
+    "slug": "hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel",
+    "category": "travel-expense",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hrm-travel-hur-konfigurerar-man-generella-inst%C3%A4llningar-f%C3%B6r-reser%C3%A4kningar-i-hrm-travel",
+    "isConfig": true,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "HRM Travel - \"Reseräkningar\n\"\nI denna vy ställer man in generella data för reseräkningen:\nkräv ärende\nmotkonto - överföring till lön\nkonteringsdimension för behörighet\ninitieringsnummer för verifikati..."
+  }
 ]

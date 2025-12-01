@@ -2,12 +2,18 @@
 
 **Datum:** den 2 september 2025  
 **Kategori:** Time  
+**Underkategori:** Frånvaro & Semester  
+**Typ:** other  
+**Svårighetsgrad:** advanced  
+**Tags:** frånvaro, lön, ob, tidrapport  
+**Bilder:** 1  
 **URL:** https://knowledge.flexapplications.se/varf%C3%B6r-faller-sjuk-ob-ut-efter-dag-14
 
 ---
 
 Denna artikel förklarar varför det i tidrapporten kan se ut som att man fått för mycket sjuk-OB.
 En inställning som kan göras per anställd, tidgrupp eller för hela företaget styr vilka dagar i en sjukfrånvaroperiod som ska ha sjuk-OB.
+![Inställningen “Dagar för sjuk-OB”.](images/varfor-faller-sjuk-ob-ut-efter-dag-14_baec475c.png)
 Bilden ovan visar de alternativ man kan välja för inställningen "Dagar för sjuk-OB":
 Alla
 : Sjuk-OB gäller för alla dagar i en sjukperiod, oavsett hur lång den är.

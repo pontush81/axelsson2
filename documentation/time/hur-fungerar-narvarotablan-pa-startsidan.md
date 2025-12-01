@@ -2,6 +2,11 @@
 
 **Datum:** den 17 oktober 2025  
 **Kategori:** Time  
+**Underkategori:** Mobil & Stämpling  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** frånvaro, mobil, ob, schema, stämpling, tidrapport  
+**Bilder:** 0  
 **URL:** https://knowledge.flexapplications.se/hur-fungerar-n%C3%A4rvarotabl%C3%A5n-p%C3%A5-startsidan-
 
 ---

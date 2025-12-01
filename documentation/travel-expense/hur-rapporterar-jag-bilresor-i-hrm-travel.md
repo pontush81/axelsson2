@@ -2,6 +2,11 @@
 
 **Datum:** den 2 oktober 2025  
 **Kategori:** Travel & Expense  
+**Underkategori:** Reseräkningar  
+**Typ:** howto  
+**Svårighetsgrad:** intermediate  
+**Tags:** bil, resa  
+**Bilder:** 4  
 **URL:** https://knowledge.flexapplications.se/hur-rapporterar-jag-bilresresor-i-hrm-travel
 
 ---
@@ -17,17 +22,21 @@ Spara
 . Därefter går du vidare till fliken
 Bilresa
 .
+![Bild](images/hur-rapporterar-jag-bilresor-i-hrm-travel_71def935.png)
 Börja med att fylla i ärendet för resan och klicka sedan på
 Spara
 . Därefter går du vidare till fliken
 Bilresa
 .
+![Bild](images/hur-rapporterar-jag-bilresor-i-hrm-travel_e66a4562.png)
 Fyll i datum för resan, avrese- och destinationsort, vilket fordon du använde samt hur lång sträckan var. Om du har besökt flera orter längs vägen, kan du fylla i din
 Resrutt
 .
 Vissa företag kräver att du också anger ärende för bilresan. Det kan även vara obligatoriskt att ange konteringar, som till exempel kostnadsställe eller projekt.
+![Bild](images/hur-rapporterar-jag-bilresor-i-hrm-travel_4086c3e3.png)
 Klicka på
 Spara
 och stäng registreringen. För att se vilka belopp som betalas ut kan du välja att
 Visa summor
 .
+![Bild](images/hur-rapporterar-jag-bilresor-i-hrm-travel_7110e085.png)

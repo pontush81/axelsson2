@@ -2,6 +2,11 @@
 
 **Datum:** den 7 oktober 2025  
 **Kategori:** Payroll  
+**Underkategori:** Löneberedning  
+**Typ:** other  
+**Svårighetsgrad:** advanced  
+**Tags:** agi, bokföring, lön, löneart, pension, semester, skatt  
+**Bilder:** 20  
 **URL:** https://knowledge.flexapplications.se/flex-hrm-payroll-hur-anv%C3%A4nder-man-flex-hrm-payroll
 
 ---
@@ -24,7 +29,9 @@ Rapporter i HRM kan tas ut med olika inställningar och sedan exporteras till va
 Ta reda på vad syftet är med rapporten vem som är mottagaren och bygg sedan upp den som du önskar. Ska rapporten tas ut löpande kan du spara rapporten genom att ange ett
 Namn på urval
 ; på så sätt finns dina inställningar/urval för rapporten kvar till nästa gång du ska ta ut den. Dessa sparade rapporter är personliga.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_43f4e051.png)
 Personallista
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_0ea9ad6c.png)
 Med rapporten
 Personallista
 , som du hittar under
@@ -33,22 +40,30 @@ Rapporter > Personal
 Under
 Visningsalternativ
 anger du vilken information som ska visas i respektive kolumn i personallistan.
+![Bilden visar fem kolumner för visningsalternativ.](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_415f19ed.png)
 Observera att oavsett vilken behörighet du har på anställda i anställdaregistret så kan du få ut samtliga fält som finns att välja på i rapporten på de anställda du kan skriva ut rapporten för.
 Om ni har tilläggsmodulen
 Koncern
 i er licens finns möjlighet att välja om du vill visa rapporten för hela koncernen eller endast det företag du har öppet. Väljer du hela koncernen kommer ett antal företagsspecifika urval att döljas. Om du valt hela koncernen kommer du också att kunna gruppera på företag.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_15388d6a.png)
 Exempelrapporter man kan få ut via rapporten Personallista
 Skatteuppgifter:
 Exempel på en rapport för kontroll av vilka skatteuppgifter, t.ex. skattetabell, skattekolumn och sidoinkomst, som de anställda har.
+![Bilden visar fem ifyllda kolumner.](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_be595d05.png)
+![Bild av uttagen rapport som visar resultatet i fem kolumner.](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_6f953cd7.png)
 FORA-kategorier:
 Exempelrapport för kontroll att alla har en kategori på Fora. I denna rapport ser du om några saknar inställning för rapportering eller har fel.
+![Bild visar fem kolumner av visningsalternativ, varav de tre första är ifyllda att visa anställd, personalkategori och FORA-kategori.](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_50f124c9.png)
+![Bild visar uttagen rapport med resultaten uppdelade i tre kolumner.](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_d476dffb.png)
 Lön
 Under
 Rapporter >
 Lön
 finns alla standardrapporter som gäller för Flex HRM Payroll.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_af3ddd76.png)
 Banklista
 Banklistan innehåller aktuell periods nettosummor per anställd som kommer att betalas ut. Listan kan användas för att på sikt kunna stämma av med bankfilens totalsumma. Det finns också möjlighet att skriva listan för underskrift av chef som godkänner utbetalningen. Urval kan göras på status Preliminära, Senaste utbetalningsmånad, Valfritt utbetalningsdatum, utbetalningsgrupp, personalkategori, hemkontering, anställningsnummer och attesterande chef. Gruppering/sortering kan göras på anställningsnummer eller personnummer.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_88cbaf8a.png)
 Bokföringsorder
 Rapporten
 Bokföringsorder
@@ -57,24 +72,31 @@ Lön > Bokföring
 ).
 Du kan göra urval på utbetalningsgrupp, personalkategori, hemkontering och anställningsnummer, samt välja hur du vill fördela bokföringsposterna.
 Gruppering/sortering kan göras på anställd.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_05d61aa9.png)
 Fördelning av antal och belopp
 Med rapporten kan du fördela antal och belopp baserat på flera valbara parametrar, vilket är särskilt användbart vid utredning av differenser i bokföringen.
 Du kan göra urval på exempelvis anställningsnummer och personalkategori, samt styra sorteringen via olika grupperingsnivåer.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_5a77a98a.png)
 Med urvalet
 Löneartskategori
 kan du begränsa rapporten till lönearter av en viss typ, vilket underlättar vid specifik pensions- eller statistikrapportering.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_1bf22ded.png)
 Du kan även filtrera på lönearter med särskild frånvaroorsak eller kopplade till specifik ackumulator, något som förenklar avstämning mot AGI. Exempelvis ger
 Anställd
 som första grupperingsnivå och
 Löneart
 som andra en struktur där lönearterna grupperas under respektive anställd – och vice versa om prioritetsordningen byts.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_ad7be2ae.png)
 Det är också möjligt att ta fram belopp fördelade per konto och anställd, där rapporten då grupperar anställda under respektive konto.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_698fa4bd.png)
 Lönespecifikation
 Här kan du skriva ut lönespecifikationer för valda anställda. Du kan välja att generera specifikationerna för den senast avräknade perioden inom aktuell utbetalningsgrupp, ange ett eget utbetalningsdatum eller ta ut preliminära lönespecifikationer innan avräkning för att kontrollera löner i förväg.
 Förutom utbetalningsgrupp och anställd kan du filtrera på hemkontering och personalkategori. Resultatet kan sorteras efter anställningsnummer eller personnummer. Det finns även möjlighet att beställa specifikationer anpassade till fönsterkuvert.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_4d91d0cb.png)
 Löneunderlag, lönekörning
 Löneunderlaget visar de lönetransaktioner som har registrerats för respektive anställd och period. Rapporten har flera möjliga användningsområden. Exempelvis kan den användas som en avstämningslista för löneutbetalningen som sedan kan skickas ut till respektive avdelningschef eller dylikt. Den kan också användas för att få en överblick över vissa lönearter, såsom övertid eller semester, eller som en detaljerad totalrapport för löneutbetalningen för arkivering.
 Du kan välja om rapporten ska tas ut för det senaste utbetalningsdatumet, annat valfritt utbetalningsdatum eller för en preliminär (ej avräknad) period. Ytterligare urval kan göras på utbetalningsgrupp, personalkategori, hemkontering, anställningsnummer och löneart. Du kan även du välja vilka konteringsdimensioner som ska medtas i löneunderlaget.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_c0a2862a.png)
 Under
 Typ av
 Summering
@@ -88,10 +110,12 @@ Summera antal och belopp
 Visa periodsummor
 ,
 visas istället en sammanställning av uppgifter. Detta är användbart för avstämning av bruttolön/nettolön samt semestersaldon och kan betraktas som en enklare och komprimerad typ av lönespecifikation.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_59a73790.png)
 Semestersaldon
 Med rapporten
 Semestersaldon
 kan du ta ut och titta på saldon från olika ställen och med olika parametrar.
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_1f677a51.png)
 När du tar ut rapporten finns det en rad olika urval:
 Urval på anställda:
 Begränsa vilka anställda som ska inkluderas i rapporten.
@@ -119,6 +143,7 @@ Pensionsrapportering görs i HRM Payroll under
 Lön >
 Pension
 .
+![Bild](images/flex-hrm-payroll-hur-anvander-man-rapporter-i-flex-hrm-payroll_7e8206dc.png)
 Information om hur du tar ut respektive pensionsrapportering finns att läsa i separata artiklar.
 Relaterade artiklar:
 Hur genomför man rapportering till Collectum i Flex HRM Payroll?
