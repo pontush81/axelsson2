@@ -53,21 +53,7 @@ jobs:
           echo "✅ Scraping slutförd"
           
           # Uppdatera last_check i master_index.json
-          python3 << 'EOF'
-import json
-from datetime import datetime
-
-with open('documentation/master_index.json', 'r', encoding='utf-8') as f:
-    master = json.load(f)
-
-master['last_check'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-master['last_check_status'] = 'success'
-
-with open('documentation/master_index.json', 'w', encoding='utf-8') as f:
-    json.dump(master, f, ensure_ascii=False, indent=2)
-
-print(f"✅ last_check uppdaterad: {master['last_check']}")
-EOF
+          python3 update_last_check.py
       
       - name: 📈 Kontrollera om ändringar finns
         id: changes
