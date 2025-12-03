@@ -455,12 +455,31 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 17 oktober 2025",
+    "date": "den 3 december 2025",
     "url": "https://knowledge.flexapplications.se/rapportgeneratorn-vad-%C3%A4r-rapportgeneratorn",
     "isConfig": false,
     "imageCount": 7,
     "hasImages": true,
     "excerpt": "Artikeln ger en kort beskrivning av rapportgeneratorn i Flex HRM.\nRapportgeneratorn\nDu hittar rapportgeneratorn under menyn\nRapporter > Rapportgenerator\n.\n![Bilden visar menyingången till Rapportgener..."
+  },
+  {
+    "title": "Rapporter - Vilka standardrapporter finns i Flex HRM?",
+    "file": "rapporter-vilka-standardrapporter-finns-i-flex-hrm.md",
+    "slug": "rapporter-vilka-standardrapporter-finns-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet"
+    ],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/rapporter-vilka-standardrapporter-finns",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Artikeln ger en kort beskrivning av standardrapporter i Flex HRM.\nRapporter\nDu hittar rapporterna under menyn\nRapporter\n![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_4df875d0.png)\n..."
   },
   {
     "title": "⚙️Rapportgenerator - Hur kan jag få ut rapporter om medarbetarsamtal från rapportgeneratorn?",
@@ -823,6 +842,25 @@
     "excerpt": "I Flex HRM använder vi bakgrundsjobb för att hantera många funktioner. Detta gör vi för att\nbibehålla systemets prestanda\nför dig och dina kollegor, även under tunga processer.\nExempel på funktioner s..."
   },
   {
+    "title": "AI-chatbot i Flex HRM - Vem är Flexie?",
+    "file": "ai-chatbot-i-flex-hrm-vem-ar-flexie.md",
+    "slug": "ai-chatbot-i-flex-hrm-vem-ar-flexie",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "roll"
+    ],
+    "date": "den 28 november 2025",
+    "url": "https://knowledge.flexapplications.se/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Flexie är Flex HRMs AI-chatbot som ger dig snabba svar på dina frågor och guidar dig rätt i systemet.\nU\nn\nd\nr\na\nr\nd\nu hur du registrerar ett utlägg eller var du attesterar dina medarbetares tidrapport..."
+  },
+  {
     "title": "Hur kan jag skapa ett nytt företag eller kopiera ett företag?",
     "file": "hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag.md",
     "slug": "hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag",
@@ -1029,17 +1067,17 @@
     "excerpt": "Flex HRM Mobile  ger dig möjlighet att attestera tidrapporter, reseräkningar och frånvaroansökningar, samt utföra delattestering av tid- och reseräknings transaktioner.\nAttestering av tidrapporter\nAtt..."
   },
   {
-    "title": "Hur aktiverar jag koncernhantering i Flex HRM?",
+    "title": "⚙️Hur aktiverar jag koncernhantering i Flex HRM?",
     "file": "hur-aktiverar-jag-koncernhantering-i-flex-hrm.md",
     "slug": "hur-aktiverar-jag-koncernhantering-i-flex-hrm",
     "category": "systemgemensamt",
     "subcategory": "Inställningar",
-    "type": "howto",
+    "type": "config",
     "difficulty": "advanced",
     "tags": [],
-    "date": "den 5 november 2025",
+    "date": "den 3 december 2025",
     "url": "https://knowledge.flexapplications.se/hur-aktivera-jag-koncernhantering-i-flex-hrm",
-    "isConfig": false,
+    "isConfig": true,
     "imageCount": 3,
     "hasImages": true,
     "excerpt": "Artikeln beskriver hur du aktiverar koncernhantering i Flex HRM: licensinställningar, moderbolag och dotterbolagskoppling.\nKoncernhatering\nKoncernhantering i Flex HRM är en tilläggsmodul som låter dig..."
@@ -1348,6 +1386,22 @@
     "imageCount": 2,
     "hasImages": true,
     "excerpt": "Artikeln beskriver hur du administrera nyhetspanelen, skapar kategorier, lägger till egna RSS-flöden och styr behörigheten för vilka nyheter dina användare ska se.\nNyheter\nI panelen\nNyheter\npå startsi..."
+  },
+  {
+    "title": "Vilka funktioner i HRM ingår i modulen Koncern?",
+    "file": "vilka-funktioner-i-hrm-ingar-i-modulen-koncern.md",
+    "slug": "vilka-funktioner-i-hrm-ingar-i-modulen-koncern",
+    "category": "systemgemensamt",
+    "subcategory": "Rapporter",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-funktioner-i-hrm-ingar-med-modulen-koncern",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i Flex HRM.\nHar ditt företag en koncernstruktur? Här får du en översikt över de funktioner so..."
   },
   {
     "title": "Checklista vid årsskifte i Flex HRM Payroll",

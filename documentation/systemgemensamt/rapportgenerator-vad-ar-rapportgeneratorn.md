@@ -1,6 +1,6 @@
 # Rapportgenerator - Vad är Rapportgeneratorn?
 
-**Datum:** den 17 oktober 2025  
+**Datum:** den 3 december 2025  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** concept  

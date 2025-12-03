@@ -457,5 +457,23 @@
     "imageCount": 4,
     "hasImages": true,
     "excerpt": "HRM Travel - \"Reseräkningar\n\"\nI denna vy ställer man in generella data för reseräkningen:\nkräv ärende\nmotkonto - överföring till lön\nkonteringsdimension för behörighet\ninitieringsnummer för verifikati..."
+  },
+  {
+    "title": "Vilka funktioner i HRM Travel & Expense fungerar med modulen Koncern?",
+    "file": "vilka-funktioner-i-hrm-travel-expense-fungerar-med-modulen-koncern.md",
+    "slug": "vilka-funktioner-i-hrm-travel-expense-fungerar-med-modulen-koncern",
+    "category": "travel-expense",
+    "subcategory": "Attestering",
+    "type": "feature",
+    "difficulty": "advanced",
+    "tags": [
+      "attestering"
+    ],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-funktioner-i-hrm-travel-fungerar-med-modulen-koncern",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i HRM Travel & Expense\nVad ingår i koncernhanteringen?\nStartsida\n: Påminnelser\nGranskning\n: A..."
   }
 ]

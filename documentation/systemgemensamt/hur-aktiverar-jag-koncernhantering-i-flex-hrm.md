@@ -1,9 +1,9 @@
-# Hur aktiverar jag koncernhantering i Flex HRM?
+# ⚙️Hur aktiverar jag koncernhantering i Flex HRM?
 
-**Datum:** den 5 november 2025  
+**Datum:** den 3 december 2025  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Inställningar  
-**Typ:** howto  
+**Typ:** config  
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 3  

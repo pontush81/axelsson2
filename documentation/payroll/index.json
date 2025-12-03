@@ -507,6 +507,25 @@
     "excerpt": "Få svar på varningen om minusbelopp i fält 499 i AGI och undvik fel vid rapportering av sjuklönekostnader till Skatteverket.\nVarning för negativt belopp i fält 499 i AGI-underlaget\nOm du får en varnin..."
   },
   {
+    "title": "Hur registrerar jag samordningsnummer eller medarbetare som ännu inte fått ett samordningsnummer/personnummer?",
+    "file": "hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-annu-inte-fatt-ett-samordningsnummer-per.md",
+    "slug": "hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-annu-inte-fatt-ett-samordningsnummer-per",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "skatt"
+    ],
+    "date": "den 1 december 2025",
+    "url": "https://knowledge.flexapplications.se/hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-%C3%A4nnu-inte-f%C3%A5tt-ett-samordningsnummer/personnummer",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Samordningsnummer är en identitetsbeteckning för personer som inte är eller har varit folkbokförda i Sverige. Syftet med samordningsnummer är att myndigheter och andra samhällsfunktioner ska kunna ide..."
+  },
+  {
     "title": "Hur hittar jag orsaken till differenser i arbetsgivaravgifter (AGI) i Flex HRM Payroll?",
     "file": "hur-hittar-jag-orsaken-till-differenser-i-arbetsgivaravgifter-agi-i-flex-hrm-payroll.md",
     "slug": "hur-hittar-jag-orsaken-till-differenser-i-arbetsgivaravgifter-agi-i-flex-hrm-payroll",

@@ -1932,6 +1932,25 @@
     "excerpt": "Månadsrapporten kan skrivas ut direkt från tidrapporten eller via vyn Rapporter.\nMånadsrapporten ger dig en översikt över de tider du har matat in under en månad.\n![Bild](images/kan-jag-skriva-ut-min-..."
   },
   {
+    "title": "Hur fungerar rapporten Personalliggare i Flex HRM Time?",
+    "file": "hur-fungerar-rapporten-personalliggare-i-flex-hrm-time.md",
+    "slug": "hur-fungerar-rapporten-personalliggare-i-flex-hrm-time",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "ob"
+    ],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/rapport-personalliggare-hrm-time",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver standardrapporten Personalliggare i Flex HRM Time\nRapporten\nPersonalliggare\när en standardrapport i HRM Employee.\n![Bild](images/hur-fungerar-rapporten-personalliggare-i-flex-h..."
+  },
+  {
     "title": "⚙️Hur fungerar övertidsregelverk?",
     "file": "hur-fungerar-overtidsregelverk.md",
     "slug": "hur-fungerar-overtidsregelverk",

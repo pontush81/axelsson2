@@ -1,32 +1,30 @@
 {
-  "total_articles": 369,
+  "total_articles": 375,
   "total_categories": 6,
-  "total_images": 2104,
-  "last_updated": "2025-12-01 11:25:55",
-  "last_check": "2025-12-01 11:25:55",
-  "last_check_status": "success",
+  "total_images": 2118,
+  "last_updated": "2025-12-03 15:11:24",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
-      "total": 80,
+      "total": 83,
       "subcategories": {
         "Mobil": 13,
-        "Användare & Behörighet": 41,
+        "Användare & Behörighet": 43,
         "Register": 12,
         "Inställningar": 10,
-        "Rapporter": 2,
+        "Rapporter": 3,
         "Integration": 2
       }
     },
     "time": {
       "name": "Time",
-      "total": 114,
+      "total": 115,
       "subcategories": {
         "Tidrapportering": 30,
         "Mobil & Stämpling": 19,
         "Schema & Planering": 6,
         "Övertid & Ersättning": 7,
-        "Inställningar": 22,
+        "Inställningar": 23,
         "Frånvaro & Semester": 18,
         "Lön & Överföring": 5,
         "Attestering & Granskning": 5,
@@ -49,24 +47,25 @@
     },
     "travel-expense": {
       "name": "Travel & Expense",
-      "total": 24,
+      "total": 25,
       "subcategories": {
         "Reseräkningar": 14,
         "Inställningar": 4,
         "Bilresor": 1,
         "Utlägg & Kvitton": 4,
-        "Traktamente": 1
+        "Traktamente": 1,
+        "Attestering": 1
       }
     },
     "payroll": {
       "name": "Payroll",
-      "total": 68,
+      "total": 69,
       "subcategories": {
         "Löneberedning": 35,
         "Semesterhantering": 6,
         "Inställningar": 12,
         "Bokföring": 2,
-        "Skatt & AGI": 8,
+        "Skatt & AGI": 9,
         "Övrigt": 1,
         "Pension": 4
       }
@@ -80,5 +79,7 @@
         "Kalender": 2
       }
     }
-  }
+  },
+  "last_check": "2025-12-03 15:11:24",
+  "last_check_status": "success"
 }
