@@ -1,5 +1,41 @@
 [
   {
+    "title": "Inloggning i Flex HRM",
+    "file": "inloggning-i-flex-hrm.md",
+    "slug": "inloggning-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/inloggning-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 9,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du loggar in i Flex HRM och HRM Mobile. Den här guiden hjälper dig steg för steg med din första inloggning till Flex HRM.\nHur loggar jag in i Flex HRM?\nSå här loggar du in\n..."
+  },
+  {
+    "title": "Hur byter jag av lösenord i Flex HRM?",
+    "file": "hur-byter-jag-av-losenord-i-flex-hrm.md",
+    "slug": "hur-byter-jag-av-losenord-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "beginner",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/byte-av-losenord",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Denna artikel beskriver hur du byter ditt lösenord.\nEftersom du loggar in i Flex HRM med Visma Connect, byter du inte lösenordet direkt i Flex HRM. Istället gör du det i Visma Connect.\nDu kommer åt di..."
+  },
+  {
     "title": "När skickas e-post ut om ändringar på anställd?",
     "file": "nar-skickas-e-post-ut-om-andringar-pa-anstalld.md",
     "slug": "nar-skickas-e-post-ut-om-andringar-pa-anstalld",
@@ -28,10 +64,10 @@
       "mobil",
       "säkerhet"
     ],
-    "date": "den 30 oktober 2025",
+    "date": "den 3 december 2025",
     "url": "https://knowledge.flexapplications.se/skapas-visma-connect-konton-automatiskt-f%C3%B6r-nyanst%C3%A4llda-i-flex-hrm",
     "isConfig": false,
-    "imageCount": 1,
+    "imageCount": 2,
     "hasImages": true,
     "excerpt": "Om du använder användarmall kan du ange e-postadressen för kopplingen till Visma Connect redan när du lägger upp den nyanställda.\nInloggning till Flex HRM och HRM Mobile sker via\nVisma Connect\n. För a..."
   },
@@ -92,6 +128,24 @@
     "imageCount": 3,
     "hasImages": true,
     "excerpt": "Här får du svar på vad varningen som dyker upp när du avslutar en anställd betyder.\nOffboarding - Avsluta anställd\nNär du ska avsluta en anställning i HRM anger du ett avgångsdatum för anställningsper..."
+  },
+  {
+    "title": "Användarlogg - Kan jag se vem som har loggat in i Flex HRM?",
+    "file": "anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm.md",
+    "slug": "anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare"
+    ],
+    "date": "den 7 november 2025",
+    "url": "https://knowledge.flexapplications.se/anv%C3%A4ndarlogg-flex-hrm-0",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Användarlogg\nAllmänt > Loggning > Användarlogg\nAnvändarloggen kan användas för att se om någon användare är inloggad när ett större arbete ska göras, underlättar felsökning och ger dig möjlighet att u..."
   },
   {
     "title": "⚙️Vad är en användare?",
@@ -280,24 +334,6 @@
     "excerpt": "I vyn\nSäkerhet\ngör du inställningar som rör säkerheten för systemets användare.\nGenerell lösenordspolicy\nInloggning till Flex HRM och HRM Mobile sker via ett Visma Connect-konto. Det innebär att lösen..."
   },
   {
-    "title": "Inloggning i Flex HRM och byte av lösenord",
-    "file": "inloggning-i-flex-hrm-och-byte-av-losenord.md",
-    "slug": "inloggning-i-flex-hrm-och-byte-av-losenord",
-    "category": "systemgemensamt",
-    "subcategory": "Mobil",
-    "type": "other",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil"
-    ],
-    "date": "den 15 oktober 2025",
-    "url": "https://knowledge.flexapplications.se/inloggning-i-flex-hrm-och-byte-av-l%C3%B6senord-",
-    "isConfig": false,
-    "imageCount": 0,
-    "hasImages": false,
-    "excerpt": "Denna artikel beskriver hur du loggar in i Flex HRM och hur du byter ditt lösenord.\nHur loggar jag in i Flex HRM?\nDu loggar in i Flex HRM med hjälp av ett\nVisma Connect-konto\n.\nNär du anger webbadress..."
-  },
-  {
     "title": "Hur hittar jag lättast rätt menyer i Flex HRM?",
     "file": "hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm.md",
     "slug": "hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm",
@@ -379,12 +415,48 @@
       "hrm-time",
       "roll"
     ],
-    "date": "den 15 oktober 2025",
+    "date": "den 3 december 2025",
     "url": "https://knowledge.flexapplications.se/hur-loggar-jag-in-i-hrm-timeclock",
     "isConfig": false,
     "imageCount": 0,
     "hasImages": false,
     "excerpt": "Användaruppgifter för HRM Timeclock\nFör att logga in i HRM Timeclock använder du det\nAnvändar-ID\noch\nlösenord\nsom finns i Flex HRM under\nAnvändare/Behörigheter > Användare\n. Lösenordet finns under\nAva..."
+  },
+  {
+    "title": "Mina kollegor - Var hittar jag information om mina kollegor?",
+    "file": "mina-kollegor-var-hittar-jag-information-om-mina-kollegor.md",
+    "slug": "mina-kollegor-var-hittar-jag-information-om-mina-kollegor",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 7 augusti 2025",
+    "url": "https://knowledge.flexapplications.se/mina-kollegor-var-kan-jag-se-information-om-mina-kollegor",
+    "isConfig": false,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Mina kollegor - HRM Mobile\n![Bild](images/mina-kollegor-var-hittar-jag-information-om-mina-kollegor_3591f590.png)\nFunktionen Mina kollegor i appen HRM Mobile fungerar både som närvarotablå och kontakt..."
+  },
+  {
+    "title": "Var hittar jag information om närmast anhöriga?",
+    "file": "var-hittar-jag-information-om-narmast-anhoriga.md",
+    "slug": "var-hittar-jag-information-om-narmast-anhoriga",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 20 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/var-hittar-jag-info-om-narmast-anhorig-0",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "I HRM anges Närmast anhöriga under dina personuppgifter. Det finns tillgängligt under Mina uppgifter både via dator och mobil.\nUnder närmast anhöriga anger du den/de personer som din arbetsgivare ska ..."
   },
   {
     "title": "⚙️Vad är en tabellåsning?",
@@ -403,6 +475,45 @@
     "imageCount": 2,
     "hasImages": true,
     "excerpt": "Information om att se och hantera tabellåsningar, samt om att schemalägga en regelbunden rensning.\nEn tabellåsning är en funktion som hindrar att flera användare arbetar med samma sak samtidigt i Flex..."
+  },
+  {
+    "title": "Rapporter - Vilka standardrapporter finns i Flex HRM?",
+    "file": "rapporter-vilka-standardrapporter-finns-i-flex-hrm.md",
+    "slug": "rapporter-vilka-standardrapporter-finns-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet"
+    ],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/rapporter-vilka-standardrapporter-finns",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Artikeln ger en kort beskrivning av standardrapporter i Flex HRM.\nRapporter\nDu hittar rapporterna under menyn\nRapporter\n![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_4df875d0.png)\n..."
+  },
+  {
+    "title": "Rapportgenerator - Vad är Rapportgeneratorn?",
+    "file": "rapportgenerator-vad-ar-rapportgeneratorn.md",
+    "slug": "rapportgenerator-vad-ar-rapportgeneratorn",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/rapportgeneratorn-vad-%C3%A4r-rapportgeneratorn",
+    "isConfig": false,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Artikeln ger en kort beskrivning av rapportgeneratorn i Flex HRM.\nRapportgeneratorn\nDu hittar rapportgeneratorn under menyn\nRapporter > Rapportgenerator\n.\n![Bilden visar menyingången till Rapportgener..."
   },
   {
     "title": "Rapportpaket -Vad är och hur fungerar rapportpaket?",
@@ -443,43 +554,24 @@
     "excerpt": "Denna artikel beskriver hur du schemalägger uttag av rapporter från rapportgeneratorn.\nSchemalägg export av rapporter\nDu kan schemalägga automatiska uttag av rapporter som du har skapat i rapportgener..."
   },
   {
-    "title": "Rapportgenerator - Vad är Rapportgeneratorn?",
-    "file": "rapportgenerator-vad-ar-rapportgeneratorn.md",
-    "slug": "rapportgenerator-vad-ar-rapportgeneratorn",
+    "title": "⚙️Rapporter - Hur ställer jag in behörigheter till standardrapporter?",
+    "file": "rapporter-hur-staller-jag-in-behorigheter-till-standardrapporter.md",
+    "slug": "rapporter-hur-staller-jag-in-behorigheter-till-standardrapporter",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "concept",
-    "difficulty": "advanced",
+    "type": "config",
+    "difficulty": "intermediate",
     "tags": [
       "användare",
       "behörighet",
       "roll"
     ],
     "date": "den 3 december 2025",
-    "url": "https://knowledge.flexapplications.se/rapportgeneratorn-vad-%C3%A4r-rapportgeneratorn",
-    "isConfig": false,
-    "imageCount": 7,
+    "url": "https://knowledge.flexapplications.se/rapporter-vilka-standardrapporter-finns-0",
+    "isConfig": true,
+    "imageCount": 2,
     "hasImages": true,
-    "excerpt": "Artikeln ger en kort beskrivning av rapportgeneratorn i Flex HRM.\nRapportgeneratorn\nDu hittar rapportgeneratorn under menyn\nRapporter > Rapportgenerator\n.\n![Bilden visar menyingången till Rapportgener..."
-  },
-  {
-    "title": "Rapporter - Vilka standardrapporter finns i Flex HRM?",
-    "file": "rapporter-vilka-standardrapporter-finns-i-flex-hrm.md",
-    "slug": "rapporter-vilka-standardrapporter-finns-i-flex-hrm",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "other",
-    "difficulty": "intermediate",
-    "tags": [
-      "användare",
-      "behörighet"
-    ],
-    "date": "den 3 december 2025",
-    "url": "https://knowledge.flexapplications.se/rapporter-vilka-standardrapporter-finns",
-    "isConfig": false,
-    "imageCount": 8,
-    "hasImages": true,
-    "excerpt": "Artikeln ger en kort beskrivning av standardrapporter i Flex HRM.\nRapporter\nDu hittar rapporterna under menyn\nRapporter\n![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_4df875d0.png)\n..."
+    "excerpt": "Artikeln ger en kort beskrivning av behörigheter till standardrapporter i Flex HRM.\nDu hittar standardrapporterna under menyn\nRapporter\n![Bild](images/rapporter-hur-staller-jag-in-behorigheter-till-st..."
   },
   {
     "title": "⚙️Rapportgenerator - Hur kan jag få ut rapporter om medarbetarsamtal från rapportgeneratorn?",
@@ -823,25 +915,6 @@
     "excerpt": "Exportmallar i Flex HRM är ett kraftfullt verktyg för att enkelt exportera rådata från olika källor, som tidrapporter och anställda, till filformat som Excel eller text. Du kan också schemalägga autom..."
   },
   {
-    "title": "Vad är bakgrundsjobb och var hittar jag dem?",
-    "file": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem.md",
-    "slug": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "concept",
-    "difficulty": "beginner",
-    "tags": [
-      "användare",
-      "behörighet"
-    ],
-    "date": "den 6 november 2025",
-    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-bakgrundsjobb-och-var-hittar-jag-dem",
-    "isConfig": false,
-    "imageCount": 0,
-    "hasImages": false,
-    "excerpt": "I Flex HRM använder vi bakgrundsjobb för att hantera många funktioner. Detta gör vi för att\nbibehålla systemets prestanda\nför dig och dina kollegor, även under tunga processer.\nExempel på funktioner s..."
-  },
-  {
     "title": "AI-chatbot i Flex HRM - Vem är Flexie?",
     "file": "ai-chatbot-i-flex-hrm-vem-ar-flexie.md",
     "slug": "ai-chatbot-i-flex-hrm-vem-ar-flexie",
@@ -859,6 +932,25 @@
     "imageCount": 3,
     "hasImages": true,
     "excerpt": "Flexie är Flex HRMs AI-chatbot som ger dig snabba svar på dina frågor och guidar dig rätt i systemet.\nU\nn\nd\nr\na\nr\nd\nu hur du registrerar ett utlägg eller var du attesterar dina medarbetares tidrapport..."
+  },
+  {
+    "title": "Vad är bakgrundsjobb och var hittar jag dem?",
+    "file": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem.md",
+    "slug": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet"
+    ],
+    "date": "den 6 november 2025",
+    "url": "https://knowledge.flexapplications.se/vad-%C3%A4r-bakgrundsjobb-och-var-hittar-jag-dem",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I Flex HRM använder vi bakgrundsjobb för att hantera många funktioner. Detta gör vi för att\nbibehålla systemets prestanda\nför dig och dina kollegor, även under tunga processer.\nExempel på funktioner s..."
   },
   {
     "title": "Hur kan jag skapa ett nytt företag eller kopiera ett företag?",
@@ -880,42 +972,6 @@
     "imageCount": 6,
     "hasImages": true,
     "excerpt": "Lär dig skapa ett nytt företag i Flex HRM. Vi går igenom hur du skapar nytt eller kopierar inställningar från ett befintligt företag.\nFöretagsinställningar\nSkapa nytt företag\nLadda ned företagsrapport..."
-  },
-  {
-    "title": "Var hittar jag information om närmast anhöriga?",
-    "file": "var-hittar-jag-information-om-narmast-anhoriga.md",
-    "slug": "var-hittar-jag-information-om-narmast-anhoriga",
-    "category": "systemgemensamt",
-    "subcategory": "Mobil",
-    "type": "other",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil"
-    ],
-    "date": "den 20 oktober 2025",
-    "url": "https://knowledge.flexapplications.se/var-hittar-jag-info-om-narmast-anhorig-0",
-    "isConfig": false,
-    "imageCount": 2,
-    "hasImages": true,
-    "excerpt": "I HRM anges Närmast anhöriga under dina personuppgifter. Det finns tillgängligt under Mina uppgifter både via dator och mobil.\nUnder närmast anhöriga anger du den/de personer som din arbetsgivare ska ..."
-  },
-  {
-    "title": "Mina kollegor - Var hittar jag information om mina kollegor?",
-    "file": "mina-kollegor-var-hittar-jag-information-om-mina-kollegor.md",
-    "slug": "mina-kollegor-var-hittar-jag-information-om-mina-kollegor",
-    "category": "systemgemensamt",
-    "subcategory": "Mobil",
-    "type": "other",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil"
-    ],
-    "date": "den 7 augusti 2025",
-    "url": "https://knowledge.flexapplications.se/mina-kollegor-var-kan-jag-se-information-om-mina-kollegor",
-    "isConfig": false,
-    "imageCount": 3,
-    "hasImages": true,
-    "excerpt": "Mina kollegor - HRM Mobile\n![Bild](images/mina-kollegor-var-hittar-jag-information-om-mina-kollegor_3591f590.png)\nFunktionen Mina kollegor i appen HRM Mobile fungerar både som närvarotablå och kontakt..."
   },
   {
     "title": "Hur fungerar Påminnelser på startsidan?",
@@ -968,24 +1024,6 @@
     "imageCount": 5,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du byter språk.\nNär du ska logga in i Flex HRM kan du välja språk vid inloggning. Längst ned ser du valt språk:\n![Bild](images/hur-byter-jag-sprak-i-flex-hrm_f19249ce.png)\n..."
-  },
-  {
-    "title": "Användarlogg - Kan jag se vem som har loggat in i Flex HRM?",
-    "file": "anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm.md",
-    "slug": "anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "other",
-    "difficulty": "intermediate",
-    "tags": [
-      "användare"
-    ],
-    "date": "den 7 november 2025",
-    "url": "https://knowledge.flexapplications.se/anv%C3%A4ndarlogg-flex-hrm-0",
-    "isConfig": false,
-    "imageCount": 3,
-    "hasImages": true,
-    "excerpt": "Användarlogg\nAllmänt > Loggning > Användarlogg\nAnvändarloggen kan användas för att se om någon användare är inloggad när ett större arbete ska göras, underlättar felsökning och ger dig möjlighet att u..."
   },
   {
     "title": "Hur fungerar Meddelanden i Flex HRM?",
@@ -1067,22 +1105,6 @@
     "excerpt": "Flex HRM Mobile  ger dig möjlighet att attestera tidrapporter, reseräkningar och frånvaroansökningar, samt utföra delattestering av tid- och reseräknings transaktioner.\nAttestering av tidrapporter\nAtt..."
   },
   {
-    "title": "⚙️Hur aktiverar jag koncernhantering i Flex HRM?",
-    "file": "hur-aktiverar-jag-koncernhantering-i-flex-hrm.md",
-    "slug": "hur-aktiverar-jag-koncernhantering-i-flex-hrm",
-    "category": "systemgemensamt",
-    "subcategory": "Inställningar",
-    "type": "config",
-    "difficulty": "advanced",
-    "tags": [],
-    "date": "den 3 december 2025",
-    "url": "https://knowledge.flexapplications.se/hur-aktivera-jag-koncernhantering-i-flex-hrm",
-    "isConfig": true,
-    "imageCount": 3,
-    "hasImages": true,
-    "excerpt": "Artikeln beskriver hur du aktiverar koncernhantering i Flex HRM: licensinställningar, moderbolag och dotterbolagskoppling.\nKoncernhatering\nKoncernhantering i Flex HRM är en tilläggsmodul som låter dig..."
-  },
-  {
     "title": "Hur byter jag från Flex Lön till Flex HRM som master för personuppgifter?",
     "file": "hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter.md",
     "slug": "hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter",
@@ -1101,6 +1123,38 @@
     "imageCount": 12,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver, med bl.a. checklista, hur du byter master för personuppgifter från Flex Lön till Flex HRM.\nChecklista inför bytet\nRegister att kontrollera\nSkapa en kontrollrapport i Flex Lön\n..."
+  },
+  {
+    "title": "Vilka funktioner i HRM ingår i modulen Koncern?",
+    "file": "vilka-funktioner-i-hrm-ingar-i-modulen-koncern.md",
+    "slug": "vilka-funktioner-i-hrm-ingar-i-modulen-koncern",
+    "category": "systemgemensamt",
+    "subcategory": "Rapporter",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-funktioner-i-hrm-ingar-med-modulen-koncern",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i Flex HRM.\nHar ditt företag en koncernstruktur? Här får du en översikt över de funktioner so..."
+  },
+  {
+    "title": "⚙️Hur aktiverar jag koncernhantering i Flex HRM?",
+    "file": "hur-aktiverar-jag-koncernhantering-i-flex-hrm.md",
+    "slug": "hur-aktiverar-jag-koncernhantering-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/hur-aktivera-jag-koncernhantering-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du aktiverar koncernhantering i Flex HRM: licensinställningar, moderbolag och dotterbolagskoppling.\nKoncernhatering\nKoncernhantering i Flex HRM är en tilläggsmodul som låter dig..."
   },
   {
     "title": "⚙️Hur fungerar Påminnelser?",
@@ -1386,22 +1440,6 @@
     "imageCount": 2,
     "hasImages": true,
     "excerpt": "Artikeln beskriver hur du administrera nyhetspanelen, skapar kategorier, lägger till egna RSS-flöden och styr behörigheten för vilka nyheter dina användare ska se.\nNyheter\nI panelen\nNyheter\npå startsi..."
-  },
-  {
-    "title": "Vilka funktioner i HRM ingår i modulen Koncern?",
-    "file": "vilka-funktioner-i-hrm-ingar-i-modulen-koncern.md",
-    "slug": "vilka-funktioner-i-hrm-ingar-i-modulen-koncern",
-    "category": "systemgemensamt",
-    "subcategory": "Rapporter",
-    "type": "other",
-    "difficulty": "advanced",
-    "tags": [],
-    "date": "den 3 december 2025",
-    "url": "https://knowledge.flexapplications.se/vilka-funktioner-i-hrm-ingar-med-modulen-koncern",
-    "isConfig": false,
-    "imageCount": 0,
-    "hasImages": false,
-    "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i Flex HRM.\nHar ditt företag en koncernstruktur? Här får du en översikt över de funktioner so..."
   },
   {
     "title": "Checklista vid årsskifte i Flex HRM Payroll",

@@ -1,15 +1,15 @@
 {
-  "total_articles": 375,
+  "total_articles": 377,
   "total_categories": 6,
-  "total_images": 2118,
-  "last_updated": "2025-12-03 15:11:24",
+  "total_images": 2130,
+  "last_updated": "2025-12-04 02:59:07",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
-      "total": 83,
+      "total": 85,
       "subcategories": {
-        "Mobil": 13,
-        "Användare & Behörighet": 43,
+        "Mobil": 14,
+        "Användare & Behörighet": 44,
         "Register": 12,
         "Inställningar": 10,
         "Rapporter": 3,
@@ -80,6 +80,6 @@
       }
     }
   },
-  "last_check": "2025-12-03 15:11:24",
+  "last_check": "2025-12-04 02:59:07",
   "last_check_status": "success"
 }

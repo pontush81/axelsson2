@@ -1,12 +1,12 @@
 # Skapas Visma Connect-konton automatiskt för nyanställda i Flex HRM?
 
-**Datum:** den 30 oktober 2025  
+**Datum:** den 3 december 2025  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** other  
 **Svårighetsgrad:** advanced  
 **Tags:** användare, mobil, säkerhet  
-**Bilder:** 1  
+**Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/skapas-visma-connect-konton-automatiskt-f%C3%B6r-nyanst%C3%A4llda-i-flex-hrm
 
 ---
@@ -22,11 +22,12 @@ kopplad till en
 användarmall
 . Detta gör att en användare skapas automatiskt. Det kan du göra vid manuell registrering, import eller via API.
 Om du använder mallar kan du ange e-postadressen för kopplingen till Visma Connect redan när du lägger upp den nyanställda.
+![Bild](images/skapas-visma-connect-konton-automatiskt-for-nyanstallda-i-flex-hrm_3789ab0d.png)
 Du behöver inte göra något mer för att den nya användaren ska kopplas till Visma Connect:
 Ett mail för verifiering skickas till den angivna e-postadressen (om ni inte har en verifierad domän, se nedan).
 Användaren verifierar sig via länken i mailet.
 Visma Connect-kontot skapas.
-![Bild](images/skapas-visma-connect-konton-automatiskt-for-nyanstallda-i-flex-hrm_3789ab0d.png)
+![Bild](images/skapas-visma-connect-konton-automatiskt-for-nyanstallda-i-flex-hrm_399beee7.png)
 När skickas e-post för verifiering?
 Systemet hanterar utskicket utifrån anställningens startdatum:
 Startdatum i morgon eller tidigare:

@@ -1,6 +1,6 @@
 # Hur loggar jag in i HRM Timeclock?
 
-**Datum:** den 15 oktober 2025  
+**Datum:** den 3 december 2025  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** howto  
