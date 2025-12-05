@@ -1851,6 +1851,27 @@
     "excerpt": "Fasta saldojusteringar\nkan användas för saldohändelser som ska påverka alla/en grupp av anställda. Det kan t.ex. handla om ett saldo som ska nollställas vid varje årsskifte.\n![Bild](images/hur-fungera..."
   },
   {
+    "title": "⚙️Hur fungerar saldojustering i tidrapporten?",
+    "file": "hur-fungerar-saldojustering-i-tidrapporten.md",
+    "slug": "hur-fungerar-saldojustering-i-tidrapporten",
+    "category": "time",
+    "subcategory": "Lön & Överföring",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "ob",
+      "saldo",
+      "tidrapport"
+    ],
+    "date": "den 4 december 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-saldojustering-i-tidrapport",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver funktionen Saldojustering som finns i tidrapporten i Flex HRM Time.\nMed denna funktion kan du justera befintliga saldovärden samt sätta nya saldovärden. Klicka på knappen och f..."
+  },
+  {
     "title": "⚙️I vilken ordning körs händelser, saldotak/-golv och fasta saldojusteringar som påverkar samma saldon?",
     "file": "i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-paverkar-samma-saldon.md",
     "slug": "i-vilken-ordning-kors-handelser-saldotak-golv-och-fasta-saldojusteringar-som-paverkar-samma-saldon",
