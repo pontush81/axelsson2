@@ -122,34 +122,12 @@
     "tags": [
       "bil"
     ],
-    "date": "den 2 oktober 2025",
+    "date": "den 5 december 2025",
     "url": "https://knowledge.flexapplications.se/bilresor-",
     "isConfig": true,
     "imageCount": 3,
     "hasImages": true,
     "excerpt": "Under Bilresor i administrationen kan du ställa in generella inställningar som enhet för körsträcka och beräkning av drivmedelsförmån. Du kan även hantera fordonstyper, definiera om de ska användas me..."
-  },
-  {
-    "title": "Hur registrerar jag reseräkningar i HRM Mobile?",
-    "file": "hur-registrerar-jag-reserakningar-i-hrm-mobile.md",
-    "slug": "hur-registrerar-jag-reserakningar-i-hrm-mobile",
-    "category": "travel-expense",
-    "subcategory": "Utlägg & Kvitton",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "bil",
-      "kvitto",
-      "mobil",
-      "resa",
-      "utlägg"
-    ],
-    "date": "den 27 oktober 2025",
-    "url": "https://knowledge.flexapplications.se/hur-registrerar-jag-reser%C3%A4kningar-i-mobilen",
-    "isConfig": false,
-    "imageCount": 17,
-    "hasImages": true,
-    "excerpt": "I HRM Mobile kan du enkelt fotografera kvitton, registrera körda mil, hantera utlägg och signera din reseräkning, oavsett var du befinner dig.\nSkapa och hantera reseräkningar i HRM Mobile\nI HRM Mobile..."
   },
   {
     "title": "Hur registrerar jag bilresor med drivmedelsförmån i reseräkningsvyn samt anger utgående mätarställning i månadens slut?",
@@ -163,7 +141,7 @@
       "bil",
       "resa"
     ],
-    "date": "den 2 oktober 2025",
+    "date": "den 5 december 2025",
     "url": "https://knowledge.flexapplications.se/hur-registrerar-jag-resor-med-f%C3%B6rm%C3%A5nsbilar-med-drivmedelsf%C3%B6rm%C3%A5n-i-reser%C3%A4kningsvyn",
     "isConfig": false,
     "imageCount": 7,
@@ -281,7 +259,7 @@
       "bil",
       "utlägg"
     ],
-    "date": "den 2 oktober 2025",
+    "date": "den 5 december 2025",
     "url": "https://knowledge.flexapplications.se/utl%C3%A4gg-och-representation-var-redigerar-man-de-olikainst%C3%A4llningarna-f%C3%B6r-utl%C3%A4gg-och-representation",
     "isConfig": true,
     "imageCount": 6,
@@ -475,5 +453,27 @@
     "imageCount": 0,
     "hasImages": false,
     "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i HRM Travel & Expense\nVad ingår i koncernhanteringen?\nStartsida\n: Påminnelser\nGranskning\n: A..."
+  },
+  {
+    "title": "Hur registrerar jag reseräkningar i HRM Mobile?",
+    "file": "hur-registrerar-jag-reserakningar-i-hrm-mobile.md",
+    "slug": "hur-registrerar-jag-reserakningar-i-hrm-mobile",
+    "category": "travel-expense",
+    "subcategory": "Utlägg & Kvitton",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "kvitto",
+      "mobil",
+      "resa",
+      "utlägg"
+    ],
+    "date": "den 5 december 2025",
+    "url": "https://knowledge.flexapplications.se/hur-registrerar-jag-reser%C3%A4kningar-i-mobilen",
+    "isConfig": false,
+    "imageCount": 17,
+    "hasImages": true,
+    "excerpt": "I HRM Mobile kan du enkelt fotografera kvitton, registrera körda mil, hantera utlägg och signera din reseräkning, oavsett var du befinner dig.\nSkapa och hantera reseräkningar i HRM Mobile\nI HRM Mobile..."
   }
 ]

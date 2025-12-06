@@ -1,6 +1,6 @@
 # ⚙️Utlägg och representation - Var redigerar man de olika inställningarna för utlägg och representation?
 
-**Datum:** den 2 oktober 2025  
+**Datum:** den 5 december 2025  
 **Kategori:** Travel & Expense  
 **Underkategori:** Utlägg & Kvitton  
 **Typ:** config  
@@ -16,15 +16,15 @@ Utlägg och representation - "Koder"
 Fliken
 Allmänt
 Här anger du kod, namn, typ, moms, antal samt bockar i koden är aktiv, används endast som kopplat underutlägg, föreslås.
-![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_d665c339.png)
+![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_9b95b429.png)
 Fliken
 Lönearter
 Här anger du lönearter och lönearter för moms kopplade till detta utlägg.
-![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_4017567b.png)
+![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_e63cc3db.png)
 Fliken
 Kontering
 Här anger du konteringar kopplade till detta utlägg, t.ex. konto, kostnadsställe, projekt, kund, artikel, attestkod. Du har även möjlighet att välja regel för konteringsdimensioner.
-![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_bc9c3147.png)
+![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_604bc9d8.png)
 Fliken
 Registreringsregler
 Här anger du regler vid registrering av vald utläggskod:
@@ -42,12 +42,12 @@ kräv bilaga
 kontokort
 kan användas
 betald av företaget
-![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_446118eb.png)
+![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_74012d18.png)
 Fliken Kopplade koder
 Här kan man vid behov koppla på att en annan kod ska falla ut med automatik när denna kod används.
-![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_1524ac1c.png)
+![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_6f328212.png)
 Fliken
 Behörighet
 Här anger du styra behörigheten till koden till endast vissa Roller eller Användare o.s.v
 Defaultvärdet är "Alla användare" aktiverat
-![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_877b51fe.png)
+![Bild](images/utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation_471713ab.png)

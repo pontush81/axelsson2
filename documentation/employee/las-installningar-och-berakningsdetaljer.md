@@ -1,6 +1,6 @@
 # ⚙️LAS - Inställningar och beräkningsdetaljer
 
-**Datum:** den 20 oktober 2025  
+**Datum:** den 5 december 2025  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  
@@ -11,13 +11,10 @@
 
 ---
 
-Funktionen LAS ingår i modulerna HRM Employee och HRM Payroll. LAS-listor är viktiga verktyg inom arbetsrätt och personaladministration. Dessa listor hjälper arbetsgivaren att hantera vissa anställningsfrågor på ett strukturerat sätt. 
-
- I HRM hittar du tre olika LAS-listor: Turordning vid uppsägning, Rätt till tillsvidareanställning och Företrädesrätt till återanställning. 
-
- Samtliga listor i HRM utgår från LAS - Lag (1982:80) om anställningsskydd som reglerar förhållandet mellan arbetstagare och arbetsgivare i syfte att skydda de anställda. Det finns även förhandlade undantag som regleras i kollektivavtal och därför är det viktigt att du stämmer av just ert kollektivavtal för att se om något avviker från LAS.
-
- Här beskriver vi de inställningar och behörigheter som krävs för att använda LAS-vyerna i HRM, samt hur beräkningarna av anställningsdagar fungerar i detalj.
+Funktionen LAS ingår i modulerna HRM Employee och HRM Payroll. LAS-listor är viktiga verktyg inom arbetsrätt och personaladministration. Dessa listor hjälper arbetsgivaren att hantera vissa anställningsfrågor på ett strukturerat sätt.
+I Flex HRM hittar du tre olika LAS-listor: Turordning vid uppsägning, Rätt till tillsvidareanställning och Företrädesrätt till återanställning.
+Samtliga listor i HRM utgår från LAS - Lag (1982:80) om anställningsskydd som reglerar förhållandet mellan arbetstagare och arbetsgivare i syfte att skydda de anställda. Det finns även förhandlade undantag som regleras i kollektivavtal och därför är det viktigt att du stämmer av just ert kollektivavtal för att se om något avviker från LAS.
+Här beskriver vi de inställningar och behörigheter som krävs för att använda LAS-vyerna i HRM, samt hur beräkningarna av anställningsdagar fungerar i detalj.
 Innehåll i denna artikel
 Checklista för inställningar
 Anställningsdagar
@@ -137,7 +134,7 @@ Anställningsdagar
 och exkluderas från
 Företrädesdagar.
 OBS!
-Det är viktigt att alla anställningsperioder på en anställd har anställningsform ifylld för att beräkningar ska kunna göras.
+Det är viktigt att alla anställningsperioder på en anställd har anställningsform och personalkategori ifylld för att beräkningar ska kunna göras.
 Beräkna utifrån kontering (kräver HRM Time)
 För att kunna arbeta på olika anställningsformer samma dag/period (vissa avtal tillåter det) kan du använda ett eget register för olika anställningsformer att tidrapportera på. Notera att det endast kan användas på anställningsformer med beräkningen
 Arbetsdagar
@@ -192,6 +189,8 @@ Detta gäller de anställningsformer där man ställt in att beräkning görs me
 arbetsdagar.
 Om du ska räkna arbetsdagar via löneart i HRM Payroll krävs även vissa inställningar på
 lönearten.
+OBS!
+Det är viktigt att alla anställningsperioder på en anställd har anställningsform och rätt personalkategori ifylld för att beräkningar ska kunna göras.
 Avgångsorsaker
 Avgångsorsaker
 kan påverka vilka anställda som kommer med i listan för företrädesrätt till återanställning. Det är därför viktigt att sätta rätt avgångsorsak på anställda som slutat.

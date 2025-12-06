@@ -1,11 +1,11 @@
 # Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?
 
-**Datum:** den 2 oktober 2025  
+**Datum:** den 5 december 2025  
 **Kategori:** Payroll  
 **Underkategori:** Pension  
 **Typ:** concept  
 **Svårighetsgrad:** beginner  
-**Tags:** lön, pension  
+**Tags:** lön, löneart, pension  
 **Bilder:** 4  
 **URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-arbetstidskonto-atk-och-arbetstidsf%C3%B6rkortning-atf
 
@@ -20,6 +20,9 @@ Då man enligt kollektivavtalet ska avsätta tid i en tidbank för varje arbetad
 Det finns många olika regler kring AKT/ATF i olika kollektivavtal. Det är därför viktigt att du är insatt i hur just ditt kollektivavtal reglerar detta. För att hantera reglerna för olika avtal skapar du i HRM Payroll olika ATK/ATF-avtal där du gör inställningar. Detta gör du via
 Administration > Inställningar > Lön > ATK/ATF-avtal
 . Därefter kopplar du ett avtal till den anställde eller till en personalkategori.
+Det kan också vara så att du istället har/behöver en anpassad lösning med hjälp av tidstransaktioner, lönearter och ackumulatorer (för t.ex. avtal som har sammanfallande intjänande/uttag kan
+inte
+funktionen med ATK/ATF-avtal användas då dessa endast beräknar släpande intjänande.)
 OBS!
 Om du är osäker på hur du ska konfigurera ditt ATK- eller ATF-avtal så att det stämmer med ert kollektivavtal, rekommenderar vi att du tar hjälp av en konsult från Flex Applications.
 Varje månad görs en avsättning utifrån den procentsats eller det antal minuter per vecka som angivits i ATK/ATF-avtalet.

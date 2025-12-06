@@ -1,6 +1,6 @@
 # Hur registrerar jag bilresor med drivmedelsförmån i reseräkningsvyn samt anger utgående mätarställning i månadens slut?
 
-**Datum:** den 2 oktober 2025  
+**Datum:** den 5 december 2025  
 **Kategori:** Travel & Expense  
 **Underkategori:** Reseräkningar  
 **Typ:** howto  
@@ -12,7 +12,7 @@
 ---
 
 Vid drivmedelsförmånsbilar måste du registrera dina tjänsteresor samt ange utgående mätarställning vid månadens slut för att kunna beräkna vilken drivmedelsförmån du haft under månaden för de privat körda milen.
-apportera bilresor
+Rapportera bilresor
 Du rapporterar dina resor genom att gå till menyn
 Resa > Reseräkning
 .
@@ -23,15 +23,15 @@ Spara
 . Därefter går du vidare till fliken
 Bilresa
 .
-![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni_7bcaca62.png)
+![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni_7afe9b9b.png)
 Fyll i datum för resan, avrese- och destinationsort, vilket fordon du använde samt hur lång sträckan var. Om du har besökt flera orter längs vägen, kan du fylla i din
 Resrutt
 .
-![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni_40f8ea72.png)
+![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni_a33110a3.png)
 När alla bilresor för månaden har rapporterats så ska du
 Avräkna förmånsbil
 och ange utgående mätarställning per den siste i aktuell månad.
-![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni_027d37ca.png)
+![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni_0561ddc2.png)
 Gå till
 Körjournal
 ![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-reserakningsvyn-samt-anger-utgaende-matarstallni_9c35eb55.png)

@@ -1,12 +1,12 @@
 # Hur hanterar jag uppgifter och uppdrag i HRM?
 
-**Datum:** den 4 november 2025  
+**Datum:** den 5 december 2025  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** howto  
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, offboarding, onboarding  
-**Bilder:** 12  
+**Bilder:** 13  
 **URL:** https://knowledge.flexapplications.se/hur-hanterar-jag-uppgifter-och-uppdrag-i-flex-hrm
 
 ---
@@ -76,6 +76,8 @@ klickar på uppgiftens namn
 öppnas vyn för Uppgifter.
 ![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_04bc6aa8.png)
 ![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_4f2069aa.png)
+Exempel påminnelse via e-post
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_e3f78667.png)
 Relaterade artiklar
 Hur skapar jag nya uppgifter och uppdrag i HRM?
 Hur hanterar HRM Employee onboarding av anställda?

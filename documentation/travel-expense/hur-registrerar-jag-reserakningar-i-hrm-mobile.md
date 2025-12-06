@@ -1,6 +1,6 @@
 # Hur registrerar jag reseräkningar i HRM Mobile?
 
-**Datum:** den 27 oktober 2025  
+**Datum:** den 5 december 2025  
 **Kategori:** Travel & Expense  
 **Underkategori:** Utlägg & Kvitton  
 **Typ:** howto  

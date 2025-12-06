@@ -23,6 +23,27 @@
     "excerpt": "Artikeln innehåller en steg för steg-beskrivning av registrering av tid i tidrapporten för dagredovisning.\nRegistrera tid i tidrapporten – dagredovisning\nMed\ndagredovisning\nmenas att registrering av t..."
   },
   {
+    "title": "Varför får jag en fråga om tidig utstämpling trots att jag har flextid?",
+    "file": "varfor-far-jag-en-fraga-om-tidig-utstampling-trots-att-jag-har-flextid.md",
+    "slug": "varfor-far-jag-en-fraga-om-tidig-utstampling-trots-att-jag-har-flextid",
+    "category": "time",
+    "subcategory": "Mobil & Stämpling",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema",
+      "stämpling",
+      "tidrapport"
+    ],
+    "date": "den 5 december 2025",
+    "url": "https://knowledge.flexapplications.se/varf%C3%B6r-f%C3%A5r-jag-en-fr%C3%A5ga-om-tidig-utst%C3%A4mpling-trots-att-jag-har-flextid",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Om du stämplar ut innan din schemalagda tids slut, kan systemet fråga dig om orsaken till\ntidig utstämpling\n. Syftet är att att du inte ska missa att registrera eventuell frånvaro.\nFrågan kan visas äv..."
+  },
+  {
     "title": "Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?",
     "file": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare.md",
     "slug": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare",
@@ -2463,5 +2484,23 @@
     "imageCount": 2,
     "hasImages": true,
     "excerpt": "Ersättningar används istället för tidkoder om man vill ha ersättningar med i systemet som inte styrs via timmar. Det kan t.ex. vara utryckningstillägg för snö eller extra tillägg vid sen förändring av..."
+  },
+  {
+    "title": "Hur tar jag bort en reseräkning?",
+    "file": "hur-tar-jag-bort-en-reserakning.md",
+    "slug": "hur-tar-jag-bort-en-reserakning",
+    "category": "time",
+    "subcategory": "Övertid & Ersättning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "ob"
+    ],
+    "date": "den 5 december 2025",
+    "url": "https://knowledge.flexapplications.se/hur-tar-jag-bort-en-tidrapport-0",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Test\nI reseräkningen kan du man dls ta bort enstaka transaktioner på en reseräkning alternativt ta bort hela reseräkningen.\nFör att ta bort enstaka transaktioner så väljer man att klicka på ikonen \"Re..."
   }
 ]
