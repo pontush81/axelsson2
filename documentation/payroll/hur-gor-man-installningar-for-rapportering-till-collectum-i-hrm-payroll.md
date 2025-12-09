@@ -1,6 +1,6 @@
 # ⚙️Hur gör man inställningar för rapportering till Collectum i HRM Payroll?
 
-**Datum:** den 29 september 2025  
+**Datum:** den 8 december 2025  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** howto  
@@ -104,7 +104,7 @@ A = Summa belopp från lönetransaktioner med löneartsinställningen ”Collect
 B = Genomsnittligt belopp från lönetransaktioner med löneartsinställningen ”Collectum - Avser rörlig lön ITP2” summerat på utbetalningsdatum de tre föregående kalenderåren (1 jan – 31 dec) (kontantprincipen). De år som saknar anställningsperiod räknas ej med i snittberäkningen. Anställningsperioder markerade som "Slutlön utbetald" kommer inte att tas med i beräkningen.
 Snittberäkning: (Belopp år -1 + Belopp år -2 + Belopp år -3) / Antal år med anställningsperiod.
 Även om ett år inte har något belopp tas det alltså med i beräkningen, däremot ändras snittet om en anställd bara varit anställd i två år av de tre.
-C = (0,5 * Semesterrätt/100) x B
+C (Semestertillägg på rörlig lön/bonus) = (0,5 * Semesterrätt/100) x B
 Löneväxling för ITP2
 Löneväxling innebär att arbetsgivaren och den anställde kommer överens om att den anställde avstår en del av sin lön i utbyte mot någon annan förmån, såsom extra avsättning till pension.
 För anställda som omfattas av ITP2 ska arbetsgivaren rapportera årslönen efter löneväxling, dvs. nedräknad enligt ovanstående avsnitt för årslöneberäkning. Den nedräknade årslönen ska då redovisas i fältet för Årslön, vilket är det vanligaste.

@@ -957,9 +957,10 @@
     "type": "config",
     "difficulty": "intermediate",
     "tags": [
-      "anställning"
+      "anställning",
+      "dokument"
     ],
-    "date": "den 22 oktober 2025",
+    "date": "den 8 december 2025",
     "url": "https://knowledge.flexapplications.se/kom-igang-med-lonekartlaggning-i-hrm-0",
     "isConfig": true,
     "imageCount": 2,

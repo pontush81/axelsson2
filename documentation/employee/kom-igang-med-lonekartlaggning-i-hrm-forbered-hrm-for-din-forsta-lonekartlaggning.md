@@ -1,11 +1,11 @@
 # ⚙️Kom igång med Lönekartläggning i HRM - Förbered HRM för din första lönekartläggning
 
-**Datum:** den 22 oktober 2025  
+**Datum:** den 8 december 2025  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  
 **Svårighetsgrad:** intermediate  
-**Tags:** anställning  
+**Tags:** anställning, dokument  
 **Bilder:** 2  
 **URL:** https://knowledge.flexapplications.se/kom-igang-med-lonekartlaggning-i-hrm-0
 
@@ -22,7 +22,19 @@ Det gör du under
 Användare/Behörigheter > Roller
 .
 ![Bild](images/kom-igang-med-lonekartlaggning-i-hrm-forbered-hrm-for-din-forsta-lonekartlaggning_38cc455d.png)
-Observera att du ser alla anställda om du har behörighet till vyerna i lönekartläggningen.
+Observera
+att du ser
+alla anställda
+om du har behörighet till vyerna i lönekartläggningen. Den vanliga behörighetstyrningen där du endast ser de anställda du annars har behörighet till
+gäller inte
+i Lönekartläggningen.
+Vyerna
+Anställningslista
+och
+Analys
+visar detaljer på alla anställda och deras löner. I vyn
+Dokument
+kan du i vissa fall utläsa anställdas löner i slutrapporten om du till exempel endast har en anställd på ett visst arbete. Är detta inte lämpligt rekommenderar vi att vara restriktiv med vilka roller du ge behörighet till dessa vyer.
 Egna fält i lönekartläggningen
 I lönekartläggningen tittar du på total lön, vilket innebär att du behöver tala om vilka andra fält för lön och förmåner utöver heltidslön som ska visas i lönekartläggningen.
 De fält som ska visas i lönekartläggningen behöver aktiveras under

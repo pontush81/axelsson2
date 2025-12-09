@@ -953,27 +953,6 @@
     "excerpt": "I Flex HRM använder vi bakgrundsjobb för att hantera många funktioner. Detta gör vi för att\nbibehålla systemets prestanda\nför dig och dina kollegor, även under tunga processer.\nExempel på funktioner s..."
   },
   {
-    "title": "Hur kan jag skapa ett nytt företag eller kopiera ett företag?",
-    "file": "hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag.md",
-    "slug": "hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "howto",
-    "difficulty": "advanced",
-    "tags": [
-      "användare",
-      "behörighet",
-      "mobil",
-      "roll"
-    ],
-    "date": "den 5 november 2025",
-    "url": "https://knowledge.flexapplications.se/hur-kan-jag-skapa-ett-nytt-f%C3%B6retag-eller-kopiera-ett-f%C3%B6retag",
-    "isConfig": false,
-    "imageCount": 6,
-    "hasImages": true,
-    "excerpt": "Lär dig skapa ett nytt företag i Flex HRM. Vi går igenom hur du skapar nytt eller kopierar inställningar från ett befintligt företag.\nFöretagsinställningar\nSkapa nytt företag\nLadda ned företagsrapport..."
-  },
-  {
     "title": "Hur fungerar Påminnelser på startsidan?",
     "file": "hur-fungerar-paminnelser-pa-startsidan.md",
     "slug": "hur-fungerar-paminnelser-pa-startsidan",
@@ -1141,22 +1120,6 @@
     "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i Flex HRM.\nHar ditt företag en koncernstruktur? Här får du en översikt över de funktioner so..."
   },
   {
-    "title": "⚙️Hur aktiverar jag koncernhantering i Flex HRM?",
-    "file": "hur-aktiverar-jag-koncernhantering-i-flex-hrm.md",
-    "slug": "hur-aktiverar-jag-koncernhantering-i-flex-hrm",
-    "category": "systemgemensamt",
-    "subcategory": "Inställningar",
-    "type": "config",
-    "difficulty": "advanced",
-    "tags": [],
-    "date": "den 3 december 2025",
-    "url": "https://knowledge.flexapplications.se/hur-aktivera-jag-koncernhantering-i-flex-hrm",
-    "isConfig": true,
-    "imageCount": 3,
-    "hasImages": true,
-    "excerpt": "Artikeln beskriver hur du aktiverar koncernhantering i Flex HRM: licensinställningar, moderbolag och dotterbolagskoppling.\nKoncernhatering\nKoncernhantering i Flex HRM är en tilläggsmodul som låter dig..."
-  },
-  {
     "title": "⚙️Hur fungerar Påminnelser?",
     "file": "hur-fungerar-paminnelser.md",
     "slug": "hur-fungerar-paminnelser",
@@ -1193,6 +1156,142 @@
     "imageCount": 4,
     "hasImages": true,
     "excerpt": "Standardmenyer och innehåll är redan översatt åt dig i Flex HRM. Det finns vissa möjligheter att påverka översättningen i just ditt företag. Här beskriver vi vilka delar som kan översättas och hur du ..."
+  },
+  {
+    "title": "⚙️Hur lägger jag upp instruktionsfilmer i Flex HRM?",
+    "file": "hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm.md",
+    "slug": "hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "roll"
+    ],
+    "date": "den 5 november 2025",
+    "url": "https://knowledge.flexapplications.se/instruktionsfilmer-flex-hrm-0",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Du kan enkelt göra instruktionsfilmer tillgängliga för medarbetarna så att de kan se dem direkt i Flex HRM.\n![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_12144ca8.png)\nLägg upp filme..."
+  },
+  {
+    "title": "⚙️Hur kan jag lägga in kontaktpersoner i Flex HRM?",
+    "file": "hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm.md",
+    "slug": "hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil",
+      "roll"
+    ],
+    "date": "den 24 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/hur-kan-jag-l%C3%A4gga-in-kontaktpersoner-i-flex-hem",
+    "isConfig": true,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Den här artikeln beskriver hur du kan lägga in kontaktpersoner i Flex HRM på företagsnivå eller på systemnivå.\nHantera kontaktpersoner\nI Flex HRM kan du visa viktiga kontaktpersoner i en panel på star..."
+  },
+  {
+    "title": "⚙️Inställningar för närmast anhöriga",
+    "file": "installningar-for-narmast-anhoriga.md",
+    "slug": "installningar-for-narmast-anhoriga",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 22 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/var-hittar-jag-info-om-narmast-anhorig-0-0",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "I HRM anges Närmast anhöriga under den anställdes personuppgifter.\n\nDenna artikel beskriver vilka inställningar som du som administratör kan ställa in.\nUnder närmast anhöriga anger anställda den/de pe..."
+  },
+  {
+    "title": "⚙️Vilka behörigheter finns för meddelanden i Flex HRM?",
+    "file": "vilka-behorigheter-finns-for-meddelanden-i-flex-hrm.md",
+    "slug": "vilka-behorigheter-finns-for-meddelanden-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 30 oktober 2025",
+    "url": "https://knowledge.flexapplications.se/vilka-beh%C3%B6righeter-finns-f%C3%B6r-meddelanden-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "På startsidan i Flex HRM finns en panel där du kan skicka meddelanden till enskilda anställda eller till hela grupper. Du kan ha behörighet att\nbåde skicka och ta emot\nmeddelanden, eller\nbara att ta e..."
+  },
+  {
+    "title": "⚙️Hur aktiverar jag koncernhantering i Flex HRM?",
+    "file": "hur-aktiverar-jag-koncernhantering-i-flex-hrm.md",
+    "slug": "hur-aktiverar-jag-koncernhantering-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 3 december 2025",
+    "url": "https://knowledge.flexapplications.se/hur-aktivera-jag-koncernhantering-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver hur du aktiverar koncernhantering i Flex HRM: licensinställningar, moderbolag och dotterbolagskoppling.\nKoncernhatering\nKoncernhantering i Flex HRM är en tilläggsmodul som låter dig..."
+  },
+  {
+    "title": "⚙️Hur fungerar styrföretag?",
+    "file": "hur-fungerar-styrforetag.md",
+    "slug": "hur-fungerar-styrforetag",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "användare",
+      "behörighet",
+      "roll"
+    ],
+    "date": "den 10 november 2025",
+    "url": "https://knowledge.flexapplications.se/hur-fungerar-styrf%C3%B6retag",
+    "isConfig": true,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Med styrföretag kan du kan göra ändringar i ett bolag, och få genomslag i flera.\nVilka register kan synkroniseras?\nSå här ställer du in ett styrföretag\nRegler för synkronisering\nSynkronisera inställni..."
+  },
+  {
+    "title": "⚙️Hur kan jag skapa ett nytt företag eller kopiera ett företag?",
+    "file": "hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag.md",
+    "slug": "hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "användare",
+      "behörighet",
+      "mobil",
+      "roll"
+    ],
+    "date": "den 8 december 2025",
+    "url": "https://knowledge.flexapplications.se/hur-kan-jag-skapa-ett-nytt-f%C3%B6retag-eller-kopiera-ett-f%C3%B6retag",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Lär dig skapa ett nytt företag i Flex HRM. Vi går igenom hur du skapar nytt eller kopierar inställningar från ett befintligt företag.\nFöretagsinställningar\nSkapa nytt företag\nLadda ned företagsrapport..."
   },
   {
     "title": "⚙️Hur kan jag använda teman i Flex HRM?",
@@ -1282,105 +1381,6 @@
     "imageCount": 3,
     "hasImages": true,
     "excerpt": "Ställa in loggning (Logginställningar)\nI Flex HRM kan du logga (spåra) ändringar som görs i många av systemets register. I loggen sparas information om tidpunkten för ändringen, vem som ändrat, det ga..."
-  },
-  {
-    "title": "⚙️Hur fungerar styrföretag?",
-    "file": "hur-fungerar-styrforetag.md",
-    "slug": "hur-fungerar-styrforetag",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "config",
-    "difficulty": "intermediate",
-    "tags": [
-      "användare",
-      "behörighet",
-      "roll"
-    ],
-    "date": "den 10 november 2025",
-    "url": "https://knowledge.flexapplications.se/hur-fungerar-styrf%C3%B6retag",
-    "isConfig": true,
-    "imageCount": 13,
-    "hasImages": true,
-    "excerpt": "Med styrföretag kan du kan göra ändringar i ett bolag, och få genomslag i flera.\nVilka register kan synkroniseras?\nSå här ställer du in ett styrföretag\nRegler för synkronisering\nSynkronisera inställni..."
-  },
-  {
-    "title": "⚙️Hur lägger jag upp instruktionsfilmer i Flex HRM?",
-    "file": "hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm.md",
-    "slug": "hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "config",
-    "difficulty": "intermediate",
-    "tags": [
-      "användare",
-      "roll"
-    ],
-    "date": "den 5 november 2025",
-    "url": "https://knowledge.flexapplications.se/instruktionsfilmer-flex-hrm-0",
-    "isConfig": true,
-    "imageCount": 6,
-    "hasImages": true,
-    "excerpt": "Du kan enkelt göra instruktionsfilmer tillgängliga för medarbetarna så att de kan se dem direkt i Flex HRM.\n![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_12144ca8.png)\nLägg upp filme..."
-  },
-  {
-    "title": "⚙️Vilka behörigheter finns för meddelanden i Flex HRM?",
-    "file": "vilka-behorigheter-finns-for-meddelanden-i-flex-hrm.md",
-    "slug": "vilka-behorigheter-finns-for-meddelanden-i-flex-hrm",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "config",
-    "difficulty": "intermediate",
-    "tags": [
-      "användare",
-      "behörighet",
-      "mobil",
-      "roll"
-    ],
-    "date": "den 30 oktober 2025",
-    "url": "https://knowledge.flexapplications.se/vilka-beh%C3%B6righeter-finns-f%C3%B6r-meddelanden-i-flex-hrm",
-    "isConfig": true,
-    "imageCount": 3,
-    "hasImages": true,
-    "excerpt": "På startsidan i Flex HRM finns en panel där du kan skicka meddelanden till enskilda anställda eller till hela grupper. Du kan ha behörighet att\nbåde skicka och ta emot\nmeddelanden, eller\nbara att ta e..."
-  },
-  {
-    "title": "⚙️Hur kan jag lägga in kontaktpersoner i Flex HRM?",
-    "file": "hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm.md",
-    "slug": "hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "config",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil",
-      "roll"
-    ],
-    "date": "den 24 oktober 2025",
-    "url": "https://knowledge.flexapplications.se/hur-kan-jag-l%C3%A4gga-in-kontaktpersoner-i-flex-hem",
-    "isConfig": true,
-    "imageCount": 2,
-    "hasImages": true,
-    "excerpt": "Den här artikeln beskriver hur du kan lägga in kontaktpersoner i Flex HRM på företagsnivå eller på systemnivå.\nHantera kontaktpersoner\nI Flex HRM kan du visa viktiga kontaktpersoner i en panel på star..."
-  },
-  {
-    "title": "⚙️Inställningar för närmast anhöriga",
-    "file": "installningar-for-narmast-anhoriga.md",
-    "slug": "installningar-for-narmast-anhoriga",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "config",
-    "difficulty": "advanced",
-    "tags": [
-      "behörighet",
-      "mobil",
-      "roll"
-    ],
-    "date": "den 22 oktober 2025",
-    "url": "https://knowledge.flexapplications.se/var-hittar-jag-info-om-narmast-anhorig-0-0",
-    "isConfig": true,
-    "imageCount": 7,
-    "hasImages": true,
-    "excerpt": "I HRM anges Närmast anhöriga under den anställdes personuppgifter.\n\nDenna artikel beskriver vilka inställningar som du som administratör kan ställa in.\nUnder närmast anhöriga anger anställda den/de pe..."
   },
   {
     "title": "⚙️Allmänna tips och förberedelser inför semester",

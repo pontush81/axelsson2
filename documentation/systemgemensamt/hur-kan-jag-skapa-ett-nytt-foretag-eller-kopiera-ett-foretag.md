@@ -1,9 +1,9 @@
-# Hur kan jag skapa ett nytt företag eller kopiera ett företag?
+# ⚙️Hur kan jag skapa ett nytt företag eller kopiera ett företag?
 
-**Datum:** den 5 november 2025  
+**Datum:** den 8 december 2025  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
-**Typ:** howto  
+**Typ:** config  
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 6  
