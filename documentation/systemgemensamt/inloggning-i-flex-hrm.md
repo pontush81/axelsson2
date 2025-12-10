@@ -1,6 +1,6 @@
 # Inloggning i Flex HRM
 
-**Datum:** den 3 december 2025  
+**Datum:** den 9 december 2025  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** other  
@@ -76,7 +76,7 @@ på
 https://web.flexhrm.com/
 med din e-postadress och det lösenord du satt.
 Kom igång med HRM Mobile
-Om du använder mobil laddar hem appen
+Om du använder mobil ladda hem appen
 HRM Mobile
 i antingen
 App store
@@ -88,7 +88,7 @@ Första gången du använder appen får du frågan vilken
 webbadress
 (URL)
 som ska anges.
-Ange URLen till mobilappen är
+Ange URLen till mobilappen
 https://mobile.flexhrm.com
 I nästa steg anger du din mailadress och klickar på
 Nästa

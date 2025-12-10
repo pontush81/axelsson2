@@ -1,6 +1,6 @@
 # ⚙️Hur kan jag skapa ett nytt företag eller kopiera ett företag?
 
-**Datum:** den 8 december 2025  
+**Datum:** den 9 december 2025  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** config  
@@ -159,3 +159,4 @@ för att se vyn.
 Genom att avmarkera en modul döljer du all funktionalitet för den modulen när en användare arbetar i det valda företaget.
 Relaterade artiklar:
 Hur aktiverar jag koncernhantering i Flex HRM?
+Vad kopieras när jag kopierar ett företag?

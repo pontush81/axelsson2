@@ -1,6 +1,6 @@
 # Kopiera anställd mellan bolag – smartare personalhantering för hela koncernen
 
-**Datum:** den 23 september 2025  
+**Datum:** den 9 december 2025  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  
@@ -55,7 +55,9 @@ Koncernlicens
 i HRM.
 Som användare behöver du behörighet att se
 listvyn
-i anställdaregistret.
+i anställdaregistret och behörighet till funktionen
+Kopiera anställd inom koncern
+.
 Du måste ha behörighet att
 lägga upp en ny anställning
 och
