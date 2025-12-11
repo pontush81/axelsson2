@@ -346,6 +346,24 @@
     "excerpt": "En omräkning av engångsskatten kan ske om en anställds beräknade årsinkomst ändras i samband med att du avräknar en lönekörning. Detta beror oftast på en automatisk omräkning av den anställdas semeste..."
   },
   {
+    "title": "Hur registreras skatteavdrag för Särskild Inkomstskatt (SINK) i Flex HRM?",
+    "file": "hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm.md",
+    "slug": "hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "skatt"
+    ],
+    "date": "den 10 december 2025",
+    "url": "https://knowledge.flexapplications.se/hur-registreras-skatteavdrag-f%C3%B6r-s%C3%A4rskild-inkomstskatt-sink-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Om en medarbetare ska beskattas enligt beslut om\nSärskild inkomstskatt (SINK)\nbehöver du registrera detta i\nAnställdaregistret\n.\nFölj stegen nedan:\nGå till\nAnställdaregistret\n.\nGå till fliken\nSkatt\n.\n..."
+  },
+  {
     "title": "Hur skapar jag ett bokföringsunderlag i HRM Payroll?",
     "file": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll.md",
     "slug": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll",
