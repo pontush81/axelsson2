@@ -1294,6 +1294,24 @@
     "excerpt": "Lär dig skapa ett nytt företag i Flex HRM. Vi går igenom hur du skapar nytt eller kopierar inställningar från ett befintligt företag.\nFöretagsinställningar\nSkapa nytt företag\nLadda ned företagsrapport..."
   },
   {
+    "title": "⚙️Vad kopieras när jag kopierar ett företag?",
+    "file": "vad-kopieras-nar-jag-kopierar-ett-foretag.md",
+    "slug": "vad-kopieras-nar-jag-kopierar-ett-foretag",
+    "category": "systemgemensamt",
+    "subcategory": "Register",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "användare"
+    ],
+    "date": "den 9 december 2025",
+    "url": "https://knowledge.flexapplications.se/vad-kopieras-n%C3%A4r-jag-kopierar-ett-f%C3%B6retag",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "En förklaring av de olika alternativen för företagskopior.\nNär du skapar ett nytt företag i Flex HRM har du möjlighet att kopiera ett befintligt företag. Detta är användbart om du vill slippa göra om ..."
+  },
+  {
     "title": "⚙️Hur kan jag använda teman i Flex HRM?",
     "file": "hur-kan-jag-anvanda-teman-i-flex-hrm.md",
     "slug": "hur-kan-jag-anvanda-teman-i-flex-hrm",

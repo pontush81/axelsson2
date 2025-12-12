@@ -1,6 +1,6 @@
 # ⚙️Avvikelsedagar - Hur ställer man in schema för avvikande dagar?
 
-**Datum:** den 26 september 2025  
+**Datum:** den 11 december 2025  
 **Kategori:** Time  
 **Underkategori:** Inställningar  
 **Typ:** config  
@@ -45,7 +45,8 @@ Bocka i denna om du vill att alla anställda ska ändra schema på avikelsedagen
 Förkorta schema med (%).
 Istället för att ändra dagschema kan du ange en procentssats. 25% skulle göra att alla med arbetstid 8-17 (en timme lunch) skulle få arbetstid 8-15, alla med arbetstid 8-12 skulle få arbetstid 8-11.
 Avv. tid.
-Används om du vill att manuellt angivna tider i schemat ska fortsätta gälla, istället för att skrivas över av avvikelsedagen.
+Används om du vill att manuellt angivna tider i schemat ska fortsätta gälla, istället för att skrivas över av avvikelsedagen. Du kan läsa mer om denna inställning i en separat artikel:
+Vad betyder "Avv. tid" i vyn Avvikelsedagar?
 Helgdag.
 Bockas i om du vill att dagens namn ska visas med röd färg i tidrapporten och i det publika schemat.
 Helgdag restid.
