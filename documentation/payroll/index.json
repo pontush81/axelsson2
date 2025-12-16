@@ -1144,6 +1144,47 @@
     "excerpt": "Stegen nedan utgör den cykel som upprepas varje år.\n1. Påbörja ny intjänandeperiod\nFörsta steget i cykeln är att påbörja en ny intjänandeperiod.\nDetta ska göras när den sista\nlönekörnin\ngen under den ..."
   },
   {
+    "title": "⚙️Hur ställer jag in ATK/ATF avtal i HRM Payroll?",
+    "file": "hur-staller-jag-in-atk-atf-avtal-i-hrm-payroll.md",
+    "slug": "hur-staller-jag-in-atk-atf-avtal-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 15 december 2025",
+    "url": "https://knowledge.flexapplications.se/hur-st%C3%A4ller-jag-in-atk/atf-avtal-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Denna artikel går igenom de inställningar som ligger till grund för hanteringen av ATK/ATF via funktionen i HRM Payroll.\nRelaterade artiklar:\nInställningar av lönearter för ATK/ATF avtal\nATK/ATF – Avt..."
+  },
+  {
+    "title": "⚙️Inställningar av lönearter för ATK/ATF avtal",
+    "file": "installningar-av-lonearter-for-atk-atf-avtal.md",
+    "slug": "installningar-av-lonearter-for-atk-atf-avtal",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 15 december 2025",
+    "url": "https://knowledge.flexapplications.se/inst%C3%A4llningar-av-l%C3%B6nearter-f%C3%B6r-atk/atf-avtal",
+    "isConfig": true,
+    "imageCount": 32,
+    "hasImages": true,
+    "excerpt": "För att hantera uttag av betald ledighet, kontant ersättning, pensionsavsättning samt utbetalning av kvarvarande ledig tid när uttagsåret är slut behöver du ett antal lönearter. Du behöver också lönea..."
+  },
+  {
     "title": "Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?",
     "file": "vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf.md",
     "slug": "vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf",
