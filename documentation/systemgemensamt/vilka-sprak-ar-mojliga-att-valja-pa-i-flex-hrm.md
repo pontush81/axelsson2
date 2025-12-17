@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/mojliga-sprak-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/mojliga-sprak-flex-hrm-0
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/hur-kan-jag-anv%C3%A4nda-teman-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/hur-kan-jag-anv%C3%A4nda-teman-i-flex-hrm
 
 ---
 
@@ -17,14 +17,14 @@ Med funktionen för teman kan du anpassa det visuella utseendet i Flex HRM. Du k
 Du hittar inställningarna under
 Allmänt > Gränssnitt – Teman
 .
-![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_5b8d4946.png)
+![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_673fa9e5.png)
 Nivå
 Här väljer du om inställningarna ska gälla för hela systemet eller för ett specifikt företag. Välj mellan alternativen
 System
 och
 Företag
 .
-![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_416206ef.png)
+![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_2f51dcff.png)
 Allmänna inställningar för teman
 Under fliken
 Allmänt
@@ -35,7 +35,7 @@ Här bestämmer du vilket färgschema som ska användas.
 Om du markerar den här rutan kommer företaget att använda samma färgschema som är inställt för hela systemet. Denna inställning visas bara när du har valt nivån
 Företag
 .
-![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_96970a8a.png)
+![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_a5aa44d7.png)
 Välj ett eget färgschema:
 Om du inte ärver färgschema kan du istället välja ett standardfärgschema och lägga till alternativa scheman. Om du lägger till alternativa färgscheman kan användarna själva välja mellan dem under
 Min profil
@@ -57,7 +57,7 @@ och klickar på
 Välj bild
 . Då öppnas Utforskaren där du kan leta upp och välja bildfilen.  Spara genom att klicka på
 sparaknappen.
-![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_8caca95e.png)
+![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_10566fde.png)
 Observera
 att bildens storlek inte får överstiga 300 x 60 pixlar.
 Logotypsbakgrund
@@ -71,7 +71,7 @@ Inloggningssida
 kan du anpassa utseendet på sidan där användarna loggar in. Den här fliken är bara tillgänglig på nivån
 System
 .
-![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_4111b81d.png)
+![Bild](images/hur-kan-jag-anvanda-teman-i-flex-hrm_e8186139.png)
 Bakgrundsbilder
 För att visa bakgrundsbilder på inloggningssidan markerar du rutan
 Använd bakgrundsbilder

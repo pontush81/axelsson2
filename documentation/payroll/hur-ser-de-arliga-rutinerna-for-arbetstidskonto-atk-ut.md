@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, pension  
 **Bilder:** 11  
-**URL:** https://knowledge.flexapplications.se/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atk-ut
+**URL:** https://knowledge.flexhrm.com/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atk-ut
 
 ---
 
@@ -23,12 +23,12 @@ Gör så här:
 Gå till
 Administration > Bearbetningar > Årsrutiner > ATK/ATF-skifte
 . I översiktsvyn ser du de anställda som har en pågående intjänandeperiod och en uttagsperiod.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_0a33a44f.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_08e85333.png)
 Klicka på knappen
 Påbörja ny intjänandeperiod
 högst upp.
 I fönstret som öppnas anger du startdatum för det nya intjänandeåret. Systemet kommer då att hitta alla anställda med ett ATK-avtal som har samma startdatum.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_e785ba43.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_8d0feb0d.png)
 Markera kryssrutan
 Beräkna antal timmar för betald ledig tid
 om systemet samtidigt ska beräkna hur många timmars ledighet den anställde får ta ut för den period som precis avslutats. Detta är samma beräkning som beskrivs i steg två och det är vanligt att man gör detta samtidigt.
@@ -37,13 +37,13 @@ Starta rutinen genom att klicka på
 Skapa
 .
 När beräkningen är klar uppdateras listan. Du ser nu den nya, tomma intjänandeperioden i den blå kolumnen. Den avslutade intjänandeperioden har flyttats till de gula kolumnerna för valperioden. Det är dessa intjänade pengar som den anställde nu ska välja vad hen vill göra med.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_89b9c4c4.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_9d77f979.png)
 2. Beräkna timmar (ATK)
 Om den anställde enligt avtalet kan välja att ta ut sitt arbetstidskonto som betald ledig tid, behöver du räkna ut antalet timmar hen kan vara ledig. Detta görs oftast i samband med att du påbörjar den nya intjänandeperioden (se föregående steg), men kan också köras separat.
 Du kör beräkningen genom att klicka på knappen
 Beräkna timmar (ATK)
 i översiktsvyn. Beräkningen görs bara på den anställdes valperiod och kan köras flera gånger.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_de733622.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_5ed85228.png)
 Beräkningen baseras på schematiden för intjänandeåret, med hänsyn till eventuell frånvarotid. Utifrån detta underlag beräknas sedan antalet timmar med den intjänandeprocent som är angiven för ATK.
 Formel för beräkning:
 A = Antal schematimmar under intjänandeperioden
@@ -66,32 +66,32 @@ Rutinen för att verkställa val ska köras som ett sista steg i lönekörningen
 Den här rutinen går inte att backa.
 Gör så här:
 Kontrollera i översiktsvyn att alla anställda har gjort ett val i de gula kolumnerna. Om du använder ett standardval för de som inte väljer aktivt, behöver inte alla ha gjort ett val.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_f68538e3.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_1465d10d.png)
 Klicka på knappen
 Verkställ val och påbörja ny uttagsperiod
 .
 I dialogrutan anger du startdatum för den nya uttagsperioden.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_30ab79c7.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_2b4ebaa8.png)
 Du kan göra urval på avtal eller anställda. Det kan vara en bra idé att först testa på en enskild anställd för att säkerställa att alla lönearter fungerar som de ska.
 Klicka på
 Verkställ
 .
 När rutinen är klar ser du i översiktsvyn att valperioden har blivit den nya uttagsperioden.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_dcd296d8.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_36f242e1.png)
 Längst ned i löneberedningen, under fliken
 ATK
 , kan du nu se både den avslutade uttagsperioden (där eventuellt kvarvarande saldo har betalats ut) och den nya uttagsperioden.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_24dcf154.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_42d7d1cc.png)
 Exempel på utfall i löneberedningen
 Exempel 1:
 En anställd hade kvar lediga timmar från föregående period och har valt betald ledig tid även för den nya perioden. Systemet betalar då ut kvarvarande saldo från det avslutade året, och det nya saldot för uttagsperioden visas.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_9c31bf69.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_a8807994.png)
 Exempel 2:
 En anställd har kvarvarande saldo från föregående period som betalas ut (markerat i gult). För den nya perioden har hen valt att få pengarna utbetalda (markerat i blått). Både den avslutade och den nya uttagsperioden nollställs.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_fb3ece66.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_9e5277cb.png)
 Exempel 3:
 En anställd hade 20 timmar kvar vid lönekörningens start och tog ut 16 timmar i slutet av perioden. Efter att avvikelser hämtats in körs rutinen för att verkställa val. De återstående fyra timmarna betalas då ut. Hen har även valt kontant ersättning för den nya perioden, vilket också betalas ut.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_9bcb1338.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-arbetstidskonto-atk-ut_aee2e83f.png)
 5. Inbetalning av extra pensionsavsättning
 Om anställda har valt extra pensionsavsättning behöver detta hanteras manuellt.
 Du kan enkelt ta fram ett underlag genom rapporten

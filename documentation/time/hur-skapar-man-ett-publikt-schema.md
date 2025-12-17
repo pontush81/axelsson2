@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** ob, schema  
 **Bilder:** 7  
-**URL:** https://knowledge.flexapplications.se/hur-skapar-man-ett-publikt-schema
+**URL:** https://knowledge.flexhrm.com/hur-skapar-man-ett-publikt-schema
 
 ---
 
@@ -18,7 +18,7 @@ Förskjuta publikt schema
 Översikt
 Publikt schema
 När ett dagschema har skapats kan du knyta detta till ett publikt schema. Flera personer kan använda samma publika schema.
-![Inställningsvyn för publika scheman.](images/hur-skapar-man-ett-publikt-schema_309e7ed5.png)
+![Inställningsvyn för publika scheman.](images/hur-skapar-man-ett-publikt-schema_782967d4.png)
 Skapa ett nytt publikt schema genom att skriva in
 kod
 och
@@ -33,8 +33,8 @@ delschema
 Klicka på
 Scheman
 .
-![Ikonen för att öppna Schema-popup.](images/hur-skapar-man-ett-publikt-schema_69bdee2e.png)
-![Schemacykel måndag-fredag.](images/hur-skapar-man-ett-publikt-schema_22e059f8.png)
+![Ikonen för att öppna Schema-popup.](images/hur-skapar-man-ett-publikt-schema_eddc607d.png)
+![Schemacykel måndag-fredag.](images/hur-skapar-man-ett-publikt-schema_ddc5b93d.png)
 Avvikande inställningar för arbetstidsregler kan vid behov göras här. Inställningar på bilden beskrivs nedan.
 Kod
 – Välj kod för schemat.
@@ -62,7 +62,7 @@ Schemaplan
 .
 Du fyller i fr.o.m. datum, t.o.m. datum och anger vilket schema som gäller under aktuell period. Ange datum med månad+dag för att det ska rulla på över årsskiften.
 På bilden nedan gäller schemacykeln 01-01 - 12-31  vilket innebär att den rullar på hela året, alla år.
-![Publikt schema fliken Schemaplan, schema VV ska gälla 01-01 - 12-31.](images/hur-skapar-man-ett-publikt-schema_059e03cd.png)
+![Publikt schema fliken Schemaplan, schema VV ska gälla 01-01 - 12-31.](images/hur-skapar-man-ett-publikt-schema_ec6f2675.png)
 Tilldela publikt schema
 Under
 Anställda
@@ -71,7 +71,7 @@ Anställning
 finns en tabell för
 Scheman
 . Denna används för att tilldela anställda ett publikt schema.
-![Scheman i anställdaregistret: Datum, Tidgrupp, Schematyp och Schema.](images/hur-skapar-man-ett-publikt-schema_308d93e1.png)
+![Scheman i anställdaregistret: Datum, Tidgrupp, Schematyp och Schema.](images/hur-skapar-man-ett-publikt-schema_4884e6f0.png)
 Förskjuta publika scheman
 I personbilden går det att förskjuta publika scheman, vilket innebär att om flera personer ska jobba på samma publika schema men med start olika veckor så behövs det endast ett publikt schema. Det gör man i kolumnen
 Förskjut
@@ -80,12 +80,12 @@ Scheman
 .
 Du kan läsa mer om att förskjuta scheman i artikeln
 Vad betyder schemastartdatum?
-![Scheman i anställdaregistret, kolumnen Förskjut har siffran 1.](images/hur-skapar-man-ett-publikt-schema_1b8327bc.png)
+![Scheman i anställdaregistret, kolumnen Förskjut har siffran 1.](images/hur-skapar-man-ett-publikt-schema_7ac5077e.png)
 Översikt
 Under
 Översikt
 kan du se det publika schema du byggt. Här kan du också bygga händelser och rensa manuella avvikelser.
-![Översikt, alla årets dagar visas med daAvvikelsedagar och söndagar markeras med färg.gschema. ](images/hur-skapar-man-ett-publikt-schema_be89c4c2.png)
+![Översikt, alla årets dagar visas med daAvvikelsedagar och söndagar markeras med färg.gschema. ](images/hur-skapar-man-ett-publikt-schema_d42ee803.png)
 Relaterade artiklar:
 Hur ställer man in ett dagschema?
 Avvikelsedagar - Hur ställer man in avvikande dagar?

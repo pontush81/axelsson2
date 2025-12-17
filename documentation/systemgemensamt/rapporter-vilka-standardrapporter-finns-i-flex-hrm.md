@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet  
 **Bilder:** 8  
-**URL:** https://knowledge.flexapplications.se/rapporter-vilka-standardrapporter-finns
+**URL:** https://knowledge.flexhrm.com/rapporter-vilka-standardrapporter-finns
 
 ---
 
@@ -15,12 +15,12 @@ Artikeln ger en kort beskrivning av standardrapporter i Flex HRM.
 Rapporter
 Du hittar rapporterna under menyn
 Rapporter
-![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_4df875d0.png)
+![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_e483097f.png)
 Under Rapporter hittar du dels ett antal standardrapporter, men även möjlighet att hämta specialbyggda rapporter från Rapportgeneratorn som har blivit delade med dig, så kallad
 Egen rapport
 .
 Olika typer av rapporter har olika ikoner:
-![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_792d959e.png)
+![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_40d8eee4.png)
 Tillgängliga standardrapporter
 Nedan ser du en sammanfattning av vilka rapporter som finns.
 Observera att rapporterna ofta hör till en specifik modul och innebär att du endast ser de rapporter som du har licens för och som du som användare har behörighet till.
@@ -83,10 +83,10 @@ Skriv ut rapporten.
 Du ser vilka rapporter som ingår i en kategori genom att klicka på
 pilen
 framför respektive huvudnivå. Till höger i bilden visas de urvalsmöjligheter som finns för den valda rapporten.
-![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_df930c1f.png)
+![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_8117eafc.png)
 Definiera urval
 Här ställer du in vilka data som ska inkluderas i rapporten innan du tar ut den.
-![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_e6335f4b.png)
+![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_0b76425a.png)
 Observera
 Om du gör ett urval baserat på
 hemkonteringar
@@ -103,25 +103,25 @@ högst upp och klicka på
 Spara
 -knappen i verktygsfältet. Ett sparat urval hittar du sedan under originalrapporten i rapportträdet.
 I nedan exempel ser du att det finns två olika rapporturval sparade av standardrapporten Frånvarostatistik.
-![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_ccc09649.png)
+![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_e4f15f9a.png)
 Skriva ut rapporten
 För att skriva ut en rapport klickar du på
 skrivarsymbolen
 i det övre verktygsfältet. Rapporten öppnas då i en ny flik i din webbläsare.
 Nedan följer en beskrivning av de funktioner du hittar i utskriftsfönstret:
-![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_972521b7.png)
+![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_b4512fbf.png)
 Spara rapporten i annat format (Export)
 Du kan spara rapporten i ett annat filformat, som till exempel en PDF-fil. Klicka på
 pilen till höger
 om exportikonen.
 Välj det önskade filformatet i listan.
-![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_37b66b2a.png)
+![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_5dd6ee97.png)
 Uppdatera vyn
 Klicka på
 Uppdatera
 -ikonen
 för att uppdatera vyn med eventuella ändringar som har gjorts medan du haft fönstret öppet.
-![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_4c3976fc.png)
+![Bild](images/rapporter-vilka-standardrapporter-finns-i-flex-hrm_6b4415fb.png)
 Skriv ut
 Klicka på
 Skriv ut

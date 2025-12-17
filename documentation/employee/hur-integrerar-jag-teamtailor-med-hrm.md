@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning, onboarding  
 **Bilder:** 7  
-**URL:** https://knowledge.flexapplications.se/aktivera-integration-teamtailor-0
+**URL:** https://knowledge.flexhrm.com/aktivera-integration-teamtailor-0
 
 ---
 
@@ -26,8 +26,8 @@ Att göra i HRM
 1.  Skapa en API-användare i HRM
 Vi rekommenderar att skapa en ny användare, namnförslag ”Teamtailor API” med behörighet (roll) enligt bild.
 Rollens behörigheter:
-![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_bfe950cf.png)
-![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_c6165f39.png)
+![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_7bec3795.png)
+![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_2708b500.png)
 Sätt ett lösenord på användaren för att ange senare i Teamtailor.
 2. Du som kund behöver ta fram och förse Teamtailor med uppgifter från HRM gällande:
 URL-adressen
@@ -57,7 +57,7 @@ Att göra i Teamtailor
 1. Klicka på
 Inställningar
 högst upp till höger i vyn:
-![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_6483de49.png)
+![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_c95c240f.png)
 2. Välj
 Marknadsplatsaktiveringar
 längst ner under
@@ -65,7 +65,7 @@ Integrationer
 , leta upp Flex HRM
 och klicka på
 Visa inställningar.
-![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_69b6d15a.png)
+![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_26274439.png)
 3. Fyll i uppgifter enligt nedan där
 Instance
 är kundnumret i HRM och
@@ -75,7 +75,7 @@ Password
 är från användaren som skapades i HRM (se ovan rubrik
 Att göra i HRM
 ).
-![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_3e71bfaf.png)
+![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_ed6d34f7.png)
 4. Du lägger till en
 trigger
 i en jobbannons enligt nedan exempel.
@@ -84,5 +84,5 @@ anställningsmall
 från HRM (
 Employment template
 ) som ska aktiveras när den anställde kommer över från Teamtailor till HRM. Du kan därmed välja olika anställningsmallar för olika jobbannonser.
-![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_68be648b.png)
-![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_970ceedf.png)
+![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_415890b4.png)
+![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_01421ff6.png)

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** hrm-employee, kompetens  
 **Bilder:** 7  
-**URL:** https://knowledge.flexapplications.se/anvand-organisationsoversikt-i-hrm
+**URL:** https://knowledge.flexhrm.com/anvand-organisationsoversikt-i-hrm
 
 ---
 
@@ -18,10 +18,10 @@ Mer
 hittar du knappen
 Organisationsöversikt
 . När du klickar på den fälls en trädstruktur över din organisation ut till vänster.
-![Bild](images/anvand-organisationsoversikten-i-hrm-employee_f9ea0d06.png)
+![Bild](images/anvand-organisationsoversikten-i-hrm-employee_07eb46f2.png)
 Du kan även fälla ut trädet via den blåa lilla pilen uppe till vänster i vyn.
-![Bild](images/anvand-organisationsoversikten-i-hrm-employee_4b73fa7a.png)
-![Bild](images/anvand-organisationsoversikten-i-hrm-employee_416511e7.png)
+![Bild](images/anvand-organisationsoversikten-i-hrm-employee_19d5225f.png)
+![Bild](images/anvand-organisationsoversikten-i-hrm-employee_9a6a2c24.png)
 Översikten är ett användbart verktyg för att snabbt filtrera och hantera anställda direkt i listvyn.
 Notera att organisationsöversikten även är synlig och användbar i andra vyer i HRM, så som till exempel
 attestvyerna
@@ -39,8 +39,8 @@ Se mer information om en enhet
 Genom att klicka på
 i-symbolen
 bredvid en enhet i organisationsöversikten kan du se mer information, till exempel vem som är chef och hur många anställda som finns där.
-![Bild](images/anvand-organisationsoversikten-i-hrm-employee_5c179349.png)
-![Bild](images/anvand-organisationsoversikten-i-hrm-employee_d127e56c.png)
+![Bild](images/anvand-organisationsoversikten-i-hrm-employee_a3fb6ad1.png)
+![Bild](images/anvand-organisationsoversikten-i-hrm-employee_55d334f0.png)
 Flytta anställda i organisationen
 Du kan använda organisationsöversikten för att flytta en eller flera anställda till en annan del av organisationen.
 Gör så här:
@@ -53,7 +53,7 @@ Shift
 -tangenten och klicka på den sista anställda i blocket.
 Dra och släpp
 de markerade anställda på den enhet i organisationsträdet dit du vill flytta dem.
-![Bild](images/anvand-organisationsoversikten-i-hrm-employee_f3e5a744.png)
+![Bild](images/anvand-organisationsoversikten-i-hrm-employee_f54baf7f.png)
 Ett nytt fönster öppnas där du anger detaljerna för flytten.
 Välj från och med vilket
 datum
@@ -67,7 +67,7 @@ Ja
 får de den nya enhetens chef som sin närmaste chef. Om du vill välja en annan person än den föreslagna kan du göra det manuellt i fältet
 Närmaste chef
 .
-![Bild](images/anvand-organisationsoversikten-i-hrm-employee_ca72ef31.png)
+![Bild](images/anvand-organisationsoversikten-i-hrm-employee_3a2b1de2.png)
 Observera!
 För att kunna flytta anställda på detta sätt behöver du ha behörighet att ändra uppgifter under fliken
 Kontering

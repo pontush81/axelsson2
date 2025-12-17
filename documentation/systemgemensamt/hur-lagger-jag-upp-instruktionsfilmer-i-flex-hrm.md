@@ -7,12 +7,12 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, roll  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/instruktionsfilmer-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/instruktionsfilmer-flex-hrm-0
 
 ---
 
 Du kan enkelt göra instruktionsfilmer tillgängliga för medarbetarna så att de kan se dem direkt i Flex HRM.
-![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_12144ca8.png)
+![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_8c0727b1.png)
 Lägg upp filmer
 Du hanterar filmerna i inställningarna.
 Gå till
@@ -45,23 +45,23 @@ Välj vilka användare som ska kunna se filmen.
 Klicka på
 Spara
 .
-![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_765a2f18.png)
+![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_da1b8705.png)
 Du kan kontrollera att länken fungerar genom att klicka på
 Test
 .
-![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_99e06ac4.png)
+![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_a9995e29.png)
 Titta på instruktionsfilmer i HRM
 Användare i Flex HRM kan se instruktionsfilmerna via
 Hjälp
 , klicka på
 Instruktionsfilmer.
-![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_e6030cca.png)
+![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_9c60331a.png)
 Ställ in att användare ser filmer vid uppstart
 Du kan ställa in att instruktionsfilmerna ska visas automatiskt vid start för en användare. Det innebär att rutan med de filmer du har lagt upp visas direkt när användaren loggar in.
 Du hittar inställningen
 Visa instruktionsfilmer vid start/inloggning
 under:
 Användarmallar
-![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_970453d2.png)
+![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_cc64ffff.png)
 Användare
-![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_32248b52.png)
+![Bild](images/hur-lagger-jag-upp-instruktionsfilmer-i-flex-hrm_ca013afb.png)

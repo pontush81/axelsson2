@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/paneler-gemensamt-hur-fungerar-de-gemensamma-inst%C3%A4llningar-f%C3%B6r-paneler
+**URL:** https://knowledge.flexhrm.com/paneler-gemensamt-hur-fungerar-de-gemensamma-inst%C3%A4llningar-f%C3%B6r-paneler
 
 ---
 
@@ -66,9 +66,9 @@ Befattning
 Utgår från den anställdes anställnings- och avgångsdatum.
 Exempel för anställningsform:
 Om fälten är enligt nedan betyder det att inget datumurval är gjort och aktuell anställningsform (idag) kommer att hittas.
-![Bild](images/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard_de94e338.png)
+![Bild](images/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard_d34074e6.png)
 Med nedan exempel kommer senast aktuell anställningsform under urvalets period, dvs aktuell månad, att hämtas.
-![Bild](images/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard_9fd8be8d.png)
+![Bild](images/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard_6b6c5957.png)
 Graf - Stapel/Linje
 Används för typerna
 Antal anställda
@@ -89,11 +89,11 @@ Utgår från dagens datum och tittar på alla hela perioder bakåt.
 Exempel med 24 år bakåt där dagens datum är lika med 2023-02-10:
 Första perioden: 1999-01-01 - 1999-12-31
 Sista perioden: 2022-01-01 - 2022-12-31
-![Bild](images/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard_c20afd4e.png)
+![Bild](images/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard_3568e6e8.png)
 Exempel med 24 månader bakåt där dagens datum är 2023-02-10:
 Första perioden: 2021-02-01 - 2021-02-28
 Sista perioden: 2023-01-01 - 2023-01-31
-![Bild](images/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard_9c7c4654.png)
+![Bild](images/paneler-i-dashboard-hur-fungerar-de-gemensamma-installningarna-for-paneler-i-dashboard_f84608e3.png)
 Relaterade artiklar:
 Dashboard - Vad är en Dashboard?
 Hur går jag tillväga för att presentera Dashboards på Startsidan (Hem)?

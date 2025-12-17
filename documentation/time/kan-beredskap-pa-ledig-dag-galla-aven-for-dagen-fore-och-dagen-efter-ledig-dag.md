@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** beredskap, schema, tidkod  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/kan-beredskap-p%C3%A5-ledig-dag-g%C3%A4lla-%C3%A4ven-f%C3%B6r-dagen-f%C3%B6re-och-dagen-efter-ledig-dag
+**URL:** https://knowledge.flexhrm.com/kan-beredskap-p%C3%A5-ledig-dag-g%C3%A4lla-%C3%A4ven-f%C3%B6r-dagen-f%C3%B6re-och-dagen-efter-ledig-dag
 
 ---
 
@@ -30,6 +30,6 @@ På den lediga dagen.
 Fram till klockan
 07:00
 morgonen efter den lediga dagen.
-![Bild](images/kan-beredskap-pa-ledig-dag-galla-aven-for-dagen-fore-och-dagen-efter-ledig-dag_8e3d3cc3.png)
+![Bild](images/kan-beredskap-pa-ledig-dag-galla-aven-for-dagen-fore-och-dagen-efter-ledig-dag_82d4b876.png)
 Relaterade artiklar
 Hur fungerar beredskapsregelverk?

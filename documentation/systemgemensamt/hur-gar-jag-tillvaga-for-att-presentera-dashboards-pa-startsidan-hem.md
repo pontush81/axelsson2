@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/hur-g%C3%A5r-jag-tillv%C3%A4ga-f%C3%B6r-att-presentera-dashboards-p%C3%A5-startsidan-hem
+**URL:** https://knowledge.flexhrm.com/hur-g%C3%A5r-jag-tillv%C3%A4ga-f%C3%B6r-att-presentera-dashboards-p%C3%A5-startsidan-hem
 
 ---
 
@@ -22,9 +22,9 @@ Välj den roll det gäller och gå till noden
 Hem
 .
 Ange vilken eller vilka dashboards som rollen ska ha tillgång till.
-![Bilden visar behörighetsinställningen för dashboards för en roll.](images/hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem_9ef29b3a.png)
+![Bilden visar behörighetsinställningen för dashboards för en roll.](images/hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem_418909dc.png)
 När behörigheten är tilldelad kommer användaren att se dashboarden som en ny flik på startsidan.
-![Bilden visar listan över dashboards användaren har behörighet till nör hen trycker på "Hem"-symbolen.](images/hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem_5b8b062e.png)
+![Bilden visar listan över dashboards användaren har behörighet till nör hen trycker på "Hem"-symbolen.](images/hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem_424527ec.png)
 Tänk på att det går att ställa in, per Dashboard i Flex HRM, vilka anställda en användare, utifrån sin roll, ska ha behörighet till. Läs mer om detta  i artikeln "
 Dashboard - Vad är en Dashboard?
 ".
@@ -35,7 +35,7 @@ Användare > Behörigheter > Roller
 och markera inställningen
 Behörig att se detaljer om anställda
 för den aktuella rollen.
-![Bild](images/hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem_3365cde7.png)
+![Bild](images/hur-gar-jag-tillvaga-for-att-presentera-dashboards-pa-startsidan-hem_4822c4d6.png)
 Observera att funktionen för att se detaljerad information genom att klicka i graferna är endast tillgänglig i HRM, inte i HRM Mobile.
 Relaterade artiklar:
 Dashboard - Vad är en Dashboard?

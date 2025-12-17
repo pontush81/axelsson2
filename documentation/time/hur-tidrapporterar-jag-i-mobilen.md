@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** attestering, mobil, ob, saldo, schema, stämpling, tidkod, tidrapport  
 **Bilder:** 13  
-**URL:** https://knowledge.flexapplications.se/hur-sk%C3%B6ter-jag-min-tidrapportering-i-mobilen
+**URL:** https://knowledge.flexhrm.com/hur-sk%C3%B6ter-jag-min-tidrapportering-i-mobilen
 
 ---
 
@@ -105,7 +105,7 @@ sidomenyn
 En rad för åtta timmar utan kontering visas (eftersom det är vad som ligger i tidrapporten). Klicka på denna rad. Ange kostnadsställe och ändra antal timmar till 4. Om önskat kan du lägga in en kommentar.
 Spara
 .
-![Bild](images/hur-tidrapporterar-jag-i-mobilen_8b7c278e.png)
+![Bild](images/hur-tidrapporterar-jag-i-mobilen_ed5076a2.png)
 3:
 Klicka på
 plustecknet

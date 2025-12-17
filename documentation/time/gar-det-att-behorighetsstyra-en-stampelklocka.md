@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/g%C3%A5r-det-att-beh%C3%B6righetsstyra-en-st%C3%A4mpelklocka
+**URL:** https://knowledge.flexhrm.com/g%C3%A5r-det-att-beh%C3%B6righetsstyra-en-st%C3%A4mpelklocka
 
 ---
 
@@ -24,7 +24,7 @@ användare, roll
 och
 kontering
 . Standard för alla stämpelklockor är att det är tomt i alla tre tabeller, vilket innebär att alla får stämpla.
-![Bild](images/gar-det-att-behorighetsstyra-en-stampelklocka_3ca44603.png)
+![Bild](images/gar-det-att-behorighetsstyra-en-stampelklocka_b6cca213.png)
 Exempel
 I bilden ovan har vi ställt in behörigheten för klockan
 Posthantering.

@@ -1,8 +1,8 @@
 {
-  "total_articles": 384,
+  "total_articles": 386,
   "total_categories": 6,
-  "total_images": 2181,
-  "last_updated": "2025-12-16 03:03:03",
+  "total_images": 2196,
+  "last_updated": "2025-12-17 03:25:33",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
@@ -18,13 +18,13 @@
     },
     "time": {
       "name": "Time",
-      "total": 118,
+      "total": 119,
       "subcategories": {
         "Tidrapportering": 30,
         "Mobil & Stämpling": 20,
         "Schema & Planering": 6,
         "Övertid & Ersättning": 8,
-        "Inställningar": 23,
+        "Inställningar": 24,
         "Frånvaro & Semester": 18,
         "Lön & Överföring": 6,
         "Attestering & Granskning": 5,
@@ -59,9 +59,9 @@
     },
     "payroll": {
       "name": "Payroll",
-      "total": 72,
+      "total": 73,
       "subcategories": {
-        "Löneberedning": 36,
+        "Löneberedning": 37,
         "Semesterhantering": 6,
         "Inställningar": 13,
         "Skatt & AGI": 10,
@@ -80,6 +80,6 @@
       }
     }
   },
-  "last_check": "2025-12-16 03:03:03",
+  "last_check": "2025-12-17 03:25:33",
   "last_check_status": "success"
 }

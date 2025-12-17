@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning  
 **Bilder:** 12  
-**URL:** https://knowledge.flexapplications.se/genomfor-lonekartlaggning-i-hrm-forberedelser-0
+**URL:** https://knowledge.flexhrm.com/genomfor-lonekartlaggning-i-hrm-forberedelser-0
 
 ---
 
@@ -17,11 +17,11 @@ Lönekartläggning är ett lagkrav (Diskrimineringslagen 2008:567 3kap.) och ska
 Skapa ny lönekartläggningen
 Gå till
 Personal > Lönekartläggning
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_e03a2af9.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_2929100e.png)
 Klicka på
 Ny
 och döp din lönekartläggning.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_a51fa075.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_34b3cb45.png)
 Bestäm t.o.m. vilket datum de datumstyrda fälten som t.ex. löner och lönetillägg minst ska gälla till. Har du ett fält som börjar gälla efter valt datum kommer det inte synas i lönekartläggningen.
 Här väljer du också
 om du vill kopiera förberedelser och arbetsvärdering f
@@ -35,7 +35,7 @@ Anställningstyp
 Anställd (exklusive VD) tas med i lönekartläggningen. Personer som har Anställlningstyp Extern personal i menyn
 Anställning
 i HRM kommer inte med i lönekartläggningen.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_bbbb4823.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_d7e8b04b.png)
 Observera att anställningstyp Extern personal även påverkar andra funktioner i HRM såsom till exempel Payroll och viss statistik.
 Vem som är
 VD
@@ -43,7 +43,7 @@ i företaget anges under inställningen
 Företag
 .
 Förberedelser
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_b95a8e2b.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_3f8a0f13.png)
 Inställningar som görs under
 Förberedelser
 ligger till grund för hela lönekartläggningen och kopieras även med till nästa lönekartläggning som du skapar. Varje lönekartläggnings inställningar kan ändå redigeras så länge detta steg inte är klarmarkerat. Det påverkar inte andra redan skapade lönekartläggningar utan enbart den du just arbetar med.
@@ -56,7 +56,7 @@ Befattning
 ,
 Befattning (egen gruppering)
 eller valfri kontering.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_bb22c818.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_705d3a45.png)
 Vilken gruppering ska jag välja?
 Befattning -
 Används om varje titel i befattningsregistret ska vara ett eget arbete. Inga befattningar är så pass lika när det gäller arbetsuppgifter att de kan slås ihop.
@@ -73,14 +73,14 @@ Varning!
 Om du efter att ha startat en lönekartläggning vill byta grupperingen ovan kan du göra det men får en pop-up som varnar om att det kommer rensa samtliga svar som fyllts i under fliken Arbetsvärdering.
 Gruppering för arbetsvärdering - Befattning (egen gruppering)
 Detta val är till dig som många befattningar och där vissa har liknande krav och därför kan grupperas ihop innan arbetsvärderingen påbörjas.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_06944829.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_d1384ca4.png)
 När du valt grupperingen
 Befattning (egen gruppering)
 likt bilden ovan så klickar du på
 Redigera arbetsfält
 för att skapa era arbeten/grupper.
 Tänk på att du måste skapa ett arbete även för befattningar som inte ska grupperas med någon annan befattning.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_0c10f51e.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_cb8a6155.png)
 Klicka på
 Ny
 Döp arbetet till ett
@@ -94,9 +94,9 @@ för att få det tillgängligt för ett annat arbete istället.
 Spara
 Börja om på 1 för att skapa upp samtliga arbeten
 Här ser du ett exempel på ett arbete som innehåller fler befattningar
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_5095e404.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_2d8835ff.png)
 Här ser du ett exempel på ett arbetet som innehåller en befattning
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_4b6a4786.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_549f7d79.png)
 Timlön
 Timlön gånger faktorn som är skriven i detta fält motsvarar omräkningen till heltidslön. Det kommer räknas lika för samtliga med timlön på företaget så det likvärdigt går att jämföra.
 Intervallhantering för likvärdigt arbete
@@ -108,12 +108,12 @@ måste du skriva en siffra mellan 2 och 10
 När du använder procent förhåller sig lönekartläggningen till maxpoängen i faktorplanen. Är faktorplanens maxpoäng 640 med inställning på 3%, anses ett arbete likvärdigt ett annat arbete om det ligger inom 19 poäng.
 För egna intervall
 kan du själv bestämma hur stora och hur många intervall du vill använda för just era likvärdiga arbeten genom att lägga till rader. Döp varje grupp och ange vilket poängintervall som gäller.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_43d69f42.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_aaf87fad.png)
 Gruppering av lön och förmåner
 För att bestämma vilka fält/förmåner förutom heltidslön som ska jämföras i lönekartläggningen grupperar du dessa här. Syftet med detta är att jämföra de anställdas lön utifrån den ersättning de faktiskt får och inte enbart heltidslön. Du kan själv döpa om rubriken, vilken även är namnet på denna kolumn som visas i lönekartläggningen.
 Lägg till rad
 för att lägga till de fält som ska ingå.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_49a43631.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_2a1a63a9.png)
 OBS! För att kunna välja på numeriska egna fält, så som lönetillägg, behöver du ställa in det i
 inställningarna
 först.
@@ -123,7 +123,7 @@ Syftet med inställningen är att kunna ställa in hur många poäng varje fakt
 Det finns tre typer av faktorplaner i HRM att välja på.
 Varje faktorfält kan ha ett svar
 Enbart ett svarsalternativ per faktorfält/fråga är tillåtet och ger då angiven poäng samt eventuell viktning. Detta lämpar sig där ett alternativ stämmer, exempelvis enligt nedan bild:
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_7772702e.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-1-forberedelser_53c54331.png)
 Varje faktorfält kan ha flera svar
 Varje svarsalternativ på ett faktorfält/en fråga/ett område går att svara på och ger då angivna poäng för samtliga svar inkl. eventuell viktning.
 ⚠️OBS! Detta alternativ kommer att tas bort i Flex HRMs nya version av Lönekartläggning som släpps under 2026. Vi rekommenderar därför att se över er arbetssätt och anpassar era inställningar redan nu.

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** schema  
 **Bilder:** 8  
-**URL:** https://knowledge.flexapplications.se/g%C3%A5r-det-att-hantera-fr%C3%A5nvaro-i-schemavyerna
+**URL:** https://knowledge.flexhrm.com/g%C3%A5r-det-att-hantera-fr%C3%A5nvaro-i-schemavyerna
 
 ---
 
@@ -23,7 +23,7 @@ Mer > Inställningar
 Frånvaro
 visas i rött.
 Gäller den endast en del av passet visas klockslag.
-![image-png-Nov-13-2025-12-04-51-9259-PM](images/gar-det-att-hantera-franvaro-i-schemavyerna_7155c2a8.png)
+![image-png-Nov-13-2025-12-04-51-9259-PM](images/gar-det-att-hantera-franvaro-i-schemavyerna_77329536.png)
 Ansökt frånvaro
 som ännu inte har behandlats markeras med
 två asterisker (**)
@@ -33,14 +33,14 @@ för att öppna frånvarohanteraren och behandla ansökan.
 Du kan också klicka på de tre prickarna för en bemannad anställd för att öppna frånvarohanteraren och
 registrera en ny frånvaro
 .
-![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_99519e2b.png)
+![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_b094e2f4.png)
 Frånvaro i Arbetspass
 I vyn
 Arbetspass
 visas frånvaro med rött, under förutsättning att du har valt att visa bemannade anställda via
 Mer > Inställningar
 .
-![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_977d564c.png)
+![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_3a06a52c.png)
 Du kan se och hantera
 ansökt frånvaro
 i denna vy. Ansökt frånvaro markeras med
@@ -48,7 +48,7 @@ två asterisker (**)
 . Du klickar på
 de tre prickarna
 för att öppna frånvarohanteraren.
-![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_791e7215.png)
+![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_2e425bef.png)
 Frånvaro i Schema
 I vyn
 Schema
@@ -59,18 +59,18 @@ Del av dag-frånvaro
 markerar dagen delvis röd.
 Ansökt frånvaro
 som väntar på behandling markeras med en röd list i högerkanten av dagen.
-![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_40e51d06.png)
+![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_fe76a55b.png)
 Du kan klicka på en dag för att
 se detaljerad information
 om frånvaron.
-![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_e5f8df89.png)
+![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_9ffc3aa9.png)
 Behandla ansökt frånvaro:
 Klicka på
 den röda listen
 för att öppna frånvarohanteraren.
-![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_8b35dbe0.png)
+![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_a968dd2b.png)
 Öppna frånvarohanteraren eller registrera ny frånvaro:
 Markera en dag och klicka på ikonen för
 Frånvaro
 .
-![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_785604cd.png)
+![Bild](images/gar-det-att-hantera-franvaro-i-schemavyerna_05fe5ce6.png)

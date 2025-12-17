@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** schema  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-anv%C3%A4nda-tillg%C3%A4nglighet-i-hrm-plan
+**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-anv%C3%A4nda-tillg%C3%A4nglighet-i-hrm-plan
 
 ---
 

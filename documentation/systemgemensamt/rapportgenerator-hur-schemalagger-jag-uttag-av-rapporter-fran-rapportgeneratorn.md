@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** behörighet  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/rapportgeneratorn-hur-schemal%C3%A4gger-man-exporter-fr%C3%A5n-rapportgeneratorn
+**URL:** https://knowledge.flexhrm.com/rapportgeneratorn-hur-schemal%C3%A4gger-man-exporter-fr%C3%A5n-rapportgeneratorn
 
 ---
 
@@ -18,7 +18,7 @@ Steg 1: Ställ in rapportmallen för export
 För att kunna använda en rapport för schemalagd export behöver du först ställa in den som en exportmall. Det gör du under rapportmallens delningsinställningar genom att välja alternativet
 Använd som rapportmall
 .
-![Bilden visar delningsinställningarna i rapportgeneratorn, där inställningen "Använd som exportmall" är aktiverad.](images/rapportgenerator-hur-schemalagger-jag-uttag-av-rapporter-fran-rapportgeneratorn_c5885a20.png)
+![Bilden visar delningsinställningarna i rapportgeneratorn, där inställningen "Använd som exportmall" är aktiverad.](images/rapportgenerator-hur-schemalagger-jag-uttag-av-rapporter-fran-rapportgeneratorn_8cac0f27.png)
 När du väljer detta låses de övriga delningsinställningarna.
 En rapportmall som används för export kan inte samtidigt publiceras som en vanlig rapport (dock går det att använda den i rapportpaket). Om du behöver använda samma mall för båda syften kan du spara en kopia av den och publicera kopian som en vanlig rapport.
 Observera!
@@ -29,7 +29,7 @@ Administration > Bearbetningar > Servicerutiner > Export
 . Välj exporttypen
 Rapportmall
 för att se den.
-![Bilden visar inställningarna för export och hatt man kan välja den skapade rapportmallen som exportmall.](images/rapportgenerator-hur-schemalagger-jag-uttag-av-rapporter-fran-rapportgeneratorn_b4841c5d.png)
+![Bilden visar inställningarna för export och hatt man kan välja den skapade rapportmallen som exportmall.](images/rapportgenerator-hur-schemalagger-jag-uttag-av-rapporter-fran-rapportgeneratorn_e7f84723.png)
 Här skapar du själva exportrutinen. Dataurvalet ställer du in i rapportgeneratorn, men i exportinställningarna kan du välja:
 Filformat (PDF, XLSX eller CSV).
 Språk för den exporterade filen (om ni använder flera språk i Flex HRM).

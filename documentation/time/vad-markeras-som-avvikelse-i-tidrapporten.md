@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema, stämpling, tidkod, tidrapport, övertid  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/vad-markeras-som-avvikelse-i-tidrapporten
+**URL:** https://knowledge.flexhrm.com/vad-markeras-som-avvikelse-i-tidrapporten
 
 ---
 
@@ -18,8 +18,8 @@ Undanta tidkoder från avvikelser
 Kan man granska tidrapporter som har avvikelser?
 Hur visas avvikelser?
 Avvikelser i tidrapporten är sådant du kan vilja titta närmare på, men de innebär inte att något i rapporteringen är felaktigt. Avvikelser markeras med gul färg i tidrapporten, och du kan få mer information i kolumnerna Daginformation, Periodinformation samt i granskningsvyerna.
-![31 juli. I Daginformation och Periodinformation ser man att den gäller frånvaro.](images/vad-markeras-som-avvikelse-i-tidrapporten_38a317db.png)
-![Information om avvikelser i attestvyn.](images/vad-markeras-som-avvikelse-i-tidrapporten_d0a41184.png)
+![31 juli. I Daginformation och Periodinformation ser man att den gäller frånvaro.](images/vad-markeras-som-avvikelse-i-tidrapporten_9fefec79.png)
+![Information om avvikelser i attestvyn.](images/vad-markeras-som-avvikelse-i-tidrapporten_372f00ac.png)
 Vad räknas som en avvikelse?
 Vad som ska ge avvikelser ställs in per företag (Tidrapporter), per tidgrupp eller per anställd. Du kan inaktivera avvikelser helt (bocka ur “Generera avvikelser"). De händelser som kan ge avvikelser är Frånvaro, Övertid/Mertid, Saknad utregistrering, Avvikande rast, För sen ankomst, För tidig hemgång, Manuell ändring, Stämpling utan fingeravtryck/bricka, Ej stämplad rast, Låst rad, Stämpling i avvikande tidszon, Schema ändrat i tidrapporten.
 ![Avvikelseinställningar.](images/vad-markeras-som-avvikelse-i-tidrapporten_145cf36e.jpg)

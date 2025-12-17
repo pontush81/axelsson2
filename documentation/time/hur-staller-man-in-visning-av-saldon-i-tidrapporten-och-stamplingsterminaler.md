@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, ob, saldo, schema, semester, stämpling, tidrapport, övertid  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/hur-st%C3%A4ller-man-in-visning-av-saldo-i-tidrapporten-och-st%C3%A4mplingsterminer
+**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-man-in-visning-av-saldo-i-tidrapporten-och-st%C3%A4mplingsterminer
 
 ---
 
@@ -32,8 +32,8 @@ Här lägger du upp de dagsaldon som företaget vill visa i tidrapportens kolum
 Daginformation
 .
 I vårt exempel nedan visar vi i alla tidrapporter för anställda i tidgrupp TJM saldon för Närvaro, Frånvaro, Summa registrerad tid, Ospecificerad närvaro, Ospecificerad frånvaro, Övertid betald, och Komptid.
-![Fliken Layout dagsaldon.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_1bd6ec1d.png)
-![Tidrapportens kolumn Daginformation visar de saldon som ställts in.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_d45807ce.png)
+![Fliken Layout dagsaldon.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_06bf2737.png)
+![Tidrapportens kolumn Daginformation visar de saldon som ställts in.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_febb026a.png)
 Vill du ta bort saldot från layouten klickar du på saldot ifråga, följt av
 Ta bort rad
 . När du sedan sparar försvinner det och kommer inte att visas i tidrapporten.
@@ -49,13 +49,13 @@ innebär att man får en blankrad i kolumnen, vilken kan vara bra för läsbarhe
 I
 Periodsaldon för grupp 2
 visar vi andra saldon: flextid ingående/periodens/utgående, komptid ingående/periodens/utgående, semesterdagar ingående/periodens/utgående.
-![Fliken Layout periodsaldon.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_539a0c25.png)
-![Tidrapportens kolumn Periodinformation visar de saldon som ställts in.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_118892d5.png)
+![Fliken Layout periodsaldon.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_5501f66b.png)
+![Tidrapportens kolumn Periodinformation visar de saldon som ställts in.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_93396dc3.png)
 Layout periodsammanställning
 Dessa saldon syns i sammanställningen längst ner i tidrapportens periodvyer.
 I exemplet nedan visar vi schematid, närvaro, frånvaro och summa registrerad tid.
-![Fliken Layout periodsammanställning.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_03250f7e.png)
-![Tidrapportens periodsammanställning, längst ner på månadsvyn.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_7acb14f9.png)
+![Fliken Layout periodsammanställning.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_325da925.png)
+![Tidrapportens periodsammanställning, längst ner på månadsvyn.](images/hur-staller-man-in-visning-av-saldon-i-tidrapporten-och-stamplingsterminaler_481e64eb.png)
 Hur påverkar tidgruppsbyten saldovisningen?
 Om en anställd ser olika saldon i sin tidrapport i olika perioder måste han ha gjort ett tidgruppsbyte. Man kan inte ställa in visningen på annat än tidgruppsnivå.
 Byter man tidgrupp mitt i en period visar periodsaldon och periodsammanställning utifrån layoutinställningen för den tidgrupp man har periodens första dag. Om man inte är anställd periodens första dag, eller inte är tilldelad någon tidgrupp då, går den på den första dagen i perioden som man är anställd/har en tidgrupp

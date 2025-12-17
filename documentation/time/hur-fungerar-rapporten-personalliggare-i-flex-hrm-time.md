@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, ob  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/rapport-personalliggare-hrm-time
+**URL:** https://knowledge.flexhrm.com/rapport-personalliggare-hrm-time
 
 ---
 
@@ -15,7 +15,7 @@ Denna artikel beskriver standardrapporten Personalliggare i Flex HRM Time
 Rapporten
 Personalliggare
 är en standardrapport i HRM Employee.
-![Bild](images/hur-fungerar-rapporten-personalliggare-i-flex-hrm-time_0a9753dd.png)
+![Bild](images/hur-fungerar-rapporten-personalliggare-i-flex-hrm-time_bf465d31.png)
 Personalliggaren är skapad för företag inom restaurang-, frisör- och tvätteribranschen som enligt lag måste föra personalliggare, d.v.s. anteckna vilka som är verksamma och när. Denna rapport uppfyller Skatteverkets krav och kan enkelt skrivas ut om Skatteverket kommer och gör kontroll.
 Det innebär att denna rapport
 visar alla instämplade personer

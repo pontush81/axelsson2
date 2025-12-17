@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** schema  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/begrepp-i-hrm-plan-vad-betyder-de-olika-begreppen-i-hrm-plan
+**URL:** https://knowledge.flexhrm.com/begrepp-i-hrm-plan-vad-betyder-de-olika-begreppen-i-hrm-plan
 
 ---
 

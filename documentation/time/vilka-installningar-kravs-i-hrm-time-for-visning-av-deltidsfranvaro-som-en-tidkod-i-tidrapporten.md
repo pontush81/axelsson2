@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, hrm-time, lön, ob, schema, tidkod, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-i-hrm-time-f%C3%B6r-visning-av-deltidsfr%C3%A5nvaro-som-en-tidkod-i-tidrapporten
+**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-i-hrm-time-f%C3%B6r-visning-av-deltidsfr%C3%A5nvaro-som-en-tidkod-i-tidrapporten
 
 ---
 
@@ -16,15 +16,15 @@ Så här aktiverar du visningen:
 Skapa en ny tidkod endast för visning i tidrapporten:
 Kopiera din befintliga tidkod för deltidsfrånvaro.
 På den nya tidkoden, ta bort kopplingen till löneart under fliken ”Överföring till lön” (så ingen överföring sker till lönesystemet).
-![Bild](images/vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten_08b21188.png)
+![Bild](images/vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten_2f8c88d2.png)
 Ange tidkod för deltidsfrånvaro i tidrapporten:
 Gå in på aktuell frånvaroorsak.
 Ange den nya tidkoden under ”Tidkod för deltidsfrånvaro i tidrapporten”.
-![Bild](images/vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten_350702c3.png)
+![Bild](images/vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten_20832508.png)
 Resultat i tidrapporten:
 Deltidsfrånvaron kommer nu visas som en egen rad i månadsvyn.
 Vid fast procent (samma frånvaro varje dag) redovisas frånvaron tydligt.
-![Bild](images/vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten_18e751aa.png)
+![Bild](images/vilka-installningar-kravs-i-hrm-time-for-visning-av-deltidsfranvaro-som-en-tidkod-i-tidrapporten_8d35575e.png)
 Vid intermittent schema visas frånvaron per aktuella dagar, men det finns begränsningar (se nedan).
 Viktiga begränsningar vid intermittenta scheman
 Vissa kombinationer mellan deltidsfrånvaro och intermittent arbetstid kan inte hanteras fullt ut:

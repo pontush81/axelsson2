@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, cv, dokument, hrm-employee, kurs, signering  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/sa-har-fungerar-dokumentkategorier-0
+**URL:** https://knowledge.flexhrm.com/sa-har-fungerar-dokumentkategorier-0
 
 ---
 
@@ -34,7 +34,7 @@ Vilka användarroller som får hämta ut HR-blanketter från en viss kategori.
 Du hanterar dokumentkategorierna via menyn
 Administration > Inställningar > Personal > Dokumentkategorier
 .
-![Bild](images/hur-fungerar-dokumentkategorier-i-hrm-employee_4d4f33dc.png)
+![Bild](images/hur-fungerar-dokumentkategorier-i-hrm-employee_40fc3f1d.png)
 Skapa dina kategorier
 Skapa de dokumentkategorier som behövs för ditt företag genom att klicka på
 Ny.
@@ -46,13 +46,13 @@ Ställ in så att rollen som ska se anställdas dokument har läsbehörighet til
 Dokument.
 Nedan exempel visar rollen
 Chef.
-![Bild](images/hur-fungerar-dokumentkategorier-i-hrm-employee_321c2d56.png)
+![Bild](images/hur-fungerar-dokumentkategorier-i-hrm-employee_c4961cb5.png)
 Ställ sedan in vilka dokumentkategorier som rollen ska få Full behörighet (Aktiverad) alternativt Läsbehörighet till. Det gör du under rollens inställningar
 Menyer> Företagsknutna.
 Välj aktuellt företag och ställ in. Läsbehörighet räcker om användarrollen endast ska kunna se och ladda ned dokument för den specifika kategorin.
 I nedan exempel har chef behörighet att fullt administrera dokument för kategorierna CV, Kursintyg/Certifikat samt Tjänstgöringsintyg/betyg.
 Chefen kan läsa dokumenten för; Anställning och Överenskommelser. Men ingen behörighet till att se dokument för kategorierna; IT, Lön och Rekvisition.
-![Bild](images/hur-fungerar-dokumentkategorier-i-hrm-employee_82b2eedb.png)
+![Bild](images/hur-fungerar-dokumentkategorier-i-hrm-employee_4440b681.png)
 Vad innebär "Visa alla dokumentkategorier"?
 Observera att det på rollerna finns en funktion som heter "Visa alla dokumentkategorier".
 Aktiverar du denna så får du samma behörighet till alla dokumentkategorier. I personal får denna samma behörighet som menyn
@@ -60,7 +60,7 @@ Dokument
 . Samt att behörigheten gäller både dokument på dokumentfliken samt uttag av HR-blanketter. I översiktsvyn för e-signering får denna samma behörighet som
 E-signering
 . Kan kombineras med inställningar på fliken företagsknutna, där högsta behörighet gäller.
-![Bild](images/hur-fungerar-dokumentkategorier-i-hrm-employee_6f12ef26.png)
+![Bild](images/hur-fungerar-dokumentkategorier-i-hrm-employee_8c207930.png)
 Vår generella rekommendation
 är att lägga Läsbehörighet på menyn
 Dokument

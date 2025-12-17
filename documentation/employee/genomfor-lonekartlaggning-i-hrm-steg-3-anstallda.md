@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/genomfor-lonekartlaggning-i-hrm-anstallda-0
+**URL:** https://knowledge.flexhrm.com/genomfor-lonekartlaggning-i-hrm-anstallda-0
 
 ---
 
@@ -15,10 +15,10 @@ Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg fö
 
 Här går vi igenom vyn Anställda.
 Anställda
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_93a05898.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_3eb7d3aa.png)
 Syftet med denna vy är att få en överblick av samtliga anställdas löner mm. för att se till att allt är korrekt innan analysarbetet startar.
 I de fall information om Heltidslön, Arbete eller Kön saknas på anställd varnar systemet dig och du kommer inte vidare. Åtgärda detta för berörda anställda och beräkna sedan om lönekartläggningen.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_4f855152.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_47b7a4bb.png)
 Redigera – Lägg till/Ta bort anställd
 Längst till vänster i menyn finns
 Redigera
@@ -43,13 +43,13 @@ Markera ej persistenta fält
 så blir vissa kolumner färgmarkerade. Dessa kolumner har dynamiska värden d.v.s. de visar datumstyrd data enligt datum angivet på lönekartläggningen. T.ex. om du visar Kostnadsställe och skulle ändra det historiskt på en anställd så skulle även kostnadsstället i lönekartläggningen ändra värde. Du hittar markeringen under
 Mer
 .
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_a52f4c4f.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_c203e7d8.png)
 Historisk lön
 En historisk lön (kan även benämnas Avvikande lön) kan förekomma när du t.ex. behåller en chefslön utan att vara chef längre. I en lönekartläggning kan det vara saklig grund för en löneskillnad.
 För att markera en anställds lön som historisk kan du markera det med en klocka på berörd eller berörda lönerader.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_e526e814.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_8a908a6a.png)
 Dessa syns då på den anställde i lönekartläggningen.
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_1374be26.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_89dbc876.png)
 När du kontrollerat alla anställda kan du klarmarkera vyn genom att klicka på Status högst upp i menyfältet och välja
 Klarmarkera.
 Du kan nu gå vidare för att göra

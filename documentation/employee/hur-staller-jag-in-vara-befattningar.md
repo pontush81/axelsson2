@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/hur-stalla-in-befattningar-0
+**URL:** https://knowledge.flexhrm.com/hur-stalla-in-befattningar-0
 
 ---
 
@@ -19,7 +19,7 @@ och välj
 Befattningar
 från menyn.
 Du får då upp följande vy:
-![Bild](images/hur-staller-jag-in-vara-befattningar_8305e8a1.png)
+![Bild](images/hur-staller-jag-in-vara-befattningar_279bd016.png)
 I listan till vänster visas de befattningar som finns upplagda. Till höger anges/visas uppgifter om respektive befattning.
 Klicka på
 Ny

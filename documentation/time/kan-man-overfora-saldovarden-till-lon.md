@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, saldo, tidrapport  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/kan-man-%C3%B6verf%C3%B6ra-saldov%C3%A4rden-till-l%C3%B6n
+**URL:** https://knowledge.flexhrm.com/kan-man-%C3%B6verf%C3%B6ra-saldov%C3%A4rden-till-l%C3%B6n
 
 ---
 

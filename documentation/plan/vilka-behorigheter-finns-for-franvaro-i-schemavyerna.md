@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** schema  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/vilka-beh%C3%B6righeter-finns-f%C3%B6r-fr%C3%A5nvaro-i-schemavyerna
+**URL:** https://knowledge.flexhrm.com/vilka-beh%C3%B6righeter-finns-f%C3%B6r-fr%C3%A5nvaro-i-schemavyerna
 
 ---
 
@@ -18,7 +18,7 @@ Schema
 och
 Arbetspass
 .
-![undefined-Nov-13-2025-12-18-14-8331-PM](images/vilka-behorigheter-finns-for-franvaro-i-schemavyerna_40e51d06.png)
+![undefined-Nov-13-2025-12-18-14-8331-PM](images/vilka-behorigheter-finns-for-franvaro-i-schemavyerna_fe76a55b.png)
 Behörigheten för att hantera frånvaro hittar du i rollträdet under noden
 Tid
 .
@@ -28,7 +28,7 @@ Visa ansökt frånvaro
 . Den hittar du under noden
 Bemanning
 .
-![Bild](images/vilka-behorigheter-finns-for-franvaro-i-schemavyerna_c9f146b6.png)
+![Bild](images/vilka-behorigheter-finns-for-franvaro-i-schemavyerna_09aae223.png)
 Visa frånvaroorsak oavsett begränsning
 Under noden
 Bemanning
@@ -45,4 +45,4 @@ Frånvaro
 för de frånvaroorsaker som har inställningen
 Begränsa visning av frånvaroorsak
 aktiv.
-![Bild](images/vilka-behorigheter-finns-for-franvaro-i-schemavyerna_df9f35dc.png)
+![Bild](images/vilka-behorigheter-finns-for-franvaro-i-schemavyerna_daacceae.png)

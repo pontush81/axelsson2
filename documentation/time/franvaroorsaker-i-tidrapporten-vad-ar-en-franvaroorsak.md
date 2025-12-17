@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** frånvaro, lön, ob, saldo, schema, semester, stämpling, tidkod  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/fr%C3%A5nvaroorsaker-i-tidrapporten-vad-%C3%A4r-en-fr%C3%A5nvaroorsak
+**URL:** https://knowledge.flexhrm.com/fr%C3%A5nvaroorsaker-i-tidrapporten-vad-%C3%A4r-en-fr%C3%A5nvaroorsak
 
 ---
 
@@ -22,9 +22,9 @@ Under  fliken
 Allmänt
 anger du namn och väljer vilken frånvarotyp frånvaroorsaken avser.
 För frånvarotyp Föräldraledighet får du också välja om barn ska anges vid frånvaro, och hur barnet ska anges (födelsedatum, personnummer, identifikationsnummer).
-![Bilden visar inställningen för Frånvaroorsaker, fliken Allmänt.](images/franvaroorsaker-i-tidrapporten-vad-ar-en-franvaroorsak_bbf6ece4.png)
+![Bilden visar inställningen för Frånvaroorsaker, fliken Allmänt.](images/franvaroorsaker-i-tidrapporten-vad-ar-en-franvaroorsak_f1c4b2b0.png)
 Frånvaroorsaker, fliken Tid
-![Bild](images/franvaroorsaker-i-tidrapporten-vad-ar-en-franvaroorsak_77743a29.png)
+![Bild](images/franvaroorsaker-i-tidrapporten-vad-ar-en-franvaroorsak_4517cf49.png)
 I
 d
 enna flik ställer man in följande inställningar:

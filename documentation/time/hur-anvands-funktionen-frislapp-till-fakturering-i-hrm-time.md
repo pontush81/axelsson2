@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, schema, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-hrm-time
 
 ---
 
@@ -44,7 +44,7 @@ Antal rader
 “Antal rader” är antalet rader enligt fakturaunderlaget
 Antal godkända rader
 Här kan du se hur många rader från ett visst frisläpp som blivit godkända (visas endast om den funktionen används). Du kan även se hur många rader som blivit exporterade.
-![Bild](images/hur-anvands-funktionen-frislapp-till-fakturering-i-hrm-time_458c2894.png)
+![Bild](images/hur-anvands-funktionen-frislapp-till-fakturering-i-hrm-time_267a57e4.png)
 Antal exporterade rader
 Om du inte exporterar fakturaunderlaget till något ekonomisystem utan istället skriver ut fakturaunderlaget för att manuellt lägga in det i ekonomisystemet finns det möjlighet att ställa in så att utskrivna rader i fakturaunderlaget ses som exporterade för att kunna nyttja funktionaliteten ovan.
 Signatur

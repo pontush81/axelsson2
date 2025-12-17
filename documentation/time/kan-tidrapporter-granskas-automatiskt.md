@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, frånvaro, lön, ob, saldo, schema, tidrapport  
 **Bilder:** 8  
-**URL:** https://knowledge.flexapplications.se/kan-tidrapporter-granskas-automatiskt
+**URL:** https://knowledge.flexhrm.com/kan-tidrapporter-granskas-automatiskt
 
 ---
 
@@ -27,7 +27,7 @@ Administration > Inställningar > Import/export > Schemalagda körningar
 finns en körning som heter
 Automatisk granskning av tidrapporter.
 Där väljer du vilken granskningsnivå det gäller, när den ska köras och hur långt bakåt i tiden den ska köra.
-![Bild](images/kan-tidrapporter-granskas-automatiskt_e22113e5.png)
+![Bild](images/kan-tidrapporter-granskas-automatiskt_1b09b528.png)
 Tips!
 Info-ikonen hjälper dig att schemalägga körningen. Klicka på den för att få mer detaljerad information om hur körningen kommer att göras.
 ![Bild](images/kan-tidrapporter-granskas-automatiskt_af9a4e43.jpg)
@@ -56,12 +56,12 @@ I de fall granskningsnivån är inställd på att granskas per tidrad (ofta kall
 I menyn i
 Schemalagda körningar
 finns en logg där du kan söka fram vad som blivit granskat automatiskt.
-![Bild](images/kan-tidrapporter-granskas-automatiskt_7c2e080c.png)
+![Bild](images/kan-tidrapporter-granskas-automatiskt_23e83ebf.png)
 Signaturen (AUTO) visas i tidrapporten när granskningen inte gjorts av en användare utan genom denna automatiska granskning.
 ![Bild](images/kan-tidrapporter-granskas-automatiskt_67a8afb1.jpg)
 Exempel
 Den schemalagda körningen på bilden är inställd på att dag 1 varje månad kontrollera föregående månad och klarmarkera de dagar som saknar schematid och där det inte finns någon registrerad närvaro.
-![Bild](images/kan-tidrapporter-granskas-automatiskt_c31fcfbb.png)
+![Bild](images/kan-tidrapporter-granskas-automatiskt_2f3b8006.png)
 När körningen görs 1 augusti klarmarkeras 5 och 6 juli som är lediga dagar. 12 och 13 juli klarmarkeras inte. De är också lediga dagar, men har registrerad närvaro.
 ![Bild](images/kan-tidrapporter-granskas-automatiskt_f6ff5cd7.jpg)
 Observera

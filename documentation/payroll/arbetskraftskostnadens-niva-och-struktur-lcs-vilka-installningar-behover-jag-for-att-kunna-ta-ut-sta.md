@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-lcs-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-lcs-i-hrm-payroll
 
 ---
 
@@ -18,7 +18,7 @@ Löneartsinställningar
 För att kunna summera antal arbetade och avlönade timmar behöver du ange för olika lönearter vad de avser. Detta styrs med hjälp av dessa kryssrutor som du hittar på fliken
 Lön
 i löneartsregistret:
-![Bild](images/arbetskraftskostnadens-niva-och-struktur-lcs-vilka-installningar-behover-jag-for-att-kunna-ta-ut-sta_51572288.png)
+![Bild](images/arbetskraftskostnadens-niva-och-struktur-lcs-vilka-installningar-behover-jag-for-att-kunna-ta-ut-sta_7b8f487d.png)
 Följande gäller för respektive kryssruta:
 Faktisk arbetad tid
 Används för summering av antal arbetade timmar. Läs instruktionen från SCB för mer information om vad som ska ingå. Observera att övertid och jourtid ska ingå här.

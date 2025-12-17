@@ -7,15 +7,15 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** behörighet  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/hur-hittar-jag-l%C3%A4ttast-r%C3%A4tt-menyer-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/hur-hittar-jag-l%C3%A4ttast-r%C3%A4tt-menyer-i-flex-hrm
 
 ---
 
 Tips på hur du snabbt och smidigt hittar rätt menyer i Flex HRM.
 Använd sökfunktionen
 Det snabbaste sättet att hitta det du letar efter är att använda sökfunktionen, som alltid syns högst upp i programmet. Du behöver inte skriva hela namnet på sidan du söker. Det räcker att du skriver en del av ordet/orden, för att få upp relevanta sökresultat.
-![Bild](images/hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm_1c5944d2.png)
-![Bild](images/hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm_33c0a71a.png)
+![Bild](images/hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm_54dc8cc1.png)
+![Bild](images/hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm_9b8f18b6.png)
 K
 l
 ic
@@ -35,7 +35,7 @@ tre strecken
 längst upp till vänster på sidan.
 Infälld:
 Du ser endast ikonerna. Håll muspekaren över en ikon för att se namnet på menyn.
-![Bild](images/hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm_42ba55e0.png)
+![Bild](images/hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm_56e5562b.png)
 Utfälld:
 Du ser både ikonerna och namnen på menyerna.
-![Bild](images/hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm_ad21982c.png)
+![Bild](images/hur-hittar-jag-lattast-ratt-menyer-i-flex-hrm_aeb86a59.png)

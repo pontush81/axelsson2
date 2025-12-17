@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, lön, ob, saldo, schema, semester, stämpling, tidkod  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/saldon-hur-anpassar-och-visar-man-saldon
+**URL:** https://knowledge.flexhrm.com/saldon-hur-anpassar-och-visar-man-saldon
 
 ---
 
@@ -15,7 +15,7 @@ Den här artikeln förklarar hur man definierar olika saldon i systemet, som nä
 Här berättar vi om hur man skapar och ställer in saldon. Vill du veta mer om hur man anger vilka saldon som ska visas i tidrapporten, och hur de ska visas, rekommenderar vi denna artikel:
 Hur ställer man in visning av saldon i tidrapporten och stämplingsterminaler?
 Definiera saldon
-![Definiera saldon.](images/hur-staller-man-in-saldon_55104ea7.png)
+![Definiera saldon.](images/hur-staller-man-in-saldon_ed965602.png)
 Under
 Definiera saldon
 skapar du saldon och ställer in följande inställningar:

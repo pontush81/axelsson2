@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/formelfunktioner
+**URL:** https://knowledge.flexhrm.com/formelfunktioner
 
 ---
 

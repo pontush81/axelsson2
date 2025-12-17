@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, pension  
 **Bilder:** 14  
-**URL:** https://knowledge.flexapplications.se/hur-genomf%C3%B6r-man-rapportering-till-collectum-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/hur-genomf%C3%B6r-man-rapportering-till-collectum-i-flex-hrm-payroll
 
 ---
 
@@ -27,15 +27,15 @@ Skapa underlag
 Första steget i rapporteringen är att skapa ett underlag för månadens rapportering. Detta gör du genom att klicka på knappen
 Ny
 i knappraden.
-![Bild](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_df67f65c.png)
+![Bild](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_e23e2b6a.png)
 Du väljer här Rapportering till Collectum samt datumen för den månad du vill rapportera löneunderlag för. Du kan också välja att göra urval på anställda om du skulle vilja.
-![Bild visar popup-ruta för skapande av nytt underlag för Collectum med alla de urval man kan göra.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_33404fc9.png)
+![Bild visar popup-ruta för skapande av nytt underlag för Collectum med alla de urval man kan göra.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_1e41a418.png)
 När du klickar på knappen
 Skapa
 påbörjas arbetet med att skapa underlag. När underlaget är skapat ser du underlaget med statusen satt som
 Preliminär
 i vyn.
-![Bilden visar översikten av ett skapat underlag för Collectum.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_479d9110.png)
+![Bilden visar översikten av ett skapat underlag för Collectum.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_b8b5d4b9.png)
 Komplettera och ta bort underlag
 Om du hittat ett fel i underlaget kan du beräkna om underlaget för alla eller ett urval av anställda genom att klicka på knappen
 Komplettera
@@ -44,22 +44,22 @@ Du kan också ta bort ett underlag om du vill börja om från början eller inte
 Kontrollera underlaget
 Nästa steg är att kontrollera underlaget innan du skickar in uppgifterna till Collectum. Detta gör du genom att granska underlaget i vyn.
 Överst i vyn väljer du vilken rapportering (om du har fler än Collectum) samt vilken redovisningsperiod du vill titta på. Tidigare redovisningar finns kvar och är enkelt tillgängliga.
-![Bilden visar val av rapportering samt val av redovisningsperiod.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_cb40b5c3.png)
+![Bilden visar val av rapportering samt val av redovisningsperiod.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_c147fbb1.png)
 I översikten visas allt underlag som sammanställts och som kommer med i filen till Collectum. Listan är uppdelad per händelsetyp (nyanmälan, avanmälan och anmälan lön).
-![Bilden visar översikten av underlaget till Collectum.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_b17e900d.png)
+![Bilden visar översikten av underlaget till Collectum.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_e1c717a3.png)
 Ovanför översikten finns ett sökfält där du kan söka på olika uppgifter, såsom namn, personnummer, och rapporterad lön.
-![Bilden visar sökfältet ovanför översikten.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_fc0fc313.png)
+![Bilden visar sökfältet ovanför översikten.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_0445ccb9.png)
 När underlaget är granskat markerar du underlaget som kontrollerat genom att klicka på knappen för detta i knappraden.
-![Bilden visar knappen "Markera som kontrollerad".](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_cbdad67a.png)
+![Bilden visar knappen "Markera som kontrollerad".](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_61e9d78c.png)
 Statusen på underlaget ändras då till
 Kontrollerad
 , vilket innebär att underlaget nu är låst för ändringar.  Datum, tid samt signatur för användaren som markerade underlaget som kontrollerat sparas ner på underlaget.
-![Bilden visar fälten för Status, Datum och tid samt Signatur.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_6d15225b.png)
+![Bilden visar fälten för Status, Datum och tid samt Signatur.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_bf00f210.png)
 Om du hittar ett fel i ett kontrollerat underlag, kan du ta bort
-![Bilden visar knappen för "Ta bort kontrollmarkering". ](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_918bdf9d.png)
+![Bilden visar knappen för "Ta bort kontrollmarkering". ](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_d040b581.png)
 kontrollmarkeringen igen. Då sätts statusen om till Preliminär, och du kan nu komplettera underlaget igen. När du därefter markerar underlaget som kontrollerat igen sätts en ny tidpunkt när underlaget blev kontrollerat för att du ska kunna se om filen som skickats in till Collectum är skapad från det senast uppdaterade underlaget.
 Skapa fil för rapportering
-![Bilden visar knappen "Skapa fil".](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_9cb4fb82.png)
+![Bilden visar knappen "Skapa fil".](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_75ef58e4.png)
 När underlaget är markerat som kontrollerat kan du skapa filen för redovisning till Collectum. Detta gör du med knappen för
 Skapa fil
 i knappraden.
@@ -73,15 +73,15 @@ Test
 Här har du även möjlighet att välja vilken
 Typ av ITP
 som ska tas med i filen; du kan välja både ITP1 och ITP2, eller endast en av dem, beroende på vilka avtal som är aktuella inom företaget. Detta ger flexibilitet att anpassa rapporteringen efter din organisations specifika pensionslösningar och säkerställer korrekt information i rapporteringen till Collectum.
-![Bilden visar dialogrutan för att skapa fil.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_085be1b2.png)
+![Bilden visar dialogrutan för att skapa fil.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_ba6319cf.png)
 När filen är skapad visas information om detta högst upp på sidan. Om något fel upptäckts när filen skapades visas information om det. Du kan se mer detaljer om vad som är fel genom att öppna loggfilen. Exempel på fel är om personnummer saknas för en anställd. Du kan välja att ladda ner filen för rapportering genom att klicka på länken enligt bilden nedan.
-![Bilden visar notiser med information om status samt resultatet av bearbetningen.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_e095140b.png)
+![Bilden visar notiser med information om status samt resultatet av bearbetningen.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_f0f61f23.png)
 Du kan också se och hämta filen för rapportering samt felloggar genom att klicka på knappen
 Visa filer
 i knappraden.
-![Bilden visar knappen "Visa filer".](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_4488b36f.png)
+![Bilden visar knappen "Visa filer".](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_0b066c6d.png)
 Här finns filen kvar till dess att du väljer att ta bort den från listan. Filerna visas för det underlag du står på i vyn.
-![Bilden visar dialogrutan för skapade filer för underlaget.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_cea2c4f9.png)
+![Bilden visar dialogrutan för skapade filer för underlaget.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_ef5fe2f3.png)
 Skicka in filen till Collectum
 När filen är skapad i Flex HRM laddar du ner den enligt ovan och skickar in den till Collectum. Detta gör du genom att logga in på Collectums hemsida och där följa instruktionerna för rapportering via fil.
 Relaterade artiklar:

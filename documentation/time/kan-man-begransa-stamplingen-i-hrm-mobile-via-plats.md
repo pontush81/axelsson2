@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, stämpling, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/kan-man-begr%C3%A4nsa-st%C3%A4mplingen-i-hrm-mobile-via-plats-
+**URL:** https://knowledge.flexhrm.com/kan-man-begr%C3%A4nsa-st%C3%A4mplingen-i-hrm-mobile-via-plats-
 
 ---
 
@@ -28,7 +28,7 @@ Ställa in Platser
 Under
 Inställningar > Tid och Bemanning > Platser
 kan du skapa ett register över platser. Du kan använda kartnålen på kartan för att markera platsen, eller skriva in en adress i kartans sökruta.
-![Inställning platsregister. Karta med kartnål och sökruta.](images/kan-man-begransa-stamplingen-i-hrm-mobile-via-plats_5c1c6396.png)
+![Inställning platsregister. Karta med kartnål och sökruta.](images/kan-man-begransa-stamplingen-i-hrm-mobile-via-plats_259dee82.png)
 Ställ in en stämplingsradie för att fånga upp stämplingar i närheten av platsen. Under
 Inställningar > Tid och Bemanning > Tidrapporter
 ställer du in ett standardvärde för stämplingsradie, som används om du inte anger ett avvikande värde för en specifik plats.

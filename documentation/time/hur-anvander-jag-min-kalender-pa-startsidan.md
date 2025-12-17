@@ -7,12 +7,12 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/hur-anv%C3%A4nder-jag-min-kalender-p%C3%A5-startsidan
+**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nder-jag-min-kalender-p%C3%A5-startsidan
 
 ---
 
 På startsidan ser du en panel som heter Min kalender. Här får du en snabb överblick över din arbetstid och eventuell frånvaro.
-![Bild](images/hur-anvander-jag-min-kalender-pa-startsidan_9f93d37a.png)
+![Bild](images/hur-anvander-jag-min-kalender-pa-startsidan_11e60a3b.png)
 Se detaljer i kalendern
 Du kan klicka på en dag för att se mer information i en tooltip. Detaljerna som visas beror på hur du rapporterar tid i systemet:
 Om du dagredovisar

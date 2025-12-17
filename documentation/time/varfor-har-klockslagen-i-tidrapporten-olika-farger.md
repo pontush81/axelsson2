@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema, stämpling, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/varf%C3%B6r-har-klockslagen-i-tidrapporten-olika-f%C3%A4rger
+**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-har-klockslagen-i-tidrapporten-olika-f%C3%A4rger
 
 ---
 

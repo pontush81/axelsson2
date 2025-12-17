@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, stämpling  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/kan-man-skicka-meddelanden-i-st%C3%A4mpelklockan
+**URL:** https://knowledge.flexhrm.com/kan-man-skicka-meddelanden-i-st%C3%A4mpelklockan
 
 ---
 
@@ -19,6 +19,6 @@ Under
 Systemregister > Stämpelklockor > Meddelanden
 kan du ändra välkomsttexten som visas när HRM Timeclock är inaktiv (när ingen stämplar). Standardtexten om du inte ändrar är ”Välkommen till HRM Timeclock”.
 Du kan även lägga in andra meddelanden samt tidsbestämma när de ska visas.
-![Inställning Meddelanden.](images/kan-man-skicka-meddelanden-i-stampelklockan_f2f6a069.png)
+![Inställning Meddelanden.](images/kan-man-skicka-meddelanden-i-stampelklockan_ff5cea51.png)
 Välkomsttext och meddelanden kommer att visas till höger i HRM Timeclock.
-![Välkomsttext och meddelande visas i stämplingsterminalen.](images/kan-man-skicka-meddelanden-i-stampelklockan_1e25fba8.png)
+![Välkomsttext och meddelande visas i stämplingsterminalen.](images/kan-man-skicka-meddelanden-i-stampelklockan_7d656125.png)

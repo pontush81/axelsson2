@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** cv, dokument, hrm-employee, medarbetarsamtal, signering  
 **Bilder:** 27  
-**URL:** https://knowledge.flexapplications.se/exempel-egna-falt-i-hrm-employee-0-0
+**URL:** https://knowledge.flexhrm.com/exempel-egna-falt-i-hrm-employee-0-0
 
 ---
 
@@ -28,7 +28,7 @@ Valbart med datumhistorik
 Du kan välja om fältens värden i en
 fältgrupp
 ska kunna sparas med eller utan datumhistorik. Detta val gör man när du skapar fältgruppen första gången och kan därefter inte ändras.
-![Bild](images/exempel-pa-egna-falt-i-hrm-employee_6f7ab78c.png)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_d8e98fbc.png)
 Fält med
 datumhistorik
 används för att kunna ha en datumstyrning för ett värde samt få en historik på värdets förändring. Detta är användbart för till exempel lönetillägg och olika förmåner.
@@ -61,7 +61,7 @@ sidinnehåll
 genom att skapa en rad i listan, ge den ett namn som du vill ska användas i anställdaregistret samt välja typen
 Medarbetarsamtal
 . Här är ett exempel på hur det kan se ut:
-![Bild](images/exempel-pa-egna-falt-i-hrm-employee_e1652902.png)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_18c2e555.png)
 Förutom typen Medarbetarsamtal kan du välja typerna
 Formulärmall
 och
@@ -77,7 +77,7 @@ skapa mallar
 . Detta gör du genom att
 klicka på ikonen till höger i listan
 . I fönstret som öppnas skapar du de olika mallarna som innehåller de frågor som ska fyllas i under medarbetarsamtalet eller i formuläret.
-![Bild](images/exempel-pa-egna-falt-i-hrm-employee_bc14e385.png)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_3979ab46.png)
 ![Bild](images/exempel-pa-egna-falt-i-hrm-employee_16860248.jpg)
 Till vänster i bild listas de olika mallarna. För varje mall ska du sätta ett
 namn
@@ -124,7 +124,7 @@ För att sätta upp exemplet ovan, gör enligt bilderna nedan:
 ![Bild](images/exempel-pa-egna-falt-i-hrm-employee_df9959c5.jpg)
 ![Bild](images/exempel-pa-egna-falt-i-hrm-employee_1df8985a.jpg)
 Exempel: CV – Tabell
-![Bild](images/exempel-pa-egna-falt-i-hrm-employee_a55e9462.png)
+![Bild](images/exempel-pa-egna-falt-i-hrm-employee_c5a8fee7.png)
 ![Bild](images/exempel-pa-egna-falt-i-hrm-employee_b2db8204.jpg)
 ![Bild](images/exempel-pa-egna-falt-i-hrm-employee_d5999af5.jpg)
 ![Bild](images/exempel-pa-egna-falt-i-hrm-employee_026dc080.jpg)

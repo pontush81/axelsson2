@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, lön, schema, tidkod, tidrapport, övertid  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/varf%C3%B6r-har-jag-ospecad-tid-i-min-tidrapport
+**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-har-jag-ospecad-tid-i-min-tidrapport
 
 ---
 
@@ -24,7 +24,7 @@ men inte har markerat tiden mellan
 05:00–07:00
 som övertid, kommer dessa två timmar att visas som ospecificerad närvaro.
 Gör du en övertidsmarkering och det finns övertidsregler som täcker dessa två timmar kommer den ospecade tiden att försvinna, och det går bra att granska tidrapporten.
-![Bild](images/varfor-har-jag-ospecad-tid-i-min-tidrapport_6239a546.png)
+![Bild](images/varfor-har-jag-ospecad-tid-i-min-tidrapport_c98bd16d.png)
 Exempel på ospecificerad frånvaro
 Du är schemalagd mellan
 08:00–17:00
@@ -36,4 +36,4 @@ Om du stämplar ut redan klockan
 kommer tiden mellan
 15:50–16:00
 att bli ospecificerad frånvaro. För att uppfylla reglerna för ditt dagschema måste du specificera dessa tio minuter, till exempel med en frånvarotidkod.
-![Bild](images/varfor-har-jag-ospecad-tid-i-min-tidrapport_28015d83.png)
+![Bild](images/varfor-har-jag-ospecad-tid-i-min-tidrapport_466f88da.png)

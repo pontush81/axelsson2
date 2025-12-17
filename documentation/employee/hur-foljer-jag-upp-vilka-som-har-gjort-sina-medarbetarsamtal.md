@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** medarbetarsamtal  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/hur-folja-upp-medarbetarsamtal-0
+**URL:** https://knowledge.flexhrm.com/hur-folja-upp-medarbetarsamtal-0
 
 ---
 
@@ -19,10 +19,10 @@ Anställda
 och kopplingsbar datakälla
 Medarbetarsamtal.
 Lägg till önskade urval och visning i rapporten.
-![Bild](images/hur-foljer-jag-upp-vilka-som-har-gjort-sina-medarbetarsamtal_20226e13.png)
+![Bild](images/hur-foljer-jag-upp-vilka-som-har-gjort-sina-medarbetarsamtal_a1cec07f.png)
 Du kan få
 påminnelser
 på startsidan som visar vilka medarbetarsamtal som inte är skapade, delade och/eller signerade. På så sätt kan du följa upp vilka medarbetarsamtal som inte är färdigställda. Under inställningar för påminnelser heter denna typ av påminnelse
 Medarbetarsamtal.
-![Bild](images/hur-foljer-jag-upp-vilka-som-har-gjort-sina-medarbetarsamtal_468bd5f0.png)
-![Bild](images/hur-foljer-jag-upp-vilka-som-har-gjort-sina-medarbetarsamtal_8f2f77c4.png)
+![Bild](images/hur-foljer-jag-upp-vilka-som-har-gjort-sina-medarbetarsamtal_17ed64f1.png)
+![Bild](images/hur-foljer-jag-upp-vilka-som-har-gjort-sina-medarbetarsamtal_d64acc69.png)

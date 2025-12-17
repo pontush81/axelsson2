@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, lön, ob, schema, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/karensavdrag-hur-hanterar-man-karensavdrag-i-flex-hrm-time
+**URL:** https://knowledge.flexhrm.com/karensavdrag-hur-hanterar-man-karensavdrag-i-flex-hrm-time
 
 ---
 
@@ -28,9 +28,9 @@ Tidgrupper > Flik Tid
 ) eller anställd (
 Personal > Flik Tid
 ).
-![Tidigare inställning "Ge endast sjuk-ob" på dag 2-14 med en kryssruta.](images/hur-hanterar-man-karensavdrag-i-hrm-time_2c3deeb7.png)
+![Tidigare inställning "Ge endast sjuk-ob" på dag 2-14 med en kryssruta.](images/hur-hanterar-man-karensavdrag-i-hrm-time_a108a529.png)
 Inställningen är nu en dropdown med fyra alternativ.
-![Ny inställning "Dagar för sjuk-ob" med fyra alternativ.](images/hur-hanterar-man-karensavdrag-i-hrm-time_c7ddafbe.png)
+![Ny inställning "Dagar för sjuk-ob" med fyra alternativ.](images/hur-hanterar-man-karensavdrag-i-hrm-time_d12e79d7.png)
 Alla
 motsvarar att tidigare ha haft inställningen avmarkerad.
 Endast dag 2-14

@@ -7,25 +7,25 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-employee  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/rapport-personallista-hrm-employee-0
+**URL:** https://knowledge.flexhrm.com/rapport-personallista-hrm-employee-0
 
 ---
 
 Rapporten
 Personallistan
 är en standardrapport i HRM Employee.
-![Bild](images/hur-fungerar-rapporten-personallista-i-hrm-employee_4ff1a7bb.png)
+![Bild](images/hur-fungerar-rapporten-personallista-i-hrm-employee_be4a665f.png)
 Rapporten är behörighetsstyrd vilket innebär att du endast ser de anställda som du har behörighet till.
 När du skapar rapporten får du själv välja vilken information du önskar se.
 Välj
 Sortering/Gruppering
 Välj sedan valda kolumner under
 Visningsalternativ
-![Bild](images/hur-fungerar-rapporten-personallista-i-hrm-employee_116410fa.png)
+![Bild](images/hur-fungerar-rapporten-personallista-i-hrm-employee_7df950b3.png)
 Under
 Urval
 kan du ställa in vilka anställda, som du har behörighet till, som du önskar få med i rapporten.
-![Bild](images/hur-fungerar-rapporten-personallista-i-hrm-employee_fc3f636c.png)
+![Bild](images/hur-fungerar-rapporten-personallista-i-hrm-employee_5934348a.png)
 Observera
 att rapporten ger behörighet till många fält från anställdaregistret. Även om inställningen på rollen inte ger behörighet till ett specifikt fält, till exempel fältet månadslön, i anställdaregistret under
 Anställda

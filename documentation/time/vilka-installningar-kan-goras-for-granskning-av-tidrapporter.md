@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, frånvaro, lön, ob, saldo, semester, tidkod, tidrapport  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kan-g%C3%B6ras-f%C3%B6r-granskning-av-tidrapporter
+**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kan-g%C3%B6ras-f%C3%B6r-granskning-av-tidrapporter
 
 ---
 
@@ -37,7 +37,7 @@ Om du är behörig till vyn men inte till att attestera, kommer du inte att se a
 Granskning per tidrad kräver också behörighet att granska konteringar. Läs mer i denna artikel:
 Vilka inställningar krävs för delattestering av tidrader?
 Villkor och regler
-![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_f1cb7327.png)
+![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_24b9b271.png)
 På fliken
 Villkor och Regler
 kan du göra följande inställningar:
@@ -151,12 +151,12 @@ saldon
 och
 hemkonteringar
 med hjälp av de blå pilarna.
-![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_2007405c.png)
-![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_4cb6dcde.png)
-![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_20701e79.png)
+![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_fc6d2d3e.png)
+![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_d8cbfcad.png)
+![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_9d40d772.png)
 Observera:
 Vyer för granskning per
 Tidrad
 kan endast visa saldon, närvarotid, frånvarotid, fakturerbar tid och fakturerbart belopp.
-![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_73634a5e.png)
-![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_2cf951a8.png)
+![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_4fa81865.png)
+![Bild](images/vilka-installningar-kan-goras-for-granskning-av-tidrapporter_d67dfd06.png)

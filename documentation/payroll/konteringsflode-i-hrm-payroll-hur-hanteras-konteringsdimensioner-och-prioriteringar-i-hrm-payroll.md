@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart  
 **Bilder:** 11  
-**URL:** https://knowledge.flexapplications.se/konteringsfl%C3%B6de-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/konteringsfl%C3%B6de-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll
 
 ---
 
@@ -26,34 +26,34 @@ Konteringsdimensionsregistret
 För att få tillgång till en konteringsdimension i HRM Payroll måste kryssrutan ”Använd i löneberedningen” vara ikryssad under fliken Lön i konteringsdimensionsregistret som du hittar under
 Administration > Inställningar > Allmänt >Konteringsdimensioner
 .
-![Bild](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_a2318a74.png)
+![Bild](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_1a93d535.png)
 Personlig kontering
 I anställdaregistret, under
 Kontering
 , kan man skapa personliga konteringar. Hemkontering och kostnadsfördelning.
-![Bild](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_845672d7.png)
+![Bild](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_9c32d6dd.png)
 Löneartens kontering
 På lönearten kan konteringar skapas vilket då gäller för aktuell löneart.
-![Bild](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_19a209c2.png)
+![Bild](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_9dd367f2.png)
 Inställning för ”konteringsfyllnad (gäller ej konto)”
 Konteringsfördelning enligt lönekörningens huvudfördelning
 Innebär att konteringsfyllnad görs utifrån lönekörningens huvudfördelning. Detta sker enligt en
 prioriteringsordning
 vilket förklaras längre ned i denna artikel.
-![Bild visar markerad inställning för "Konteringsfördelning enligt lönekörningens huvudfördelning".](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_0535513b.png)
+![Bild visar markerad inställning för "Konteringsfördelning enligt lönekörningens huvudfördelning".](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_4a9bdd88.png)
 Kontering från den anställdes kostnadsfördelning
 Innebär att konteringsfyllnad görs utifrån den anställdes kostnadsfördelning i anställdaregistret, fliken K
 ontering
 .
-![Bild visar markerad inställning för "Kontering från den anställdes kostnadsfördelning".".](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_3f7f6c19.png)
+![Bild visar markerad inställning för "Kontering från den anställdes kostnadsfördelning".".](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_cec8a09d.png)
 Ingen konteringsfyllnad
 Innebär att ingen kontering kommer att läggas på denna löneart då kontering saknas.
-![Bild visar markerad inställning för "Ingen konteringsfyllnad".](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_c08bb33c.png)
+![Bild visar markerad inställning för "Ingen konteringsfyllnad".](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_39a77a31.png)
 Lönekörningens huvudfördelning
 Lönekörningen har en huvudfördelning för varje anställd i löneberedningen. Denna visas om du klickar på knappen
 Konteringsfördelning
 i löneberedningen.
-![Bilden visar en markerad knapp med en vågen-symbol.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_0f9144fb.png)
+![Bilden visar en markerad knapp med en vågen-symbol.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_0c9cec22.png)
 Huvudfördelningen skapas enligt följande:
 När lönekörningen skapas kommer kontering från personens kostnadsfördelning läggas ut.
 Om en löneart för Rapportering av konteringsfördelning har definierats under
@@ -82,12 +82,12 @@ Rapportering av konteringsfördelning
 Använd föreslagen kontering
 . Kryssrutan blir automatiskt markerad för nya transaktionsrader.
 När kryssrutan är markerad hämtas konteringarna på nytt utifrån den föreslagna konteringen vilket bestäms utifrån inställningen på lönearten.
-![Bilden visar en ruta som visar konteringsfördelningen på en aktuell rad. Där är inställningen "Använd föreslagen kontering" markerad.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_97595d57.png)
+![Bilden visar en ruta som visar konteringsfördelningen på en aktuell rad. Där är inställningen "Använd föreslagen kontering" markerad.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_d7adcc22.png)
 Avvikelsemarkering
 Avvikelsemarkeringen finns för att förstå vad som avviker från det normala.
 Transaktionsrader
 Om en transaktionsrad har en avvikande kontering avvikelsemarkeras radens konteringssymbol.
-![Bilden visar konteringssymbolen på en transaktionsrad i löneberedningen, där där symbolen ör gulmarkerad.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_3ca0b8a9.png)
+![Bilden visar konteringssymbolen på en transaktionsrad i löneberedningen, där där symbolen ör gulmarkerad.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_6f15d19e.png)
 Konteringsfördelningen på raden jämförs med konteringsfördelningen som gäller när raden läggs ut för första gången. Skulle det finnas en avvikelse markeras denna. Avvikelser kan komma av manuellt ändrad kontering eller importerad kontering på transaktioner.
 Huvudfördelning
 Huvudfördelningen avvikelsemarkeras endast om huvudfördelningens konteringsfyllnad sker utifrån personens kostnadsfördelning. Huvudfördelningen är avvikande om den avviker från
@@ -110,9 +110,9 @@ Pågående lönekörningar påverkas inte direkt. Sparas ändringar på en anst�
 Pågående lönekörningar påverkas inte direkt. Sparas ändringar på en anställd i löneberedningen kan dessa få genomslag på konteringen.
 Flödesschema
 Konteringsflöde för kontering utöver konto
-![Bild visar flödesschema för kontering utöver konto.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_097a8d70.png)
+![Bild visar flödesschema för kontering utöver konto.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_8584cf5e.png)
 Konteringsflöde för konto
-![Bild visar flödesschema för konto.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_68dfa54a.png)
+![Bild visar flödesschema för konto.](images/konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll_b6c983e8.png)
 Konteringsbyggnadsmodeller för transaktionskontering
 Manuellt angiven
 Manuellt angiven kontering

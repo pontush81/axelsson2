@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-ett-kundregister
+**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-ett-kundregister
 
 ---
 
@@ -29,7 +29,7 @@ Land
 Kontaktperson
 E-post
 Telefonnummer
-![Bild](images/vad-ar-ett-kundregister_77819332.png)
+![Bild](images/vad-ar-ett-kundregister_689390b5.png)
 Användning av kundregistret
 Kundregistret används ofta i samband med fakturering. Om det används för detta syfte har registret även en extra flik som heter
 Fakturering

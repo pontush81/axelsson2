@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 13  
-**URL:** https://knowledge.flexapplications.se/exempel-winningtemp-paneler-0
+**URL:** https://knowledge.flexhrm.com/exempel-winningtemp-paneler-0
 
 ---
 
@@ -16,34 +16,34 @@ Välj vilka paneler som ni vill visa i HRM. I panelens inställningar kan du vä
 Index
 Typ av fråga: Temperatur
 I Winningtemp
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_4755b342.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_e0f876e6.png)
 Panel i HRM
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_c91d4aa0.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_3e91c10e.png)
 Typ av fråga: ENPS
 I Winningtemp
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_37a70d24.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_26b5ee27.png)
 Panel i HRM
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_7fc90fb1.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_c252ec38.png)
 Kategori
 Typ av fråga: Temperatur
 I Winningtemp
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_384e4039.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_8e2b590d.png)
 Panel i HRM (mätare)
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_15a9d839.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_7d025849.png)
 Se temperaturen för en kategori de senaste 12 månaderna.
 Panel i HRM (graf)
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_6d9c761e.png)
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_72754f42.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_9130a98c.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_34255619.png)
 Fråga
 Typ av fråga: Temperatur
 I Winningtemp
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_cb4d3c1e.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_02c14995.png)
 Panel i HRM
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_bf2164cf.png)
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_eba14ef2.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_115eecdb.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_ad7bef97.png)
 Exempel på en dashboard för Winningtemp
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_8c24465e.png)
-![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_2677fa06.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_ef5b22b4.png)
+![Bild](images/exempel-pa-winningtemp-paneler-i-hrm-dashboard_768707fa.png)
 Relaterade artiklar
 Skapa Dashboard i HRM med Winningtemp-paneler
 Frågor och svar - Winningtemp & HRM

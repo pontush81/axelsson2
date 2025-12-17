@@ -7,12 +7,12 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm-0
+**URL:** https://knowledge.flexhrm.com/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm-0
 
 ---
 
 I artikeln hittar du information om hur gallring hanteras i HRM Employee.
-![Bild](images/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm_5f7bc97e.png)
+![Bild](images/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm_8c38aa2f.png)
 Under
 Personal> Anställda
 i HRM hittar du anställdaregister med personuppgifter och övriga anställningsuppgifter.
@@ -32,7 +32,7 @@ Bilagor
 . Här hittar du bilagan och väljer ikonen
 Ta bort bilaga
 .
-![Bild](images/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm_411493da.png)
+![Bild](images/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm_9a313753.png)
 Radering av personuppgifter - Inställningar
 Med denna funktion tas den anställdes uppgifter bort automatiskt efter att en anställning har avslutats. Detta sker via ett bakgrundsjobb strax före midnatt varje dygn.
 Borttaget sker för alla anställda som uppfyller följande kriterier.

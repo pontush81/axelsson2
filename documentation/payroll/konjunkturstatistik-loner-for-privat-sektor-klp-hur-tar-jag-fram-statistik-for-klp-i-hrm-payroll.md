@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, skatt  
 **Bilder:** 11  
-**URL:** https://knowledge.flexapplications.se/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-hur-tar-jag-fram-statistik-f%C3%B6r-klp-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-hur-tar-jag-fram-statistik-f%C3%B6r-klp-i-hrm-payroll
 
 ---
 
@@ -22,15 +22,15 @@ En gång per månad ska du som blivit utvald rapportera konjunkturstatistik öve
 Administration > Bearbetningar > Statistikrapportering > Konjunkturstatistik, löner för privat sektor (KLP).
 Skapa underlag
 Det första steget i rapporteringen är att skapa ett underlag för månadens rapportering. Detta gör du genom att klicka på knappen Ny i knappraden.
-![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_fde50996.png)
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_147f21ee.png)
 Du väljer här vilken månad du vill skapa rapporteringsunderlag för. Du kan också välja att göra urval på anställda om du skulle vilja.
-![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_29e408e8.png)
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_49c5fe7e.png)
 När du klickar på knappen
 Skapa
 påbörjas arbetet med att skapa underlag samt en fil för redovisning. När underlaget och filen är skapade ser du underlaget med statusen satt som
 Preliminär
 i vyn.
-![Bilden visar översikten  av ett underlag för statistik för KLP.](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_a4511939.png)
+![Bilden visar översikten  av ett underlag för statistik för KLP.](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_d85e9df5.png)
 Ta bort underlag
 Om du upptäcker ett fel i underlaget kan du enkelt ta bort det genom att klicka på
 Ta bort
@@ -38,29 +38,29 @@ Ta bort
 Kontrollera underlaget
 Nästa steg är att kontrollera underlaget innan du skickar in uppgifterna till SCB. Detta gör du genom att granska underlaget i vyn.
 Överst i vyn väljer du vilken redovisningsperiod du vill titta på. Tidigare redovisningar finns kvar och är enkelt tillgängliga.
-![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_3c267ddd.png)
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_44f7cbb9.png)
 I tabellen visas det underlag som sammanställts och som ska rapporteras till SCB. Tabellen är uppdelad i kolumner för timavlönade arbetare, månadsavlönade arbetare samt tjänstemän.
-![Bilden visar ett underlag för KLP där man ser tre kolumner för timavlönade arbetare, månadsavlönade arbetade och tjänstemän.](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_49087064.png)
+![Bilden visar ett underlag för KLP där man ser tre kolumner för timavlönade arbetare, månadsavlönade arbetade och tjänstemän.](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_cbe3d7e2.png)
 För att se alla detaljer om vilka uppgifter som summerats per anställd kan du exportera underlaget till Excel genom att klicka på knappen i knappraden.
-![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_dc6f561f.png)
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_b1d6328c.png)
 De anställda kommer delas upp i en flik per kategori motsvarande kolumnerna i tabellen. Detta är användbart för att felsöka eller bedöma rimligheten i uppgifterna.
 När underlaget är granskat markerar du underlaget som kontrollerat genom att klicka på knappen för
 Markera som kontrollerad
 i knappraden.
-![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_6b7b5cfe.png)
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_c7270773.png)
 Statusen på underlaget ändras då till
 Kontrollerad
 . Datum, tid samt signatur för användaren som markerade underlaget som kontrollerat sparas ner på underlaget.
-![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_2850c88a.png)
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_1ffe63dd.png)
 Om du hittar ett fel i ett kontrollerat underlag kan du ta bort kontrollmarkeringen igen, vilket gör att statusen återigen blir preliminär.
-![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_b1ae07e4.png)
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_57b6f302.png)
 Fil för redovisning
 Samtidigt som underlaget sammanställs skapas också en fil för redovisning. Filen kan användas som ett alternativ till att mata in siffrorna manuellt i SCB:s rapporteringstjänst. Du hämtar filen för rapportering genom att klicka på knappen
 Visa filer
 i knappraden.
-![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_f2c9c7b0.png)
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_e124bce6.png)
 Här finns filen kvar till dess att du väljer att ta bort underlaget.
-![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_3c2ef536.png)
+![Bild](images/konjunkturstatistik-loner-for-privat-sektor-klp-hur-tar-jag-fram-statistik-for-klp-i-hrm-payroll_4594dd94.png)
 Listan över filer innehåller en fil per redovisningsperiod, där den senaste ligger överst. Ladda ner filen genom att klicka på ikonen och skicka in den till SCB. Detta gör du genom att logga in på SCB:s hemsida och där följa instruktionerna för rapportering via fil.
 Fördjupad information om hur underlaget skapas och beräknas
 Nedan hittar du detaljerad information om hur underlaget skapas i systemet.

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** schema  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/kan-jag-se-i-schemavyn-n%C3%A4r-en-anst%C3%A4lld-%C3%A4r-tillg%C3%A4nglig-f%C3%B6r-arbetspass
+**URL:** https://knowledge.flexhrm.com/kan-jag-se-i-schemavyn-n%C3%A4r-en-anst%C3%A4lld-%C3%A4r-tillg%C3%A4nglig-f%C3%B6r-arbetspass
 
 ---
 
@@ -27,7 +27,7 @@ och
 Schema
 kan du välja att
 endast visa anställda som angett sig som tillgängliga.
-![Bild](images/kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass_2068393e.png)
+![Bild](images/kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass_4941f260.png)
 Visa tillgänglighet i schemavyn
 I Schemavyn kan du också välja att under
 Mer > Inställningar
@@ -36,11 +36,11 @@ Visa tillgänglighet (gäller ej månadsvyn).
 Observera att eftersom anställda kan ange tillgänglighet på delar av en dag så krävs det att inställningen ovanför (
 Visa alla arbetspass per dag
 ) är markerad för att du ska kunna visa tillgänglighet.
-![Bild](images/kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass_9b7009b2.png)
+![Bild](images/kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass_9558770b.png)
 När du markerar ett ledigt arbetspass kommer de anställda som har angivit att de är tillgängliga under passets tider att markeras med en streckad linje.
 Du kan också se tillgänglighet markerad med grön färg.
 På bilden nedan har anställd 2 angett sig som tillgänglig 24 och 25 november kl 17:00-20:00, hela 26 november, 27 november kl 10:00-18:00.
 När vi drar ett pass för 26 november kl 13:00-17:00 markeras anställd 2 med streckad linje, eftersom hon är tillgänglig och inte bemannad på något annat arbetspass.
-![Bild](images/kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass_59fc68f8.png)
+![Bild](images/kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass_348ca452.png)
 Relaterade artiklar
 Kan jag ange när jag är tillgänglig för arbetspass?

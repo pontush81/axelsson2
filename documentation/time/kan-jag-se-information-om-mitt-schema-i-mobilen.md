@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, schema, övertid  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/kan-jag-se-information-om-mitt-schema-i-mobilen
+**URL:** https://knowledge.flexhrm.com/kan-jag-se-information-om-mitt-schema-i-mobilen
 
 ---
 

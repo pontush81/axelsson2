@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/kom-igang-med-lonekartlaggning-i-hrm-0
+**URL:** https://knowledge.flexhrm.com/kom-igang-med-lonekartlaggning-i-hrm-0
 
 ---
 
@@ -21,7 +21,7 @@ Innan du skapar en lönekartläggning behöver du ställa in rätt behörighet f
 Det gör du under
 Användare/Behörigheter > Roller
 .
-![Bild](images/kom-igang-med-lonekartlaggning-i-hrm-forbered-hrm-for-din-forsta-lonekartlaggning_38cc455d.png)
+![Bild](images/kom-igang-med-lonekartlaggning-i-hrm-forbered-hrm-for-din-forsta-lonekartlaggning_542e9a4a.png)
 Observera
 att du ser
 alla anställda
@@ -41,7 +41,7 @@ De fält som ska visas i lönekartläggningen behöver aktiveras under
 Inställningar > Allmänt > Anställdaregistret > egna fält
 Leta upp de fält som är aktuella och kryssa i
 Visa i lönekartläggning.
-![Bild](images/kom-igang-med-lonekartlaggning-i-hrm-forbered-hrm-for-din-forsta-lonekartlaggning_210b08b1.png)
+![Bild](images/kom-igang-med-lonekartlaggning-i-hrm-forbered-hrm-for-din-forsta-lonekartlaggning_3441c68a.png)
 Har du inte alla fält i HRM så kan du behöva bygga upp nya fält.
 Här kan du läsa mer om egna flikar och fält i HRM.
 Förbered uppgifter på anställda

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** kalender, prenumeration, schema  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/vad-beh%C3%B6ver-jag-som-administrat%C3%B6r-st%C3%A4lla-in-i-hrm-f%C3%B6r-att-vi-ska-kunna-anv%C3%A4nda-oss-av-funktionen-prenumerera-p%C3%A5-schema-som-kalender
+**URL:** https://knowledge.flexhrm.com/vad-beh%C3%B6ver-jag-som-administrat%C3%B6r-st%C3%A4lla-in-i-hrm-f%C3%B6r-att-vi-ska-kunna-anv%C3%A4nda-oss-av-funktionen-prenumerera-p%C3%A5-schema-som-kalender
 
 ---
 
@@ -33,6 +33,6 @@ Schema
 finns behörigheten för att
 Prenumerera
 .
-![Bild](images/vad-behover-jag-som-administrator-stalla-in-i-hrm-for-att-vi-ska-kunna-anvanda-oss-av-funktionen-pre_46ed309f.png)
+![Bild](images/vad-behover-jag-som-administrator-stalla-in-i-hrm-for-att-vi-ska-kunna-anvanda-oss-av-funktionen-pre_580f73d2.png)
 Relaterad artikel
 Hur kan jag prenumerera på mitt schema till min kalender?

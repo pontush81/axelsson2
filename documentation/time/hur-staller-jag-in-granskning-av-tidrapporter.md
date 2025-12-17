@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, frånvaro, ob, saldo, schema, tidrapport, övertid  
 **Bilder:** 13  
-**URL:** https://knowledge.flexapplications.se/hur-st%C3%A4ller-jag-in-granskning-av-tidrapporter
+**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-jag-in-granskning-av-tidrapporter
 
 ---
 
@@ -28,7 +28,7 @@ Förutsättning
 Gå till
 Inställningar > Allmänt > Granskningsnivåer > Tidrapporter
 .
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_8b5a165e.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_a59b9d6a.png)
 Ställ in att
 klarmarkering
 ska användas som nivå ett. Klarmarkering är den första granskningen av tidrapporten, så den kräver ingen annan nivå.
@@ -45,15 +45,15 @@ Granskningsvy
 Resultat
 : Medarbetarna kan klarmarkera:
 per dag i dagvyn,
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_867dfefb.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_215ef16c.png)
 per dag i periodvyn
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_0c63d728.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_a2a44274.png)
 eller per period i periodvyn.
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_5d606c8a.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_37eb461f.png)
 Inställning för delattestering (konteringsgranskning)
 Förutsättning
 : Vi vill att tidrader som har ett projekt (eller en annan kontering) granskas av den som är ansvarig för projektet.
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_85ed95e4.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_5e59adb0.png)
 Sätt
 Delattestering
 som nivå 2.
@@ -72,13 +72,13 @@ Aktivera granskningsvy
 .
 Resultat:
 De användare som är behöriga att delattestera kan nu göra det per tidrad i tidrapporten:
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_dc9f6b38.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_43dcd025.png)
 per dag i dagvyn:
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_235493f4.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_cbb65e45.png)
 per dag i periodvyn:
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_b90f87a5.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_b9be19be.png)
 eller i en separat granskningsvy:
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_3d32e368.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_80a5b92b.png)
 I vyn för delattest visas endast tidrader som är klarmarkerade, eftersom det är den krävda nivån.
 Observera
 : Detta gäller endast tidradsgranskning. I granskningsvyn för till exempel attestering visas alla tidrapporter inom datumurvalet, oavsett om de klarmarkerats eller delattesterats.
@@ -88,7 +88,7 @@ i användarregistret.
 Inställning för attestering
 Förutsättning
 : Vi vill att den anställdes chef ska attestera tidrapporten när medarbetaren har klarmarkerat den och de projektansvariga har delattesterat tidraderna som har projekt.
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_8dc3a3cc.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_fb52a781.png)
 Välj
 Delattestering
 som
@@ -99,7 +99,7 @@ Ställ in att attestering sker
 per period
 . Detta innebär att cheferna måste attestera en hel period i taget, de kan inte attestera en dag i taget.
 Aktivera granskningsvyn.
-![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_4319738f.png)
+![Bild](images/hur-staller-jag-in-granskning-av-tidrapporter_3cb50143.png)
 Ställ in att granskningsvyn ska visa:
 De anställdas hemkostnadsställe
 Saldon för schematid, närvaro, frånvaro, övertid och OB
@@ -112,5 +112,5 @@ Resultat:
 Attesterande chef kan attestera i tidrapporten eller i en separat granskningsvy.
 I granskningsvyn får chefen en översikt baserat på inställningarna ni har gjort. Hen ser till exempel arbetad övertid och om tidrapporten är klarmarkerad och delattesterad.
 Om granskning saknas finns information om vem som är behörig att granska.
-![image-png-Oct-22-2025-01-59-30-5486-PM](images/hur-staller-jag-in-granskning-av-tidrapporter_4cb6dcde.png)
-![image-png-Oct-22-2025-01-59-55-4053-PM](images/hur-staller-jag-in-granskning-av-tidrapporter_20701e79.png)
+![image-png-Oct-22-2025-01-59-30-5486-PM](images/hur-staller-jag-in-granskning-av-tidrapporter_d8cbfcad.png)
+![image-png-Oct-22-2025-01-59-55-4053-PM](images/hur-staller-jag-in-granskning-av-tidrapporter_9d40d772.png)

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/export-i-hrm-lonekartlagging-0
+**URL:** https://knowledge.flexhrm.com/export-i-hrm-lonekartlagging-0
 
 ---
 
@@ -16,9 +16,9 @@ Du kan exportera följande från lönekartläggningen
 Samtliga arbeten
 Klarmarkerade arbeten
 Klarmarkerade arbeten
-![Bild](images/exportera-varden-fran-lonekartlaggningen-i-hrm_561463fa.png)
+![Bild](images/exportera-varden-fran-lonekartlaggningen-i-hrm_a7685032.png)
 När du tar ut exporten får du den i Excell. Här kan du se detaljuppgifter på anställda som ingår i lönekartläggningen, samt kommentarer och klarmarkeringar från de olika analysvyerna.
-![Bild](images/exportera-varden-fran-lonekartlaggningen-i-hrm_352e0a9a.png)
+![Bild](images/exportera-varden-fran-lonekartlaggningen-i-hrm_08a3b1de.png)
 💡 Tips!
 Om du behöver göra en omräkning av lönekartläggningen
 efter

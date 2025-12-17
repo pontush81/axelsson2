@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/vad-kopieras-n%C3%A4r-jag-kopierar-ett-f%C3%B6retag
+**URL:** https://knowledge.flexhrm.com/vad-kopieras-n%C3%A4r-jag-kopierar-ett-f%C3%B6retag
 
 ---
 

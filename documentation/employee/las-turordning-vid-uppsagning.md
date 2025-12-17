@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 11  
-**URL:** https://knowledge.flexapplications.se/las-turordning-vid-uppsagning-0
+**URL:** https://knowledge.flexhrm.com/las-turordning-vid-uppsagning-0
 
 ---
 
@@ -20,7 +20,7 @@ Skapa en turordningslista
 I HRM finns en egen vy under
 Personal > LAS > Turordning vid uppsägning,
 där beräkningarna för turordningen utförs och visas.
-![Bild](images/las-turordning-vid-uppsagning_014605e0.png)
+![Bild](images/las-turordning-vid-uppsagning_7157f7d1.png)
 Här guidar vi dig genom stegen för att skapa och beräkna en ny turordningslista.
 Klickar du på
 Ny
@@ -36,7 +36,7 @@ Välj vilka anställda som ska ingå i turordningskretsen.
 När du har gjort dina urval klickar du på
 Spara
 .
-![Bild](images/las-turordning-vid-uppsagning_b9f5e6fa.png)
+![Bild](images/las-turordning-vid-uppsagning_9b31d50d.png)
 När du sparar startar systemet en beräkning i bakgrunden. Turordningslistan visas så snart beräkningen är klar.
 Skillnaden mellan Beräkningsdatum och Beräkningstidpunkt
 Det är viktigt att skilja på de två datumen:
@@ -50,28 +50,28 @@ Att det finns en aktiv anställningsperiod för beräkningsdatumet.
 Att den anställde är markerad som Anställd i
 Anställningstyp
 i anställdaregistret.
-![Bild](images/las-turordning-vid-uppsagning_009135e0.png)
+![Bild](images/las-turordning-vid-uppsagning_93e24cde.png)
 Turordningslistan
 Högst upp till vänster i vyn väljer du vilken turordningslista du vill arbeta med och du kan enkelt ta fram tidigare listor.
 När du har valt en turordningslista får du upp en lista med de anställda som ingår. Du kan enkelt sortera på vilken kolumn du vill genom att klicka på rubriken.
 Längst till vänster finns en kolumn för
 Nr
 , dvs. vilken turordningen är för uppsägning för respektive anställd. De som inte har något nummer är antingen undantagna från turordningen, saknar anställningsdatum i anställningsperiod eller är nyss tillagda i listan utan att en omräkning gjorts sedan senaste beräkningen.
-![Bild](images/las-turordning-vid-uppsagning_2d58b2bd.png)
+![Bild](images/las-turordning-vid-uppsagning_a3439913.png)
 Färgförklaring
-![grön ikon](images/las-turordning-vid-uppsagning_0bf18c7f.png)
+![grön ikon](images/las-turordning-vid-uppsagning_7047e22d.png)
 Beräknades utan problem.
-![gul ikon](images/las-turordning-vid-uppsagning_bc70eb3d.png)
+![gul ikon](images/las-turordning-vid-uppsagning_569a41b9.png)
 Visas endast vid beräkning av perioder via arbetsdagar, där det finns tidrapporter som är preliminära. Anställningen är beräknad men det finns perioder i tidrapporten som inte är granskade. Mer information om vilken anställningsperiod det gäller finns under info-bubblan i kolumnen
 Anställningsdagar
 .
-![röd ikon](images/las-turordning-vid-uppsagning_35eeb8f1.png)
+![röd ikon](images/las-turordning-vid-uppsagning_9090fea8.png)
 Någon av den anställdes anställningsperioder saknar fr.o.m. datum. OBS! Det går att ha tomt i fr.o.m. datum om anställningen har ett ingående värde med tillhörande datum.
-![blå ikon](images/las-turordning-vid-uppsagning_df4e8aa3.png)
+![blå ikon](images/las-turordning-vid-uppsagning_39909002.png)
 Anställningen är undantagen.
-![grå ikon](images/las-turordning-vid-uppsagning_08f0e868.png)
+![grå ikon](images/las-turordning-vid-uppsagning_dd5ba63e.png)
 Anställningen är inte beräknad. Detta sker efter manuellt tillägg av anställd till turordningslistan och kräver omräkning av hela listan.
-![blå info ikon med vitt i](images/las-turordning-vid-uppsagning_a746d116.png)
+![blå info ikon med vitt i](images/las-turordning-vid-uppsagning_1ab49b0d.png)
 Info-bubblan, som du hittar i kolumnen för anställningsdagar, visar från vilka perioder de insamlade dagarna kommer ifrån samt om beräkningen är gjord på kalenderdagar eller arbetade dagar.
 Lägg till, Ta bort och Undanta anställd
 För att kunna justera urvalet kan man manuellt hantera vilka anställda man vill lägga till, ta bort eller undanta.
@@ -88,7 +88,7 @@ för att ångra ett undantag i listan behöver du först ta bort den anställde 
 En
 valfri kommentar
 kan anges för respektive funktion ovan. Denna kommentar kommer att synas i ändringsloggen.
-![Bild](images/las-turordning-vid-uppsagning_3d58fd5f.png)
+![Bild](images/las-turordning-vid-uppsagning_79bd1ab1.png)
 Övriga ikoner
 Räkna om
 Räknar om hela turordningslistan. Användbart när du gjort ändringar på anställningar som ska tas hänsyn till i turordningslistan.

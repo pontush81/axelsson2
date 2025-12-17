@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** bil, resa  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/hur-aktiverar-vi-m%C3%B6jligheten-f%C3%B6r-anst%C3%A4llda-att-importera-k%C3%B6rjournaler-till-hrm-travel
+**URL:** https://knowledge.flexhrm.com/hur-aktiverar-vi-m%C3%B6jligheten-f%C3%B6r-anst%C3%A4llda-att-importera-k%C3%B6rjournaler-till-hrm-travel
 
 ---
 
@@ -21,7 +21,7 @@ Importera bilresor
 kräver att förmånsbilar registreras i
 Transaktionsvyn
 . Se därför till att den inställningen är på plats.
-![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_64b9356e.png)
+![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_880feac6.png)
 Det här innebär att anställda som vill använda den inbyggda körjournalen, istället för att importera, måste registrera sina resor i
 Transaktionsvyn
 . De kan fortfarande använda menyn
@@ -29,11 +29,11 @@ Körjournal
 för att kontrollera och stämma av registrerade resor.
 Användarroll och behörigheter
 För att få tillgång till den här funktionen måste du ha en medarbetarroll som ger dig behörighet att importera bilresor. För den här rollen kan du också ställa in om du ska kunna redigera importerade bilresor i samband med avstämning.
-![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_5c26faba.png)
+![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_a354215a.png)
 Behöriga användare får ett nytt alternativ under menyn
 Mer
 för att stämma av importerade bilresor.
-![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_fc767505.png)
+![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_65b2b4c4.png)
 Skapa en importmall
 För att kunna importera körjournaler från en textfil måste du först skapa en
 importmall
@@ -49,7 +49,7 @@ Bilresa
 Ange fältavgränsare, till exempel semikolon.
 Om filen har en rubrikrad som du vill hoppa över, välj det alternativet.
 Om filen innehåller fält som du inte vill importera, till exempel mätarställning, lägger du till dessa som tomma fält i mallen.
-![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_d93ea80f.png)
+![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_08531fd6.png)
 En importmall som inte innehåller anställningsnummer kan enbart användas för personliga importer.
 Skapa en import
 När du har en importmall kan du skapa en import.
@@ -59,6 +59,6 @@ Administration > Bearbetningar > Servicerutiner > Import
 Ange ett namn på importen. Det här namnet kommer att visas när du ska importera bilresor till din reseräkning.
 Om importmallen innehåller anställningsnummer kan du välja att skapa en personlig eller generell import. Importer som inte har anställningsnummer kan endast vara personliga.
 I exemplet nedan så innehåller importmallen inte anställningsnummer och kan sålunda endast vara av Typ "Personlig"
-![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_d09665f8.png)
+![Bild](images/hur-aktiverar-vi-mojligheten-for-anstallda-att-importera-korjournaler-till-hrm-travel_98b370de.png)
 Tips! Vill du läsa hur en anställd importerar en körjournal till en reseräkning?
 Klicka här

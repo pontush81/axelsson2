@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, hrm-time, roll  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/hur-loggar-jag-in-i-hrm-timeclock
+**URL:** https://knowledge.flexhrm.com/hur-loggar-jag-in-i-hrm-timeclock
 
 ---
 

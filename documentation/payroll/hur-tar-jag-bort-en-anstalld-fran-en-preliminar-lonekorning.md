@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-tar-jag-bort-en-anst%C3%A4lld-fr%C3%A5n-en-prelimin%C3%A4r-l%C3%B6nek%C3%B6rning
+**URL:** https://knowledge.flexhrm.com/hur-tar-jag-bort-en-anst%C3%A4lld-fr%C3%A5n-en-prelimin%C3%A4r-l%C3%B6nek%C3%B6rning
 
 ---
 
@@ -18,11 +18,11 @@ Gör så här
 Gå till menyn
 Lönekörning > Ta bort
 .
-![Bild](images/hur-tar-jag-bort-en-anstalld-fran-en-preliminar-lonekorning_34815183.png)
+![Bild](images/hur-tar-jag-bort-en-anstalld-fran-en-preliminar-lonekorning_1f647cf4.png)
 En dialogruta öppnas. Ange den eller de anställda som du vill ta bort från lönekörningen under rubriken
 Urval anställda
 .
-![Bild](images/hur-tar-jag-bort-en-anstalld-fran-en-preliminar-lonekorning_30cd6d9e.png)
+![Bild](images/hur-tar-jag-bort-en-anstalld-fran-en-preliminar-lonekorning_2f8b3e08.png)
 Klicka på knappen
 Komplettera lönekörning
 för att verkställa ändringen.

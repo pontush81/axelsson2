@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-ett-konteringsregister
+**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-ett-konteringsregister
 
 ---
 
@@ -15,7 +15,7 @@ Artikeln beskriver enkla, ej utökade, konteringsregister.
 Flex HRM använder konteringsregister för att styra behörighet och för att märka upp poster, som till exempel poster för bokföring och statistik.
 Du kan skapa nya register och anpassa dem efter dina behov. Två register kan utökas, ett projektregister och ett kundregister. Den här artikeln beskriver enkla register som inte är utökade.
 Ett konteringsregister är i grunden en förteckning med kod, namn och ett datumintervall.
-![Bild](images/vad-ar-ett-konteringsregister_e38c3343.png)
+![Bild](images/vad-ar-ett-konteringsregister_a7dac7a4.png)
 Aktiv från och med – till och med:
 Här anger eller ser du datumintervallet för när konteringen är aktiv. Konteringen kan bara användas för registreringar som görs inom det angivna intervallet. Om du inte anger något datum alls är konteringen alltid aktiv. Inaktiva konteringar visas i rapporter och kan fortfarande användas när du gör urval.
 Beroende på hur du använder registret kan det ha fler inställningar och flikar, såsom

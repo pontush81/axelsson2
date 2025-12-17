@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, pension  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/hur-skapar-jag-en-coins-fil
+**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-en-coins-fil
 
 ---
 
@@ -48,7 +48,7 @@ utbetalningsdatum
 . Det gör att du enkelt kan skapa en fil med endast den senaste månadens utbetalning.
 Lönekörningens status:
 Du kan också välja urval på lönekörningens status. Detta ger dig möjlighet att exportera preliminära lönekörningar.
-![Bild](images/hur-skapar-jag-en-coins-fil_c12d2256.png)
+![Bild](images/hur-skapar-jag-en-coins-fil_0bce5451.png)
 Exportfält
 Under
 Exportfält
@@ -67,7 +67,7 @@ Teckenkodning
 Ska alltid vara
 UTF8
 och kan inte ändras.
-![Bild](images/hur-skapar-jag-en-coins-fil_ffef476b.png)
+![Bild](images/hur-skapar-jag-en-coins-fil_435a0bb9.png)
 Groupingfält
 Här väljer du vilka uppgifter som ska skickas med i filens så kallade
 groupingfält
@@ -87,7 +87,7 @@ Välj vilken typ av uppgift som ska hämtas. Det är vanligt att inkludera till 
 personalkategori
 .
 Du kan även exportera valfri konteringsdimension eller värde från ett eget fält. Du måste då specificera vilken konteringsdimension/vilket eget fält som ska exporteras i de två följande kolumnerna.
-![Bild](images/hur-skapar-jag-en-coins-fil_3cc601a2.png)
+![Bild](images/hur-skapar-jag-en-coins-fil_7ae53f46.png)
 Skapa exportfilen
 När du har skapat din exportmall kan du skapa själva exportfilen.
 Gå till

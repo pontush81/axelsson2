@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, cv, dokument, hrm-employee, kompetens, kurs  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-skapar-jag-hr-blanketter-for-cv-0
+**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-hr-blanketter-for-cv-0
 
 ---
 
@@ -33,11 +33,11 @@ Uppgifter om den anställdes kompetenser och kurser kan hämtas från HRM till C
 Information om andra erfarenheter till CV:t byggs ofta som egna tabeller i HRM där användare löpande kan uppdatera informationen. Se avsnittet
 Egna fält
 för att läsas mer om hur egna tabeller kan byggas i HRM.
-![Bild](images/hur-skapar-jag-hr-blanketter-for-cv-i-hrm-employee_476b6471.png)
+![Bild](images/hur-skapar-jag-hr-blanketter-for-cv-i-hrm-employee_cbf4c765.png)
 När du lägger upp din mall för CV går det också att ställa in om man vid utskrift av CV ska kunna välja vilka uppgifter som kommer med i utskriften. Detta kan vara användbart om du har gått en lång rad av kurser, men för ett visst projekt vill skapa ett CV som endast innehåller relevanta erfarenheter, kurser och kompetenser. För att möjliggöra filtrering vid utskrift kryssar du i valet
 Filtersteg
 .
-![Bild](images/hur-skapar-jag-hr-blanketter-for-cv-i-hrm-employee_465ceee9.png)
+![Bild](images/hur-skapar-jag-hr-blanketter-for-cv-i-hrm-employee_b4eed94f.png)
 Välj om CV:t ska kunna
 sparas direkt till den anställdes dokument
 och ställ in hur den ska

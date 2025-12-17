@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil  
 **Bilder:** 9  
-**URL:** https://knowledge.flexapplications.se/inloggning-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/inloggning-i-flex-hrm
 
 ---
 
@@ -38,7 +38,7 @@ genom att kryssa i rutan för det.
 Tryck sedan på knappen
 Nästa
 .
-![undefined-Dec-03-2025-03-23-50-3538-PM](images/inloggning-i-flex-hrm_bfcbe1fa.png)
+![undefined-Dec-03-2025-03-23-50-3538-PM](images/inloggning-i-flex-hrm_41206c0f.png)
 Använder ni
 SSO
 (Single Sign-On) kan du välja att använda det och är sedan inloggad. På bilden här nedan står det
@@ -46,7 +46,7 @@ Logga in med Entra ID
 , men det kan stå något annat beroende på vilken "
 Identity Provider"
 ert företag har.
-![Bild](images/inloggning-i-flex-hrm_2324a83e.png)
+![Bild](images/inloggning-i-flex-hrm_8a86a854.png)
 Använder ni
 inte
 SSO
@@ -54,23 +54,23 @@ och du loggar in för första gången -
 Klicka på
 Glömt
 ditt lösenord?
-![Bild](images/inloggning-i-flex-hrm_86aa0e5b.png)
+![Bild](images/inloggning-i-flex-hrm_908a758f.png)
 Ange din e-postadress och kryssa i
 Jag är inte
 en robot
 . Välj sedan alternativet
 Återställ lösenord
 .
-![Bild](images/inloggning-i-flex-hrm_52510356.png)
+![Bild](images/inloggning-i-flex-hrm_ab577955.png)
 Ett e-postmeddelande skickas till den e-postadress du angav.
 Gå till din inkorg för e-post och öppna meddelandet. Tryck på den gröna knappen
 Ange nytt lösenord
 .
-![Bild](images/inloggning-i-flex-hrm_54241772.png)
+![Bild](images/inloggning-i-flex-hrm_d0abb002.png)
 Ange och bekräfta ditt nya lösenord. Tryck därefter på knappen
 Ange lösenord
 .
-![Bild](images/inloggning-i-flex-hrm_71d1999a.png)
+![Bild](images/inloggning-i-flex-hrm_8ffe6130.png)
 Du kan nu logga in i Flex HRM
 på
 https://web.flexhrm.com/
@@ -83,7 +83,7 @@ App store
 eller i
 Google Play
 .
-![Bild](images/inloggning-i-flex-hrm_055e5fa7.png)
+![Bild](images/inloggning-i-flex-hrm_ca64d772.png)
 Första gången du använder appen får du frågan vilken
 webbadress
 (URL)
@@ -105,5 +105,5 @@ SSO
 anger du ditt l
 ösenord.
 Du är sedan inloggad.
-![Bild](images/inloggning-i-flex-hrm_b44f7e75.png)
-![Bild](images/inloggning-i-flex-hrm_4f526582.png)
+![Bild](images/inloggning-i-flex-hrm_a16e7cb0.png)
+![Bild](images/inloggning-i-flex-hrm_ee5b5f6e.png)

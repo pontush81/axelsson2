@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** bil, resa, traktamente  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/rapportera-resetransaktioner-hur-rapporterar-man-resetransaktioner-i-hrm-travel
+**URL:** https://knowledge.flexhrm.com/rapportera-resetransaktioner-hur-rapporterar-man-resetransaktioner-i-hrm-travel
 
 ---
 
@@ -18,10 +18,10 @@ Resa
 och sedan
 Reseräkning
 .
-![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_71def935.png)
+![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_d460abba.png)
 Systemet guidar dig steg för steg genom registreringen. Kom ihåg att spara varje transaktion när du är klar.
 Inrikes resa
-![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_127631a4.png)
+![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_3c166ddd.png)
 När du klickar på
 Lägg till
 och väljer
@@ -29,13 +29,13 @@ Resa
 möts du av en dialogruta. Välj
 Inrikes resa
 .
-![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_e437ccd3.png)
+![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_7ca7326e.png)
 Börja med att fylla i resans längd och ange ett ärende. Beroende på inställningarna i systemet kan du också behöva ange besökt adress eller ort. Här fyller du även i eventuella konteringar.
 Varje transaktion kan delkonteras. Det betyder att du kan ge en transaktion en annan kontering än reseräkningens huvudkontering. Konteringar som är ärvda från huvudkonteringen visas i grå kursiv stil. Om du ändrar en kontering blir texten svart.
 Under
 Kost & Logi
 anger du hur varje måltid har bekostats. Om det föreslagna alternativet inte stämmer för någon dag, kan du redigera detta i respektive dropplista.
-![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_f97c7fd6.png)
+![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_01ac4937.png)
 Om alla föreslagna måltider är felaktiga för hela resan, kan du använda snabbvalet högst upp för att ändra hela kolumnen på en gång. I kolumnen
 Logi
 anger du hur eventuell övernattning har bekostats.
@@ -46,7 +46,7 @@ Resa
 kan du även registrera en
 Utrikes
 resa.
-![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_58c5fc1b.png)
+![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_69f13345.png)
 En utrikes resa har tre delar när det gäller resans längd:
 hur resan ser ut när den startar i Sverige
 hur länge du är i ett annat land
@@ -57,6 +57,6 @@ Avresan
 Därefter anger du vilka länder du har besökt och hur länge du stannade i varje land. Om du har besökt flera länder under samma resa kan du lägga till fler med
 Lägg till under sista raden
 .
-![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_14d288a2.png)
+![Bild](images/hur-rapporterar-jag-traktamentsresor-i-hrm-travel_7bc2e6fa.png)
 OBS!
 Tänk på att alltid ange alla klockslag i lokal tid. Det är nödvändigt för att systemet ska kunna göra en korrekt traktamentsberäkning.

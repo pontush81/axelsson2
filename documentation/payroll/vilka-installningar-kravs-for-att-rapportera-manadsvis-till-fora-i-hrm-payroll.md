@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, pension  
 **Bilder:** 7  
-**URL:** https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-rapportera-m%C3%A5nadsvis-till-fora-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-rapportera-m%C3%A5nadsvis-till-fora-i-hrm-payroll
 
 ---
 
@@ -22,26 +22,26 @@ Administration > Inställningar > Lön > Pension och försäkring.
 I listan till vänster ser du företagets aktiva rapporteringar till de olika pensionsförmedlarna. Om inte Fora finns i listan klickar du på knappen
 Ny
 och fyller i uppgifterna i formuläret för att aktivera rapportering till Fora.
-![Bild visar inställningar för Fora.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_0d1a12b6.png)
+![Bild visar inställningar för Fora.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_2ef5b722.png)
 Uppgifterna om avtalsnummer, anställda som fyller 65 samt ackumulator för ingående värde används bara till den gamla
 årsredovisningen
 och påverkar
 inte
 månadsredovisningen.
 I listan med Företagets uppmärkningskoder lägger du in den eller de koder som du fått från Fora. Om ditt företag bara har en kod lägger du in den. Det är koderna i denna lista som du sedan kan använda för uppmärkning av anställda i lönesystemet.
-![Bild visar kolumner med företagets uppmärkningskoder samt deras giltighetstid.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_135056ce.png)
+![Bild visar kolumner med företagets uppmärkningskoder samt deras giltighetstid.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_60af66ba.png)
 Uppmärkningskod per personalkategori
 För att slippa lägga in en uppmärkningskod på samtliga anställda kan du lägga in en uppmärkningskod per personalkategori. Om du inte lagt in en
 uppmärkningskod direkt på den anställde kommer koden från personalkategorin att
 användas istället.
 Detta gör du under
 Administration > Inställningar > Lön > Personalkategorier.
-![Bild visar inställningen för företagets standard uppmärkningskod.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_c8c34051.png)
+![Bild visar inställningen för företagets standard uppmärkningskod.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_46505be7.png)
 Uppgifter på individnivå
 I anställdaregistret, under fliken
 Pension & försäkring
 , anger du de villkor som gäller för den anställde vid rapportering till Fora.
-![Bild visar FORA-inställningarna för den anställde i anställdaregistret.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_03f1d85d.png)
+![Bild visar FORA-inställningarna för den anställde i anställdaregistret.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_778890d1.png)
 Följande uppgifter behövs för månadsrapportering till Fora:
 Kategori
 Här anger du om den anställde ska redovisas som
@@ -51,7 +51,7 @@ Tjänsteman
 enligt Foras instruktioner. Anställda som omfattas av Avtalspension SAF-LO räknas som arbetare. För anställd VD som ska rapporteras som tjänsteman väljer du
 Tjänsteman – Anställd VD
 .
-![Bild visar urvalslista över vilka kategories man kan välja för Fora för en anställd.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_29e02b14.png)
+![Bild visar urvalslista över vilka kategories man kan välja för Fora för en anställd.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_167258ae.png)
 Uppmärkningskoder och tillval
 I listan för uppmärkningskoder anger du för alla arbetare vilken uppmärkningskod som gäller för vilken datumperiod. De uppmärkningskoder du lägger in här kommer gälla i första hand före uppmärkningskoden på personalkategorin.
 I listan för uppmärkningskoder finns också två kryssrutor där du kan ange tillval för den anställde.
@@ -69,7 +69,7 @@ Vår rekommendation är att, om möjligt, använda uppmärkningskoder via person
 För att importera uppgifterna om uppmärkning via fil använder du importmallen för Anställda/användare. Här finns samtliga fält för uppmärkning som beskrivs i
 föregående avsnitt
 .
-![Bild visar de uppmärkningsfält man kan välja i en importmall.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_8d7cdbd8.png)
+![Bild visar de uppmärkningsfält man kan välja i en importmall.](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_a25e0dcd.png)
 När du skapar din importfil och importmall behöver du tänka på följande saker:
 Se till att
 registret med företagets uppmärkningskode
@@ -88,7 +88,7 @@ Löneartsinställningar
 För rapportering av pensionsgrundande lön samt hänförlig lön till Fora behöver underlag hämtas från vissa utvalda lönearter. Detta gör du under fliken
 Lön
 i löneartsregistret.
-![Bild](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_b3f5b499.png)
+![Bild](images/vilka-installningar-kravs-for-att-rapportera-manadsvis-till-fora-i-hrm-payroll_4ab0a6a3.png)
 Fora – Avser  lön
 Anger vilka lönearter som ska vara pensionsgrundande.
 Fora – Avser hänförlig lön

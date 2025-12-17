@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** kompetens, kurs  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/import-kompetenser-kurser-0
+**URL:** https://knowledge.flexhrm.com/import-kompetenser-kurser-0
 
 ---
 

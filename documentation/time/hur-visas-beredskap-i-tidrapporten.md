@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** beredskap, schema, tidkod, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-visas-beredskap-i-tidrapporten
+**URL:** https://knowledge.flexhrm.com/hur-visas-beredskap-i-tidrapporten
 
 ---
 
@@ -17,9 +17,9 @@ se information om ditt beredskapsschema.
 Bilde
 n nedan visar en dag med bere
 dskap hela dygnet, en dag med beredskap fram till kl 6 på morgonen och en dag då man inte är schemalagd med beredskap.
-![Bild](images/hur-visas-beredskap-i-tidrapporten_67818c1b.png)
+![Bild](images/hur-visas-beredskap-i-tidrapporten_6654e17d.png)
 Tidkoder för beredskap visas på fliken
 Ersättningar.
-![Bild](images/hur-visas-beredskap-i-tidrapporten_b0661d06.png)
+![Bild](images/hur-visas-beredskap-i-tidrapporten_5a05fada.png)
 För information om att skapa beredskapsregelverk och att schemalägga beredskap:
 Hur fungerar beredskapsregelverk?

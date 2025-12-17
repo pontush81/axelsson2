@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-en-hemkontering
+**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-en-hemkontering
 
 ---
 
@@ -36,14 +36,14 @@ Ditt företag kan använda andra benämningar för sina hemkonteringar än de vi
 Datumstyrda hemkonteringar
 Du kan ställa in datumintervall för en anställds hemkontering. Om en anställd till exempel ska byta avdelning, kan du lägga in detta i systemet i förväg. Systemet hanterar då bytet automatiskt på rätt datum.
 Om du har behörighetsstyrning på konteringsdimensioner, kommer då även attestansvarig chef att få behörighet från rätt datum.
-![Bild](images/vad-ar-en-hemkontering_1a104eb3.png)
+![Bild](images/vad-ar-en-hemkontering_1e9d4c0c.png)
 Tolerans för behörigheter
 När en anställd byter hemkontering kan det vara bra att låta behörigheterna överlappa under en period. Detta gör att både den gamla och den nya chefen kan hantera den anställdes tidrapporter och reseräkningar under bytet. Detta ställer du in under
 Inställningar > Allmänt > Konteringsdimensioner
 >
 Tolerans för behörigheter
 . Där kan du ange hur många dagar före och efter ett byte den nya och gamla chefen ska kunna se den anställde.
-![image-png-Sep-16-2025-07-31-19-1238-AM](images/vad-ar-en-hemkontering_2a151338.png)
+![image-png-Sep-16-2025-07-31-19-1238-AM](images/vad-ar-en-hemkontering_a3a9f41b.png)
 Hemkonteringar i tidrapporter och reseräkningar
 Hemkonteringar läggs automatiskt in på tidrader och i reseräkningar om inget annat angetts och om inställningen
 Lägg hem om blank

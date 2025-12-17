@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, signering  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/notis-nar-ett-nytt-dokument-laggs-upp-0
+**URL:** https://knowledge.flexhrm.com/notis-nar-ett-nytt-dokument-laggs-upp-0
 
 ---
 
@@ -28,6 +28,6 @@ Administration > Inställningar > Allmänt > Påminnelser
 Här skapar du en påminnelse av typen
 Dokument skapat.
 Välj för vilken/vilka dokumentkategorier påminnelsen ska gälla.
-![Bild](images/kan-jag-fa-en-notis-nar-ett-nytt-dokument-laggs-upp-i-hrm_b10b0d03.png)
+![Bild](images/kan-jag-fa-en-notis-nar-ett-nytt-dokument-laggs-upp-i-hrm_8ff32022.png)
 Ställ in vem/vilka som ska få påminnelsen.
-![Bild](images/kan-jag-fa-en-notis-nar-ett-nytt-dokument-laggs-upp-i-hrm_2bf42ae7.png)
+![Bild](images/kan-jag-fa-en-notis-nar-ett-nytt-dokument-laggs-upp-i-hrm_b8c851c8.png)

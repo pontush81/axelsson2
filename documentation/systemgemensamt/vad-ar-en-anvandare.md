@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet, mobil, roll, säkerhet  
 **Bilder:** 7  
-**URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-en-anv%C3%A4ndare
+**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-en-anv%C3%A4ndare
 
 ---
 
@@ -49,19 +49,19 @@ Mina kollegor
 för hela företaget.
 För mer information om hur en användares roller fungerar rekommenderar vi artikeln:
 Vilken roll gäller när en användare har flera roller?
-![Bild](images/vad-ar-en-anvandare_a5f2fd45.png)
+![Bild](images/vad-ar-en-anvandare_00ec21d2.png)
 Tips
 Om du vill veta vad en specifik roll innebär kan du markera rollen på användarens behörighet och sedan klicka på knappen
 Gå till roller
 . Den vy där du hanterar roller öppnas då, och den valda rollen visas direkt.
-![Bild](images/vad-ar-en-anvandare_3c327dd5.png)
+![Bild](images/vad-ar-en-anvandare_866117c9.png)
 Överlappande behörigheter vid konteringsbyte
 När en anställd byter hemkontering kan det vara bra att låta behörigheterna överlappa under en period. Detta gör att både den gamla och den nya chefen kan hantera den anställdes tidrapporter och reseräkningar under bytet. Detta ställer du in under
 Inställningar > Allmänt > Konteringsdimensioner
 i fältet
 Tolerans för behörigheter
 . Där kan du ange hur många dagar före och efter ett byte den nya och gamla chefen ska kunna se den anställde.
-![Bild](images/vad-ar-en-anvandare_447b8a76.png)
+![Bild](images/vad-ar-en-anvandare_7f76c5e1.png)
 Koppling till Visma Connect
 Inloggning i Flex HRM och HRM Mobile sker via Visma Connect. För att en användare ska kunna logga in måste hen vara kopplad till Visma Connect med hjälp av en e-postadress.
 Om användaren är kopplad till Visma Connect visas e-postadressen samt knapparna
@@ -69,7 +69,7 @@ Om användaren är kopplad till Visma Connect visas e-postadressen samt knapparn
 och
 Ta bort koppling
 .
-![Bild](images/vad-ar-en-anvandare_39c1e5bd.png)
+![Bild](images/vad-ar-en-anvandare_f6cf1917.png)
 Klicka på
 Återställ lösenord
 för att användaren ska få ett e-postmeddelande med möjlighet att återställa sitt lösenord för Visma Connect.
@@ -77,7 +77,7 @@ Klicka på
 Ta bort koppling
 om du till exempel behöver skapa en ny koppling med en annan e-postadress.
 Om användaren saknar koppling till Visma Connect visas fält för e-post och information om att koppling saknas.
-![Bild](images/vad-ar-en-anvandare_847304d9.png)
+![Bild](images/vad-ar-en-anvandare_d9756276.png)
 Du kan ange den e-postadress användaren ska logga in med och klicka på
 Verifiera konto
 .
@@ -98,7 +98,7 @@ naktiveras
 fem dagar efter avslutad anställning och att
 återaktiveras
 en dag före ny anställningsperiod.
-![Bild](images/vad-ar-en-anvandare_4d700ba4.png)
+![Bild](images/vad-ar-en-anvandare_c06b8be9.png)
 Det innebär att om anställd 8 slutar den 31 oktober, kommer användaren att vara aktiv fram till och med den 5 november. Detta kan vara bra för att personen ska kunna göra klart sina tidrapporter och reseräkningar efter att anställningen har avslutats. Den 6 november kommer kontot att vara inaktivt, och den anställde kan inte längre logga in.
 Kopplingen till Visma Connect tas också bort när kontot inaktiveras utifrån anställningsdatum. Processen för att inaktivera konton utifrån anställningsdatum sker via ett bakgrundsjobb. Det innebär att borttagningen inte sker omedelbart, utan när bakgrundsjobbet körs nästa gång (en gång per dygn).
 Om anställd 8 skulle anställas på nytt, kommer kontot att aktiveras en dag innan det nya anställningsdatumet. Det gäller dock
@@ -120,7 +120,7 @@ Verifiera flera konton samtidigt
 Knappen
 Verifiera konton
 kan du använda för att verifiera flera användare samtidigt för Visma Connect. Då slipper du välja en användare i taget.
-![Bild](images/vad-ar-en-anvandare_a622ea81.png)
+![Bild](images/vad-ar-en-anvandare_87609777.png)
 När du klickar på
 Verifiera konton
 påverkas alla användare som:

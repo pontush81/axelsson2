@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, onboarding  
 **Bilder:** 17  
-**URL:** https://knowledge.flexapplications.se/nyanstallning-hur-skapa-0
+**URL:** https://knowledge.flexhrm.com/nyanstallning-hur-skapa-0
 
 ---
 
@@ -43,7 +43,7 @@ ställningar > Personal > Anställdaregistret – inställningar
 f
 ör
 att göra dina val.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_07b73250.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_4676e7c0.png)
 Rekommendation
 Ställ in att Personnummer måste anges - för att få en tidig koll på om en anställd redan finns upplagd i systemet.
 Ställ in att Anställningsmall måste anges - undvik att chef/HR missar att välja en mall.
@@ -65,14 +65,14 @@ Standardflöde
 Aktiveras endast ett flöde är det vanligast att man nyttjar
 Standard
 .
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_7c6ff570.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_87d3dce5.png)
 Då hamnar alla nya anställningar/anställningsperioder på detta standard-flöde. Det vill säga det blir ett flöde för alla anställningar. Ser vi inget behov av att kunna styra in olika anställda på olika flöden räcker oftast detta gott och väl.
 Ett granskningsflöde räcker för oss! Gå vidare och ställ in granskningsnivåerna under Standardflödet.
 Behov av nya granskningsflöden
 Har du identifierat att det behövs ett eller flera nya flöden behöver de skapas upp som separata granskningsflöden.
 För att skapa ett nytt granskningsflöde klickar du på knappen
 Lägg till.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_c1ca23a0.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_2fa7209f.png)
 Du får upp en ruta där du väljer ett
 namn
 på granskningsflödet samt vilka
@@ -83,7 +83,7 @@ Spara
 I vårt exempel nedan har vi skapat ett granskningsflöde för extern personal. Om vi lägger upp en ny anställd och väljer anställningsmallen för
 Extern personal
 kommer vi aktivera just detta granskningsflöde.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_e25fc89e.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_9d3a27ed.png)
 När du har sparat nya granskningsflödet kan du ställa in inställningarna för hur flödet ska se ut och fungera.
 Tips!
 Om man inte vill att nya anställningsperioder ska hamna i granskningsflödet kan man sätta upp ett alternativt granskningsflöde som kopplas till en egen anställningsmall Exempelvis:
@@ -94,20 +94,20 @@ kommer då nya anställningsperioder upplagda mot denna anställningsmall att g�
 Detta används främst av företag som har väldigt många nya anställningsperioder och som upplever att granskningsflödet annars blir en flaskhals.
 Bra att veta om att ändra i befintliga flöden
 Ta bort ett Granskningsflöde helt
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_d87b5166.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_50aa0b61.png)
 Följande Varning/information kommer upp när du klickar på Ta bort
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_12f85d16.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_d4c2f965.png)
 Dvs har du personer som ligger i granskningsflödet för denna som inte är färdiggranskade kommer dessa flyttas till Standardflödet. Lägger du upp en ny anställningsperiod på en person som tidigare lades in med det flödet, kommer den nu hamna på Standardflödet.
 Ta bort en anställningsmall i ett flöde som används/har använts
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_63f3eadc.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_37ab6dbc.png)
 Vad händer vid återanställning? De som då tidigare har hört till INHYRDA (detta används inte längre och togs bort från flödet). Vart hamnar då den anställde?
 Har du tidigare anställda som lagts upp på detta flöde och sedan kopierar du från befintligt anställningsperiod till en ny period – kommer du hamna på Standardflödet om inget nytt flöde lagts till kopplat till den anställningsmall som använts tidigare.
 Skulle man sedan gå in i granskningsflödet och lägga tillbaka anställningsmallen i flödet – kommer den anställde (så länge den ligger kvar i granskningsvyn) att flyttas till det flödet igen.
 Följande Varning/information kommer upp när du justerar anställningsmallarna i flödet och Sparar.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_0b626b3e.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_85361ad8.png)
 4. Ställ in Granskningsnivåer för nyanställning
 Välj det granskningsflöde ovanför listan, som du vill börja ställa in. Nedan börjar vi ställa in inställningarna i Standard.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_0c568a14.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_74f06721.png)
 Under ett gemensamt systemregister ligger inställningarna för vilka granskningsnivåer som finns att välja på. Se
 Allmänt - Granskningsnivåer - Nyanställningar
 för att justera eller lägga till fler.
@@ -118,11 +118,11 @@ pilarna
 till höger om namnet på respektive nivå och
 dra och släpp
 om du vill ändra ordningen på raderna.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_6593274d.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_cd82029c.png)
 Under
 Allmänt
 ställer du in vad som ska gälla för denna nivå.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_be27a950.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_44a521ca.png)
 Granskningsnivån används
 Här anges om aktuell granskningsnivå ska användas eller inte vid upplägg av nyanställda/nya anställningsperioder.
 Krävd nivå
@@ -142,7 +142,7 @@ Denna inställning kan användas i samband med att en användare får en ny anst
 Under
 Granskningsvy
 ställer du in vilka uppgifter som ska samlas in under respektive granskningsnivå.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_c0b7d4aa.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_5dcce8a8.png)
 I kolumnen
 Visa
 sätter du kryss för de fält som ska visas. I kolumnen
@@ -152,7 +152,7 @@ Måste anges
 styr du vilka uppgifter som måste anges för att kunna utföra granskning på aktuell nivå. Du kan välja ordning på fälten genom att
 dra och släppa de blå pilarna
 till vänster i listan av fält.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_ce1db8e1.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_54e68e6c.png)
 När en granskningsnivå aktiveras i företaget kommer alla redan upplagda anställda automatiskt att bli markerade som granskade för denna nivå. Detta för att man inte ska behöva bocka i granskad på alla sedan tidigare anställda, utan bara de som läggs upp efter det att man aktiverat granskningsprocessen.
 När du har ställt in alla inställningar för respektive granskningsnivå och alla flöden kan anställningar läggas upp via menyn
 Personal - Nyanställning.
@@ -160,7 +160,7 @@ Hur hanterar HRM Employee onboarding av anställda?
 5. Påminnelser
 Det finns möjlighet att aktivera påminnelser för granskning av nyanställda som då går ut till de som har behörighet att utföra granskning för den anställde. På så sätt kan den som t.ex. ska utföra steg 2 få en påminnelse när steg 1 är klart och man kan gå in och göra sin del.
 Påminnelsen ligger kvar så länge det finns någon nyanställd kvar att granska.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_9fa453c6.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_53ffad34.png)
 Påminnelser kan fås både på startsidan, som e-post samt som notis i HRM Mobile. På startsidan ser du också vilka anställda påminnelsen avser, och inom parentes hur många anställningsperioder det rör sig om. Om du klickar på den anställdes namn öppnas vyn för nyanställning, där du får en överblick över alla anställda som är kvar att granska.
 För att aktivera påminnelsen går du in under
 Administration – Inställningar – Allmänt – Påminnelser.
@@ -170,10 +170,10 @@ Vilka användare som ska ha behörighet att utföra de olika granskningsnivåern
 Administration –Användare/Behörigheter– Roller
 . En användare kommer att kunna granska de anställda denne har en roll för med denna behörighet.
 I exemplet är det Chef som initierar en ny anställning och ska granska steget Chef.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_c163f576.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_7ccc729f.png)
 Observera att om ex. Chef är den som skapar upp en anställning så måste den rollen också vara behörig att tilldela de roller som finns som standard på Användarmallen. Annars kommer inte rollerna att läggas på användaren med automatik.
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_b1ac724e.png)
-![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_ace334ac.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_0dc2b857.png)
+![Bild](images/nyanstallning-hur-skapar-jag-ett-effektivt-anstallningsflode_e4aaacfe.png)
 Notera
 att det oavsett inställning på granskningsnivåerna aldrig är tillåtet för någon utan behörighet till anställningsavtal att skriva ut i något steg. Se mer ang. inställningar för behörighet till anställningsavtal under avsnittet
 HR-blanketter.

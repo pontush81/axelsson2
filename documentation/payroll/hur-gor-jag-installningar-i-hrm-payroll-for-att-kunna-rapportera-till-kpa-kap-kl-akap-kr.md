@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, pension  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/hur-g%C3%B6r-jag-inst%C3%A4llningar-i-hrm-payroll-f%C3%B6r-att-kunna-rapportera-till-kpa-kap-kl/akap-kr
+**URL:** https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-inst%C3%A4llningar-i-hrm-payroll-f%C3%B6r-att-kunna-rapportera-till-kpa-kap-kl/akap-kr
 
 ---
 
@@ -24,9 +24,9 @@ Administration > Inställningar > Lön > Pension och försäkring.
 I listan till vänster ser du företagets aktiva rapporteringar till de olika pensionsförmedlarna. Om inte KPA (KAP-KL/AKAP-KR) finns i listan klickar du på knappen
 Ny
 och fyller i uppgifterna i formuläret för att aktivera rapportering till KPA.
-![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_742768ed.png)
-![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_3dd94b63.png)
-![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_addd9f4d.png)
+![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_5bb40dee.png)
+![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_2afde5b8.png)
+![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_ac169daf.png)
 Du kan här ange följande uppgifter:
 Kundnummer
 Här anger du kundnummer hos KPA. För dig med sjusiffrigt kundnummer används fälten kundnummer och förvaltningsnummer. De fyra första siffrorna anges i fältet för kundnummer och de tre sista siffrorna i fältet för förvaltningsnummer.
@@ -44,7 +44,7 @@ I anställdaregistret, under fliken
 Pension & försäkring
 , anger du de villkor som gäller för den anställde vid rapportering till KPA.
 Observera att dessa uppgifter gäller per anställningsperiod.
-![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_118b3ea3.png)
+![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_fb77a349.png)
 Du anger här följande uppgifter:
 Pensionsavtal
 Här anger du om den anställde räknas tillhöra KAP-KL eller AKAP-KR. Du kan också ange om den anställde inte alls ska rapporteras till KPA.
@@ -63,12 +63,12 @@ pension
 , i löneartsregistret. För mer information om hur systemet använder dessa inställningar vid beräkning av löneunderlag, se artikeln "
 Vilka uppgifter kommer med i rapporteringen till KPA (KAP-KL/AKAP-KR)?
 " som ger fördjupad information om hur underlaget skapas.
-![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_d3c88653.png)
+![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_6e42b624.png)
 Anställningsformer
 För att kunna rapportera korrekt anställningskod till KPA behöver du göra inställningar under
 Administration > Inställningar > Personal > Anställningsformer
 . För varje anställningsform i Flex HRM anger du motsvarande anställningskod som ska rapporteras till KPA.
-![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_9cc40954.png)
+![Bild](images/hur-gor-jag-installningar-i-hrm-payroll-for-att-kunna-rapportera-till-kpa-kap-kl-akap-kr_cd9e2c88.png)
 Saker att tänka på före första rapporteringen i HRM Payroll
 Innan du gör den första rapporteringen bör du säkerställa att allt underlag för den period rapporteringen avser finns i systemet. Det gäller t.ex. uppgifter om pensionsgrundande lön och lönetillägg. En viktig sak att tänka på är också uppgifter om timanställdas arbetsperioder. Du kan läsa mer om hur arbetsperioder kan hanteras under avsnittet Inställningar – Grundinställningar.
 Arbetsgivare som planerar byte av lönesystem ska kontakta KPA Pension via e-post: rapportering@kpa.se. Vid byte av lönesystem bör samma anställningsnummer som i det gamla lönesystemet användas som i det nya. Om man byter anställningsnummer måste en översättningsfil innehållande gamla och nya anställningsnummer skapas och rapporteras före första rapporteringen från nya lönesystemet. En sådan fil kan inte skapas i Flex HRM, utan måste i så fall skapas manuellt.

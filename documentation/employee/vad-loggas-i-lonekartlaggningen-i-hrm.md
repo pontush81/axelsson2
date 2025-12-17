@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** anställning  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/vad-loggas-i-hrm-lonekartlagging-0
+**URL:** https://knowledge.flexhrm.com/vad-loggas-i-hrm-lonekartlagging-0
 
 ---
 

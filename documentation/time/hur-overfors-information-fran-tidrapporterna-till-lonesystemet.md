@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, lön, ob, schema, semester, tidkod, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-%C3%B6verf%C3%B6rs-information-fr%C3%A5n-tidrapporterna-till-l%C3%B6nesystemet
+**URL:** https://knowledge.flexhrm.com/hur-%C3%B6verf%C3%B6rs-information-fr%C3%A5n-tidrapporterna-till-l%C3%B6nesystemet
 
 ---
 

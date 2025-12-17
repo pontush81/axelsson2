@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester, skatt  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/hur-fungerar-personalkategorier-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/hur-fungerar-personalkategorier-i-hrm-payroll
 
 ---
 
@@ -27,9 +27,9 @@ Standardsemesteravtal:
 Välj det semesteravtal som ska vara standard för personalkategorin. Systemet kopplar sedan detta avtal när du lägger upp en ny person i anställdaregistret som tillhör denna kategori.
 Standardavtal för ATK/ATF:
 Välj det specifika avtal som gäller för arbetstidsförkortning om detta är aktuellt.
-![Bild](images/hur-fungerar-personalkategorier-i-hrm-payroll_ae5267bc.png)
+![Bild](images/hur-fungerar-personalkategorier-i-hrm-payroll_385510a8.png)
 För medarbetare som tillhör Fora lägger du på personalkategorin in den standard uppmärkningskod som ska tillämpas på de anställda som tillhör kategorin.
-![Bild](images/hur-fungerar-personalkategorier-i-hrm-payroll_4f1f0198.png)
+![Bild](images/hur-fungerar-personalkategorier-i-hrm-payroll_c7ab7856.png)
 Modell för uppskattning av årsinkomst
 Här ställer du in vilken modell som ska användas för att uppskatta de anställdas årsinkomst.
 Enkel
@@ -43,7 +43,7 @@ Denna modell blir lite mer korrekt ju längre året går, eftersom den tittar p�
 Snitt på utbetalt
 Systemet beräknar ett genomsnitt per månad på den bruttolön och förmån som hittills har betalats ut under året. Detta genomsnitt multipliceras sedan med tolv (12).
 Denna modell passar anställda med en stor andel rörlig lön. Prognosen blir bättre ju fler månader som finns med i underlaget.
-![Bild](images/hur-fungerar-personalkategorier-i-hrm-payroll_dc10e463.png)
+![Bild](images/hur-fungerar-personalkategorier-i-hrm-payroll_fad7c4ac.png)
 LAS
 Ställ in gränsvärden för rätt till tillsvidareanställning för de olika anställningsformerna SÄVA och VIK, samt vilken beräkningsregel som ska tillämpas för arbetsdagar. Om modulen Time används räknas arbetsdagar från Tidrapporten i HRM Time. Om tidrapportering sker i ett annat försystem kan beräkningen istället göras från en löneart i HRM Payroll. Lönearten måste då läsas in från försystemet och innehålla antalet arbetsdagar som ska inkluderas i beräkningen i antalsfältet.
-![Bild](images/hur-fungerar-personalkategorier-i-hrm-payroll_be1f08d1.png)
+![Bild](images/hur-fungerar-personalkategorier-i-hrm-payroll_f8b0b784.png)

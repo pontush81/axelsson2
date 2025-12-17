@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, lön, ob, schema, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/hur-tar-jag-bort-en-tidrapport
+**URL:** https://knowledge.flexhrm.com/hur-tar-jag-bort-en-tidrapport
 
 ---
 
@@ -20,7 +20,7 @@ Denna funktion används för att permanent radera tidrapporter enligt urval. Med
 I vyn
 Borttag av tidrapporter
 kan du göra urval på specifika anställningsnummer samt datum. Du kan välja att endast dagar som är överförda till lön ska tas bort.
-![Bild](images/hur-tar-jag-bort-en-tidrapport_abcfd692.png)
+![Bild](images/hur-tar-jag-bort-en-tidrapport_e7c48a92.png)
 Observera
 Var noga med urvalet, det går inte att ångra ett borttag av tidrapporter.
 Vi rekommenderar att stora urval körs vid tider då få arbetar i HRM, eftersom det kan påverka prestandan.

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** agi, lön, löneart, pension, semester  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/hur-g%C3%B6r-man-inst%C3%A4llningar-f%C3%B6r-rapportering-till-collectum-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/hur-g%C3%B6r-man-inst%C3%A4llningar-f%C3%B6r-rapportering-till-collectum-i-hrm-payroll
 
 ---
 
@@ -29,7 +29,7 @@ Administration > Inställningar > Lön > Pension och försäkring.
 I listan till vänster ser du företagets aktiva rapporteringar till de olika pensionsförmedlarna. Om inte Collectum finns i listan klickar du på knappen
 Ny
 och fyller i uppgifterna i formuläret för att aktivera rapportering till Collectum.
-![Bild visar inställningarna för Collectum.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_54c4d3e7.png)
+![Bild visar inställningarna för Collectum.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_74678b44.png)
 Du kan här ange följande uppgifter:
 Kostnadsställe
 För att dela upp fakturan från Collectum på olika avdelningar kan man rapportera de anställda på olika kostnadsställen. Här anger du företagets huvudsakliga kostnadsställe som ska vara standard för de anställda. Anställda som inte har ett annat kostnadsställe angivet kommer få detta kostnadsställe vid rapportering till Collectum.
@@ -39,7 +39,7 @@ Uppgifter på individnivå
 I anställdaregistret, under fliken
 Pension & försäkring
 , anger du vilka villkor som gäller för den anställde vid rapportering till Collectum.
-![Bild visar inställningar för Collectum i anställdaregistret.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_d6ef6330.png)
+![Bild visar inställningar för Collectum i anställdaregistret.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_fb8dced3.png)
 Du anger här följande uppgifter:
 Pensionsavtal
 Välj om den anställde omfattas av ITP1 eller ITP2. Avtalen är till viss del åldersstyrda, men då en anställd som är född innan 1979 kan tillhöra ITP1 om företaget avtalat,  måste man här välja vilket avtal som gäller. Anställda som inte tillhör vare sig ITP1 eller ITP2 kommer inte med i rapporteringen till Collectum.
@@ -49,7 +49,7 @@ Avtalad pensionsplan
 Här anger du den avtalade pensionsplanen som gäller för den anställde. Om du inte anger en avtalad pensionsplan visas här företagets standard i grå kursiv stil som då kommer rapporteras.
 Arbetsoförmåga
 Om den anställde tillhör ITP2 ska man rapportera grad av arbetsoförmåga vid sjukskrivning efter dag 90. Sjukanmälan gör du via Collectums internetkontor. Uppgiften om arbetsoförmåga som du anger i Flex används vid rapportering av nyanmälan med arbetsoförmåga eller vid ändrad lön under tiden man är sjukskriven.
-![Bild visar valmöjligheterna att ställa in en anställds arbetsoförmåga i en listmeny med olika procentval.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_bbb9a47c.png)
+![Bild visar valmöjligheterna att ställa in en anställds arbetsoförmåga i en listmeny med olika procentval.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_1b02c79e.png)
 Löneartsinställningar
 För rapportering av pensionsgrundande lön för ITP1 samt för beräkning av årslön för ITP2 behöver pensionsgrundande lön hämtas från vissa lönearter. Därför måste du ange vilka lönearter som ska vara pensionslönegrundande med hjälp av dessa tre kryssrutor under fliken
 Lön
@@ -64,7 +64,7 @@ Rapporterad lön för ITP1
 samt
 Årslön för ITP2
 längre ned i denna artikel.
-![Bild visar tre markerbara kryssrutor för löneartsinställningar gällande Collectum..](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_fc5595be.png)
+![Bild visar tre markerbara kryssrutor för löneartsinställningar gällande Collectum..](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_8cbdae55.png)
 Lönetillägg och löneväxling (ITP2)
 För att kunna beräkna en korrekt årslön för ITP2 behöver vi veta om den anställde har fasta lönetillägg samt löneväxling. För att göra detta använder vi
 Egna fält
@@ -72,7 +72,7 @@ som definieras under
 Administration > Inställningar > Personal > Anställdaregistret - Egna fält
 .
 För alla fält som ska räknas som ett lönetillägg eller löneväxling sätter du respektive kryss. Om du har flera fält för lönetillägg sätter du krysset på samtliga fält.
-![Bild visar de kryssrutor man kan markera för att ställa in det egna fältet som lönetillägg eller löneväxling.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_a970c2f2.png)
+![Bild visar de kryssrutor man kan markera för att ställa in det egna fältet som lönetillägg eller löneväxling.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_ac870bcd.png)
 För mer information om hur dessa fält används, se avsnittet
 Årslön för ITP2
 .
@@ -111,7 +111,7 @@ För anställda som omfattas av ITP2 ska arbetsgivaren rapportera årslönen eft
 Arbetsgivaren kan dock välja att kompensera den anställde för premiebortfall som löneväxlingen innebär genom att rapportera dubbla löner till Collectum, dvs. både den högre lönen (årslön före löneväxling) samt den lägre lönen (årslön efter löneväxling). Den högre lönen ska då rapporteras i fältet för Årslön, och den lägre i fältet ÅrslönEfterLöneavstående. Denna variant har vi i dagsläget inte stöd för i Flex HRM Payroll, då den är relativt ovanlig.
 Hopslagning per personnummer
 Om man har flera anställningsnummer för samma person som ska rapporteras till Collectum måste dessa slås ihop vid rapportering. Detta gör systemet automatiskt från version 2023.7 för både för ITP1 och ITP2. Både pensionsgrundande lön samt händelserna nyanmälan och avanmälan hanteras vid sammanslagningen.
-![Bild visar underlag för Collectum där i-symbol visas till höger för de anställningsnummer som har hopslagning av personnummer.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_a5514cb1.png)
+![Bild visar underlag för Collectum där i-symbol visas till höger för de anställningsnummer som har hopslagning av personnummer.](images/hur-gor-man-installningar-for-rapportering-till-collectum-i-hrm-payroll_1e7a0f1f.png)
 Om en sammanslagning har gjorts i rapporteringen visas en liten i-symbol i pensionsunderlaget. När du håller muspekaren över får du information om vilka anställningsnummer som har slagits ihop.
 Vad saknas det stöd för i filen från Flex HRM Payroll?
 Det finns några uppgifter som är möjliga att rapportera i filen till Collectum men som ännu inte går att rapportera från Flex HRM Payroll.

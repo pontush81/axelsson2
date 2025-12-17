@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/las-ratt-till-tillsvidareanstallning-0
+**URL:** https://knowledge.flexhrm.com/las-ratt-till-tillsvidareanstallning-0
 
 ---
 
@@ -23,7 +23,7 @@ Skapa en lista för tillsvidareanställning
 I HRM finns en egen vy under
 Personal > LAS > Rätt till tillsvidareanställning
 , där beräkningar för vilka som närmar sig eller uppnått tidpunkten för när deras visstidsanställning övergår till en tillsvidareanställning.
-![Bild](images/las-ratt-till-tillsvidareanstallning_7a46483d.png)
+![Bild](images/las-ratt-till-tillsvidareanstallning_ee024c97.png)
 Denna lista är "live" och behöver därför inte skapas upp som övriga LAS-listor.
 Anställda
 Listan visar aktiva och avslutade anställningar vid
@@ -52,11 +52,11 @@ Information om beräknade dagar
 För att se vad SÄVA-dagar respektive VIK-dagar beräknats utifrån kan du klicka på
 info-bubblorna
 i respektive kolumn.
-![Bild](images/las-ratt-till-tillsvidareanstallning_a0014113.png)
+![Bild](images/las-ratt-till-tillsvidareanstallning_040df0eb.png)
 Du kan även klicka på rader med dagar i eller som har en gul/röd statusboll i första kolumnen.
-![Bild](images/las-ratt-till-tillsvidareanstallning_47ece9c9.png)
+![Bild](images/las-ratt-till-tillsvidareanstallning_b531e169.png)
 Då får du mer information om en period justerats eller att beräkningen påverkas på ett annat sätt. Exempelvis kan du få information om en period överlappar med en annan eller som i nedan exempel där den anställde har haft 3 eller fler tillfällen samma månad:
-![Bild](images/las-ratt-till-tillsvidareanstallning_b0ec26eb.png)
+![Bild](images/las-ratt-till-tillsvidareanstallning_55447bd4.png)
 Övriga ikoner
 Filter
 Du kan välja att inte visa alla anställda i listan genom att sätta ett filter.

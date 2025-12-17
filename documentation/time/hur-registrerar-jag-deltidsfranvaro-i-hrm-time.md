@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, hrm-time, lön, ob, schema, tidkod, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/deltidsfr%C3%A5nvaro-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/deltidsfr%C3%A5nvaro-i-hrm-time
 
 ---
 
@@ -35,7 +35,7 @@ Ange
 procent
 : skriv '20' (för 20% sjukskrivning).
 Ange eventuellt meddelande, t.ex. information om hur den anställde vill arbeta under perioden.
-![Frånvarohanteraren visar en ansökan för juni 20& sjukfrånvaro.](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_469911fe.png)
+![Frånvarohanteraren visar en ansökan för juni 20& sjukfrånvaro.](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_2d394db1.png)
 2. Välj registreringssätt.
 Om den anställda ska vara sjukskriven samma procent varje dag under hela perioden:
 Markera '
@@ -51,7 +51,7 @@ Nytt schema
 ' och ange hur mycket och vilka dagar hen är ledig/arbetar.
 Spara
 schemat när du är klar.
-![Frånvarohanteraren. 20% sjukfrånvaro, ett deltidsfrånvaroschema med arbetstid måndag-torsdag, ledigt fredag-söndag.](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_aa54d64e.png)
+![Frånvarohanteraren. 20% sjukfrånvaro, ett deltidsfrånvaroschema med arbetstid måndag-torsdag, ledigt fredag-söndag.](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_5762bd0f.png)
 Saknar du valet för "Enligt schema"?
 Möjligheten att ange ett schema för deltidsfrånvaron kan behörighetsstyras. Det används ofta om man vill att den anställde ska ansöka endast med procent och att chefen sedan kompletterar med schemaläggningen vid granskning av frånvaron.
 3.
@@ -60,14 +60,14 @@ ansökan.
 4. Beroende på inställningar ska en attestant (till exempel den anställdes chef) godkänna frånvaroansökan innan den syns i tidrapporten.
 Visning av deltidsfrånvaro i tidrapporten
 Deltidsfrånvaro förkortar den anställdes schema. Deltidsfrånvarons omfattning skrivs ut i tidrapportens dag- och periodinformation.
-![Bild](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_15383500.png)
+![Bild](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_7b7cb034.png)
 Det går att visa deltidsfrånvaron med tidrader i tidrapporten, som på bilden nedan. Schemat förkortas, precis som ovan, men deltidsfrånvaron visas också med en tidrad, utlagd efter schematid.
-![Bild](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_bc5dba85.png)
+![Bild](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_f386f170.png)
 För att tidkoden för frånvaro ska läggas ut som tidrader i tidrapporten behöver man ange en
 tidkod för deltidsfrånvaro i tidrapporten
 under
 Inställningar > Tid och Bemanning > Frånvaroorsaker.
-![Frånvaroorsaker, inställningen "Tidkod för deltidsfrånvaro i tidrapporten"](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_6646c7b3.png)
+![Frånvaroorsaker, inställningen "Tidkod för deltidsfrånvaro i tidrapporten"](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_f553b0dc.png)
 OBS!
 Använd olika tidkoder för
 Tidkod för deltidsfrånvaro

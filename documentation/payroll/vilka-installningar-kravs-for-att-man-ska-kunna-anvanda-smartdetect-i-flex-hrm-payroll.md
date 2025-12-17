@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-man-ska-kunna-anv%C3%A4nda-smartdetect
+**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-man-ska-kunna-anv%C3%A4nda-smartdetect
 
 ---
 
@@ -24,7 +24,7 @@ Avvikelser
 längst upp i löneberedningen och då kommer du att få ett meddelande om att träning är ej initierad. Du behöver klicka på knappen
 Acceptera och initiera SmartDetect
 (detta görs bara en gång per företag). Efter det att träningen är klar är SmartDetect klar att användas i företaget och den kommer att fortsätta att träna sig själv med hjälp av ert företags framtida lönekörningar.
-![Bild](images/vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-payroll_fecd41eb.png)
+![Bild](images/vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-payroll_ebed5471.png)
 AI-motorns träning – Grunden för träffsäkra varningar
 Den smartaste delen av SmartDetect är dess självlärande AI-motor. För att den ska kunna identifiera vad som är en "normal" lönekörning för just ert företag behöver den tränas på er unika lönehistorik.
 Historik som "facit":
@@ -41,7 +41,7 @@ Ibland kan det finnas specifika lönearter som naturligt har stora variationer f
 Denna inställning görs via knappen
 Inställningar
 , som du hittar ovanför avvikelselistan, och den hjälper dig att finjustera systemet så att det fokuserar på de avvikelser som är viktigast för dig.
-![Bilden visar vyn där en administratör kan välja vilka lönearter som ska exkluderas från SmartDetects analys.](images/vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-payroll_db867a3e.png)
+![Bilden visar vyn där en administratör kan välja vilka lönearter som ska exkluderas från SmartDetects analys.](images/vilka-installningar-kravs-for-att-man-ska-kunna-anvanda-smartdetect-i-flex-hrm-payroll_50428dcb.png)
 Relaterade artiklar:
 Hur använder man SmartDetect i Flex HRM Payroll?
 Vad kan SmartDetect varna för i Flex HRM Payroll?

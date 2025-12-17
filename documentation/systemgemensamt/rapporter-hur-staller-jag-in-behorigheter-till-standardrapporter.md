@@ -7,14 +7,14 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/rapporter-vilka-standardrapporter-finns-0
+**URL:** https://knowledge.flexhrm.com/rapporter-vilka-standardrapporter-finns-0
 
 ---
 
 Artikeln ger en kort beskrivning av behörigheter till standardrapporter i Flex HRM.
 Du hittar standardrapporterna under menyn
 Rapporter
-![Bild](images/rapporter-hur-staller-jag-in-behorigheter-till-standardrapporter_4df875d0.png)
+![Bild](images/rapporter-hur-staller-jag-in-behorigheter-till-standardrapporter_e483097f.png)
 Behörigheten till rapporterna styrs via användarens roller. Nedan beskrivs hur behörighet till rapporterna ställs in.
 Behörighetsinställningar
 Tillgång till rapporter styrs via en rollbehörighet under
@@ -33,7 +33,7 @@ Fakturering
 samt vissa rapporter under
 Tidrapport
 . Övriga rapporter är avstängda.
-![Bild](images/rapporter-hur-staller-jag-in-behorigheter-till-standardrapporter_eff5efe2.png)
+![Bild](images/rapporter-hur-staller-jag-in-behorigheter-till-standardrapporter_21f6839a.png)
 När rollen ger behörighet till en rapport får användaren möjlighet att själv hämta ut rapporten. De anställda som användaren ser i rapporten är de som hen har behörighet till med rollen.
 Exempelvis vi har en roll som heter "Chef", och alla chefer har enligt rollen tillgång till rapporter för sin personal, det betyder att en chef endast ser sin personal när hen tar ut rapporten.
 Tänk på att behörighet i vissa fall kan kombineras med olika roller. Till exempel kan en användare ha en roll som ger behörighet till vissa rapporter och vissa anställda, men en annan roll som ger behörighet till andra rapporter.

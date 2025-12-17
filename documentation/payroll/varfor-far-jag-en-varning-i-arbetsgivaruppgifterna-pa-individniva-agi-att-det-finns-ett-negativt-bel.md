@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, lön, löneart, skatt  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/varf%C3%B6r-f%C3%A5r-jag-en-varning-i-arbetsgivaruppgifterna-p%C3%A5-individniv%C3%A5-agi-att-det-finns-ett-negativt-belopp-p%C3%A5-f%C3%A4lt-499
+**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-f%C3%A5r-jag-en-varning-i-arbetsgivaruppgifterna-p%C3%A5-individniv%C3%A5-agi-att-det-finns-ett-negativt-belopp-p%C3%A5-f%C3%A4lt-499
 
 ---
 
@@ -27,7 +27,7 @@ karensavdrag
 och
 sjuklön för dag 1-14
 inte är korrekt inställda för att redovisas som en sjuklönekostnad i AGI-underlaget. De är de enda lönearterna som ska ha inställningen. Om andra lönearter har den bocken bör du ta bort den från dem.
-![Bild](images/varfor-far-jag-en-varning-i-arbetsgivaruppgifterna-pa-individniva-agi-att-det-finns-ett-negativt-bel_1dfddd1d.png)
+![Bild](images/varfor-far-jag-en-varning-i-arbetsgivaruppgifterna-pa-individniva-agi-att-det-finns-ett-negativt-bel_c22a03f1.png)
 En korrigering av sjuklön.
 Du kan ha gjort en korrigering av en sjuklön som gäller för en tidigare månad.
 Observera!

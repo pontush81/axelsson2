@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, semester, skatt  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/hur-anv%C3%A4nder-man-smartdetect-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nder-man-smartdetect-i-flex-hrm-payroll
 
 ---
 
@@ -22,7 +22,7 @@ SmartDetect är helt integrerat i din arbetsvy för att du snabbt ska kunna ager
 Leta efter den röda pricken: Högst upp i löneberedningen finns knappen
 Avvikelser
 .
-![Bilden visar knappen för Avvikelser.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_ac70db67.png)
+![Bilden visar knappen för Avvikelser.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_e2619698.png)
 När systemet har hittat något som behöver din uppmärksamhet visas en tydlig röd prick på knappen.
 Öpp
 na
@@ -46,7 +46,7 @@ Avvikelse:
 Här ser du en kortfattad beskrivning av vad avvikelsen gäller. Notera att vi här beskriver vad som avviker, och inte varför.
 Löneart:
 Om avvikelsen är kopplad till en löneart ser du här vilken löneart det gäller.
-![Bilden visar en översikt av avvikelselistan som visar till höger i löneberedningen.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_b0cd30ff.png)
+![Bilden visar en översikt av avvikelselistan som visar till höger i löneberedningen.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_6610fa0e.png)
 Din arbetsgång – Från varning till åtgärd
 Följ dessa enkla steg för att beta av listan:
 Välj en avvikelse
@@ -61,11 +61,11 @@ En avvikelse men utan åtgärd:
 Välj detta om avvikelsen var relevant, men korrekt den här gången. Du talar då om för AI:n att den ska fortsätta registrera avvikelser för liknande händelser.
 Ej en avvikelse:
 Välj detta om avvikelsen är irrelevant. AI:n lär sig då att tona ner liknande avvikelser i framtiden.
-![Bilden visar avvikelselistan med en markerad ruta för en avvikelse samt två knappar att välja mellan för att ge feedback med.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_dd69c07f.png)
+![Bilden visar avvikelselistan med en markerad ruta för en avvikelse samt två knappar att välja mellan för att ge feedback med.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_f1fef6ae.png)
 Efter du har markerat och valt ett av feedbackalternativen ovan, försvinner avvikelsen från listan. Men, det går att se vilka avvikelser du har hanterat genom att bocka i rutan för
 Visa hanterade avvikelser
 . Dessa dyker då upp i listan igen, men då är bockrutan för dem utgråad.
-![Bilden visar funktionen "Visa hanterade avvikelse" och hur den kan visa dessa avvikelser i listan.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_66314663.png)
+![Bilden visar funktionen "Visa hanterade avvikelse" och hur den kan visa dessa avvikelser i listan.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_e17e70ce.png)
 Exempel på vad SmartDetect hittar
 SmartDetect kombinerar AI med fasta regler och kan varna för bland annat:
 Transaktioner och skatt:
@@ -81,10 +81,10 @@ Vad kan SmartDetect varna för i Flex HRM Payroll?
 Tips för ett effektivare arbetsflöde
 Sortera:
 Klicka på kolumnrubrikerna för att sortera listan, till exempel per anställd.
-![Bilden visar kolumnrubrikerna i avvikelselistan och hur man kan tryck apå någon av dem för att sortera listan.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_a7b90867.png)
+![Bilden visar kolumnrubrikerna i avvikelselistan och hur man kan tryck apå någon av dem för att sortera listan.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_1d6f2f82.png)
 Sök:
 Använd sökfältet för att snabbt hitta en specifik anställd, löneart eller varning.
-![Bilden visar sökfunktionen i avvikelselistan.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_09ba9ebd.png)
+![Bilden visar sökfunktionen i avvikelselistan.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_630f3cb4.png)
 Relaterade artiklar:
 Vilka inställningar krävs för att man ska kunna använda SmartDetect
 i Flex HRM Payroll?

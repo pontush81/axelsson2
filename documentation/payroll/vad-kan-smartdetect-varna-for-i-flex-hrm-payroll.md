@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester, skatt  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/vad-kan-smartdetect-varna-f%C3%B6r-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/vad-kan-smartdetect-varna-f%C3%B6r-i-flex-hrm-payroll
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 13  
-**URL:** https://knowledge.flexapplications.se/hur-fungerar-styrf%C3%B6retag
+**URL:** https://knowledge.flexhrm.com/hur-fungerar-styrf%C3%B6retag
 
 ---
 
@@ -37,9 +37,9 @@ och
 Frånvaroorsaker
 .
 Övriga register kan ha olika inställningar i de olika företagen, därför väljer vi att inte synka dessa utan kommer att hantera dem i varje företag för sig.
-![Bild](images/hur-fungerar-styrforetag_9495ce4f.png)
+![Bild](images/hur-fungerar-styrforetag_f8483f96.png)
 För att inte riskera att inställningarna kan diffa mellan företagen ställer vi in att de register som synkas inte kan redigeras i målföretagen, och att en synkning ska ske automatiskt varje gång vi ändrar på något av registren i företag 18407.
-![Bild](images/hur-fungerar-styrforetag_e16f06db.png)
+![Bild](images/hur-fungerar-styrforetag_c8ecea21.png)
 I målföretagen kan vi nu endast se inställningar för
 Egna fält och egna flikar
 ,
@@ -49,10 +49,10 @@ Tidkoder
 och
 Frånvaroorsaker
 , men inte ändra något.
-![Bild](images/hur-fungerar-styrforetag_45cd99f5.png)
+![Bild](images/hur-fungerar-styrforetag_aaf20d21.png)
 Ändrar vi något i dessa register i företag 18407 får det genast genomslag i de andra företagen.
-![Bild](images/hur-fungerar-styrforetag_9009735d.png)
-![Bild](images/hur-fungerar-styrforetag_bae2fdb0.png)
+![Bild](images/hur-fungerar-styrforetag_d9f880b1.png)
+![Bild](images/hur-fungerar-styrforetag_b8df2eba.png)
 Observera
 Innan du utför en synkronisering:
 Gå igenom
@@ -85,25 +85,25 @@ Allmänt > Företag
 Bocka i
 Företaget är styrföretag
 för det företag du vill använda.
-![Bild](images/hur-fungerar-styrforetag_3e767b80.png)
+![Bild](images/hur-fungerar-styrforetag_2c601478.png)
 Välj vilka företag som ska styras (målföretag)
 Gå till
 Allmänt > Styrföretag
 .
 Ange vilket/vilka företag som ska vara målföretag.
 Du kan också ta bort styrningen här. Om du tar bort styrningen behåller företaget sina nuvarande inställningar och påverkas inte längre av styrföretaget.
-![Bild](images/hur-fungerar-styrforetag_8c7a7b32.png)
+![Bild](images/hur-fungerar-styrforetag_cf29e5b3.png)
 Ett företag som styrs har en upplysning om detta under
 Allmänt > Företag
 .
-![Bild](images/hur-fungerar-styrforetag_6cc4cf6f.png)
+![Bild](images/hur-fungerar-styrforetag_92da9ae4.png)
 Regler för synkronisering
 Du kan ställa in regler för hur synkroniseringen mellan styr- och målföretag ska ske under
 Allmänt > Styrföretag,
 fliken
 Allmänt
 .
-![Bild](images/hur-fungerar-styrforetag_a04c8540.png)
+![Bild](images/hur-fungerar-styrforetag_4a91b221.png)
 Lås inställningar för redigering i styrda företag
 Du
 kan
@@ -149,7 +149,7 @@ synkroniseringsalternativ
 Klicka på
 Synkronisera
 .
-![image-png-Nov-10-2025-12-41-01-0923-PM](images/hur-fungerar-styrforetag_9495ce4f.png)
+![image-png-Nov-10-2025-12-41-01-0923-PM](images/hur-fungerar-styrforetag_f8483f96.png)
 Du får notiser som bekräftar synkningen och meddelar när den är klar. Klicka på
 Visa logg
 för att se information om synkningen och eventuella felmeddelanden.
@@ -161,7 +161,7 @@ Synkronisera
 . När testsynkroniseringen är klar får du en temporär testlogg där du kan kontrollera vilka eventuella fel och varningar som kommer att uppstå om du väljer att synkronisera.
 Spara synkroniseringsinställningar
 För att kunna schemalägga synkronisering eller ställa in automatisk synkning, måste du spara dina inställningar.
-![Bild](images/hur-fungerar-styrforetag_bd9841ad.png)
+![Bild](images/hur-fungerar-styrforetag_b262ab28.png)
 Ange ett namn för inställningen.
 Gör dina val för
 synkroniseringsalternativ
@@ -175,7 +175,7 @@ Spara inställningar
 Inställningen blir då valbar för schemaläggning och automatisk synkning.
 Synkroniseringsalternativ
 Förutom val av register och företag finns fyra ytterligare inställningar för hur synkningen ska ske.
-![Bild](images/hur-fungerar-styrforetag_314ac942.png)
+![Bild](images/hur-fungerar-styrforetag_99e2d4ac.png)
 Inaktivera saknade registerposter:
 Vid synkning överförs alla poster från styrföretaget. Om du bockar i den här rutan kommer registerposter som finns i målföretaget men inte i styrföretaget att behållas, men de blir
 inaktiva
@@ -210,7 +210,7 @@ Välj en sparad inställning för synkning.
 Ange intervall. I exemplet på bilden har vi valt att synkronisera enligt inställning
 Tidkoder
 varje dag kl 20:00.
-![Bild](images/hur-fungerar-styrforetag_a37ccd26.png)
+![Bild](images/hur-fungerar-styrforetag_1c0f8c20.png)
 Logg
 Loggen visar vilka synkningar som har gjorts och eventuella fel eller varningar.
 Gå till

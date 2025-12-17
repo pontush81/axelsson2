@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/hur-kan-jag-skapa-ett-nytt-f%C3%B6retag-eller-kopiera-ett-f%C3%B6retag
+**URL:** https://knowledge.flexhrm.com/hur-kan-jag-skapa-ett-nytt-f%C3%B6retag-eller-kopiera-ett-f%C3%B6retag
 
 ---
 
@@ -21,7 +21,7 @@ Allmänt
 >
 Företag
 . Du ser då den här vyn:
-![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_25055d28.png)
+![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_b902e246.png)
 Företagsinställningar
 Företagsnummer
 Ange det företagsnummer (ett till 99999) som ska identifiera det nya företaget.
@@ -107,7 +107,7 @@ Företag
 eller
 Kod
 :
-![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_e28ab7ca.png)
+![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_c4b206d8.png)
 Kopiera från
 Här anger du om du vill överföra befintliga inställningar till det nya företaget, och hur kopieringen i så fall ska gå till.
 Ingen Kopiering
@@ -120,7 +120,7 @@ förstoringsglaset
 för att se dina val. Under
 Kopieringsalternativ
 anger du vilken nivå kopieringen ska ske på. Du kan begränsa kopieringen till företagets inställningar (med eller utan konteringsregistret), eller välja att kopiera hela företaget.
-![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_687a0dde.png)
+![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_c64a74a2.png)
 Kod
 Om du väljer
 Kod
@@ -131,7 +131,7 @@ Allmänt
 >
 Kopiera företag
 .
-![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_65a869bd.png)
+![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_60882cb9.png)
 Slutför registreringen av det nya företaget genom att klicka på
 Spara företag
 i den övre knappraden. Det nya företaget finns nu i företagsregistret och du kan öppna det via
@@ -149,13 +149,13 @@ Användare/behörigheter
 Roller
 . Rapporten laddas ner som en Excel-fil (.xlsx).
 När du laddar ner rapporten kan du ange önskat namn och välja om du vill ladda ner den på system-, företags- eller anställdanivå.
-![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_f2e1c19e.png)
+![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_8bccf7ae.png)
 Fliken Licens
 Om du har flera företag i Flex HRM men bara vissa av dem ska ha tillgång till specifika moduler, kan du styra detta här.
 Klicka på fliken
 Licens
 för att se vyn.
-![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_44798447.png)
+![Bild](images/hur-kan-jag-skapa-ett-nytt-foretag-eller-kopiera-ett-foretag_51a480ad.png)
 Genom att avmarkera en modul döljer du all funktionalitet för den modulen när en användare arbetar i det valda företaget.
 Relaterade artiklar:
 Hur aktiverar jag koncernhantering i Flex HRM?

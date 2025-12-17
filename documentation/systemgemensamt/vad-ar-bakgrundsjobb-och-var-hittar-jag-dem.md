@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-bakgrundsjobb-och-var-hittar-jag-dem
+**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-bakgrundsjobb-och-var-hittar-jag-dem
 
 ---
 

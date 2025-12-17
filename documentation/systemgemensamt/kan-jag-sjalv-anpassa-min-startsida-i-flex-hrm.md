@@ -7,13 +7,13 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** behörighet  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/kan-jag-sj%C3%A4lv-anpassa-min-startsida-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/kan-jag-sj%C3%A4lv-anpassa-min-startsida-i-flex-hrm
 
 ---
 
 Du kan själv anpassa din startsida i Flex HRM. Du kan dölja och flytta runt paneler, samt ändra deras storlek.
 På startsidan visas de paneler som ditt företag använder och som du har behörighet till.
-![Bild](images/kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm_6b71b111.png)
+![Bild](images/kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm_6a3f47b9.png)
 Dölj paneler
 Om du vill dölja en panel klickar du på
 krysset
@@ -23,7 +23,7 @@ Inställningar
 . Bocka ur panelerna du inte vill se och klicka på
 OK
 . Du kan när som helst välja att visa dem igen.
-![Bild](images/kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm_52f6445a.png)
+![Bild](images/kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm_2aaa628d.png)
 Anpassa utseendet
 Du kan också ändra hur panelerna visas.
 Flytta paneler
@@ -36,4 +36,4 @@ kvadraten
 i panelens övre högra hörn för att visa den i helskärmsläge. Klicka sedan på
 krysset
 för att återgå.
-![Bild](images/kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm_c86d7b47.png)
+![Bild](images/kan-jag-sjalv-anpassa-min-startsida-i-flex-hrm_31e1160c.png)

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, roll  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-kan-jag-l%C3%A4gga-in-kontaktpersoner-i-flex-hem
+**URL:** https://knowledge.flexhrm.com/hur-kan-jag-l%C3%A4gga-in-kontaktpersoner-i-flex-hem
 
 ---
 
@@ -32,7 +32,7 @@ Telefon- och mobilnummer
 E-postadress
 En valfri text för att förtydliga personens roll
 Antalet kontaktpersoner som visas är valfritt.
-![Bild](images/hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm_e891fbf3.png)
+![Bild](images/hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm_f0078b8c.png)
 Lägg till och redigera kontaktpersoner
 Gå till
 Administration >
@@ -44,7 +44,7 @@ visas också i listan, men med kursiv stil.
 Du kan också välja i vilken ordning kontaktpersonerna visas i panelen på startsidan genom att sätta
 ordningsnummer
 på dem.
-![Bild](images/hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm_ff257b4c.png)
+![Bild](images/hur-kan-jag-lagga-in-kontaktpersoner-i-flex-hrm_87db32bc.png)
 Välj typ av kontaktperson
 Du kan antingen hämta en anställd från Flex HRM eller lägga till en kontaktperson manuellt.
 Anställd i Flex HRM

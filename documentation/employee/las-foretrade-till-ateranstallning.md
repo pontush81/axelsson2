@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning, kurs  
 **Bilder:** 9  
-**URL:** https://knowledge.flexapplications.se/las-foretrade-till-ateranstallning-0
+**URL:** https://knowledge.flexhrm.com/las-foretrade-till-ateranstallning-0
 
 ---
 
@@ -41,13 +41,13 @@ Klicka på
 Spara
 när du har gjort dina val.
 När beräkningen är klar visas den färdiga företrädeslistan.
-![Bild](images/las-foretrade-till-ateranstallning_97a75896.png)
+![Bild](images/las-foretrade-till-ateranstallning_d5703e87.png)
 Beräkningsdatum / Datum för säsongsstart
 Företrädeslistan beräknar dagar fram t.o.m. det angivna datumet.
 Har listan ett framtida datum, t.ex. datumet för när nästa säsong startar, kommer dagar att räknas fram t.o.m. det angivna datumet. Det blir som en slags simulering av framtida dagar.
 En anställning med en anställningsform som beräknas på kalenderdagar räknar samtliga dagar fram till det satta datumet. En anställning med en anställningsform som beräknas på arbetsdagar räknar alla dagar som är granskade i tidrapporten (HRM Time) och/eller avräknade dagar i en lönekörning (HRM Payroll) fram till det satta datumet.
 Om beräkningsdatumet är senare än dagens datum kommer du bli uppmärksammad på det genom en varning.
-![Bild](images/las-foretrade-till-ateranstallning_239652c9.png)
+![Bild](images/las-foretrade-till-ateranstallning_665f6118.png)
 Företrädeslistan
 Högst upp till vänster i vyn väljer du vilken företrädeslista du vill arbeta med och du kan där enkelt ta fram andra skapade listor.
 När du har valt en företrädeslista får du upp de anställda som ingår i den. Du kan sortera på kolumner genom att klicka på rubriken.
@@ -56,13 +56,13 @@ Nr
 , d.v.s. vilken företrädesordning respektive anställd har. Det är alltså i den ordningen du ska tillfråga dem om ny anställning.
 Färgförklaring
 De färgade bollarna visar om den anställde kunnat beräknas korrekt d.v.s. det har inget att göra med om företräde är uppnått eller inte.
-![Bild](images/las-foretrade-till-ateranstallning_140ecac5.png)
+![Bild](images/las-foretrade-till-ateranstallning_7fdf4641.png)
 Beräknades utan problem.
-![Bild](images/las-foretrade-till-ateranstallning_6692c681.png)
+![Bild](images/las-foretrade-till-ateranstallning_cd624868.png)
 Beräknades med varning. Exempelvis kan det finnas perioder i tidrapporten som inte är granskade och därmed inte kan beräknas eller att övergångsregeln har tagits i beaktande. Mer information om vilken anställningsperiod det gäller finns under info-bubblorna.
-![Bild](images/las-foretrade-till-ateranstallning_c3b2235d.png)
+![Bild](images/las-foretrade-till-ateranstallning_3b78953d.png)
 Beräknades inte. Exempelvis om någon av den anställdes anställningsperioder saknar fr.o.m. datum.
-![Bild](images/las-foretrade-till-ateranstallning_879d4e1a.png)
+![Bild](images/las-foretrade-till-ateranstallning_0dee105f.png)
 Info-bubblan, som du hittar i kolumnerna för företrädesdagar och anställningsdagar, visar från vilka perioder de insamlade dagarna kommer ifrån samt om beräkningen är gjord på kalenderdagar eller arbetade dagar.
 Info i listan
 Avgångsorsak
@@ -80,9 +80,9 @@ Kolumnen
 Status
 används för att följa vilken status respektive anställd i listan har. Du kan redigera statusen för anställda som uppnått företrädesrätt. För anställda i listan som ännu inte uppnått företrädesrätt eller att den upphört är statusen fast till Ej företrädesrätt.
 Status sparas per anställningsperiod och kan redigeras antingen från en lista den anställde är med i:
-![Bild](images/las-foretrade-till-ateranstallning_742c3c78.png)
+![Bild](images/las-foretrade-till-ateranstallning_ab45f650.png)
 eller från den anställdes LAS-flik i anställdaregistret:
-![Bild](images/las-foretrade-till-ateranstallning_d02efa5a.png)
+![Bild](images/las-foretrade-till-ateranstallning_c1219b36.png)
 Statusen hämtas direkt från anställningsperioden och är därmed live. Det kräver alltså inte en omräkning av listan. Ändras statusen slår den igenom på alla listor som anställningen finns på, där det är samma gällande period för beräkningsdatum.
 Notera att status för anställningsperioder som inte är företrädesrättsgrundande inte visas varken i anställdaregistrets LAS-flik eller i företrädeslistan. I företrädeslistan ser du alltid status för den senaste anställningsperioden som var företrädesrättsgrundande.
 Anställda
@@ -131,7 +131,7 @@ ha varit säsongsanställd
 inom nio månader från beräkningsdatumet (när den nya säsongen börjar) och
 haft en anställningstid som uppnått sex månader (30x6 = 180 dagar) inom 2 år från beräkningsdatumet.
 Övriga ikoner
-![Bild](images/las-foretrade-till-ateranstallning_8438ce87.png)
+![Bild](images/las-foretrade-till-ateranstallning_87eb026c.png)
 Filter
 Du kan välja att inte visa alla anställda i listan genom att sätta ett filter. Filtret tittar på värden som är sparade i respektive lista d.v.s. inte värdet från anställdaregistret.
 Exportera

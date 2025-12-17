@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, hrm-employee, offboarding, onboarding, signering  
 **Bilder:** 21  
-**URL:** https://knowledge.flexapplications.se/hur-hanterar-flex-hrm-employee-onboarding-och-offboarding-av-anst%C3%A4llda
+**URL:** https://knowledge.flexhrm.com/hur-hanterar-flex-hrm-employee-onboarding-och-offboarding-av-anst%C3%A4llda
 
 ---
 
@@ -24,14 +24,14 @@ Att lägga upp en nyanställd med hjälp av anställningsprocessen
 Gå till
 Personal > Nyanställning
 .
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_716fa1d6.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_7666a726.png)
 Klicka på
 Ny anställd
 och välj lämplig
 anställningsmall
 för den aktuella medarbetaren.
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_bc99d092.png)
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_789eee79.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_e2f1c819.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_6e29f835.png)
 Anställningsmall i HRM hjälper till att effektivisera anställningsflödet med default-värden och genom att skapa en användare till den anställde med automatik
 Fyll i alla uppgifter om den anställde. Tryck på
 spara
@@ -39,31 +39,31 @@ för att spara uppgifterna.
 Nu syns den anställde i listvyn
 Anställda > Nyanställning
 .
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_a9b1ce06.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_6c5f1afa.png)
 Om du inte kan fylla i alla uppgifter direkt kan du spara och sedan komma tillbaka vid ett senare tillfälle.
 *
 visar vad som måste anges innan du kan spara första gången.
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_90b728bb.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_7af005fb.png)
 När du fyllt i alla uppgifter så ska du godkänna din nyanställning.
 Du godkänner genom att
 bocka i
 aktuellt granskningssteg
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_c1de41f6.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_6f9c7315.png)
 Om du inte har fyllt i alla fält som åläggs dig i och med ditt granskningssteg får du ett
 felmeddelande
 .
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_e6498b1e.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_73729b40.png)
 När du fyllt i de
 obligatoriska fälten (**)
 kan du gå vidare i processen och granska enligt ovan och nästa nivå för granskning träder då in.
 Om man har aktiverat minst en granskningsnivå i företaget kommer det i anställdaregistret visas att den anställde ej är aktiverad och att ytterligare granskning krävs.
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_0fa759ec.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_afd7ce87.png)
 Vilket innebär att den anställde inte kommer att synas någon annanstans i systemet än i anställdaregistret. Den anställde kan alltså inte registrera tidrapport eller reseräkning.
 När alla nivåer för granskning är genomförda kommer den anställde eller den nya anställningsperioden att bli tillgänglig i resten av systemet, och den anställde kan då till exempel börja tidrapportera och göra reseräkningar. Det innebär även att den anställde inte längre syns i Nyanställningsvyn.
 I anställdaregistret får man information om vem som utfört granskningen samt tidpunkt för detta via
 Mer – Granskningslogg
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_59439183.png)
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_fbba3cd1.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_26753b80.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_60df7cf3.png)
 Ta fram ett anställningsavtal
 Har du behörighet att hämta ett anställningsavtal syns ikonen
 Anställningsavtal
@@ -73,12 +73,12 @@ Avtal
 som
 Anställningsavtalet
 kan hämtas.
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_d3ec718e.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_39106c7d.png)
 Välj rätt A
 nställningsavtal
 , fyll i uppgifter i rutan och ladda ner eller skicka avtal för e-signering.
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_9f34baf5.png)
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_583ef76d.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_e6e71d4b.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_31701c29.png)
 Läs om hur du skickar dokumentet för E-signering
 Skapa ny anställningsperiod
 När en anställd som redan har varit eller är anställd i företaget får en ny anställning/nya anställningsvillkor så ska en ny anställningsperiod läggas upp på den anställde. Det görs via
@@ -86,10 +86,10 @@ Personal > Nyanställning
 .
 Välj
 Ny anställningsperiod
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_811989d3.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_8591236b.png)
 Hämta upp den anställde i listan
 Anställd
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_1326a92a.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_0fa92896.png)
 Bra att veta!
 Hittar du inte den anställde i listan? Ta hjälp av din systemadministratör som då behöver lägga upp den nya perioden för den anställde för att du ska få behörighet till den anställde.
 Välj datum för den
@@ -99,7 +99,7 @@ anställningsmall
 alt.
 kopiera uppgifter från en befintlig tidigare anställningsperiod
 .
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_20be4406.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_bd32bd91.png)
 Observera att vid
 Kopiera uppgifter från tidigare anställningsperiod
 använder systemet den anställningsmall som den tidigare perioden lades upp på och följer de regler som gäller det flödet.
@@ -116,19 +116,19 @@ startsidan
 ser du också vilka anställda påminnelsen avser, och inom parentes hur många anställningsperioder det rör sig om. Om du
 klickar på den anställdes namn
 öppnas vyn för nyanställning, där du får en överblick över alla anställda som är kvar att granska.
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_a3862478.png)
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_e41599e4.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_81ccd46a.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_f5e2935e.png)
 Uppdrag - En digital checklista vid onboarding
 När en
 uppdragsmall för onboarding
 används i anställningsflödet triggas uppgifter till ansvariga igång för vad som ska göras när en anställd börjar.
 Uppdragsmall för onboarding kopplas vanligen på en anställninsgperiod via Nyanställning. Det kan ske med automatik från Anställningsmallen eller manuellt av en användare.
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_51b6975d.png)
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_9460043d.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_ae8013db.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_8f0ddb16.png)
 I uppgiftspanelen på
 startsidan
 kan du se de uppgifter du är ansvarig för. Här kan du, allteftersom du utför dina uppgifter, ändra status på dem och vid behov skriva kommentarer genom att klicka på pratbubblan till höger om statusen.
-![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_04bc6aa8.png)
+![Bild](images/ny-anstallning-sa-hanterar-hrm-employee-onboarding-av-anstallda_784c4300.png)
 Hur hanterar jag uppgifter vid en onboarding?
 Relaterade artiklar
 Hur hanterar jag uppgifter och uppdrag i HRM?

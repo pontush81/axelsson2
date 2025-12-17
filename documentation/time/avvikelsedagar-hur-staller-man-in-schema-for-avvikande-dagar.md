@@ -7,12 +7,12 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, schema, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/avvikelsedagar-hur-st%C3%A4ller-man-in-avvikande-dagar
+**URL:** https://knowledge.flexhrm.com/avvikelsedagar-hur-st%C3%A4ller-man-in-avvikande-dagar
 
 ---
 
 Denna artikel förklarar inställningarna i vyn Avvikelsedagar
-![test bredd](images/avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar_82bcded6.png)
+![test bredd](images/avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar_e3b7ada2.png)
 Avvikelsedagar används för att
 ställa in de avvikande dagar som finns under året, t.ex. om scheman automatiskt ska ändras till ledig dag på röda dagar som infaller på vardagar.
 Här följer en förklaring av inställningarna i vyn.
@@ -61,4 +61,4 @@ Här kan du ange mellan vilka år en specifik rad ska vara giltig. Behöver du t
 Exempel
 På trettondagsafton ska alla anställda få dagschema LED (ett schema för ledig dag), förutom i tidgrupp TJM. Där ska man istället minska arbetstiden med 50%.
 I vyn för avvikelsedagar behöver vi två rader för trettondagsafton. En gäller Samtliga, en gäller tidgrupp TJM. "Samtliga" innebär då "Samtliga som inte berörs av en annan rad för samma dag".
-![avve2](images/avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar_70374380.png)
+![avve2](images/avvikelsedagar-hur-staller-man-in-schema-for-avvikande-dagar_28e978fd.png)

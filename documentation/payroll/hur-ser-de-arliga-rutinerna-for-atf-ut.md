@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** agi, lön, löneart, pension  
 **Bilder:** 13  
-**URL:** https://knowledge.flexapplications.se/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut
+**URL:** https://knowledge.flexhrm.com/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut
 
 ---
 
@@ -26,7 +26,7 @@ För att påbörja en ny intjänandeperiod går du in i översiktsvyn under Admi
 Bearbetningar – Årsrutiner – ATK/ATF-skifte. Här bör de anställda du ska påbörja en ny
 intjänandeperiod för i översiktsvyn ha en pågående intjänandeperiod (den som ska avslutas),
 och en uttagsperiod. Det kan då se ut så här.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_498bc964.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_f637a234.png)
 Högst upp i knappraden klickar du på
 Påbörja ny intjänandeperiod
 . Du får då upp urvalsvynför att starta en ny intjänandeperiod.
@@ -39,7 +39,7 @@ Du kan också göra urval på ett specifikt ATK/ATF-avtal samt urval på anstäl
 påbörja en ny intjänandeperiod för en grupp i taget.
 När du gjort dina urval startar du rutinen genom att klicka på Skapa. När beräkningen är klar
 uppdateras listan och du ser resultatet.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_47c875e4.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_1bdb5fee.png)
 I den blåa kolumnen ser du den nya intjänandeperioden som är tom då de anställda ännu
 inte tjänat in något. Här kommer värden fyllas på så snart en lönekörning skapas för den nya
 perioden. Den avslutade intjänandeperioden har ny hamnat i de gula kolumnerna för
@@ -47,7 +47,7 @@ valperioden. Det är dessa intjänade timmar som den anställde, beroende på av
 vad hen vill göra med. Om man har ett avtal där man inte kan välja visas uttagstypen direkt
 som i bilden nedan.
 De gröna kolumnerna längst till höger är fortfarande oförändrade.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_ab9e064a.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_016cd6a5.png)
 2. Den anställdes val
 Om den anställde enligt avtal ska kunna välja vad man ska göra med de intjänade timmarna
 sker detta som nästa steg.
@@ -57,14 +57,14 @@ senast ska ha gjort sitt val. Om man önskar kan man också ställa in påminnel
 anställde och/eller chefer att det är dags att gå in och göra sitt val eller påminna om att
 deadline närmar sig. Påminnelser kan man få både som e-post, notiser i HRM Mobile
 eller via startsidan i Flex HRM.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_83c7d5c7.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_746ba994.png)
 Själva valet gör den anställde på startsidan i Flex HRM i panelen för ATK/ATF. Tänk på att den
 anställde måste ges behörighet till denna panel. Nedan ser du ett exempel på hur det ser ut
 för en anställd som inte gjort sitt val ännu.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_0ddef6ca.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_8ad86268.png)
 När den anställde gjort sitt val och skickat in svar ser det ut som i bilden nedan. Den
 anställde kan enkelt ändra sitt svar även i efterhand om så önskas.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_06a2e40b.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_aeff343d.png)
 Som administratör kan du alltid lägga in den anställdes val direkt i anställdaregistret, på fliken
 ATK/ATF.
 3. Verkställ val och påbörja ny uttagsperiod
@@ -85,9 +85,9 @@ som inte gjort sitt val är det okej om inte alla gjort något val, annars behö
 gjort ett val.
 Du kan också titta lite på de gröna kolumnerna för den gamla uttagsperioden. Där bör det
 inte finnas så mycket kvarvarande timmar.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_dd75749e.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_bae5037a.png)
 Om allt ser bra ut kan du nu köra själva rutinen för att Verkställa val och påbörja ny uttagsperiod.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_f7cf2132.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_b7ff2502.png)
 I dialogrutan anger du startdatumet för den nya uttagsperioden. Detta datum används för att
 hitta alla anställda med ett avtal där uttagsperioden stämmer med detta datum. Du kan
 också göra urval på ATK/ATF-avtal eller en grupp av anställda om du inte vill köra för alla anställda på en gång. Det kan vara bra att testa på en enstaka anställd först för att se att alla
@@ -95,18 +95,18 @@ lönearter fungerar korrekt.
 När du klickar på Verkställ startar rutinen. Observera att denna rutin inte går att backa. När
 beräkningen är klart ser du i översiktsvyn att valperioden är borta och nu har blivit den nya
 uttagsperioden.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_0e0d720e.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_77b5096f.png)
 När du klickar på
 Verkställ
 startar rutinen. Observera att denna rutin inte går att backa. När
 beräkningen är klart ser du i översiktsvyn att valperioden är borta och nu har blivit den nya
 uttagsperioden.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_9a5d4953.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_97a61c86.png)
 I löneberedningen, på fliken ATF, kan man nu se två uttagsperioder i den lönekörningen där
 verkställandet av ny uttagsperiod gjorts. Dels den nu avslutade uttagsperioden där
 eventuellt kvarvarande saldo betalats ut, dels det nya uttagsåret som den anställde nyligen
 valt hur de vill ta ut.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_f9fc7dde.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_464e8782.png)
 Exempel
 Nedan visar vi exempel på hur det kan bli för anställda i olika scenarier.
 Exempel 1:
@@ -114,7 +114,7 @@ En anställd har under föregående uttagsperiod valt betald ledig tid, men har 
 timmar. Den anställde har också i den nya uttagsperioden valt betald ledig tid. Systemet
 kommer då betala ut kvarvarande timmar från det avslutande året. För det nya uttagsåret ser
 man det nya saldot.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_4c125e7c.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_a76b502f.png)
 Exempel 2:
 En anställd har 4 timmar betald ledighet kvar från den föregående uttagsperioden då
 lönekörningen startades. Den anställde tog ut 3 av dessa som betald ledig tid i slutet av
@@ -122,7 +122,7 @@ uttagsperioden (löneart 352). Dessa har hämtats in från tidrapporten som vanl
 ATF-ledighet. Därefter har man kört rutinen för att verkställa den anställdes val och påbörja
 en ny uttagsperiod. Då den anställde har ytterligare 1 timme kvar i den avslutade
 uttagsperioden betalas detta ut (löneart 353).
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_cbabd00e.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_94f37de4.png)
 4. Inbetalning av extra pensionsavsättning
 Om du har ett avtal som tillåter det och har anställda som valt avsättning som extra
 pensionsavsättning behöver detta hanteras manuellt (för rapportering till Fora, se ”Skapa fil

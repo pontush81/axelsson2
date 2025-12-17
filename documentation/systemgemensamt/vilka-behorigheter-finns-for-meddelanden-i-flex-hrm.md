@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/vilka-beh%C3%B6righeter-finns-f%C3%B6r-meddelanden-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/vilka-beh%C3%B6righeter-finns-f%C3%B6r-meddelanden-i-flex-hrm
 
 ---
 
@@ -43,7 +43,7 @@ själv skicka meddelanden
 , bockar du i det under noden för
 Meddelanden
 på startsidan.
-![Bild](images/vilka-behorigheter-finns-for-meddelanden-i-flex-hrm_58c92092.png)
+![Bild](images/vilka-behorigheter-finns-for-meddelanden-i-flex-hrm_1c7f2f0c.png)
 Du kan också ställa in om rollen ska vara behörig att skicka meddelanden till
 alla användare
 och att skicka
@@ -51,7 +51,7 @@ schemalagda meddelanden
 . Detta gör du på fliken
 Allmänt
 .
-![Bild](images/vilka-behorigheter-finns-for-meddelanden-i-flex-hrm_68e50ad4.png)
+![Bild](images/vilka-behorigheter-finns-for-meddelanden-i-flex-hrm_21e3c040.png)
 Skicka schemalagda meddelanden
 innebär att användaren kan ställa in en giltighetstid för ett meddelande, till exempel att det endast ska visas en viss dag.
 Skicka till alla användare
@@ -71,7 +71,7 @@ Alla
 Alla i ett visst företag
 Alla med en viss roll
 Alla med viss hemkontering
-![Bild](images/vilka-behorigheter-finns-for-meddelanden-i-flex-hrm_548df602.png)
+![Bild](images/vilka-behorigheter-finns-for-meddelanden-i-flex-hrm_b2078dbb.png)
 Relaterade artiklar
 Hur fungerar meddelanden i Flex HRM?
 Hur fungerar meddelanden i HRM Mobile?

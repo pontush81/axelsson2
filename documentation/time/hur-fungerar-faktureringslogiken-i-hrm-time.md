@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/hur-fungerar-faktureringslogiken-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/hur-fungerar-faktureringslogiken-i-hrm-time
 
 ---
 

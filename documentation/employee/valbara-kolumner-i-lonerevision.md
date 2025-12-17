@@ -7,14 +7,14 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lönerevision  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/valbara-kolumner-i-lonerevision-0
+**URL:** https://knowledge.flexhrm.com/valbara-kolumner-i-lonerevision-0
 
 ---
 
 I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  
 
 Nedan beskrivs funktionen Valbara kolumner under systemets förberedande steg.
-![Bild](images/valbara-kolumner-i-lonerevision_b8720f89.png)
+![Bild](images/valbara-kolumner-i-lonerevision_03ceb9dd.png)
 Valbara kolumner i lönerevisionen
 Personal > Lönerevision
 När du arbetar med lönesättning i en lönerevision behöver du ofta ta hänsyn till olika saker, till exempel lönetillägg, förmåner och flexpension. För att ge dig en tydlig överblick kan du därför ställa in vilka kolumner som ska visas i lönerevisionen.
@@ -26,7 +26,7 @@ De kolumner du väljer här visas för alla användare som arbetar i just den h�
 Inställningarna är unika för varje lönerevision.
 När du skapar en ny lönerevision föreslår systemet samma kolumner som användes i den föregående.
 Du kan ändra ordningen på kolumnerna med de blå pilarna.
-![Bild](images/valbara-kolumner-i-lonerevision_e53573a3.png)
+![Bild](images/valbara-kolumner-i-lonerevision_a188fddc.png)
 Gröna kolumner
 Vissa kolumner är gröna i lönerevisionsvyn. Dessa innehåller extra information om den anställde och visar alltid det aktuella värdet i systemet. Det betyder att värdet inte nödvändigtvis är detsamma som det var när lönerevisionen genomfördes.
 Tillgängliga kolumner

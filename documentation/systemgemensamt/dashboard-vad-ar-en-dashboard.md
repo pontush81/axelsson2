@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/dashboard-vad-%C3%A4r-en-dashboard
+**URL:** https://knowledge.flexhrm.com/dashboard-vad-%C3%A4r-en-dashboard
 
 ---
 
@@ -15,7 +15,7 @@ Dashboarden i Flex HRM ger en översikt av HR-nyckeltal som bl. a. sjukfrånvaro
 Dashboard i Flex HRM
 Som administratör kan du skapa flera dashboards anpassade för olika syften och roller inom företaget. Du styr vem som ska se vad, så att företagsledningen, HR och chefer alltid har tillgång till relevant och uppdaterad information.
 Vilka nyckeltal du kan visa i en dashboard beror på vilka moduler av Flex HRM som ingår i er licens.
-![Bild](images/dashboard-vad-ar-en-dashboard_443d25d9.png)
+![Bild](images/dashboard-vad-ar-en-dashboard_27926f93.png)
 Så fungerar dashboards och paneler
 En dashboard fungerar som en samlingsyta där du presenterar information. Själva informationen, till exempel ett cirkeldiagram som visar sjukfrånvaro eller en mätare för personalomsättning, lägger du in i så kallade paneler.
 Du skapar alltså först de paneler du vill använda och lägger sedan till dem i en dashboard. Du kan återanvända samma panel i flera olika dashboards.
@@ -65,7 +65,7 @@ Välj den roll som ska få tillgång till dashboarden.
 Under noden
 Hem
 ser du en lista över tillgängliga dashboards. Bocka i den eller de dashboards som rollen ska ha behörighet till.
-![Bild](images/dashboard-vad-ar-en-dashboard_2774456f.png)
+![Bild](images/dashboard-vad-ar-en-dashboard_2aebbf48.png)
 Behörighetsstyrning i dashboards
 Du kan styra vilken data en användare ser i en dashboard baserat på sin roll. Detta är användbart om du till exempel vill att en avdelningschef endast ska se nyckeltal för sin egen avdelning.
 Välj den dashboard du vill behörighetsstyra.
@@ -76,11 +76,11 @@ En dialogruta visas:
 Om du bockar i rutan
 Samtliga anställda
 sker ingen behörighetsstyrning, och alla som ser dashboarden ser data för samtliga anställda.
-![Bild](images/dashboard-vad-ar-en-dashboard_cf1b310b.png)
+![Bild](images/dashboard-vad-ar-en-dashboard_63ae94ad.png)
 Om rutan
 inte
 är ibockad kommer användaren endast att se data för de anställda som matchar dennes roll.
-![Bild](images/dashboard-vad-ar-en-dashboard_0c63253f.png)
+![Bild](images/dashboard-vad-ar-en-dashboard_6ff29654.png)
 Observera!
 Om en dashboard saknar en kopplad roll och rutan "Samtliga anställda"
 inte
@@ -94,7 +94,7 @@ Behörighet att se detaljer om anställda
 . Om du bockar i denna ruta kan användaren klicka på en del av ett diagram, till exempel en stapel, för att se en lista över de anställda som datan baseras på.
 Anpassa för HRM Mobile
 Du kan bestämma i vilken ordning panelerna ska visas i mobilappen HRM Mobile. I vyn där du konfigurerar din dashboard, dra och släpp panelerna med de blå pilarna för att ändra ordningen
-![Bild](images/dashboard-vad-ar-en-dashboard_d0e0d4c2.png)
+![Bild](images/dashboard-vad-ar-en-dashboard_72d2ebdf.png)
 Relaterade artiklar:
 Hur går jag tillväga för att presentera Dashboards på Startsidan (Hem)?
 Paneler i Dashboard- Hur fungerar de gemensamma inställningarna för paneler i Dashboard?

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** roll  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/checklista-vid-%C3%A5rsskifte-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/checklista-vid-%C3%A5rsskifte-i-flex-hrm-payroll
 
 ---
 

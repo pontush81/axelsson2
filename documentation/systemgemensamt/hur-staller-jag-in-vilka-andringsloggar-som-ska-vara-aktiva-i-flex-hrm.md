@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/logginst%C3%A4llningar-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/logginst%C3%A4llningar-flex-hrm-0
 
 ---
 
@@ -23,9 +23,9 @@ Allmänt > Loggning > Logginställningar
 .
 Aktivera en logginställning
 Till vänster i vyn ser du de logginställningar som redan finns.
-![Bild](images/hur-staller-jag-in-vilka-andringsloggar-som-ska-vara-aktiva-i-flex-hrm_078f4f76.png)
+![Bild](images/hur-staller-jag-in-vilka-andringsloggar-som-ska-vara-aktiva-i-flex-hrm_3e0348a7.png)
 Klicka på en logg för att se hur den är inställd.
-![Bild](images/hur-staller-jag-in-vilka-andringsloggar-som-ska-vara-aktiva-i-flex-hrm_c854050a.png)
+![Bild](images/hur-staller-jag-in-vilka-andringsloggar-som-ska-vara-aktiva-i-flex-hrm_814038fe.png)
 Gör så här för att lägga till en ny
 Klicka på knappen
 Ny
@@ -42,7 +42,7 @@ Loggtyp
 visas de loggtyper som
 ännu inte
 har en sparad rad överst i listan. Det gör det enklare för dig att se vilka loggar du inte har lagt till.
-![Bild](images/hur-staller-jag-in-vilka-andringsloggar-som-ska-vara-aktiva-i-flex-hrm_e6196db9.png)
+![Bild](images/hur-staller-jag-in-vilka-andringsloggar-som-ska-vara-aktiva-i-flex-hrm_25214649.png)
 Markera kryssrutan
 Aktiv
 för att starta loggningen för den valda loggtypen.

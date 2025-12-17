@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/las-berakningsdetaljer-fordjupning-0
+**URL:** https://knowledge.flexhrm.com/las-berakningsdetaljer-fordjupning-0
 
 ---
 
@@ -35,7 +35,7 @@ perioden är sammanhängande med föregående period på max sex månader, Sex m
 Tre tillfällen eller fler - Beräkning av mellanliggande tid vid SÄVA
 De som haft tre eller fler SÄVA-dagar under en och samma kalendermånad får tillgodoräkna sig tiden/dagarna mellan första och sista arbetade dagen. Det här gäller oavsett om beräkningen görs på kalenderdagar eller arbetsdagar.
 I nedan exempel har den anställde tre SÄVA-dagar/anställningar för perioden måndag till söndag 1-7 september 2025.
-![Bild](images/las-berakningsdetaljer-fordjupning_1adf1a24.png)
+![Bild](images/las-berakningsdetaljer-fordjupning_39560d69.png)
 Exempel 1 = 3 anställningsdagar
 Exempel 2 = 4 anställningsdagar
 Exempel 3 = 7 anställningsdagar

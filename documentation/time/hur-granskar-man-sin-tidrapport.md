@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** ob, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/hur-granskar-man-sin-tidrapport
+**URL:** https://knowledge.flexhrm.com/hur-granskar-man-sin-tidrapport
 
 ---
 
@@ -20,14 +20,14 @@ för att användaren granskar sin rapporterade tid. Det kan heta något annat ho
 1. Dag för dag kan du under status ange att dagen är klar från dagredovisningsfliken.
 Klicka bara på
 Status > Klarmarkera dag.
-![Bild](images/hur-granskar-man-sin-tidrapport_ac671f4d.png)
+![Bild](images/hur-granskar-man-sin-tidrapport_125d6045.png)
 2. Via vecko- eller månadsvyn kan varje dag också granskas, klicka bara på ett datum och använd granskningsikonen.
-![Tidrapporten periodvy. Man har klickat på ett datum och fått en ikon för att klarmarkera dagen.](images/hur-granskar-man-sin-tidrapport_e6bbf8a5.png)
+![Tidrapporten periodvy. Man har klickat på ett datum och fått en ikon för att klarmarkera dagen.](images/hur-granskar-man-sin-tidrapport_ba8c4cea.png)
 3. Vill du klarmarkera flera dagar på en gång kan du gå till vecko- eller månadsvyn och klicka på
 Status > Klarmarkera dagar
 .
-![Bild](images/hur-granskar-man-sin-tidrapport_ad56727f.png)
+![Bild](images/hur-granskar-man-sin-tidrapport_67b939fc.png)
 4. Ange vilket intervall du vill granska.
-![Popup för att ange datumintervall och klarmarkera eller återställa.](images/hur-granskar-man-sin-tidrapport_1b523861.png)
+![Popup för att ange datumintervall och klarmarkera eller återställa.](images/hur-granskar-man-sin-tidrapport_fabcf0e0.png)
 5. När hela perioden är granskad ändras periodstatusen.
-![Statusikonen är grön, text visar "Klarmarkerad".](images/hur-granskar-man-sin-tidrapport_a968e784.png)
+![Statusikonen är grön, text visar "Klarmarkerad".](images/hur-granskar-man-sin-tidrapport_fe3115da.png)

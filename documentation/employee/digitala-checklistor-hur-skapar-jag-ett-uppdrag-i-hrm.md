@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, offboarding, onboarding  
 **Bilder:** 19  
-**URL:** https://knowledge.flexapplications.se/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm-0
+**URL:** https://knowledge.flexhrm.com/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm-0
 
 ---
 
@@ -30,9 +30,9 @@ Uppdragsvyn
 Under
 Administration > Register > Uppdrag
 hanterar du alla uppdrag som du har skapat eller är ansvarig för.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_ca847e73.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_1e045b56.png)
 Du kan strukturera uppdragen i en trädstruktur för att få en bättre överblick. I listan till vänster ser du alla uppdrag, deras status, vem som är ansvarig och när de ska vara klara. Uppdrag som har passerat sitt datum för deadline utan att markeras som klara blir rödmarkerade i listan.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_fa7a0467.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_935fedc5.png)
 Uppdrag kan skapas som huvud- och delmoment (visas som mappar) eller som uppgifter (den lägsta nivån i strukturen). Du kan ange startdatum, sista klardatum, ansvarig och en beskrivning för alla nivåer. Du kan även bifoga filer till både moment och enskilda uppgifter.
 Hur du startar nya uppdrag kan du läsa mer om
 HÄR
@@ -41,7 +41,7 @@ Uppdragsmallar
 För att underlätta när du skapar nya uppdrag kan du använda u
 ppdragsmallar
 . Du växlar mellan uppdrag och uppdragsmallar med hjälp av knapparna i menyraden.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_5eca2e35.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_15210d9a.png)
 Du skapar uppdragsmallar på nästan samma sätt som vanliga uppdrag, med skillnaden att mallarna inte har något start- eller slutdatum. All information du lägger in i mallen, som ansvarig person eller bifogade filer, följer med när du sedan använder mallen för att skapa ett nytt uppdrag.
 Skapa mallar för nyanställning och avslut
 Nu ska vi gå igenom hur du skapar uppdragsmallar som innehåller de uppgifter som ska utföras vid en nyanställning (onboarding) eller ett avslut (offboarding). Detta gör du under
@@ -50,19 +50,19 @@ via knappen
 Uppdragsmallar
 .
 Vi rekommenderar att du delar upp varje mall i undermappar för att skapa en tydlig struktur, till exempel baserat på vem som ansvarar för de olika uppgifterna. Fundera igenom vilka uppgifter som är aktuella i just din organisation och vem som ska göra vad. Om det till exempel alltid är samma person som beställer en ny dator kan du med fördel lägga in den personen som ansvarig direkt i mallen.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_e9aa5f3d.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_ba0bd960.png)
 Klicka på
 Ny
 och skapa din mall.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_74d78119.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_406fa7b4.png)
 För att mallen ska kunna användas vid nyanställning och avslut av anställning markerar du detta med en kryssruta för
 Används vid nyanställning
 alternativt
 Används vid avslut av anställning
 .
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_175f8e4a.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_71720d34.png)
 Här anger du också när uppdraget ska vara klart, relativt anställnings- eller avgångsdatum. Du kan även sätta olika datum för olika delar av uppdraget för att exempelvis säkerställa att nödvändig utrustning finns på plats när den anställde börjar.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_8a5042ef.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_ea94431d.png)
 Tänk på att datumet för
 Senast klart
 på ett huvudmoment styr de datum du kan ange på underliggande uppgifter och delmoment.
@@ -75,18 +75,18 @@ Lägg till rad
 , skriv in namn och
 spara
 .
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_156fb659.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_ebbf37c4.png)
 Skapa uppgifterna till checklistan
 När huvudmomenten är skapade är det dags att lägga till de faktiska uppgifterna. Klicka på mappen i trädstrukturen till vänster.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_8b413553.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_ad6b716e.png)
 Under
 Delmoment
 klickar du på
 Lägg till rad
 för att lägga till uppgifter. I exempelbilden nedan visas uppgifterna som lagt till under huvudmomentet Närmaste chef.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_90d07f85.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_0039f015.png)
 När du skapat dina uppgifter med namn och sparat, klickar du dig in i uppgiften via menyn till vänster.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_12b67a5e.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_df17c77e.png)
 I uppgiften sätter du sen önskad deadline för
 Senast klart
 ,
@@ -113,11 +113,11 @@ eller
 Närmaste chef är ansvarig
 sätts ansvarig från registret.
 Här kan du läsa mer om Närmaste chef.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_433a727e.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_338f5384.png)
 Om du markerar att
 ansvarig ska ärvas,
 kommer underliggande uppgifter eller delmoment automatiskt att få samma ansvarig som huvudmomentet (den övre mappen). Är bocken för närmaste chef eller anställd ibockad kommer den inställningen ärvas från ovan nivå. Om du vill ändra på någon nivå behöver du först bocka ur ärver för att kunna välja chef/anställd istället.
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_ec65f272.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_e4af61df.png)
 Är det tomt i listan när du ska välja Huvudansvarig eller ansvarig användare?
 Då beror det på att rollen/rollerna inte har rätt behörigheter. För att kunna ta emot och hantera uppgifter måste användaren ha en roll som har panelen
 Uppdrag
@@ -140,17 +140,17 @@ Administration > Användare/Behörigheter > Roller
 Användare som ska kunna se sina uppgifter på startsidan behöver ha behörighet till panelen
 Uppdrag
 .
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_23b6b753.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_b3252e3b.png)
 Användare som ska kunna dela ut och följa upp uppdrag behöver ha behörighet till
 Administration > Register > Uppdrag
 .
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_639534c6.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_76523ad6.png)
 Ska användare bara kunna se uppdragen men inte ändra, dela ut eller delegera uppgifterna räcker det med "läsbehörighet".
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_0f59bd5c.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_14642450.png)
 Användare som även ska kunna skapa och redigera uppdragsmallar behöver behörighet till
 Administration > Register > Uppdragsmallar
 .
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_22497053.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_0d79ac23.png)
 Ställ in påminnelser för uppgifter
 För att aktivera automatiska påminnelser för nya uppgifter, gå till
 Administration > Inställningar > Allmänt > Påminnelser
@@ -159,9 +159,9 @@ Här skapar du en påminnelse av typen
 Uppgift
 och anger när den ska skickas.
 Ny uppgift
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_072075f7.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_bca6f2ba.png)
 Uppgift senast klar
-![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_a05e640e.png)
+![Bild](images/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm_d2a71755.png)
 Relaterade artiklar
 Hur hanterar jag uppgifter och uppdrag i HRM?
 Hur skapar jag nya uppgifter och uppdrag i HRM?

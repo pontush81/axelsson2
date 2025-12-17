@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/andring-utskick-anstalld-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/andring-utskick-anstalld-flex-hrm-0
 
 ---
 
@@ -41,7 +41,7 @@ Flex HRM skickar
 inte
 e-post om du lägger till ett helt nytt bankkonto eller om du sparar samma kontouppgifter igen.
 Exempel på meddelande om ändring av bankkontouppgifter
-![Bild](images/nar-skickas-e-post-ut-om-andringar-pa-anstalld_24f4a40e.png)
+![Bild](images/nar-skickas-e-post-ut-om-andringar-pa-anstalld_0fb96e55.png)
 Undantag
 Ändringar via API
 Om ett bankkonto ändras via ett API (Application Programming Interface) skickas

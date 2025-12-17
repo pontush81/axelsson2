@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet, mobil  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-skillnaden-mellan-en-anst%C3%A4lld-och-en-anv%C3%A4ndare-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-skillnaden-mellan-en-anst%C3%A4lld-och-en-anv%C3%A4ndare-i-flex-hrm
 
 ---
 

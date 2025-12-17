@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** skatt  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-registreras-skatteavdrag-f%C3%B6r-s%C3%A4rskild-inkomstskatt-sink-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/hur-registreras-skatteavdrag-f%C3%B6r-s%C3%A4rskild-inkomstskatt-sink-i-flex-hrm
 
 ---
 
@@ -28,11 +28,11 @@ SINK
 i fältet för
 Särskild inkomstskatt
 .
-![Bild](images/hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm_f91166a5.png)
+![Bild](images/hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm_b7f17804.png)
 Ange en jämkning i procent (%) i fältet
 Jämkning i %
 .
 Ange den procentsats som ska tillämpas i fältet
 Procentsats
 .
-![Bild](images/hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm_11accff4.png)
+![Bild](images/hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm_4d445dc4.png)

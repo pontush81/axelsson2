@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön  
 **Bilder:** 7  
-**URL:** https://knowledge.flexapplications.se/skicka-l%C3%B6nespecifikationer-med-kivra-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/skicka-l%C3%B6nespecifikationer-med-kivra-i-flex-hrm
 
 ---
 
@@ -39,7 +39,7 @@ Licens
 Aktivera
 Lönespecifikationer till Kivra
 för önskat företag.
-![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_dd51b272.png)
+![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_b55caae6.png)
 Programlänk – Aktivering och inställningar
 Innan du kan skicka några lönespecifikationer måste du aktivera och konfigurera programlänken till Kivra.
 Gå till
@@ -99,12 +99,12 @@ Skicka lönespecifikationer via Kivra
 samt
 Tillåt printhantering via Kivra
 om den tilläggstjänsten är aktuell.
-![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_3ac98c3f.png)
+![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_53c98b6b.png)
 För att få åtkomst till funktionen för att skicka lönespecarna behöver rollen ha följande behörigheter aktiverade. Under
 Administration > Bearbetningar
 aktiveras
 Skicka lönespecifikationer till Kivra.
-![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_0ca03de6.png)
+![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_80e4135f.png)
 Inställningar i Anställdaregistret
 I anställdaregistret kan du styra vilka anställda som får sina lönespecifikationer via Kivra. Gå till den anställdes registerkort och fliken
 Lön
@@ -112,7 +112,7 @@ Lön
 Skicka lönespecifikationer via Kivra
 och
 Tillåt printhantering via Kivra.
-![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_4ce1a90a.png)
+![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_d3e619a7.png)
 Skicka lönespecifikationer via Kivra
 Lönespecifikationer kan
 endast
@@ -146,19 +146,19 @@ utbetalningsdatum
 Gör urval på de
 anställda
 du vill skicka lönespecifikationer till.
-![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_26a2f29c.png)
+![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_8cd6f0d7.png)
 Du kan välja att skicka
 preliminära
 lönespecifikationer genom att välja Status
 Preliminära
 .
-![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_91e0a0e9.png)
+![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_7d097a91.png)
 Det finns även möjlighet att skicka lönespecifikationer för
 äldre perioder
 genom att välja Status
 Valfritt utbetalningsdatum
 och aktuellt utbetalningsdatum som lönespecifikationer ska skickas för.
-![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_5803681b.png)
+![Bild](images/skicka-lonespecifikationer-med-kivra-i-flex-hrm_d053ac5e.png)
 2. Skicka ut
 När du har gjort ditt urval klickar du på knappen
 Skicka lönespecifikationer till Kivra

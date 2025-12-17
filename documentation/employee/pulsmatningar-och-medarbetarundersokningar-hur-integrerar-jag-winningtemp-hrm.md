@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 9  
-**URL:** https://knowledge.flexapplications.se/aktivera-integration-winningtemp-hrm-0
+**URL:** https://knowledge.flexhrm.com/aktivera-integration-winningtemp-hrm-0
 
 ---
 
@@ -22,7 +22,7 @@ Innehåll
 Aktivera integration Winningtemp
 Visa temperaturdata i HRM
 Aktivera integration i HRM
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_5ded1d72.png)
+![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_3595be0f.png)
 Integration Winningtemp & HRM
 Integrationen består av två huvuddelar:
 Automatisk överföring av anställda:
@@ -41,17 +41,17 @@ integrations@winningtemp.com
 Aktivera integration i Winningtemp
 Meddela Winningtemp ert företags- och kundnummer som du hittar längst ner till höger när du är inloggad i HRM.
 I nedan exempel är 1010 företagsnumret och 5257 kundnumret:
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_661601e2.png)
+![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_496e30d4.png)
 I HRM
 Skapa en integrationsanvändare för just Winningtemp i HRM med behörighet till HRM Api och meddela Winningtemp
 användarnamn
 och
 lösenord
 :
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_8b2912d2.png)
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_41117630.png)
+![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_7499d521.png)
+![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_d0ada4ae.png)
 Rollens behörighet:
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_f822685f.png)
+![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_92eea76f.png)
 Visa temperaturdata i HRM
 För att kunna visa data från Winningtemp i HRM behöver du följa nedan steg.
 Det kräver också att du har ett aktivt konto hos Winningtemp.
@@ -70,13 +70,13 @@ Settings - APPS - Developer API
 Klicka på
 Generate New Credentials
 .
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_de0aa60c.png)
+![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_f6139a1f.png)
 Kopiera
 Client id
 och
 Client Secret
 som ska klistras in i HRMs programlänk för Winningtemp (se nästa avsnitt):
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_eed3ca7a.png)
+![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_b6393ff6.png)
 Aktivera integration i HRM
 För att aktivera funktionen måste du först skapa en programlänk till Winningtemp.
 Logga in i HRM.
@@ -86,14 +86,14 @@ Administration > Inställningar > Import/export > Programlänkar
 Välj
 Programlänk
 Winningtemp.
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_0c068337.png)
+![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_9f73f688.png)
 Skriv ett namn t.ex. Winningtemp.
 Klistra in
 Client id
 och
 Client secret
 som du fick fram i Winningtemp (se första avsnittet):
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_284b2ce1.png)
+![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_5ad50db8.png)
 Spara.
 Notera:
 Om du inte får programlänken att fungera så kan du behöva kontrollera statusen på integrationen för Winningtemp under

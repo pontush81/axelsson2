@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** roll  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/oversattning-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/oversattning-flex-hrm-0
 
 ---
 
@@ -27,7 +27,7 @@ Systemregister > Översättning
 Tänk på
 att det är ett systemregistrer och att översättningen under denna inställning sätts för alla företag i din installation.
 Här ser du följande vy:
-![Bild](images/oversattning-i-flex-hrm_053c94af.png)
+![Bild](images/oversattning-i-flex-hrm_98c30f11.png)
 Gör din översättning
 Språk
 - V
@@ -55,12 +55,12 @@ kerade texten i kolumnen
 Originaltext
 .
 Spara.
-![Bild](images/oversattning-i-flex-hrm_bb1f41b0.png)
+![Bild](images/oversattning-i-flex-hrm_6b7b79a0.png)
 Översättning för ett specifikt företag
 För att översätta delar i ett specifikt företag gå till
 Inställningar > Allmänt > Översättning
 Här ser du följande vy:
-![Bild](images/oversattning-i-flex-hrm_8f12c025.png)
+![Bild](images/oversattning-i-flex-hrm_ba93c1ba.png)
 Gör din översättning
 Språk
 - Välj först vilket språk du vill översätta till.
@@ -75,7 +75,7 @@ Här skriver du in önskad översättning av den markerade texten i kolumnen
 Originaltext
 .
 Spara.
-![Bild](images/oversattning-i-flex-hrm_0c92bb3d.png)
+![Bild](images/oversattning-i-flex-hrm_e5188f47.png)
 Vad har jag möjlighet att göra egen översättning på?
 Systemgemensamt
 Anhörig relation

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/var-hittar-jag-info-om-narmast-anhorig-0
+**URL:** https://knowledge.flexhrm.com/var-hittar-jag-info-om-narmast-anhorig-0
 
 ---
 
@@ -17,7 +17,7 @@ Min profil
 hittar du högst upp till höger i HRM.
 1. Gå till
 Mina uppgifter
-![Bild](images/var-hittar-jag-information-om-narmast-anhoriga_6d3ea955.png)
+![Bild](images/var-hittar-jag-information-om-narmast-anhoriga_6d1a1cb2.png)
 2.
 Lägg till rad
 och fyll i Närmast anhörig.
@@ -25,7 +25,7 @@ Informerad kryssar du i för att ange att respektive anhörig har blivit informe
 3.
 Spara
 .
-![Bild](images/var-hittar-jag-information-om-narmast-anhoriga_ac87e1a1.png)
+![Bild](images/var-hittar-jag-information-om-narmast-anhoriga_f185cf77.png)
 I vissa företag kan du även hitta Närmast anhöriga direkt under
 Personal - Anställda - Personuppgifter
 .

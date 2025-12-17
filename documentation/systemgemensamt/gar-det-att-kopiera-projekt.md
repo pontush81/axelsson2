@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/g%C3%A5r-det-att-kopiera-projekt
+**URL:** https://knowledge.flexhrm.com/g%C3%A5r-det-att-kopiera-projekt
 
 ---
 
@@ -20,7 +20,7 @@ Kopiera
 När du klickar på knappen
 Kopiera
 öppnas en ruta där du får välja alternativen för kopieringen.
-![Bild](images/gar-det-att-kopiera-projekt_1a5b9784.png)
+![Bild](images/gar-det-att-kopiera-projekt_a4305ee6.png)
 Observera
 Vi använder här begreppet
 Projekt
@@ -81,4 +81,4 @@ specifika flikar
 i projektregistret som du vill kopiera. Välj då
 Enligt urval
 och markera det som ska kopieras.
-![Bild](images/gar-det-att-kopiera-projekt_62e5f160.png)
+![Bild](images/gar-det-att-kopiera-projekt_257d8619.png)

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, schema, stämpling  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/kan-jag-f%C3%A5-ett-meddelande-om-en-anst%C3%A4lld-inte-st%C3%A4mplat-in
+**URL:** https://knowledge.flexhrm.com/kan-jag-f%C3%A5-ett-meddelande-om-en-anst%C3%A4lld-inte-st%C3%A4mplat-in
 
 ---
 
@@ -17,7 +17,7 @@ Du kan få en notis och/eller ett e-postmeddelande om en anställd är schemalag
 Inställningar > Allmänt > Påminnelser
 . Påminnelsen kallas
 Sen ankomst.
-![Bild](images/kan-jag-fa-ett-meddelande-om-en-anstalld-inte-stamplat-in_c2dbf7e8.png)
+![Bild](images/kan-jag-fa-ett-meddelande-om-en-anstalld-inte-stamplat-in_0050d2ee.png)
 Så här ställer du in påminnelsen
 Du kan välja att påminnelsen ska gälla för alla anställda, eller göra ett urval baserat på
 tidgrupp
@@ -48,6 +48,6 @@ Exempel
 Anställd 9 är schemalagd att börja kl 12:30, med möjlighet till flextid 12:20-12:40. Påminnelsen är inställd som på bilden ovan, 5 minuter efter schemastart.
 Anställd 9 stämplar inte in.
 Kl 12:45 kommer alla som har rollen MK Administratör för anställd 9 att få en notis i HRM Mobile som informerar om den saknade instämplingen.
-![Bild](images/kan-jag-fa-ett-meddelande-om-en-anstalld-inte-stamplat-in_bad16f09.png)
+![Bild](images/kan-jag-fa-ett-meddelande-om-en-anstalld-inte-stamplat-in_7c59c3b7.png)
 Relaterat
 Hur fungerar Påminnelser?

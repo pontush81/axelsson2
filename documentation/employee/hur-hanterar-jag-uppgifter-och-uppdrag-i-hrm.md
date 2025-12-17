@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, offboarding, onboarding  
 **Bilder:** 13  
-**URL:** https://knowledge.flexapplications.se/hur-hanterar-jag-uppgifter-och-uppdrag-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/hur-hanterar-jag-uppgifter-och-uppdrag-i-flex-hrm
 
 ---
 
@@ -22,38 +22,38 @@ I HRM kan man använda sig av uppdrag med uppgifter som ska hanteras. Det kan ex
 Uppgifter som du tilldelas som ansvarig hanteras på
 startsidan
 genom att ändra status.
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_dfc20c13.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_1fafd3aa.png)
 Mer information om uppgiften ses under informations-iet.
 Klicka på
 i:et
 och du får upp ett fönster med mer information om uppgiften samt möjlighet att ladda ner eventuella bifogade filer.
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_b67d9c5b.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_8bd1564f.png)
 Om du är behörig till uppdragsvyn kan du också gå direkt till den aktuella uppgiften i
 uppdragsvyn
 via länken uppe i fönstret.
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_e7a15116.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_ef8e8b21.png)
 Genom att klicka på pratbubblan kan du skriva och läsa kommentarer gällande uppdraget.
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_53c3c44e.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_00ac2299.png)
 Du kan själv bestämma hur du vill se vyn genom att förstora rutan
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_51a0b0cf.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_1807fb3d.png)
 Eller ställa in om du vill se varje uppgift som en egen rad (
 listvy
 ) eller om du vill använda
 trädvy
 för att se uppgifterna grupperat per uppdrag(anställd).
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_d0a576f3.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_367dcfb4.png)
 Det går också att filtrera på
 status
 samt efter ex. datum på ikonen för
 filter
 .
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_7a85a244.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_f94be06d.png)
 När en uppgift är klar ändrar du status till Klar.
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_25aa743f.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_fa92fb04.png)
 Om behörighet finns till den utökade vyn för uppdrag kan du se hela uppdraget för de anställda som du ansvarar för och om behörigheten finns ev. justera till exempel ansvarig eller senast klar på en uppgift. För att ta dig till den utökade vyn, klicka på
 Gå till uppdragsvy
 .
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_329413d3.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_9e4b4957.png)
 Status för uppdrag
 I statusfältet kan en uppgift ha någon av följande statusar:
 Ej påbörjad
@@ -66,7 +66,7 @@ Klar
 eller
 Ingen åtgärd
 .
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_95f3d086.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_1a6e895c.png)
 Påminnelser för Uppgifter
 Påminnelser
 om att uppgifter i uppdrag närmar sig/har passerat deadline syns på startsidan, i er organisation skickas ev. även påminnelse som e-post och notis i
@@ -74,10 +74,10 @@ HRM Mobile
 . På startsidan ser du vilka anställda påminnelsen avser, och inom parentes hur många uppgifter det rör sig om. Om du
 klickar på uppgiftens namn
 öppnas vyn för Uppgifter.
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_04bc6aa8.png)
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_4f2069aa.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_784c4300.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_6cb586d8.png)
 Exempel påminnelse via e-post
-![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_e3f78667.png)
+![Bild](images/hur-hanterar-jag-uppgifter-och-uppdrag-i-hrm_2d7bfae6.png)
 Relaterade artiklar
 Hur skapar jag nya uppgifter och uppdrag i HRM?
 Hur hanterar HRM Employee onboarding av anställda?

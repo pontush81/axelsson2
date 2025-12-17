@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/kan-jag-ta-ut-information-om-fr%C3%A5nvaro-i-rapportgeneratorn-
+**URL:** https://knowledge.flexhrm.com/kan-jag-ta-ut-information-om-fr%C3%A5nvaro-i-rapportgeneratorn-
 
 ---
 

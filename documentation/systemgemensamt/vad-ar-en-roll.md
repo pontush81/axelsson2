@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, mobil, roll, säkerhet  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-en-roll
+**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-en-roll
 
 ---
 
@@ -23,7 +23,7 @@ Användare/Behörigheter > Roller
 På fliken
 Allmänt
 kan du namnge och beskriva rollen. Beskrivningen visas som en tooltip när du håller muspekaren över rollens namn i användarregistret.
-![Bild](images/vad-ar-en-roll_05513fc3.png)
+![Bild](images/vad-ar-en-roll_3d719c8d.png)
 Du kan också hantera flera andra inställningar här:
 Standardroll
 - Om du markerar en roll som standardroll, kommer den automatiskt att tilldelas nya användare som läggs upp i systemet.
@@ -69,7 +69,7 @@ Tid
 och dess undermeny
 Tidrapport
 utfällda. Rollen har behörighet till tidrapport, men inte till alla funktioner, den kan till exempel se saldojusteringar, men tillåts inte att göra egna justeringar av saldon.
-![Bild](images/vad-ar-en-roll_3860af4e.png)
+![Bild](images/vad-ar-en-roll_5a884d75.png)
 Fliken Företagsknutna
 Används för register som kan se olika ut i olika företag, och därför inte kan styras helt i det generella behörighetsträdet. Precis som på fliken
 Allmänna

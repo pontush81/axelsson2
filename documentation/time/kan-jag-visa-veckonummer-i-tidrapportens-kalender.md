@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** frånvaro, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/kan-jag-visa-veckonummer-i-tidrapportens-kalender
+**URL:** https://knowledge.flexhrm.com/kan-jag-visa-veckonummer-i-tidrapportens-kalender
 
 ---
 
@@ -15,7 +15,7 @@ Kalendern i din tidrapport är användbar när du ska välja datum för rapporte
 Om du vill att kalendern ska visa
 veckonummer
 kan du göra en inställning för det.
-![Bild](images/kan-jag-visa-veckonummer-i-tidrapportens-kalender_43489139.png)
+![Bild](images/kan-jag-visa-veckonummer-i-tidrapportens-kalender_a0bcdaa0.png)
 Aktivera veckonummer i kalendern
 Gå till menyn
 Min profil > Språk och nationella inställningar

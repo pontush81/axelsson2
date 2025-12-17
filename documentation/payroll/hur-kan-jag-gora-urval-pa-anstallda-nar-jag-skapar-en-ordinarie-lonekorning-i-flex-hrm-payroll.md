@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-kan-jag-g%C3%B6ra-urval-p%C3%A5-anst%C3%A4llda-n%C3%A4r-jag-skapar-en-ordinarie-l%C3%B6nek%C3%B6rning-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/hur-kan-jag-g%C3%B6ra-urval-p%C3%A5-anst%C3%A4llda-n%C3%A4r-jag-skapar-en-ordinarie-l%C3%B6nek%C3%B6rning-i-flex-hrm-payroll
 
 ---
 
@@ -18,6 +18,6 @@ ska kunna göra urval på anställningsnummer; detta på grund av att risken att
 Inställningen hittar du under menyns
 Administration > Inställningar > Lön > Lönekörningar
 och den heter "Tillåt anställningsurval vid skapande av ordinarie lönekörning".
-![Bild](images/hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-flex-hrm-payroll_66be5919.png)
+![Bild](images/hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-flex-hrm-payroll_064d8153.png)
 När den är inställd går det att göra urval på anställda när du skapar en ny ordinarie lönekörning.
-![Bild](images/hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-flex-hrm-payroll_edf48429.png)
+![Bild](images/hur-kan-jag-gora-urval-pa-anstallda-nar-jag-skapar-en-ordinarie-lonekorning-i-flex-hrm-payroll_b0bdb83e.png)

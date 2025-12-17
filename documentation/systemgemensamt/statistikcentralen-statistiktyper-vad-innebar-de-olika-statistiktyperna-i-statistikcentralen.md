@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** behörighet, roll  
 **Bilder:** 24  
-**URL:** https://knowledge.flexapplications.se/statistikcentralen-statistiktyper-vad-inneb%C3%A4r-de-olika-statistiktyperna-i-statistikcentralen
+**URL:** https://knowledge.flexhrm.com/statistikcentralen-statistiktyper-vad-inneb%C3%A4r-de-olika-statistiktyperna-i-statistikcentralen
 
 ---
 
@@ -17,8 +17,8 @@ Bemanning - Uppföljning
 Med kategorin Bemanning kan du enkelt följa upp dina budgeterade värden för timmar, kostnad och försäljning och jämföra med den schemalagda tiden samt utfallet. Vi har valt att göra det flexibelt. Du bestämmer själv vilka begrepp du vill använda, t.ex. försäljning, antal ärenden eller inkommande ordrar. När du sedan tittar på utfallet kan du välja om du vill visa stapeldiagram eller linjediagram och hur du vill gruppera värdena i diagrammet.
 Tid - Frånvaro
 Väljer du kategori Tid - Frånvaro kan du göra ett eller flera urval om du vill jämföra. Vi visar med ett exempel:
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_b3abae17.png)
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_b7443d6d.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_774d21d3.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_afe872ea.png)
 Du vill se sjukfrånvaroprocent för en viss avdelning fördelat per månad under året. Detta vill du jämföra med sjukfrånvaroprocenten för hela företaget.
 Du väljer då att visa
 procent
@@ -31,7 +31,7 @@ Lägg till jämförande urval
 Sedan klickar du på
 Visa graf
 , så kommer HRM att beräkna frånvaron samt visa en graf till höger enligt de urval du gjort.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_24682b7e.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_0e6a8751.png)
 Det finns även möjlighet att spara din statistik, om du till exempel nästa månad vill se hur frånvaron ser ut när ytterligare en månad har passerat och slippa göra alla urval igen. För att spara en statistik ger du den ett namn och klickar sedan på
 Spara
 . Det finns även möjlighet att
@@ -39,21 +39,21 @@ Spara som
 , vilket kan vara användbart om du vill utgå från en sparad statistik, göra lite förändringar och sedan spara den som en ny statistik samtidigt som du behåller den tidigare.
 Exempel - Gruppering
 All statistik kan grupperas på registrerade konteringar och på hemkonteringar. De alternativen hittar du under Gruppering i visningsinställningarna för din statistik.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_63cf5e29.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_f0f09b56.png)
 Under grupperingen kan du välja hur grupperingen ska ske för återkommande grupperingsalternativ.
 Väljer du att gruppera statistiken per månad eller per vecka kan du välja om du vill gruppera per månad eller vecka oavsett år. Det betyder att om du tar ut statistik för flera år så kommer den att grupperas per månad eller vecka så att samma månad eller vecka under respektive år grupperas ihop.
 Väljer du att gruppera per datum kan du nu välja att gruppera per datum oavsett månad och år.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_5388b36b.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_73cb2161.png)
 Om du använder ett utökat projektregister och väljer att gruppera på projekt kan du nu välja på vilken undernivå du vill gruppera. Genom att kunna gruppera på valfri undernivå kan du dela upp grupperingen enligt önskemål.
 För utökade projekt kan du även välja att endast visa registrerbara projekt.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_cce1ce65.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_3916d3ba.png)
 Sortering
 Sortering kan göras antingen på den enhet som är vald under visning eller på grupperingsalternativet. Sorteringen kan göras stigande eller fallande. Om du till exempel väljer att ta ut statistik på närvaro och väljer att visa procent av schematid och gruppera per månad kommer du att få följande fyra sorteringsalternativ: stigande på månad, fallande på månad, stigande på timmar och fallande på timmar.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_e1939670.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_9ac016a2.png)
 I sorteringen kan du även välja vilka resultat du vill visa. Detta är praktiskt om du får många resultat. Om du till exempel väljer att visa närvarotid per anställd kan du sortera den fallande på timmar och sedan välja att visa 1–10 för att se de tio anställda med högst närvarotid. Här kan du också se hur många resultat det finns totalt.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_4df456bc.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_6981424c.png)
 Om du vill kan du justera visningen under grafen, där det nedre reglaget styr vilket intervall du vill visa och det övre reglaget flyttar intervallet.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_ad52efcd.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_11ea77f2.png)
 Lång- och korttidsfrånvaro
 Det möjlighet att filtrera bort viss frånvaro i rapporter och statistik utifrån frånvarons längd. Det är främst tänkt att användas för att t.ex. kunna filtrera bort långtidsfrånvaro i sjukfrånvarostatistik. Annars kan ju en långtidssjukskrivning på en anställd dra upp sjukfrånvaroprocenten rejält på en avdelning om du egentligen är ute efter att följa upp trender kring "vanlig" kortare frånvaro. Det öppnar även upp möjligheten att följa upp enbart långtidssjukskrivningar och se trender kopplade till dessa i ditt företag.
 På följande ställen i Flex HRM har vi lagt till denna filtreringsmöjlighet utifrån frånvarons längd:
@@ -66,20 +66,20 @@ Ta endast med frånvaroperioder längre än... dagar
 och
 Ta endast med frånvaroperioder kortare än ... dagar
 .
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_70c3988b.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_5616e241.png)
 Standard är att dessa val är tomma, vilket innebär att all frånvaro i urvalet tas med, precis som tidigare.
 Ställer du in enligt att endast ta med frånvaroperioder längre än
 14
 dagar innebär det att endast frånvaroperioder längre än 14 dagar tas med. I en frånvaroperiod på t.ex. 30 dagar kommer alla de 30 dagarna att räknas med.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_c4d5d6e2.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_3dc94a2e.png)
 Markerar du inställningen
 Ta ej med de första 14 dagarna
 till höger innebär det i en frånvaroperiod på 30 dagar, att de 14 första dagarna inte räknas med utan endast de 16 sista dagarna.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_388fe6a7.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_d6e71fad.png)
 Väljer du att endast ta med frånvaroperioder
 kortare än 15 dagar
 kommer endast dem tas med.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_8de0f9b6.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_c01c831e.png)
 Den sista varianten med inställningen
 Ta med längre frånvaro, men endast de första 14 dagarna
 markerad, tar den även med längre frånvaroperioder, men då endast de 14 första dagarna  frånvaroperioderna.
@@ -94,7 +94,7 @@ väljer du om du vill ta ut antalet rapporterade timmar, andel rapporterad tid i
 Urval på tidkoder och konteringar lägger du till genom att välja önskat alternativ i urvalslistan under
 Lägg till
 . Om du gör urval på någon tidkod och/eller kontering, kommer endast tid rapporterad på denna/dessa att räknas med. Görs inget urval kommer samtliga tidkoder/konteringar att räknas med. Om du vill ta bort ett urval du lagt till gör du det genom att klicka på det röda krysset efter urvalet.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_c1b850f3.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_046f046f.png)
 Du kan även göra urval på faktureringsstatus:
 All tid
 All tid oavsett faktureringsstatus kommer att räknas med.
@@ -111,9 +111,9 @@ Ersättningar
 i tidrapporten att räknas med.
 Nedan visas två exempel på hur inställningar och urval kan göras.
 Det första exemplet visar hur det kan se ut om du vill se hur mycket övertid det har jobbats på olika avdelningar fördelat per månad.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_3fb8f342.jpeg)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_428d4c72.jpeg)
 Det andra exemplet visar hur det kan se ut om du vill se hur beläggningsgraden i företaget har förändrats under året.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_a0be9719.jpeg)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_c5fda982.jpeg)
 Reseräkning – Resekostnader
 När du väljer att ta ut statistik över resekostnader kommer statistikcentralen att kunna räkna med alla typer av kostnader på reseräkningen. Statistiken kan grupperas på veckodag, datum, vecka, månad, år, hela urvalsperioden, kostnadstyp, anställd, kontering samt hemkonteringar som har markerat Behörighet och urval.
 Du kan lägga till urval på utlägg, tillägg, milersättning, traktamente, länder och konteringar.
@@ -126,7 +126,7 @@ Reseräkning – Traktamenten
 Även Traktamentsstatistiken är snarlik statistiken för samtliga reskostnader men ger även möjlighet till gruppering per land.
 HR – Anställda
 En välfungerande hantering av statistisk kring de anställda är en central del i styrningen av en organisation. Det kan röra sig om att mäta antal anställda per avdelning, antal heltidstjänster (FTE), förändring av antal anställda över tid, fördelning i procent mellan män och kvinnor, samt olika nyckeltal för att mäta personalomsättning. För att möta detta behov har vi byggt ut stödet i statistikcentralen (tilläggsmodul) för att kunna ta ut denna typ av statistik.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_8cec62d6.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_d97f0b7b.png)
 Antal anställda
 Visar antalet anställda som under datumintervallet varit anställda minst en dag.
 Procent av totalt antal anställda
@@ -143,7 +143,7 @@ Exempel: Under en period på 30 dagar har en anställd sysselsättningsgraden 10
 Medelålder
 Visar medelåldern för intervallet/grupperingen. Åldern för respektive anställd beräknas på sista datumet inom intervallet/grupperingen.
 HR – Personalomsättning
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_9aa07d81.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_02c744a6.png)
 Antal nyanställda
 Visar antalet nyanställda under intervallet/grupperingen. En anställd räknas som nyanställd om den har en anställningsperiod inom intervallet/grupperingen som antingen är den första anställningsperioden eller om föregående anställningsperiod inte är direkt angränsande.
 Antal avgångar
@@ -156,23 +156,23 @@ Du kan gruppera dessa statistikuppgifter för att enkelt få en intressant stati
 Vecka, Månad, Kvartal, År.
 Gruppering på olika tidsintervall kan vara användbart då man vill se hur till exempel antal anställda har förändrats över tid.
 Exempel: Antal anställda de senaste fem åren grupperat per år.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_b62a98bd.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_3e701b8b.png)
 Befattning, Tidgrupp, Personalkategori, Anställningsform
 Antal anställda eller antal tjänster per gupp kan vara intressant statistik att hålla koll på. Statistiken baseras på till exempel den sista befattningen den anställde haft i urvalsperioden.
 Exempel: Antal heltidstjänster per befattning
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_67d215ce.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_2ef1df9f.png)
 Kön och ålder
 Fördelning mellan kön och ålder är intressanta faktorer för att få en lagom blandning inom ett arbetslag. Vid gruppering på ålder kan du själv välja vilka åldersgrupper du vill använda.
 Exempel: Antal anställda per åldersgrupp
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_974e5629.png)
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_b7ed578a.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_e41bbdae.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_b9134820.png)
 Hemkontering
 Gruppering på till exempel avdelning, kostnadsställe eller andra dimensioner som används i ert företag kan göras via hemkontering.
 Exempel: Antal anställda per kostnadsställe
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_600ebff4.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_0b1fa247.png)
 Man kan också välja att visa en linje för genomsnitt i en statistik för att enkelt kunna se snittet. Aktivera detta genom att kryssa i Visa genomsnitt bredvid val för typ av diagram.
 Exempel: Antal nyanställda de senaste åren, inklusive genomsnitt.
-![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_2f58db5a.png)
+![Bild](images/statistikcentralen-statistiktyper-vad-innebar-de-olika-statistiktyperna-i-statistikcentralen_0b8242df.png)
 Relaterade artiklar:
 Statistikcentral- Vad är statistikcentralen?
 Statistik på startsidan - Hur konfigurerar och ser jag statistik på startsidan?

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** mobil, ob, schema, stämpling, tidkod, tidrapport, övertid  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/hur-fungerar-%C3%B6vertidsregelverk
+**URL:** https://knowledge.flexhrm.com/hur-fungerar-%C3%B6vertidsregelverk
 
 ---
 
@@ -52,14 +52,14 @@ tidkodinställningar
 Exempel
 Dagtyp Vardag ska ha två regler för betald övertid. ÖBE ska gälla för övertid mellan kl. 06:00 och 20:00. För övertid före 06:00 eller efter 20:00 ska ÖBK falla ut.
 Dagschemats normala arbetstid måste ha uppnåtts för att övertid ska kunna falla ut, och den får inte inträffa under schemats ordinarie tid.
-![Bild](images/hur-fungerar-overtidsregelverk_f05eb2d5.png)
-![Bild](images/hur-fungerar-overtidsregelverk_31aec90d.png)
+![Bild](images/hur-fungerar-overtidsregelverk_eeb0eff7.png)
+![Bild](images/hur-fungerar-overtidsregelverk_723bc715.png)
 Är du schemalagd åtta timmar, kl. 08:00-17:00, och registrerar arbetstid + övertidsmarkering 09:00-21:00 faller ÖBE ut 18:00-20:00 och ÖBK 20:00-21:00.
 Att ÖBE faller ut först kl 18:00, när schematidens slut är 17:00 beror på att du måste arbeta dagens åtta timmar för att övertiden ska kunna falla ut.
-![Bild](images/hur-fungerar-overtidsregelverk_c9052e65.png)
+![Bild](images/hur-fungerar-overtidsregelverk_a1af2d81.png)
 Förklaring av tidkodinställningar
 I vyn för tidkodinställningar finns flera alternativ att välja på för att anpassa reglerna.
-![Bild](images/hur-fungerar-overtidsregelverk_207c6caa.png)
+![Bild](images/hur-fungerar-overtidsregelverk_b4bb1dd7.png)
 Tidkod
 : Den tidkod som ska läggas ut. Här kan du välja tidkoder som i tidkodsregistret är inställda med kodtyp
 Närvaro - Övertid
@@ -113,7 +113,7 @@ Beskrivning
 Tips
 Håll muspekaren över en tidkodsinställning i listan till vänster för att läsa dess beskrivning.
 Där kan du också se utläggningsordning (siffran inom parentes).
-![Bild](images/hur-fungerar-overtidsregelverk_9f1a74e5.png)
+![Bild](images/hur-fungerar-overtidsregelverk_903178fa.png)
 Tilldela övertidsregelverk
 Du kan sätta ett standardregelverk för övertid per tidgrupp under
 Inställningar > Tid och Bemanning > Tidgrupper >
@@ -134,4 +134,4 @@ Komp
 På dagar med arbetstid finns möjlighet att använda olika övertidsmarkeringar för övertid före och efter arbetstid. Denna inställning heter
 Olika övertids-markeringar innan och efter schematid
 och kan göras på företags-, tidgrupps- eller anställdnivå. Det kan vara användbart om du till exempel vill ha betalt för övertid som arbetats före schemat, men komp för övertid efter schemat.
-![Bild](images/hur-fungerar-overtidsregelverk_7c22bbee.png)
+![Bild](images/hur-fungerar-overtidsregelverk_281ba3bf.png)

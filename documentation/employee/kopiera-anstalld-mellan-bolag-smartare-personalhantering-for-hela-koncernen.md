@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/kopiera-anstalld-inom-koncern
+**URL:** https://knowledge.flexhrm.com/kopiera-anstalld-inom-koncern
 
 ---
 
@@ -34,14 +34,14 @@ Hitta den anställda:
 I listvyn för Anställdaregistret letar du upp den person du vill flytta till ett annat bolag.
 Dra och släpp:
 Dra den markerade anställda direkt till det nya bolaget. En dialogruta visas för att du ska kunna bekräfta överflyttningen.
-![Bild](images/kopiera-anstalld-mellan-bolag-smartare-personalhantering-for-hela-koncernen_5240c65e.png)
+![Bild](images/kopiera-anstalld-mellan-bolag-smartare-personalhantering-for-hela-koncernen_0a79dbb5.png)
 Ange detaljer:
 I dialogrutan fyller du i det nya
 anställningsnumret
 och det nya
 anställningsdatumet
 som den nya anställningen ska ha.
-![Bild](images/kopiera-anstalld-mellan-bolag-smartare-personalhantering-for-hela-koncernen_62713bf0.png)
+![Bild](images/kopiera-anstalld-mellan-bolag-smartare-personalhantering-for-hela-koncernen_415d4cdb.png)
 Bekräfta:
 Klicka på "Spara". En ny anställning skapas nu i det valda bolaget.
 Observera

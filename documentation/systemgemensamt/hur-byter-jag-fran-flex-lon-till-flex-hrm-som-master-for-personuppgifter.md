@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, integration, roll  
 **Bilder:** 12  
-**URL:** https://knowledge.flexapplications.se/hur-byter-jag-fr%C3%A5n-att-ha-flex-l%C3%B6n-som-master-till-att-ha-flex-hrm-som-master
+**URL:** https://knowledge.flexhrm.com/hur-byter-jag-fr%C3%A5n-att-ha-flex-l%C3%B6n-som-master-till-att-ha-flex-hrm-som-master
 
 ---
 
@@ -94,14 +94,14 @@ Inställningar
 >
 Personalkategorier
 .
-![Bilden visar listan av personalkategorier i Flex HRM.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_573d8d5b.png)
+![Bilden visar listan av personalkategorier i Flex HRM.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_d709aa2a.png)
 Kontroll i Flex Lön:
 Gå till
 Inställningar
 >
 Personalkategorier
 .
-![Bilden visar listan av personalkategorier i Flex Classic.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_72e5ab91.png)
+![Bilden visar listan av personalkategorier i Flex Classic.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_b395d78c.png)
 Om en personalkategori från Flex HRM saknas i Flex Lön kommer den anställde att kopplas till standardkategorin (STD) i Flex Lön.
 Anställningsform
 Se till att registren för anställningsform är identiska i båda systemen.
@@ -113,14 +113,14 @@ Allmänt
 >
 Anställningsformer
 .
-![Bilden visar listan över anställningsformer i Flex HRM.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_06e2eab2.png)
+![Bilden visar listan över anställningsformer i Flex HRM.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_41bf2085.png)
 Kontroll i Flex Lön:
 Gå till
 Inställningar
 >
 Anställningsformer
 .
-![Bilden visar listan över anställningsformer i Flex Classic.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_90f41357.png)
+![Bilden visar listan över anställningsformer i Flex Classic.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_2de7c965.png)
 Om en anställningsform som används i Flex HRM inte finns i Flex Lön, kommer den visserligen att skapas, men inställningar som rör LAS/AVA kommer att saknas.
 E-post
 Kontrollera att e-postadresser finns registrerade på de anställda i Flex Lön. Om en adress bara finns i Flex HRM kommer den att skrivas över och försvinna vid den sista exporten från Flex Lön. Säkerställ också att adresserna har korrekt format (med @ och .) för att undvika att exporten misslyckas.
@@ -134,7 +134,7 @@ Allmänt
 . Fältet får inte vara inställt på
 Odefinierad
 .
-![Rapporten visar styruppgiftsinställningarna i Flex Classic där namnstandarden är satt till "Förnamn och efternamn".](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_4ab52ca3.png)
+![Rapporten visar styruppgiftsinställningarna i Flex Classic där namnstandarden är satt till "Förnamn och efternamn".](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_ba761ecd.png)
 Personmallar och Anställningsmallar
 Anställningsmallen i Flex HRM matchas mot personmallen i Flex Lön via mallens kod/nummer. Kontrollera att dessa stämmer överens. Uppgifter som skickas från Flex HRM har företräde framför mallens inställningar i Flex Lön.
 Skapa en kontrollrapport i Flex Lön
@@ -159,11 +159,11 @@ FROM fdr023
 LEFT JOIN fdr023l ON fdr023.ftgnr=fdr023l.ftgnr AND fdr023.anstnr=fdr023l.anstnr
 WHERE #fdr023.anstnr#anstnr$OPT+TXT@ANST#A10# AND (fdr023.ftgnr = '¤FTG¤')
 ORDER BY fdr023.anstnr, fdr023.namn, fdr023.bank
-![Bilden visar rapportredigeraren i Classic , där det är markerat var du ska ange värden.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_8d373480.png)
+![Bilden visar rapportredigeraren i Classic , där det är markerat var du ska ange värden.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_47d47f75.png)
 Klicka på
 Utför
 för att ta ut rapporten som du kan använda för dina kontroller.
-![Bulden visar kontrollrapporten uttagen i Flex Classic. Den visar en Excel-rapport.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_4b946c00.png)
+![Bulden visar kontrollrapporten uttagen i Flex Classic. Den visar en Excel-rapport.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_38deec01.png)
 Viktigt att veta när Flex HRM är master
 Avgångsorsak
 Avgångsorsak måst
@@ -194,7 +194,7 @@ Anslutningar
 att kryssrutan
 Använd FLEX HRM webbservice
 är markerad.
-![Bild](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_0763d137.png)
+![Bild](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_fd99ecc8.png)
 Börja med att exportera en enda anställd för att testa att allt fungerar som förväntat.
 Exportera därefter
 alla
@@ -210,7 +210,7 @@ Export av personuppgifter
 Se till att
 Export av saldon
 fortfarande är markerad.
-![Bild](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_495db115.png)
+![Bild](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_7b730676.png)
 Kontrollera att antalet anställda nu är detsamma i båda systemen. I Flex HRM ser du antalet under
 Personal
 och vyn
@@ -233,12 +233,12 @@ Vid
 , välj
 Samtliga anställningsuppgifter
 .
-![Bild](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_98ec41f3.png)
+![Bild](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_c1d4a2c4.png)
 Om du inte vill att alla anställda ska föras över till Flex Lön kan du göra ett urval, till exempel baserat på anställningstyp.
 4. Kontrollera funktionen
 För att säkerställa att allt fungerar, gör en teständring.
 Ändra tillfälligt adressen på en anställd i Flex HRM och spara.
-![Bilden visar en anställds adressuppgifter i Flex HRM.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_8c0b2bc5.png)
+![Bilden visar en anställds adressuppgifter i Flex HRM.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_4b4dfe0e.png)
 Verifiera att den nya adressen syns korrekt i Flex Lön.
-![Bilden visar en anställds adressuppgifter i Flex Classic.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_2455940b.png)
+![Bilden visar en anställds adressuppgifter i Flex Classic.](images/hur-byter-jag-fran-flex-lon-till-flex-hrm-som-master-for-personuppgifter_f2e78e9e.png)
 När du har genomfört dessa steg är processen klar och Flex HRM är nu master för personuppgifter.

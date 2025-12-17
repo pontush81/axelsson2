@@ -7,13 +7,13 @@
 **Svårighetsgrad:** advanced  
 **Tags:** roll  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/%C3%A5rsskifte-hrm-travel-no
+**URL:** https://knowledge.flexhrm.com/%C3%A5rsskifte-hrm-travel-no
 
 ---
 
 I denne artikkelen beskrives samtlige steg du skal følge for å forberede systemet for det nye året. Husk å gjøre innstillinger for årsskifte.
 Før du kan registrere reiser for det nye året må du kontrollere at det finnes regelverk for diett for det nye året. I Flex HRM lastes nye beløp ned automatisk. Vennligst kontroller at beløpene for det nye året er lastet ned. Hvis de ikke er lastet ned, kan de også lastes ned manuelt. For å laste ned nye beløp for det kommende året kreves pålogging som administrator med tilgang til Systemregister-menyen.
-![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_e9fc3af5.png)
+![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_c1bdca2f.png)
 Kostgodtgjørelsesregler
 Kontroller under
 Administrasjon > Innstillinger > Reise > Reiser >  Kostgodtgjørelse
@@ -23,7 +23,7 @@ kopiere
 . Flex HRM vil da foreslå at neste års intervall blir kopiert.  Når du trykker
 OK
 , kopieres alle regler i regeloppsettet til det nye intervallet, samtidig som de oppdateres med beløpene for det aktuelle intervallet, altså i dette tilfellet for 2026.
-![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_004777b8.png)
+![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_f1ad8154.png)
 Kilometergodtgjørelse
 Kontroller kilometergodtgjørelsen
 Administrasjon > Innstillinger > Reise >  Bilreiser > Kilometergodtgjørelsesmale
@@ -34,7 +34,7 @@ Flex HRM vil da foreslå at neste års intervall blir kopiert.
 Når du trykker på
 OK
 kopieres samtlige regler i regeloppsettet til det nye intervallet samtidig som de oppdateres med beløpene for det aktuelle intervallet, altså i dette tilfellet for 2026.
-![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_3a8221da.png)
+![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_d183f779.png)
 Norsk kilometergodtgjørelse 2026
 (Bare norske bedrifter)
 Det må legges inn nye satser på kilometergodtgjørelse når de nye satsene er kommet. Les mer hos
@@ -52,14 +52,14 @@ Administrasjon > Innstillinger > Reiser >Bilreiser
 . Velg
 kjøretøy
 og sjekk hvilke lønnsarter de er knyttet til.
-![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_d13ca7eb.png)
+![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_cd07a408.png)
 Legg deretter til nye satser på
 lønnsartene
 :
-![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_950c15d3.png)
+![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_0483cf9e.png)
 Dette er de nye satsene for
 finske bedrifter
-![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_9daff3b8.png)
+![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_276d9cd1.png)
 Initiering av reiseregningsnummer
 Hvis du bruker en nummerserie for reiseregninger som skal initieres ved årsskifte gjør du dette under
 Administrasjon > Innstillinger > Reise > Reiseregninger.

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, resa  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/hur-registrerar-jag-resor-med-f%C3%B6rm%C3%A5nsbil-i-k%C3%B6rjournalen
+**URL:** https://knowledge.flexhrm.com/hur-registrerar-jag-resor-med-f%C3%B6rm%C3%A5nsbil-i-k%C3%B6rjournalen
 
 ---
 
@@ -17,23 +17,23 @@ När du ska registrera en ny körjournal i HRM Travel börjar du med att välja 
 Gå till
 Körjournal
 .
-![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_9c35eb55.png)
+![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_6523c038.png)
 Välj rätt
 bil
 och
 datumintervall
 .
-![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_c3cb560e.png)
+![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_1094e23f.png)
 Klicka på knappen
 Ny
 för att starta registreringen av en ny bilresa.
-![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_05460643.png)
+![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_73c06ca1.png)
 Fyll i de efterfrågade uppgifterna och klicka på
 Spara
 .
 När alla bilresor för månaden har rapporterats så ska du
 Avräkna förmånsbil
 och ange utgående mätarställning per den siste i aktuell månad.
-![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_5415b60e.png)
+![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_8d79d2cf.png)
 Glöm inte att Klarmarkera Avräkningen!
-![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_b167b891.png)
+![Bild](images/hur-registrerar-jag-bilresor-med-drivmedelsforman-i-korjournalen-samt-anger-utgaende-matarstallning-_de7a45f2.png)

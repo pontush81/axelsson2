@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/instruktion-hrm-visselblasning-via-qnister-whistle
+**URL:** https://knowledge.flexhrm.com/instruktion-hrm-visselblasning-via-qnister-whistle
 
 ---
 
@@ -23,12 +23,12 @@ behöver du gå in och aktivera en licens i HRM, kontakta oss på Flex Applicat
 Gå in under
 Allmänt – Företag
 och välj aktuellt företag i listan till vänster. Välj fliken Licens och bocka sedan i Qnister.
-![Bild](images/visselblasning-via-qnister-whistle_f891f65a.png)
+![Bild](images/visselblasning-via-qnister-whistle_ec2848d1.png)
 Programlänk
 För att aktivera funktionen behöver du skapa en ny programlänk genom att klicka på Ny och välja Qnister Whistle:
-![Bild](images/visselblasning-via-qnister-whistle_3474aafd.png)
+![Bild](images/visselblasning-via-qnister-whistle_cbf83945.png)
 Fyll sedan i övriga uppgifter enligt nedan:
-![Bild](images/visselblasning-via-qnister-whistle_5925ce1a.png)
+![Bild](images/visselblasning-via-qnister-whistle_c79ad2b9.png)
 Namn
 – här skriver du ett namn som enbart syns i denna vy.
 Url
@@ -43,8 +43,8 @@ Systemregister – Integrationer
 . Vi rekommenderar dock att ni tar hjälp av en konsult från Flex Applications för att sätta upp dessa inställningar.
 Behörighet
 För att en användare ska få tillgång till widgeten på startsidan och kunna rapportera från HRM (enligt nedan instruktion) behöver du först aktivera den på roller som ska ha behörigheten. Förslagsvis läggs det på medarbetarrollen som ofta alla anställda har.
-![Bild](images/visselblasning-via-qnister-whistle_eed45ada.png)
+![Bild](images/visselblasning-via-qnister-whistle_45210d86.png)
 Rapportera via Flex HRM
 För att rapportera från HRM scannar du QR-koden på startsidan, alternativt klickar på den för att kopiera webbadressen som du då kan klistra in i din webbläsare.
 Därefter följer du instruktionerna i formuläret du kommer till.
-![Bild](images/visselblasning-via-qnister-whistle_3ce6eede.png)
+![Bild](images/visselblasning-via-qnister-whistle_fea3f355.png)

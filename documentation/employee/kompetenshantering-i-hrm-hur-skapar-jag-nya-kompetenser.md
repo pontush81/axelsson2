@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning, kompetens, kurs  
 **Bilder:** 13  
-**URL:** https://knowledge.flexapplications.se/kompetenshantering-i-hrm-hur-skapa-nya-kompetenser-0
+**URL:** https://knowledge.flexhrm.com/kompetenshantering-i-hrm-hur-skapa-nya-kompetenser-0
 
 ---
 
@@ -29,14 +29,14 @@ Register - Kompetensgrupper
 För att du ska kunna organisera kompetenserna på ett överskådligt sätt behöver du först gruppera dem i s.k. Kompetensgrupper. Du måste ha minst en Kompetensgrupp för att kunna komma vidare.
 Nedan ser du exempel på vanligt förekommande kompetensgrupper. I ditt företag kan det finnas andra grupperingar som känns mer ändamålsenligt.
 Skapa kompetensgrupper och besluta om gruppen ska kunna användas för kompetenser och/eller för kurser.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_4703450b.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_91714c01.png)
 Kompetenser
 Register - Kompetenser
 Här lägger du in de kompetenser ni vill använda/administrera i HRM. Tänk efter vilka ni verkligen har nytta av att kunna hantera och vilka kompetenser ni vill kunna söka efter i HRM.
 Gör så här för att skapa en ny kompetens:
 Klicka på
 Ny
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_f01a6173.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_d1ce2dac.png)
 Sätt ett
 Namn
 och välj en
@@ -60,19 +60,19 @@ V
 äljer du en graderingsskala kommer ytterligare ett val upp under
 Typ av skala
 där du väljer hur många steg graderingen ska vara.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_af95f8e9.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_d5cdc69f.png)
 Ja/Nej switch (0-1)
 Används för t.ex. certifikat eller andra kompetenser som man antingen har eller inte har, utan någon gradering.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_c99fece9.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_5a0b81ba.png)
 Skala (1-5)
 Gradering med skalor. Välj skala mellan 1-5.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_371e3a1d.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_68eae472.png)
 Skala med halvsteg (1-5)
 Gradering med stjärnor som tillåter halva steg.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_5b71a88b.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_ac290b80.png)
 Skjutreglage (1-100)
 Gradering med skjutreglage. Välj skala mellan 1-100 steg. Användbart då man vill bedöma kompetensen i procent.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_add6f9e1.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_76ebe72a.png)
 Om du väljer att ändra skalan
 på en kompetens som används kommer systemet att anpassa den anställdes aktuella nivå till den nya skalan. Om man t.ex. först har 4 av 5 stjärnor, och byter graderingen till skjutreglage med 100 steg, så kommer nivån 4 stjärnor att omvandlas till 80 av 100 med hjälp av procentberäkning. Notera att beroende på hur skalan förändras kan den aktuella nivån bli mer eller mindre förändrad procentuellt. Du bör därför inte ändra skalan utan att först analysera konsekvenserna.
 Beskrivning
@@ -82,17 +82,17 @@ Spara
 högst upp när du är klar.
 Kompetensroller
 För att se om anställda uppfyller ev. kompetenskrav som deras roll innebär kan man koppla kompetenser till kompetensroller. Dessa knyts sedan till de anställda, och det syns då vilka kompetenser som krävs i en specifik kompetensroll.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_16c27385.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_331d5e4d.png)
 Under
 Register - Kompetensroller
 skapar du upp företagets kompetensroller
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_83280c81.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_a26f5bdf.png)
 Bra att veta
 Det framgår i registret för kompetensroller om denna roll används.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_2e1499a4.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_4a0abfda.png)
 Lägger du till nya kompetenser
 i kompetensrollen kommer följande att hända.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_bdc8da07.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_1f932f16.png)
 Kompetensroller/kompetenser i anställningsmallar
 Du kan lägga in
 kompetensroller
@@ -136,10 +136,10 @@ anger du önskad typ av påminnelse samt en meddelandetext som ska gå ut till v
 Behörigheter
 Administration – Användare/Behörigheter – Roller
 För att kunna administrera register av kompetenser, kompetensgrupper samt kompetensroller behöver följande aktiveras för administratören.
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_4d4bcf5a.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_f93287fe.png)
 För en roll som ska få tillgång till kompetenssökning och kompetensmatris aktiveras följande på rollen under
 Personal
-![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_4616b19b.png)
+![Bild](images/kompetenshantering-i-hrm-hur-skapar-jag-nya-kompetenser_cbf84ea7.png)
 Om rollen också ska få tillgång till kompetenssökningen från startsidan aktiverar du även behörigheten på rollen under
 menyn
 Hem

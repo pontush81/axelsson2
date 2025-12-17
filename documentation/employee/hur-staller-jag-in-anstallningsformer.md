@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/hur-stalla-in-anstallningsform-0
+**URL:** https://knowledge.flexhrm.com/hur-stalla-in-anstallningsform-0
 
 ---
 
@@ -19,7 +19,7 @@ och välj
 Anställningsformer
 från menyn.
 Du får då upp följande vy:
-![Bild](images/hur-staller-jag-in-anstallningsformer_746fe781.png)
+![Bild](images/hur-staller-jag-in-anstallningsformer_f9109d6f.png)
 I I listan till vänster visas eventuella tidigare upplagda anställningsformer. Till höger anges/visas uppgifter om respektive anställningsform.
 Kod -
 Här visas/anges koden (förkortningen) för aktuell anställningsform.

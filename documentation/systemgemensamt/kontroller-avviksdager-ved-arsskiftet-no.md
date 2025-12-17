@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** roll  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/kontrollera-avvikelsedagar-vid-%C3%A5rsskifte-1
+**URL:** https://knowledge.flexhrm.com/kontrollera-avvikelsedagar-vid-%C3%A5rsskifte-1
 
 ---
 
@@ -20,13 +20,13 @@ Administrasjon > Innstillinger > Tid og bemanning > Arbeidsskjema > Avviksdager
 Dersom du allerede har tatt i bruk faste avviksdager under kolonnen
 Avviksdag
 , vil disse automatisk oppdateres for alle fremtidige år, og du trenger derfor ikke å gjøre noen manuelle endringer.
-![Bild](images/kontroller-avviksdager-ved-arsskiftet-no_eaf00f1a.png)
+![Bild](images/kontroller-avviksdager-ved-arsskiftet-no_c8da7080.png)
 De dagene som er lagt inn med en
 fast dato,
 må derimot registreres på nytt for det nye året dersom de fortsatt skal gjelde.
-![Bild](images/kontroller-avviksdager-ved-arsskiftet-no_26f457e7.png)
+![Bild](images/kontroller-avviksdager-ved-arsskiftet-no_430405dd.png)
 Vær oppmerksom på at avviksdagene også kan være inkludert i regelverkene for overtid, UB og beredskap. Dersom du benytter disse regelverkene, anbefaler vi at du også kontrollerer dem. Du finner regelverkene under
 Administrasjon > Innstillinger > Tid og bemanning > Timeregelverk
 .
-![Bild](images/kontroller-avviksdager-ved-arsskiftet-no_1cb11800.png)
-![Bild](images/kontroller-avviksdager-ved-arsskiftet-no_c8f4876b.png)
+![Bild](images/kontroller-avviksdager-ved-arsskiftet-no_aaa66949.png)
+![Bild](images/kontroller-avviksdager-ved-arsskiftet-no_d7c08efe.png)

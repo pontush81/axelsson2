@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, integration, mobil, roll  
 **Bilder:** 16  
-**URL:** https://knowledge.flexapplications.se/vad-%C3%A4r-ett-projektregister
+**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-ett-projektregister
 
 ---
 
@@ -56,7 +56,7 @@ BS.HR
 (delprojekt) >
 BS.HR.Bem
 (registrerbart projekt).
-![Bild](images/vad-ar-ett-projektregister_1c073940.png)
+![Bild](images/vad-ar-ett-projektregister_4f69fa6a.png)
 Registrerbara projekt
 är de som kan väljas när du registrerar tid i tidrapporter, reseräkningar och liknande.
 Huvudprojekt/delprojekt kan
@@ -73,7 +73,7 @@ Du skapar ett nytt projekt genom att antingen lägga upp ett helt nytt eller gen
 Vid upplägg av en undernivå till en befintlig huvudnivå kan du markera aktuell huvudnivå i listan till vänster. Därefter klickar du på knappen
 Ny
 och svarar ja på frågan om att skapa ett underprojekt.
-![Bild](images/vad-ar-ett-projektregister_ac6a1fb9.png)
+![Bild](images/vad-ar-ett-projektregister_416cf2f0.png)
 Projektinformation och inställningar
 Kod
 Projektets förkortning. Du kan använda både bokstäver och siffror.
@@ -190,11 +190,11 @@ Kommentarer
 På fliken
 Kommentarer
 kan du lägga till interna och externa kommentarer. Dessa kommentarer hjälper till att ge viktig information till olika parter, som projektdeltagare eller faktureringsansvariga.
-![Bild](images/vad-ar-ett-projektregister_3666eb2b.png)
+![Bild](images/vad-ar-ett-projektregister_06e3e812.png)
 En
 intern kommentar
 är text du matar in som endast är synlig internt. Den visas när du söker efter konteringar i olika funktioner i programmet där en kontering ska anges. Exemplet på bilden nedan visar tidrapporten, fältet Projekt.
-![Bild](images/vad-ar-ett-projektregister_81e5e154.png)
+![Bild](images/vad-ar-ett-projektregister_193c5f77.png)
 En
 extern kommentar
 är text som är avsedd att visas externt. Den följer med till fakturaunderlaget när projektet
@@ -240,8 +240,8 @@ Register > Projekt
 Bilden nedan visar projekt LO.101 som har två bilagor. Båda visas i projektregistret, men i reseräkningen visas endast en bilaga, den som har
 Visa vid registrering
 inställt.
-![Bild](images/vad-ar-ett-projektregister_d9ba115f.png)
-![Bild](images/vad-ar-ett-projektregister_62389fc4.png)
+![Bild](images/vad-ar-ett-projektregister_04903834.png)
+![Bild](images/vad-ar-ett-projektregister_cb79c4b9.png)
 Hantera befintliga bilagor
 Längst ner på fliken
 Bilagor
@@ -260,7 +260,7 @@ Bemanning
 Fliken
 Bemanning
 visas för den konteringsdimension som ni har ställt in ska användas för bemanning i systemet. Här kan du skapa arbetspass och bestämma vilken färg de ska ha i bemanningsöversikten.
-![Bild](images/vad-ar-ett-projektregister_f3fd0f4f.png)
+![Bild](images/vad-ar-ett-projektregister_c46af876.png)
 Ställ in färg och textfärg
 Du kan ställa in en specifik färg och textfärg för din kontering, så att den syns tydligt i bemanningsöversikten.
 Klicka på fältet för
@@ -365,15 +365,15 @@ LO
 kompetensen
 B-körkort
 .
-![Bild](images/vad-ar-ett-projektregister_66fda08f.png)
+![Bild](images/vad-ar-ett-projektregister_7258bb03.png)
 Det registrerbara underprojektet
 LO.101
 har ärvt samma kompetens.
-![Bild](images/vad-ar-ett-projektregister_b585febc.png)
+![Bild](images/vad-ar-ett-projektregister_bbaf48a3.png)
 Projekt
 LO.102
 har inte en bock för att ärva kompetenser, utan har kompletterats med ytterligare en kompetens.
-![Bild](images/vad-ar-ett-projektregister_70a64b36.png)
+![Bild](images/vad-ar-ett-projektregister_7e733832.png)
 Det innebär att för att arbeta på projekt
 LO.102
 ska du ha kompetenserna
@@ -394,7 +394,7 @@ Deltagare
 Fliken
 Deltagare
 kan du använda för att specificera vilka anställda som arbetar med ett visst projekt.
-![Bild](images/vad-ar-ett-projektregister_ae8dc676.png)
+![Bild](images/vad-ar-ett-projektregister_695e0893.png)
 Du kan ställa in regler för hur deltagare ska användas i systemet under
 Inställningar > Allmänt > Konteringsdimensioner
 . Här kan du ange att endast deltagare ska ha tillgång till projektet, eller att du som standard bara ser de projekt du är deltagare i.
@@ -462,7 +462,7 @@ budgeterade timmarna
 får stapeln
 röd
 färg.
-![Bild](images/vad-ar-ett-projektregister_838641c6.png)
+![Bild](images/vad-ar-ett-projektregister_da5a3b58.png)
 Om de
 arbetade timmarna
 är
@@ -474,7 +474,7 @@ budgeterade timmarna
 får stapeln
 grön
 färg.
-![Bild](images/vad-ar-ett-projektregister_ff131675.png)
+![Bild](images/vad-ar-ett-projektregister_f82357cf.png)
 Du kan klicka på staplarna för att få mer detaljerad information:
 Klicka på stapeln
 Arbetade timmar
@@ -517,7 +517,7 @@ Exempel:
 För projektet nedan är
 timpriset
 2500 kr/timme, förutom om kund M3 angivits. I det fallet ska timpriset vara 2200 kr.
-![Bild](images/vad-ar-ett-projektregister_f505790f.png)
+![Bild](images/vad-ar-ett-projektregister_1d694185.png)
 Om du inte anger något pris för
 HRM Travel
 kommer faktureringen att baseras på det registrerade beloppet. Ett utlägg på 2000 kr får då ett faktureringspris på 2000 kr.
@@ -540,7 +540,7 @@ projektregistret
 , fliken
 Granskning
 .
-![Bild](images/vad-ar-ett-projektregister_fc6a9e77.png)
+![Bild](images/vad-ar-ett-projektregister_31499c92.png)
 Platser
 På fliken
 Platser
@@ -549,7 +549,7 @@ platser
 till dina projekt. Platserna används för att styra var stämpling kan ske, eller för att automatiskt föreslå projekt baserat på var användaren befinner sig när hen stämplar i
 HRM Mobile
 .
-![Fliken Platser i projektregistret. Plats utpekad med blå kartnål, röd radie runt.](images/vad-ar-ett-projektregister_1627f327.png)
+![Fliken Platser i projektregistret. Plats utpekad med blå kartnål, röd radie runt.](images/vad-ar-ett-projektregister_6748f112.png)
 Lägg till en plats
 Du kan koppla en plats till ett projekt på tre sätt:
 Välj en befintlig plats:

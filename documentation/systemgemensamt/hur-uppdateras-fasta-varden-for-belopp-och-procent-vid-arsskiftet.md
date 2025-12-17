@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-uppdateras-fasta-v%C3%A4rden-f%C3%B6r-belopp-och-procent-vid-%C3%A5rsskiftet
+**URL:** https://knowledge.flexhrm.com/hur-uppdateras-fasta-v%C3%A4rden-f%C3%B6r-belopp-och-procent-vid-%C3%A5rsskiftet
 
 ---
 
@@ -15,6 +15,6 @@ Från och med version 2023.10 hämtas belopp och procent automatiskt in till Fle
 För att manuellt hämta värden kan du gå in under
 Administration > Systemregister > Belopp och procent
 och klicka på ikonen ”Hämta/uppdatera belopp och procent”.
-![Bild](images/hur-uppdateras-fasta-varden-for-belopp-och-procent-vid-arsskiftet_e19590d5.png)
+![Bild](images/hur-uppdateras-fasta-varden-for-belopp-och-procent-vid-arsskiftet_4d9c5d3d.png)
 Flex HRM föreslår ett fr.o.m. datum för hämtning. Klicka på Ok för att hämta in nya värden.
-![Bild](images/hur-uppdateras-fasta-varden-for-belopp-och-procent-vid-arsskiftet_a6f14d70.png)
+![Bild](images/hur-uppdateras-fasta-varden-for-belopp-och-procent-vid-arsskiftet_0dde33fa.png)

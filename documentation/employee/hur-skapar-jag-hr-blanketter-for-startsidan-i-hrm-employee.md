@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, hrm-employee  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/hur-skapar-jag-hr-blanketter-for-startsidan-0
+**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-hr-blanketter-for-startsidan-0
 
 ---
 
@@ -31,7 +31,7 @@ Tillgängliga taggar
 . Beroende på vad du väljer under
 Ladda ner
 som kommer du få rätt till (Word) eller inte rätt till (PDF) att redigera i mallen innan den delas från startsidan.
-![Bild](images/hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee_d03f6ae7.png)
+![Bild](images/hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee_7034648b.png)
 Dela dokumentmallar från startsidan
 För att dela ett dokument på startsidan via en mall (från HR-blanketter) väljer du först
 Lägg till
@@ -43,7 +43,7 @@ Ladda ner mall
 . Det innebär att du kan redigera i dokumentet, kanske skriva dit datum för ett möte eller liknande, och sedan välja att spara och
 Ladda upp
 mall igen. Den knappen lyses enbart upp om du först laddat ner mallen för redigering.
-![Bild](images/hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee_34024e57.png)
+![Bild](images/hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee_bbfb3576.png)
 Genom att klicka på ikonen med
 förstoringsglaset
 i ett dokument kan du förhandsgranska mallen innan du sparar och delar den med andra.
@@ -56,8 +56,8 @@ Behörigheter
 För att kunna dela ett dokument, via en mall, med andra via startsidan behöver du först aktivera den behörigheten för berörda roller under
 Roller
 .
-![Bild](images/hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee_01b19d6c.png)
+![Bild](images/hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee_273879bf.png)
 Tänk på att du även behöver ha nedan ruta ibockad för de dokumentkategorier som ska kunna väljas på startsidan. Kontrollera vilka kategorier som kan användas för startsidan under
 Dokumentkategorier
 .
-![Bild](images/hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee_5d6545a9.png)
+![Bild](images/hur-skapar-jag-hr-blanketter-for-startsidan-i-hrm-employee_a078316e.png)

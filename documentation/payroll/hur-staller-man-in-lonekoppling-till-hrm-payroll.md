@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-st%C3%A4ller-man-in-l%C3%B6nekoppling-till-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-man-in-l%C3%B6nekoppling-till-hrm-payroll
 
 ---
 
@@ -24,7 +24,7 @@ och
 Resa
 .
 Fliken Tid
-![Bild](images/hur-staller-man-in-lonekoppling-till-hrm-payroll_7cf74e53.png)
+![Bild](images/hur-staller-man-in-lonekoppling-till-hrm-payroll_dd00cae6.png)
 Krävd granskningsnivå för överföring till lön
 Här anger du vilken granskningsnivå som krävs för att en tidrapport ska kunna överföras till lön. Du kan även ange två alternativa nivåer, till exempel att tidrapporten behöver vara antingen klarmarkerad eller attesterad.
 Följande val finns:
@@ -50,7 +50,7 @@ Skriv in önskad konteringsdimension i fältet, eller klicka på
 förstoringsglaset
 för att hämta den från registret. I exemplet ovan skickar vi med projekt och kostnadsställe från tidrapporten till lön.
 Fliken Resa
-![Bild](images/hur-staller-man-in-lonekoppling-till-hrm-payroll_8634f585.png)
+![Bild](images/hur-staller-man-in-lonekoppling-till-hrm-payroll_ed82d524.png)
 Slå ihop rader med samma löneart
 Markera den här rutan om du vill slå ihop rader som har samma löneart. Detta kan minska antalet rader i löneberedningen.
 Om inställningen är aktiv kommer rader med samma löneart, kontering, reseräkningsnummer och á-pris att slås ihop. Detta sker endast i lönefilen och påverkar inte andra delar, som till exempel rapporter.

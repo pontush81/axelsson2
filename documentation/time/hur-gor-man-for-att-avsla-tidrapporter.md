@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/hur-g%C3%B6r-man-f%C3%B6r-att-avsl%C3%A5-tidrapporter
+**URL:** https://knowledge.flexhrm.com/hur-g%C3%B6r-man-f%C3%B6r-att-avsl%C3%A5-tidrapporter
 
 ---
 

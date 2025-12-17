@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, ob, schema, tidkod, tidrapport, övertid  
 **Bilder:** 6  
-**URL:** https://knowledge.flexapplications.se/hur-fungerar-ob-regelverk
+**URL:** https://knowledge.flexhrm.com/hur-fungerar-ob-regelverk
 
 ---
 
@@ -27,7 +27,7 @@ Skapa OB-regelverk
 Börja med att ge ditt OB-regelverk ett namn. Därefter skapar du olika
 Dagtyper
 .
-![Bild](images/hur-fungerar-ob-regelverk_8a6dfe67.png)
+![Bild](images/hur-fungerar-ob-regelverk_b4aaf9f8.png)
 Dagtyper
 Du kan skapa dagtyper för exempelvis
 Vardag
@@ -44,7 +44,7 @@ ska gälla på julafton, slår det ut veckodagsregeln och storhelgsregeln gälle
 Hur justerar man avvikande dagar i regelverk i HRM Time?
 Tidkodinställningar
 För varje dagtyp behöver du göra tidkodinställningar. Här ställer du in villkoren för när de olika OB-tidkoderna ska tillämpas.
-![Bild](images/hur-fungerar-ob-regelverk_9bbcbd01.png)
+![Bild](images/hur-fungerar-ob-regelverk_35b127a5.png)
 Tidkod:
 Välj den tidkod som ska tillämpas. Du kan välja mellan tidkoder som i tidkodsregistret har kodtypen
 Närvaro - OB
@@ -76,9 +76,9 @@ Vardag
 . Vi ställer in att reglerna endast ska gälla för tidkoder med kodtypen
 Närvaro - Generell
 . På så sätt undviker vi att OB betalas ut för till exempel övertidsarbete.
-![Bild](images/hur-fungerar-ob-regelverk_cfcce610.png)
-![Bild](images/hur-fungerar-ob-regelverk_462e80bf.png)
-![Bild](images/hur-fungerar-ob-regelverk_4d7cf32a.png)
+![Bild](images/hur-fungerar-ob-regelverk_fbe012e9.png)
+![Bild](images/hur-fungerar-ob-regelverk_1ec40647.png)
+![Bild](images/hur-fungerar-ob-regelverk_f18d814e.png)
 Tilldela OB-regelverk till anställda
 Du kan tilldela ett standardregelverk för OB per tidgrupp. Detta gör du under
 Inställningar > Tid och Bemanning > Tidgrupper >
@@ -94,4 +94,4 @@ Tips: Om OB inte kommer med i tidrapporten
 Om OB-regelverket verkar vara korrekt inställt men ingen OB hamnar i tidrapporten, behöver du kontrollera att tidradens huvudtidkod är inställd på att
 få kombineras med OB
 . Om denna inställning inte är aktiverad kommer OB-tidkoden inte att genereras, oavsett vad regelverket säger.
-![Bild](images/hur-fungerar-ob-regelverk_ca2f203e.png)
+![Bild](images/hur-fungerar-ob-regelverk_8f0c15c0.png)

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, schema, stämpling, tidkod, tidrapport, övertid  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/schema-dagsschema-hur-st%C3%A4ller-man-in-ett-dagsschema
+**URL:** https://knowledge.flexhrm.com/schema-dagsschema-hur-st%C3%A4ller-man-in-ett-dagsschema
 
 ---
 
@@ -28,7 +28,7 @@ Du behöver inte skapa nya dagscheman för varje pass. Du kan återanvända dags
 Inställningar för ett dagschema
 Dagscheman ställs in per tidgrupp. Dagschemat sätter reglerna för hur tidrapporten ska behandla registrerad arbetstid.
 Alla scheman bygger på att man i grunden har ett dagschema för arbetsdag och ett dagschema för ledig dag.
-![Bild](images/hur-staller-man-in-ett-dagschema_5996074a.png)
+![Bild](images/hur-staller-man-in-ett-dagschema_e66232f9.png)
 Dagscheman har följande inställningar:
 Kod
 Namn

@@ -7,14 +7,14 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lönerevision  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/hur-verkstaller-jag-arets-lonerevision-0
+**URL:** https://knowledge.flexhrm.com/hur-verkstaller-jag-arets-lonerevision-0
 
 ---
 
 I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  
 
 Nedan beskrivs funktionen Verkställ i lönerevisionen.
-![Bild](images/hur-verkstaller-jag-arets-lonerevision_059724db.png)
+![Bild](images/hur-verkstaller-jag-arets-lonerevision_5fcb315b.png)
 Arbeta med lönerevisionen - Verkställa löner
 Personal > Lönerevision
 När alla steg i granskningen är klara för en anställd kan du verkställa lönen. Det innebär att den nya lönen sparas i anställdaregistret och börjar gälla i resten av systemet. Vanligtvis är det en administratör som utför det här steget för att ha kontroll över flödet för utbetalning av retroaktiv lön i lönesystemet.
@@ -22,9 +22,9 @@ Så här verkställer du nya löner
 För att verkställa alla löner som är färdiggranskade klickar du på knappen
 Verkställ nya löner
 .
-![Bild](images/hur-verkstaller-jag-arets-lonerevision_5e93ce4b.png)
+![Bild](images/hur-verkstaller-jag-arets-lonerevision_2de11bfc.png)
 Därefter får du bekräfta ditt val.
-![Bild](images/hur-verkstaller-jag-arets-lonerevision_71cead30.png)
+![Bild](images/hur-verkstaller-jag-arets-lonerevision_37c1e6fe.png)
 Om du bara vill verkställa lönerna för ett urval av anställda behöver du först
 filtrera
 listan. Se till att endast de anställda du vill verkställa lönen för visas, och klicka sedan på
@@ -36,7 +36,7 @@ i-symbolen
 i kolumnen
 Verkställd
 .
-![Bild](images/hur-verkstaller-jag-arets-lonerevision_43763918.png)
+![Bild](images/hur-verkstaller-jag-arets-lonerevision_ae79801a.png)
 Den nya lönen visas därefter i
 Personal
 under sidomenyn

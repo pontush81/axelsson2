@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, ob, tidkod, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-delattestering-av-tidrader
+**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-delattestering-av-tidrader
 
 ---
 
@@ -24,7 +24,7 @@ Under
 Inställningar > Allmänt > Granskningsnivåer > Tidrapporter
 ställer du in en nivå på att granska per tidrad. Nivån som ska användas per tidrad måste kräva en annan nivå (ofta klarmarkering). Det går alltså inte att ha delattestering som den första granskningsnivån.
 På bilden nedan visas inställning för en nivå vi valt att kalla delattestering. Den ska användas för att granska tidrader baserat på registrerat projekt.
-![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_b59482e5.png)
+![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_7761b96f.png)
 De inringade inställningarna används endast för nivåer som granskar per tidrad, och beskrivs nedan.
 Tillåt delattestering oavsett konteringsbehörighet
 Markerar du denna inställning kommer användarna att vara behöriga att granska alla projekt. Det kan vara användbart om du vill att de anställda ska klarmarkera sina tidrapporter per tidrad och då vill slippa att sätta behörigheter för alla projekt.
@@ -39,13 +39,13 @@ Välj här om även ersättningar/tidkoder på tidrapportens flik Ersättningar 
 Delattestering i tidrapport och i granskningsvy
 D
 et går att delattestera direkt i tidrapporten under status.
-![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_3ac95409.png)
+![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_c70bd590.png)
 Det går att delattestera direkt på varje tidrad i avsedd kolumn. Om ni saknar kolumn för det, kontrollera layoutinställningen för tidrapporten (kan göras på företags-, tidgrupps- eller anställdnivå).
-![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_465975d0.png)
+![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_c37d2db3.png)
 Det finns också en granskningsvy där du kan delattestera i en översikt över alla rader som du är behörig till och som är redo att delattesteras. Du aktiverar denna i inställningarna för granskningsnivån, fliken
 Granskningsvy
 . Där kan du också ställa in vilka kolumner som ska visas i vyn.
-![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_df0e2e0a.png)
+![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_c6d089ce.png)
 Bra att veta
 För att rader ska visas i delattesteringsvyn måste de vara granskade på den nivå som krävs för delattestering (ofta klarmarkering).
 Behörighet
@@ -55,4 +55,4 @@ Konteringsgranskning
 Granskning
 .
 I användarregistret kan du ange enskilda projekt, eller ange att användaren får granska alla företagets projekt. Granskar ni tidrader utan projekt kan du också ange vilka användare som ska få granska sådana rader.
-![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_e458baf5.png)
+![Bild](images/vilka-installningar-kravs-for-delattestering-av-tidrader_232f87a5.png)

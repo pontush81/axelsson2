@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, hrm-time, stämpling, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/loggas-st%C3%A4mplingar-som-g%C3%B6rs-i-hrm-timeclock
+**URL:** https://knowledge.flexhrm.com/loggas-st%C3%A4mplingar-som-g%C3%B6rs-i-hrm-timeclock
 
 ---
 
@@ -16,7 +16,7 @@ Dagvyn
 , under
 Mer > Logg.
 På bilden nedan kan man se att den anställde har stämplat kl 14:21 och fått en fråga om att ange frånvaroorsak, men inte svarat på denna vilket har avbrutit instämplingen. Kl 14:34 har den anställde stämplat igen och besvarat frågan. Frånvaro har lagts ut och instämpling har gjorts.
-![Bild](images/loggas-stamplingar-som-gors-i-hrm-timeclock_48ade580.png)
+![Bild](images/loggas-stamplingar-som-gors-i-hrm-timeclock_4c7a4b76.png)
 Under
 Systemregister > Stämpelklockor
 finns knappen

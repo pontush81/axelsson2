@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, offboarding, onboarding  
 **Bilder:** 7  
-**URL:** https://knowledge.flexapplications.se/hur-skapar-jag-uppgifter-och-uppdrag-i-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-uppgifter-och-uppdrag-i-flex-hrm-0
 
 ---
 
@@ -23,18 +23,18 @@ Gå till
 Personal > Anställda > Anställning
 Koppla rätt uppdragsmall bredvid anställningsdatum i rutan för
 Uppdragsmall Onboarding
-![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_52078470.png)
+![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_7a336ec6.png)
 Uppdrag för offboarding
 Gå till
 Personal > Anställda > Anställning
 När en anställd ska sluta behöver ett avgångsdatum läggas in.
-![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_2bc40deb.png)
+![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_02df9b52.png)
 När avgångsdatum läggs in så dyker fälten
 Uppdragsmall
 och
 Avgångsorsak
 upp. Här fyller du i rätt mall/värde från listan.
-![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_7baaa7b4.png)
+![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_81d2cf2c.png)
 Fristående uppdrag
 Ett fristående uppdrag kan exempelvis vara en checklista för att följa upp HR- och löneprocesser. De fristående uppdragen skapas direkt i vyn
 Uppdrag.
@@ -42,14 +42,14 @@ Möjlighet att starta uppdrag/uppgifter direkt från Uppdragsvyn styrs av behör
 Klicka på
 Ny
 .
-![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_2b83551e.png)
+![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_e91b47d4.png)
 Välj en
 mall
 eller skapa ett uppdrag/uppgift utan mall genom att skriva in önskade uppgifter manuellt.
-![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_4dc93495.png)
-![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_11a25e29.png)
+![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_4f0ed7f7.png)
+![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_5bdfd11d.png)
 Gå igenom uppgifterna för att se så att du får med det som önskas så som info, ansvariga och deadlines för senast klart.
-![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_e2afeb9d.png)
+![Bild](images/hur-startar-jag-nya-uppgifter-och-uppdrag-i-hrm_f10e59a8.png)
 Om du lägger till
 Ansvariga
 i uppdrag/uppgifter är det viktigt att tänka på att uppdrag till

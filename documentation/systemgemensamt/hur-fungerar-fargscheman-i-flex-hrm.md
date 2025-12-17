@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/hur-fungerar-f%C3%A4rgscheman-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/hur-fungerar-f%C3%A4rgscheman-i-flex-hrm
 
 ---
 
@@ -22,7 +22,7 @@ Du hittar funktionen under
 Allmänt > Gränssnitt > Färgscheman
 .
 I vyn som öppnas ser du en lista med befintliga färgscheman till vänster. Vissa av dessa är standard i systemet och kan inte ändras. Du känner igen dem på att de visas i kursiv stil och har en informationssymbol bredvid namnet.
-![Bild](images/hur-fungerar-fargscheman-i-flex-hrm_fa337e3f.png)
+![Bild](images/hur-fungerar-fargscheman-i-flex-hrm_37772de5.png)
 Skapa ett nytt färgschema
 Du kan skapa ett nytt färgschema på två sätt:
 Klicka på knappen
@@ -33,14 +33,14 @@ Spara som
 för att skapa en kopia att utgå från.
 Systemfärger
 Här väljer du bakgrunds- och förgrundsfärg för allmänna delar i systemet, som menyer, paneler och andra element. Du väljer färg genom att antingen tycka på färgrutan till höger om varje fält och välja från färgtabletten eller, om du har den exakta färgkoden (hexadecimal kod), kan du också skriva in den direkt i textfältet..
-![Bild](images/hur-fungerar-fargscheman-i-flex-hrm_abace80a.png)
+![Bild](images/hur-fungerar-fargscheman-i-flex-hrm_2ab71d00.png)
 Delsystemspecifika huvudfärger
 Du kan även välja en avvikande huvudfärg för HRM Mobile. Om ditt företag vill använda en annan huvudfärg för
 HRM Mobile
 kan du ställa in det här.
-![Bild](images/hur-fungerar-fargscheman-i-flex-hrm_113480dc.png)
+![Bild](images/hur-fungerar-fargscheman-i-flex-hrm_6163cdfd.png)
 Förhandsgranskning
 Till höger på sidan finns en förhandsgranskning där du hela tiden kan se resultatet av dina färgval.
-![Bild](images/hur-fungerar-fargscheman-i-flex-hrm_83f30acd.png)
+![Bild](images/hur-fungerar-fargscheman-i-flex-hrm_e0ea33a1.png)
 Relaterade artiklar:
 Hur kan jag använda teman i Flex HRM?

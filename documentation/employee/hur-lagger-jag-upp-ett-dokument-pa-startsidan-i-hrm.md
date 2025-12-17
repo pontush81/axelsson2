@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** dokument  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/hur-lagger-jag-upp-ett-dokument-pa-startsidan-0
+**URL:** https://knowledge.flexhrm.com/hur-lagger-jag-upp-ett-dokument-pa-startsidan-0
 
 ---
 
@@ -32,17 +32,17 @@ Under
 Dela med
 välj vilka roller eller användare som du vill dela dokumentet med.
 Spara
-![Bild](images/hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm_fa62c762.png)
+![Bild](images/hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm_759f7e9e.png)
 Dokumentet har nu publicerats under Dokument för användarna som du delat till.
-![Bild](images/hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm_feff07e1.png)
+![Bild](images/hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm_db0dec30.png)
 Behörigheter
 - Startsidan
 För att kunna dela ett dokument med andra via startsidan behöver du aktivera den behörigheten för berörda roller under
 Roller
 .
 Du behöver ha en roll som ger behörighet att lägga till dokument på startsidan.
-![Bild](images/hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm_288d8a9e.png)
+![Bild](images/hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm_bbfae588.png)
 Tänk på att du även behöver ha nedan ruta ibockad för de dokumentkategorier som ska kunna väljas på startsidan. Kontrollera vilka kategorier som kan användas för startsidan under
 Dokumentkategorier
 .
-![Bild](images/hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm_5d6545a9.png)
+![Bild](images/hur-lagger-jag-upp-ett-dokument-pa-startsidan-i-hrm_a078316e.png)

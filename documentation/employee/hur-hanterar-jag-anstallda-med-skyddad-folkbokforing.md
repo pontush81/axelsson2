@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning  
 **Bilder:** 2  
-**URL:** https://knowledge.flexapplications.se/hur-hanterar-jag-skyddad-folkbokforing-0
+**URL:** https://knowledge.flexhrm.com/hur-hanterar-jag-skyddad-folkbokforing-0
 
 ---
 
@@ -34,6 +34,6 @@ Skyddad folkbokföring
 Aktivera
 Skyddad folkbokföring
 för den roll som ska hantera denna information.
-![Bild](images/hur-hanterar-jag-anstallda-med-skyddad-folkbokforing_14bb1d99.png)
+![Bild](images/hur-hanterar-jag-anstallda-med-skyddad-folkbokforing_7cb83440.png)
 Smidigare process vid nyanställning
 Vi har även anpassat nyanställningsprocessen. Om en nyanställd har skyddad folkbokföring kan du nu slutföra anställningen utan att behöva fylla i de normalt obligatoriska adressfälten, vilket skapar en smidigare och säkrare process från start.

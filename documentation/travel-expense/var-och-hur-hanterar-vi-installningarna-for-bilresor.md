@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** bil  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/bilresor-
+**URL:** https://knowledge.flexhrm.com/bilresor-
 
 ---
 
@@ -27,16 +27,16 @@ körd sträcka i tjänsten med förmånsbil
 Här anger man inställningar för vilken vy registrering av förmånsbil ska ske i samt om beräkning av drivmedelsförmån ska ske via fakturaberäkning eller via genomsnittligt pris.
 Enhet av körsträcka km eller mil ställs även in här.
 Resruttinställningar med krav gällande resrutt eller endast avreseort/destinationsort aktiveras här.
-![Bild](images/var-och-hur-hanterar-vi-installningarna-for-bilresor_df4efe5d.png)
+![Bild](images/var-och-hur-hanterar-vi-installningarna-for-bilresor_b78d8f26.png)
 Bilresor – Fordonstyper
 Fordon som ska generera milersättning ställer man in i fliken
 Allmänt
 (namn, typ, används med ersättning/förmån, föreslå tillägg), privat bil eller tjänstebil samt om de ska användas med ersättning och/eller förmån.
-![Bild](images/var-och-hur-hanterar-vi-installningarna-for-bilresor_f6d5f1a6.png)
+![Bild](images/var-och-hur-hanterar-vi-installningarna-for-bilresor_d91fca69.png)
 I fliken
 Lönearter
 ställer du in följande inställningar:
 ersättning för fordon utan drivmedelsförmån
 skattefri/skattepliktig samt förmån för fordon med drivmedelsförmån
-![Bild](images/var-och-hur-hanterar-vi-installningarna-for-bilresor_2c7f51dc.png)
+![Bild](images/var-och-hur-hanterar-vi-installningarna-for-bilresor_f918a17b.png)
 Lönearter, skattefria eller skattepliktiga med ersättning per enhet samt lönearter för drivmedelsförmån kopplas här.

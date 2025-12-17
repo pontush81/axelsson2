@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, ob, schema, tidrapport, övertid  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/hur-fungerar-avvikelserapportering
+**URL:** https://knowledge.flexhrm.com/hur-fungerar-avvikelserapportering
 
 ---
 
@@ -24,7 +24,7 @@ Avvikelserapportering hanteras i vyn
 Avvikelser.
 Du lägger in avvikelser för enskilda datum eller för ett datumintervall.
 Till höger visas en sammanställning av avvikelser för en vald period. Klicka på en rad för att redigera den i inmatningsbilden till vänster.
-![Inmatningsbild avvikelser.](images/hur-fungerar-avvikelserapportering_21974c72.png)
+![Inmatningsbild avvikelser.](images/hur-fungerar-avvikelserapportering_e04b61f7.png)
 Under
 Lägg till ersättning
 kan du registrera

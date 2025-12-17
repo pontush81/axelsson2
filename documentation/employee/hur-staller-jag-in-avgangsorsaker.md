@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning  
 **Bilder:** 1  
-**URL:** https://knowledge.flexapplications.se/hur-stalla-in-avgangsorsak-0
+**URL:** https://knowledge.flexhrm.com/hur-stalla-in-avgangsorsak-0
 
 ---
 
@@ -19,7 +19,7 @@ och välj
 Avgångsorsaker
 från menyn.
 Du får då upp följande vy:
-![Bild](images/hur-staller-jag-in-avgangsorsaker_cc1012be.png)
+![Bild](images/hur-staller-jag-in-avgangsorsaker_705305b5.png)
 I listan till vänster visas eventuella tidigare upplagda avgångsorsaker. Till höger anges/visas uppgifter om respektive avgångsorsak.
 Ange namn på avgångsorsaken samt ev. beskrivning.
 Ange avgångsorsak i arbetsgivarintyg och företrädeslistan i LAS

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, utlägg  
 **Bilder:** 5  
-**URL:** https://knowledge.flexapplications.se/fakturering-hur-fakturerar-man-en-reser%C3%A4kning
+**URL:** https://knowledge.flexhrm.com/fakturering-hur-fakturerar-man-en-reser%C3%A4kning
 
 ---
 
@@ -15,17 +15,17 @@ Utöver fakturering av en reseräkning beskriver artikeln även hur man kan fakt
 Fakturering
 En reseräkning kan sättas som fakturerbar genom att du anger en kontering i huvudkonteringen som är fakturerbar; då kommer automatiskt varje delrad i reseräkningen att bli fakturerbar.
 Du hittar faktureringsinformationen under följande ikon i registreringsbilden.
-![Bild](images/hur-fakturerar-jag-en-reserakning_35c19a5e.png)
+![Bild](images/hur-fakturerar-jag-en-reserakning_c2287e8b.png)
 Om huvudkonteringen inte är fakturerbar och du har gjort en delkontering på en rad som i sig är fakturerbar sätts endast den raden som fakturerbar.
 Om en kontering använts som standard inte är fakturerbar kan du ändå markera raden som fakturerbar (förutsatt att ingen kontering som används är satt till att aldrig kunna faktureras) genom att kryssa i Faktureras.
 Alla delposter i faktureringsdialogen är editerbara för att göra det möjligt att ändra de värden som ska synas på fakturan. Exempelvis ska hela beloppet av ett utlägg kanske inte vidarefaktureras. Manuellt ändrade poster blir svarta, ärvda poster visas som grå-kursiv.
-![Bild](images/hur-fakturerar-jag-en-reserakning_d1988914.png)
+![Bild](images/hur-fakturerar-jag-en-reserakning_f5f3836b.png)
 Fakturera olika delar av en reseräkningspost
-![Bild](images/hur-fakturerar-jag-en-reserakning_19c798ef.png)
+![Bild](images/hur-fakturerar-jag-en-reserakning_8e1c0579.png)
 Du kan dela upp en post att faktureras till olika kunder genom att lägga till en rad i faktureringsdialogen och själv välja kontering på den nya raden samt ange pris.
 Extern kommentar
 Till varje faktureringspost kan en extern kommentar anges
-![Bild](images/hur-fakturerar-jag-en-reserakning_97eeb141.png)
+![Bild](images/hur-fakturerar-jag-en-reserakning_ee45b1f3.png)
 Denna kommentar syns sedan på faktureringsunderlaget.
-![Bild](images/hur-fakturerar-jag-en-reserakning_8b86448c.png)
+![Bild](images/hur-fakturerar-jag-en-reserakning_c3a6d98a.png)
 Extern kommentar kan lämnas till varje faktureringspost, ej att blanda ihop med den interna kommentaren som är kopplad till den enskilda reseräkningsraden och bara syns i HRM Travel.

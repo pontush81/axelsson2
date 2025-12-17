@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** attestering, frånvaro, hrm-time, övertid  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern
+**URL:** https://knowledge.flexhrm.com/vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern
 
 ---
 

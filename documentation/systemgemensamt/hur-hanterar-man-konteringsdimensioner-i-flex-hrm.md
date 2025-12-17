@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/hur-hanterar-man-konteringsdimensioner-i-systemet
+**URL:** https://knowledge.flexhrm.com/hur-hanterar-man-konteringsdimensioner-i-systemet
 
 ---
 
@@ -44,7 +44,7 @@ Kund
 och
 Artikel
 , finns från start. Dessa kan du inte ta bort, men du kan ändra deras namn.
-![Bild](images/hur-hanterar-man-konteringsdimensioner-i-flex-hrm_7da2b8c9.png)
+![Bild](images/hur-hanterar-man-konteringsdimensioner-i-flex-hrm_13f6083d.png)
 Under fliken
 Allmänt
 hittar du följande inställningar:
@@ -121,7 +121,7 @@ Kan anges
 eller
 Måste anges
 .
-![Bild](images/hur-hanterar-man-konteringsdimensioner-i-flex-hrm_c5aebdcc.png)
+![Bild](images/hur-hanterar-man-konteringsdimensioner-i-flex-hrm_837962bf.png)
 Visa i reseräkningens huvuduppgifter
 : Dimensionen visas överst i inmatningsbilden för reseräkningar.
 Visa vid registrering av transaktioner
@@ -197,7 +197,7 @@ Inställningar > Allmänt > Konteringsdimensioner
 i fältet
 Tolerans för behörigheter
 . Där kan du ange hur många dagar före och efter ett byte den nya och gamla chefen ska kunna se den anställde.
-![Bild](images/hur-hanterar-man-konteringsdimensioner-i-flex-hrm_447b8a76.png)
+![Bild](images/hur-hanterar-man-konteringsdimensioner-i-flex-hrm_7f76c5e1.png)
 Relaterade artiklar
 Vad är ett konteringsregister?
 Vad är ett projektregister?

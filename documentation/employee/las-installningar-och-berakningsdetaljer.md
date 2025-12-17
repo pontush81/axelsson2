@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 21  
-**URL:** https://knowledge.flexapplications.se/las-installningar-och-berakningsdetaljer-0
+**URL:** https://knowledge.flexhrm.com/las-installningar-och-berakningsdetaljer-0
 
 ---
 
@@ -59,7 +59,7 @@ anställningsformer sa
 mma dag/period. Eller för att ställa in utökad tillfälleshantering.
 Arbetade dagar via lönearter i HRM Payroll
 Arbetsdagar summeras från de lönearter som är inställda på att räknas som arbetsdagar för LAS.
-![Bild](images/las-installningar-och-berakningsdetaljer_087dbe22.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_40868bb4.png)
 Enheten på lönearten måste vara arbetsdagar
 Datumen på löneraden måste ligga helt inom anställningsperioden (annars kommer inte dagarna räknas med i LAS-beräkningen).
 Lönekörningen måste vara avräknad för att dagarna ska räknas med.
@@ -78,7 +78,7 @@ räknas per företag/organisationsnummer
 inom koncernen. Exempelvis om en anställd arbetar på förmiddagen i ett företag och på eftermiddagen i ett annat företag i samma koncern så kommer den anställde tillgodoräkna sig två anställningsdagar. Detsamma gäller om en anställd har arbetat i samma företag  samma dag men på olika anställningsnummer.
 Behörigheter
 För att aktivera någon av LAS-vyerna behöver du först aktivera den på aktuella roller:
-![Bild](images/las-installningar-och-berakningsdetaljer_7b27c0ea.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_8c8a235f.png)
 Listan
 Rätt till tillsvidareanställning
 är behörighetsstyrd vilket innebär att du ser de anställda som du har behörighet att se enligt inställningar på din användare.
@@ -89,13 +89,13 @@ Visa logg
 enligt nedan, för
 Rätt till tillsvidareanställning
 , blir aktuell roll behörig till information i loggen för samtliga anställda i den listan dvs inte bara för de anställda rollen har behörighet till. Läs mer om loggen i separat avsnitt.
-![Bild](images/las-installningar-och-berakningsdetaljer_bcad5c39.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_08600c72.png)
 Bockar du i
 Ta bort anställd
 för listan
 Företrädesrätt till återanställning
 har du möjlighet att ta bort en anställd ur den listan.
-![Bild](images/las-installningar-och-berakningsdetaljer_e04b316a.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_885f2a7e.png)
 Licens och basland
 För att kunna koppla på behörigheten enligt ovan behöver du ha HRM Employee eller HRM Payroll i licensen och du måste ha basland Sverige enligt inställningen under
 Allmänt > Företag.
@@ -105,7 +105,7 @@ LAS
 under
 Inställningar > Personal > Anställningsformer
 .
-![Bild](images/las-installningar-och-berakningsdetaljer_4f3ca3aa.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_dc4839da.png)
 Default ligger beräkning
 Kalenderdagar
 på alla anställningsformer. För er med kollektivavtal som beräknar utifrån arbetade dagar behöver ni därför ändra detta på den eller de anställningsformer som berörs.
@@ -114,7 +114,7 @@ Undantagen
 . Det innebär att anställningsperioder med en sådan anställningsform inte kommer ge några LAS-dagar.
 Beräkningsinställningen per anställningsform påverkar alla LAS-vyers beräkningar.
 För de anställningsformer som är någon form av visstidsanställning, och som ska räknas i rätten till tillsvidareanställning och företrädesrätt till återanställning, behöver ett val göras för vad den ska beräknas som. Det går enbart att bocka i ett av nedan alternativ per anställningsform.
-![Bild](images/las-installningar-och-berakningsdetaljer_245c5d10.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_2a98d6cc.png)
 Alternativet för
 Räknas enligt inställning på kontering
 för arbetsdag
@@ -123,7 +123,7 @@ Arbetsdagar
 och det finns en konteringsdimension i aktuellt företag som har inställningen för
 Används för LAS - Rätt till tillsvidareanställning
 .
-![Bild](images/las-installningar-och-berakningsdetaljer_b0787ff2.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_3ffe0815.png)
 Läs mer om denna inställning
 nedan.
 I de fall en anställningsform inte ger rätt till företrädesdagar behöver du ha
@@ -144,11 +144,11 @@ Används för LAS-beräkning på arbetsdagar
 .
 Denna bock tillåts inte för utökade register.
 Inställningar > Allmänt > Konteringsdimensioner
-![Bild](images/las-installningar-och-berakningsdetaljer_9fffbd79.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_d387592f.png)
 När du aktiverat ovan behöver du lägga upp val i registret för den skapade konteringsdimensionen genom att gå till
 Register
 och skapa upp nya koder med kod och namn. Därefter väljer du om respektive val ska räknas som SÄVA eller VIK vid beräkningen av arbetsdagar.
-![Bild](images/las-installningar-och-berakningsdetaljer_7ba3cff0.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_fda7b50d.png)
 Om enbart kontering för
 SÄVA
 använts en dag genererar det en SÄVA-dag.
@@ -156,7 +156,7 @@ Om enbart kontering för
 VIK
 använts en dag genererar det en VIK-dag.
 Om kontering för SÄVA och VIK använts samma dag på olika tidrader genererar det två dagar d.v.s. en för SÄVA och en för VIK.
-![Bild](images/las-installningar-och-berakningsdetaljer_94e3464b.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_903e6294.png)
 På de arbetsdagar inget av ovan val gjorts används den inställning som finns på den anställningsform som den anställde har inställt i fliken Anställning i anställdaregistret.
 Notera
 Om kontering för VIK använts på tidrad och det även finns en tidrad samma dag utan LAS-kontering kommer enbart en VIK-dag genereras.
@@ -173,18 +173,18 @@ Antal dagar mellan arbetstillfällen
 är ifyllt.
 Antal dagar mellan arbetstillfällen
 styr hur många dagar mellan två SÄVA-dagar som krävs för att räknas som ett nytt SÄVA-tillfälle.
-![Bild](images/las-installningar-och-berakningsdetaljer_99d09905.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_fef7dca2.png)
 Exempel med utökad tillfälleshantering (antal dagar mellan arbetstillfällen inställt 1 enligt ovan bild)
-![Bild](images/las-installningar-och-berakningsdetaljer_c6b0409a.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_082656a3.png)
 Använder du inte utökad tillfälleshantering kommer varje arbetad dag att räknas som ett tillfälle, vilket är grundinställningen i HRM vid SÄVA .
-![Bild](images/las-installningar-och-berakningsdetaljer_1ded095c.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_92095b9d.png)
 Personalkategori
 Under
 Personalkategorier
 ställer du in vilket gränsvärde som ska gälla för SÄVA respektive VIK vid beräkning av rätt till tillsvidareanställning. Inställningen är per personalkategori.
-![Bild](images/las-installningar-och-berakningsdetaljer_0f969aaf.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_acbbaf04.png)
 Beroende på om du använder HRM Time och/eller HRM Payroll kan du här välja om arbetsdagar ska räknas utifrån tidrapporten i HRM Time eller lönearter i HRM Payroll. Inställningen är per personalkategori.
-![Bild](images/las-installningar-och-berakningsdetaljer_a9c780a5.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_9812385e.png)
 Detta gäller de anställningsformer där man ställt in att beräkning görs med
 arbetsdagar.
 Om du ska räkna arbetsdagar via löneart i HRM Payroll krävs även vissa inställningar på
@@ -197,20 +197,20 @@ kan påverka vilka anställda som kommer med i listan för företrädesrätt til
 Beräkning utgår från inställningen för
 Avgångsorsak i arbetsgivarintyget och företrädeslistan i LAS
 och ställs in per avgångsorsak enligt exemplet nedan:
-![Bild](images/las-installningar-och-berakningsdetaljer_98dafe7e.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_a584c83c.png)
 LAS-flik per anställd
 I denna meny i anställdaregistret kan information sparas per anställd.
-![Bild](images/las-installningar-och-berakningsdetaljer_320d9c65.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_1bda473b.png)
 Ingående värde för Turordning vid uppsägning
 Ingående värde
 och
 Ingående värde t.o.m
 . är användbart om du har vissa uppgifter om den anställde i ett annat system och vill flytta över det till HRM.
-![Bild](images/las-installningar-och-berakningsdetaljer_b69d9691.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_71e0f9d3.png)
 Finns ett värde i dessa fält räknar HRM anställningsdagar enligt värdet fram till t.o.m. datumet och efter det ingående datumet beräknas dagarna från HRM (anställningsperioder/arbetsdagar). Det innebär att i Anställningsdagar slås antalet dagar ihop.
 I exemplet nedan har den anställde totalt 3866 anställningsdagar i Listan Turordning vid uppsägning.
 1022 (Ingående värde) + 2844 (Anställningsperioder i HRM from 20218-01-02) = 3866.
-![Bild](images/las-installningar-och-berakningsdetaljer_c6624e4d.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_f8a37c7e.png)
 Viktigt att notera att dessa värden enbart tillämpas på beräkningen av anställningsdagar i listan turordning vid uppsägning.
 Dessa fält går även att importera via fil samt att exportera till fil.
 Status för Företrädesrätt till återanställning
@@ -218,9 +218,9 @@ Status för
 Företrädesrätt till återanställning
 används för att på ett strukturerat vis se vem som fått besked om företrädesrätt, åberopat sin företrädesrätt, tillfrågats om jobberbjudande, tackat ja till jobberbjudande samt tackat nej till jobberbjudande.
 Ändras statusen här slår den igenom på den anställde i alla företrädeslistor som anställningen finns på och som beräkningsdatumet också är inom anställningsperiodens datum.
-![Bild](images/las-installningar-och-berakningsdetaljer_236505c0.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_a171ee64.png)
 Ändras status i företrädeslistan som anställningen finns i så ändras det i anställdaregistret.
-![Bild](images/las-installningar-och-berakningsdetaljer_157d7b7d.png)
+![Bild](images/las-installningar-och-berakningsdetaljer_a6bb88ce.png)
 Relaterade artiklar
 ⚙️LAS - Beräkningsdetaljer fördjupning
 LAS - Företräde till återanställning

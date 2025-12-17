@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, ob, tidrapport  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/kan-jag-%C3%A4ndra-i-en-tidrapport-som-%C3%A4r-granskad/%C3%B6verf%C3%B6rd-till-l%C3%B6n
+**URL:** https://knowledge.flexhrm.com/kan-jag-%C3%A4ndra-i-en-tidrapport-som-%C3%A4r-granskad/%C3%B6verf%C3%B6rd-till-l%C3%B6n
 
 ---
 
@@ -22,11 +22,11 @@ Mer
 >
 Lås upp dag för korrigering
 .
-![Bild](images/kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon_5773cac3.png)
+![Bild](images/kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon_dfa8b5ea.png)
 I kolumnen
 Daginformation
 ser du att dagen nu är öppen för korrigering.
-![Bild](images/kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon_311e1bb1.png)
+![Bild](images/kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon_995c2e0b.png)
 Gör dina ändringar och klicka på
 Spara
 .
@@ -42,7 +42,7 @@ Daginformation
 och
 Periodinformation
 kan du se vem som har korrigerat tidrapporten och när det gjordes.
-![Bild](images/kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon_0b1492f9.png)
+![Bild](images/kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon_86ed375d.png)
 Korrigera tidrapport (Periodredovisning)
 Om du jobbar med periodredovisning kan du inte låsa upp enbart en dag, utan måste låsa upp hela perioden.
 Gå in på den tidrapport du vill ändra.
@@ -72,4 +72,4 @@ kan du se vem som har korrigerat tidrapporten och när det gjordes.
 Observera
 Behörigheten att korrigera tidrapporter kan sättas på olika nivåer. Det kan till exempel vara så att du får korrigera en klarmarkerad tidrapport, men inte en som är överförd till lön.
 Om valet för att låsa upp tidrapporten för korrigering är gråmarkerat, beror det på att tidrapporten antingen är preliminär eller att den är granskad/överförd på en nivå som du inte har behörighet att ändra.
-![Bild](images/kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon_20b3669d.png)
+![Bild](images/kan-jag-andra-i-en-tidrapport-som-ar-granskad-overford-till-lon_771c3366.png)

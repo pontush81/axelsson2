@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, saldo, schema, tidkod  
 **Bilder:** 0  
-**URL:** https://knowledge.flexapplications.se/tidgrupper-hur-st%C3%A4ller-man-in-tidgrupper
+**URL:** https://knowledge.flexhrm.com/tidgrupper-hur-st%C3%A4ller-man-in-tidgrupper
 
 ---
 

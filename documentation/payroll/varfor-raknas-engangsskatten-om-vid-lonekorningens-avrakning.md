@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, semester, skatt  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/varf%C3%B6r-r%C3%A4knas-eng%C3%A5ngsskatten-om-vid-l%C3%B6nek%C3%B6rningens-avr%C3%A4kning
+**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-r%C3%A4knas-eng%C3%A5ngsskatten-om-vid-l%C3%B6nek%C3%B6rningens-avr%C3%A4kning
 
 ---
 
@@ -18,11 +18,11 @@ Automatisk semesterberäkning
 Om du använder inställningen för att
 automatiskt beräkna om semester vid avräkning av lön
 (för anställda med sammanfallande semesterintjänandeår), görs en ny beräkning av både antalet semesterdagar och den genomsnittliga sysselsättningsgraden för intjänandeåret. Denna inställning görs under Inställningar > Lön > Lönekörningar.
-![Bild](images/varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning_1ebc46e4.png)
+![Bild](images/varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning_02966f41.png)
 Värdet på semestern ändras
 Den nya beräkningen av sysselsättningsgraden under intjänandeåret kan i sin tur påverka värdet på semesterlön och semestertillägg för uttagen semester i den aktuella lönekörningen. Du hittar dessa uppgifter under fliken Semester i anställningsregistret.
-![Bild](images/varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning_166c04d4.png)
-![Bild](images/varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning_b0da27c0.png)
+![Bild](images/varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning_a3dedd01.png)
+![Bild](images/varfor-raknas-engangsskatten-om-vid-lonekorningens-avrakning_ba3bf6fb.png)
 Beräknad årsinkomst justeras
 När värdet på semesterersättningen ändras, justeras även den anställdas beräknade totala årsinkomst. Ibland kan denna justering leda till att årsinkomsten passerar en brytpunkt för engångsskatt, vilket innebär att en högre skattesats ska användas.
 Engångsskatten räknas om

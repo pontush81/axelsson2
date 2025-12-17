@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexapplications.se/hur-fungerar-meddelanden-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/hur-fungerar-meddelanden-i-flex-hrm
 
 ---
 
@@ -24,7 +24,7 @@ Skickade meddelanden
 Schemalagda meddelanden (visas som schemalagda tills de skickas)
 Läsa meddelanden
 När du filtrerar på mottagna meddelanden markeras olästa meddelanden med en rand i vänsterkanten.
-![Bild](images/hur-fungerar-meddelanden-i-flex-hrm_8fc15077.png)
+![Bild](images/hur-fungerar-meddelanden-i-flex-hrm_19460740.png)
 Du kan öppna ett meddelande på tre sätt:
 Dubbelklicka
 på meddelandet. Det öppnas då i ett nytt fönster och markeras automatiskt som läst.
@@ -40,7 +40,7 @@ Skicka meddelanden
 Om du har behörighet att skicka meddelanden ser du en
 pennikon
 för att skapa nya meddelanden i panelen. Klicka på ikonen för att öppna fönstret där du skriver ditt meddelande.
-![Bild](images/hur-fungerar-meddelanden-i-flex-hrm_20a1642b.png)
+![Bild](images/hur-fungerar-meddelanden-i-flex-hrm_3c142a67.png)
 När du skapar meddelandet finns flera inställningar att göra:
 Prioritet
 Du kan välja mellan
@@ -48,7 +48,7 @@ Normal
 eller
 Hög
 prioritet. Meddelanden med hög prioritet visas automatiskt i ett popup-fönster hos mottagarna, i Flex HRM och i HRM Mobile,och markeras med en röd ikon i panelen på startsidan.
-![Bild](images/hur-fungerar-meddelanden-i-flex-hrm_d25d4cc0.png)
+![Bild](images/hur-fungerar-meddelanden-i-flex-hrm_740e5bc8.png)
 Till alla användare
 Om du har behörighet att skicka meddelanden till alla användare i Flex HRM kan du bocka i rutan för att välja detta. När du väljer detta inaktiveras valen för att skicka till anställda eller grupper.
 Tillåt svar

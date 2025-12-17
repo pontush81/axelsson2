@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/hrm-travel-hur-konfigurerar-man-generella-inst%C3%A4llningar-f%C3%B6r-reser%C3%A4kningar-i-hrm-travel
+**URL:** https://knowledge.flexhrm.com/hrm-travel-hur-konfigurerar-man-generella-inst%C3%A4llningar-f%C3%B6r-reser%C3%A4kningar-i-hrm-travel
 
 ---
 
@@ -22,14 +22,14 @@ initieringsnummer för reseräkningar
 händelse för skapande av verifikationsnummer
 prefix för initieringsnummer
 löpnummer för initieringsnummer
-![Bild](images/hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel_e7939c52.png)
+![Bild](images/hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel_b585b42c.png)
 I fliken
 Reseräkningsvy
 kan du ställa in inställningar för layout, summering och transaktionstyper.
-![Bild](images/hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel_16b2b783.png)
+![Bild](images/hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel_5aa86afc.png)
 I fliken
 Hållvarhetsuppföljning
 kan du ställa in inställningar för hållbarhetsuppföljning.
-![Bild](images/hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel_375a01de.png)
+![Bild](images/hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel_77a40b9a.png)
 Du kan även skriva instruktioner för rapportering av transportmedel och hotelnätter.
-![Bild](images/hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel_41764901.png)
+![Bild](images/hur-konfigurerar-vi-generella-installningar-for-reserakningar-i-hrm-travel_b91a0bd9.png)

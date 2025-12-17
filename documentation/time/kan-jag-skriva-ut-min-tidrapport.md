@@ -7,13 +7,13 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, ob, saldo, tidkod, tidrapport  
 **Bilder:** 4  
-**URL:** https://knowledge.flexapplications.se/kan-jag-skriva-ut-min-tidrapport
+**URL:** https://knowledge.flexhrm.com/kan-jag-skriva-ut-min-tidrapport
 
 ---
 
 Månadsrapporten kan skrivas ut direkt från tidrapporten eller via vyn Rapporter.
 Månadsrapporten ger dig en översikt över de tider du har matat in under en månad.
-![Bild](images/kan-jag-skriva-ut-min-tidrapport_89790437.png)
+![Bild](images/kan-jag-skriva-ut-min-tidrapport_440ef9d7.png)
 Du kan skriva ut månadsrapporten på två olika sätt: direkt från tidrapporten eller via vyn
 Rapporter
 .
@@ -68,7 +68,7 @@ dagsaldon
 och
 periodsaldon
 ska skrivas ut.
-![Bild](images/kan-jag-skriva-ut-min-tidrapport_f7184dd0.png)
+![Bild](images/kan-jag-skriva-ut-min-tidrapport_b7206a53.png)
 Så fungerar gruppering
 Visningsalternativet
 Gruppera på
@@ -96,5 +96,5 @@ Granskningsnivåer
 >
 Tidrapporter
 . Du ställer in om kvittens ska visas, och om det ska visas med användarens signatur eller med en rad för manuell signatur.
-![Bild](images/kan-jag-skriva-ut-min-tidrapport_4c5f593e.png)
-![Bild](images/kan-jag-skriva-ut-min-tidrapport_cf20d65c.png)
+![Bild](images/kan-jag-skriva-ut-min-tidrapport_e92e5481.png)
+![Bild](images/kan-jag-skriva-ut-min-tidrapport_eb50f272.png)
