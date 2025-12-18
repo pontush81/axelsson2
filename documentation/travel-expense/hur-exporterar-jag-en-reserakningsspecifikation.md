@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/reser%C3%A4kningsspecifikation-hur-exporterar-man-en-reser%C3%A4kningsspecifikation
+**URL:** https://knowledge.flexhrm.com/sv/reser%C3%A4kningsspecifikation-hur-exporterar-man-en-reser%C3%A4kningsspecifikation
 
 ---
 

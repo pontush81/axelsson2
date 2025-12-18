@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, ob, schema, tidkod, tidrapport, övertid  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-ob-regelverk
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-ob-regelverk
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/roller-och-beh%C3%B6righeter-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/roller-och-beh%C3%B6righeter-i-flex-hrm
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, ob, tidkod, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-delattestering-av-tidrader
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-delattestering-av-tidrader
 
 ---
 

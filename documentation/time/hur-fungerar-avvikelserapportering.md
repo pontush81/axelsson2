@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, ob, schema, tidrapport, övertid  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-avvikelserapportering
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-avvikelserapportering
 
 ---
 

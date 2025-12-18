@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lönerevision  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/exportera-arets-lonerevision-0
+**URL:** https://knowledge.flexhrm.com/sv/exportera-arets-lonerevision-0
 
 ---
 

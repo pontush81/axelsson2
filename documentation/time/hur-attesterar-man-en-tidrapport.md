@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, frånvaro, lön, ob, saldo, schema, tidkod, tidrapport  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/attestera-tidrapporter-hur-attesterar-man-en-tidrapport
+**URL:** https://knowledge.flexhrm.com/sv/attestera-tidrapporter-hur-attesterar-man-en-tidrapport
 
 ---
 

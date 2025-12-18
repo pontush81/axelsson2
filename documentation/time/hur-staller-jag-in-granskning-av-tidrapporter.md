@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, frånvaro, ob, saldo, schema, tidrapport, övertid  
 **Bilder:** 13  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-jag-in-granskning-av-tidrapporter
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-jag-in-granskning-av-tidrapporter
 
 ---
 

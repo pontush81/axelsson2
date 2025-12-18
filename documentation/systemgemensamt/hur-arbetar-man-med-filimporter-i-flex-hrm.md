@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-arbetar-man-med-filimporter-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/hur-arbetar-man-med-filimporter-i-flex-hrm
 
 ---
 

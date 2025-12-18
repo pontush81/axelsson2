@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** bil, resa  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-aktiverar-vi-m%C3%B6jligheten-f%C3%B6r-anst%C3%A4llda-att-importera-k%C3%B6rjournaler-till-hrm-travel
+**URL:** https://knowledge.flexhrm.com/sv/hur-aktiverar-vi-m%C3%B6jligheten-f%C3%B6r-anst%C3%A4llda-att-importera-k%C3%B6rjournaler-till-hrm-travel
 
 ---
 

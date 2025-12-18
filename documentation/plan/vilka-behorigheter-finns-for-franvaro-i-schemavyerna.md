@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** schema  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/vilka-beh%C3%B6righeter-finns-f%C3%B6r-fr%C3%A5nvaro-i-schemavyerna
+**URL:** https://knowledge.flexhrm.com/sv/vilka-beh%C3%B6righeter-finns-f%C3%B6r-fr%C3%A5nvaro-i-schemavyerna
 
 ---
 

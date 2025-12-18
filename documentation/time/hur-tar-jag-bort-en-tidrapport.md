@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, lön, ob, schema, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-tar-jag-bort-en-tidrapport
+**URL:** https://knowledge.flexhrm.com/sv/hur-tar-jag-bort-en-tidrapport
 
 ---
 

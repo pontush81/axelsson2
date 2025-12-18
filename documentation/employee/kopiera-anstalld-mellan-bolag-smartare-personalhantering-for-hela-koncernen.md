@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kopiera-anstalld-inom-koncern
+**URL:** https://knowledge.flexhrm.com/sv/kopiera-anstalld-inom-koncern
 
 ---
 

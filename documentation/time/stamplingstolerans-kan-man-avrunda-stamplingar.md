@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** ob, schema, stämpling, tidrapport, övertid  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/t%C3%A4mplingstolerans-kan-man-avrunda-st%C3%A4mplingar
+**URL:** https://knowledge.flexhrm.com/sv/t%C3%A4mplingstolerans-kan-man-avrunda-st%C3%A4mplingar
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** dokument, hrm-employee, medarbetarsamtal, signering  
 **Bilder:** 10  
-**URL:** https://knowledge.flexhrm.com/hur-genomfor-jag-ett-medarbetarsamtal-i-hrm-employee-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-genomfor-jag-ett-medarbetarsamtal-i-hrm-employee-0
 
 ---
 

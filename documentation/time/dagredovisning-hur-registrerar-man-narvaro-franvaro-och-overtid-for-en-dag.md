@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema, semester, tidkod, tidrapport, övertid  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/dagredovisning-hur-registrerar-man-n%C3%A4rvaro-fr%C3%A5nvaro-och-%C3%B6vertid-f%C3%B6r-en-dag
+**URL:** https://knowledge.flexhrm.com/sv/dagredovisning-hur-registrerar-man-n%C3%A4rvaro-fr%C3%A5nvaro-och-%C3%B6vertid-f%C3%B6r-en-dag
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/las-turordning-vid-uppsagning-0
+**URL:** https://knowledge.flexhrm.com/sv/las-turordning-vid-uppsagning-0
 
 ---
 

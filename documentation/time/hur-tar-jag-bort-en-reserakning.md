@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** ob  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-tar-jag-bort-en-tidrapport-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-tar-jag-bort-en-tidrapport-0
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, mobil, ob, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kan-g%C3%B6ras-f%C3%B6r-korrigering-av-tidrapport
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kan-g%C3%B6ras-f%C3%B6r-korrigering-av-tidrapport
 
 ---
 

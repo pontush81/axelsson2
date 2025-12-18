@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** dokument, hrm-employee, medarbetarsamtal, signering  
 **Bilder:** 29  
-**URL:** https://knowledge.flexhrm.com/performance-management-hur-skapar-jag-en-samtalsmall-i-hrm-employee-0
+**URL:** https://knowledge.flexhrm.com/sv/performance-management-hur-skapar-jag-en-samtalsmall-i-hrm-employee-0
 
 ---
 

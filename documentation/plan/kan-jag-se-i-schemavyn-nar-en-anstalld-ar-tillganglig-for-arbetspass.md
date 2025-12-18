@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** schema  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/kan-jag-se-i-schemavyn-n%C3%A4r-en-anst%C3%A4lld-%C3%A4r-tillg%C3%A4nglig-f%C3%B6r-arbetspass
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-se-i-schemavyn-n%C3%A4r-en-anst%C3%A4lld-%C3%A4r-tillg%C3%A4nglig-f%C3%B6r-arbetspass
 
 ---
 

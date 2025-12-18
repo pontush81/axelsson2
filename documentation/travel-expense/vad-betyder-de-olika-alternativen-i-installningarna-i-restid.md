@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** bil  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/restid-vad-betyder-de-olika-alternativen-i-inst%C3%A4llningarna-i-restid
+**URL:** https://knowledge.flexhrm.com/sv/restid-vad-betyder-de-olika-alternativen-i-inst%C3%A4llningarna-i-restid
 
 ---
 

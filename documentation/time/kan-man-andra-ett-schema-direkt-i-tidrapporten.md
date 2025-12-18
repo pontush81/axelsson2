@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** ob, schema, tidrapport, övertid  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/kan-man-%C3%A4ndra-ett-schema-direkt-i-tidrapporten
+**URL:** https://knowledge.flexhrm.com/sv/kan-man-%C3%A4ndra-ett-schema-direkt-i-tidrapporten
 
 ---
 

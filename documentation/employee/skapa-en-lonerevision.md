@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, lönerevision  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/skapa-lonerevision-0
+**URL:** https://knowledge.flexhrm.com/sv/skapa-lonerevision-0
 
 ---
 

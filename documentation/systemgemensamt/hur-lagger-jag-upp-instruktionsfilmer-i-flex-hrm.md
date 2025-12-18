@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, roll  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/instruktionsfilmer-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/instruktionsfilmer-flex-hrm-0
 
 ---
 

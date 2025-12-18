@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, ob, schema, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/bearbetningar-hur-%C3%B6verf%C3%B6r-man-tidrapporter-och-reser%C3%A4kningar-till-l%C3%B6n
+**URL:** https://knowledge.flexhrm.com/sv/bearbetningar-hur-%C3%B6verf%C3%B6r-man-tidrapporter-och-reser%C3%A4kningar-till-l%C3%B6n
 
 ---
 

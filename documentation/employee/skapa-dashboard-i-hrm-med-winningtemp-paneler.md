@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** dokument  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/skapa-dashboard-i-hrm-med-winningtemp-paneler
+**URL:** https://knowledge.flexhrm.com/sv/skapa-dashboard-i-hrm-med-winningtemp-paneler
 
 ---
 

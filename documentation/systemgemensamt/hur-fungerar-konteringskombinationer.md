@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 0  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-konteringskombinationer
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-konteringskombinationer
 
 ---
 

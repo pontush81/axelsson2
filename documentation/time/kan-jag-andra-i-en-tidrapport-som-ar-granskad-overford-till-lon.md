@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, ob, tidrapport  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/kan-jag-%C3%A4ndra-i-en-tidrapport-som-%C3%A4r-granskad/%C3%B6verf%C3%B6rd-till-l%C3%B6n
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-%C3%A4ndra-i-en-tidrapport-som-%C3%A4r-granskad/%C3%B6verf%C3%B6rd-till-l%C3%B6n
 
 ---
 

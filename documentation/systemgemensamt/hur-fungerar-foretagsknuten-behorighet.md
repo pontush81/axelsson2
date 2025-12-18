@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-f%C3%B6retagsknuten-beh%C3%B6righet
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-f%C3%B6retagsknuten-beh%C3%B6righet
 
 ---
 

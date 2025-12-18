@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** roll  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kontrollera-avvikelsedagar-vid-%C3%A5rsskifte
+**URL:** https://knowledge.flexhrm.com/sv/kontrollera-avvikelsedagar-vid-%C3%A5rsskifte
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** cv, kompetens, kurs  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/kurshantering-i-hrm-hur-skapa-nya-kurser-0
+**URL:** https://knowledge.flexhrm.com/sv/kurshantering-i-hrm-hur-skapa-nya-kurser-0
 
 ---
 

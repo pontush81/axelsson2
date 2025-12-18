@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, hrm-employee, offboarding, onboarding  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-hanterar-flex-hrm-employee-offboarding-av-anst%C3%A4llda-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-flex-hrm-employee-offboarding-av-anst%C3%A4llda-0
 
 ---
 

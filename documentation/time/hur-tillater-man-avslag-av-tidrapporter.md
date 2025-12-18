@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-till%C3%A5ter-man-avslag-av-tidrapporter
+**URL:** https://knowledge.flexhrm.com/sv/hur-till%C3%A5ter-man-avslag-av-tidrapporter
 
 ---
 

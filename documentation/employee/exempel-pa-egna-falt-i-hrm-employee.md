@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** cv, dokument, hrm-employee, medarbetarsamtal, signering  
 **Bilder:** 27  
-**URL:** https://knowledge.flexhrm.com/exempel-egna-falt-i-hrm-employee-0-0
+**URL:** https://knowledge.flexhrm.com/sv/exempel-egna-falt-i-hrm-employee-0-0
 
 ---
 

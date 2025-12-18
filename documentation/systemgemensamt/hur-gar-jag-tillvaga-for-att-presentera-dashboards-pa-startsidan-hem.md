@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-g%C3%A5r-jag-tillv%C3%A4ga-f%C3%B6r-att-presentera-dashboards-p%C3%A5-startsidan-hem
+**URL:** https://knowledge.flexhrm.com/sv/hur-g%C3%A5r-jag-tillv%C3%A4ga-f%C3%B6r-att-presentera-dashboards-p%C3%A5-startsidan-hem
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, lön, schema, tidkod, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/ers%C3%A4ttningar-hur-hanterar-man-ej-timbaserade-ers%C3%A4ttningar-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/ers%C3%A4ttningar-hur-hanterar-man-ej-timbaserade-ers%C3%A4ttningar-i-hrm-time
 
 ---
 

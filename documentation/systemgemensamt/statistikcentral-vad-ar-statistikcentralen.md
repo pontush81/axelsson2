@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 10  
-**URL:** https://knowledge.flexhrm.com/statistikcentralen-vad-%C3%A4r-statistikcentralen
+**URL:** https://knowledge.flexhrm.com/sv/statistikcentralen-vad-%C3%A4r-statistikcentralen
 
 ---
 

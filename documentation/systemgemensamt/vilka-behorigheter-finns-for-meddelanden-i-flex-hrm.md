@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/vilka-beh%C3%B6righeter-finns-f%C3%B6r-meddelanden-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/vilka-beh%C3%B6righeter-finns-f%C3%B6r-meddelanden-i-flex-hrm
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, lön, ob, schema, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/karensavdrag-hur-hanterar-man-karensavdrag-i-flex-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/karensavdrag-hur-hanterar-man-karensavdrag-i-flex-hrm-time
 
 ---
 

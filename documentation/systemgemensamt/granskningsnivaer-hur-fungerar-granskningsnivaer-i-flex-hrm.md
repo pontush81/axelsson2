@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/granskningsniv%C3%A5er-
+**URL:** https://knowledge.flexhrm.com/sv/granskningsniv%C3%A5er-
 
 ---
 

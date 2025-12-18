@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** ob, tidkod, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-rapporten-projektuppf%C3%B6ljning
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-rapporten-projektuppf%C3%B6ljning
 
 ---
 

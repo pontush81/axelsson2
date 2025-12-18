@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** ob, schema  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/vad-betyder-schemastartdatum
+**URL:** https://knowledge.flexhrm.com/sv/vad-betyder-schemastartdatum
 
 ---
 

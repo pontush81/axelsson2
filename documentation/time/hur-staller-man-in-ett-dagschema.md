@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, schema, stämpling, tidkod, tidrapport, övertid  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/schema-dagsschema-hur-st%C3%A4ller-man-in-ett-dagsschema
+**URL:** https://knowledge.flexhrm.com/sv/schema-dagsschema-hur-st%C3%A4ller-man-in-ett-dagsschema
 
 ---
 

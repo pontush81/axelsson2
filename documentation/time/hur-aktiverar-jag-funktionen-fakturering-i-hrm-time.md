@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, hrm-time, mobil, ob, tidrapport  
 **Bilder:** 15  
-**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering
+**URL:** https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering
 
 ---
 

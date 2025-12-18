@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, resa  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/hur-registrerar-jag-resor-med-f%C3%B6rm%C3%A5nsbilar-med-drivmedelsf%C3%B6rm%C3%A5n-i-reser%C3%A4kningsvyn
+**URL:** https://knowledge.flexhrm.com/sv/hur-registrerar-jag-resor-med-f%C3%B6rm%C3%A5nsbilar-med-drivmedelsf%C3%B6rm%C3%A5n-i-reser%C3%A4kningsvyn
 
 ---
 

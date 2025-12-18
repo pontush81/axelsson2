@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lönerevision  
 **Bilder:** 10  
-**URL:** https://knowledge.flexhrm.com/skapa-potter-i-en-lonerevision-0
+**URL:** https://knowledge.flexhrm.com/sv/skapa-potter-i-en-lonerevision-0
 
 ---
 

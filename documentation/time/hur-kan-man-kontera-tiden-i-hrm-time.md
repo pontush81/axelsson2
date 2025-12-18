@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, saldo, tidrapport  
 **Bilder:** 8  
-**URL:** https://knowledge.flexhrm.com/hur-kan-man-kontera-tiden-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/hur-kan-man-kontera-tiden-i-hrm-time
 
 ---
 

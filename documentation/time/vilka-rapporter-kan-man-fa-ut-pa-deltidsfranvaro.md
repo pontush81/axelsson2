@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, lön, tidkod, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/vilka-rapporter-kan-man-f%C3%A5-ut-p%C3%A5-deltidsfr%C3%A5nvaro
+**URL:** https://knowledge.flexhrm.com/sv/vilka-rapporter-kan-man-f%C3%A5-ut-p%C3%A5-deltidsfr%C3%A5nvaro
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, resa  
 **Bilder:** 9  
-**URL:** https://knowledge.flexhrm.com/hur-importerar-jag-en-k%C3%B6rjournal-till-en-reser%C3%A4kning-i-hrm-travel
+**URL:** https://knowledge.flexhrm.com/sv/hur-importerar-jag-en-k%C3%B6rjournal-till-en-reser%C3%A4kning-i-hrm-travel
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, saldo, schema, stämpling, tidkod, tidrapport  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/vilka-olika-funktioner-finns-i-tidrapporten
+**URL:** https://knowledge.flexhrm.com/sv/vilka-olika-funktioner-finns-i-tidrapporten
 
 ---
 

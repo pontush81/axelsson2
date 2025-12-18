@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie
+**URL:** https://knowledge.flexhrm.com/sv/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie
 
 ---
 

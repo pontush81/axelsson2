@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, hrm-time, lön, ob, schema, tidkod, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/deltidsfr%C3%A5nvaro-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/deltidsfr%C3%A5nvaro-i-hrm-time
 
 ---
 

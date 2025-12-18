@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** bil  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/bilresor-
+**URL:** https://knowledge.flexhrm.com/sv/bilresor-
 
 ---
 

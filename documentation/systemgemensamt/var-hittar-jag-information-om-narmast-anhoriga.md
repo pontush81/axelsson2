@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/var-hittar-jag-info-om-narmast-anhorig-0
+**URL:** https://knowledge.flexhrm.com/sv/var-hittar-jag-info-om-narmast-anhorig-0
 
 ---
 

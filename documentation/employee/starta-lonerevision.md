@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lönerevision  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/starta-lonerevision-0
+**URL:** https://knowledge.flexhrm.com/sv/starta-lonerevision-0
 
 ---
 

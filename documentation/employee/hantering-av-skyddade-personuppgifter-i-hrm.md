@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 0  
-**URL:** https://knowledge.flexhrm.com/hantering-av-skyddade-personuppgifter
+**URL:** https://knowledge.flexhrm.com/sv/hantering-av-skyddade-personuppgifter
 
 ---
 

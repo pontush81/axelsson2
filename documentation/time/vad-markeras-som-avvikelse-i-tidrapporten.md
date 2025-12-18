@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema, stämpling, tidkod, tidrapport, övertid  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/vad-markeras-som-avvikelse-i-tidrapporten
+**URL:** https://knowledge.flexhrm.com/sv/vad-markeras-som-avvikelse-i-tidrapporten
 
 ---
 

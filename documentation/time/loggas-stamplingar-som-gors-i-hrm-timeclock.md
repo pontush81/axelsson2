@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, hrm-time, stämpling, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/loggas-st%C3%A4mplingar-som-g%C3%B6rs-i-hrm-timeclock
+**URL:** https://knowledge.flexhrm.com/sv/loggas-st%C3%A4mplingar-som-g%C3%B6rs-i-hrm-timeclock
 
 ---
 

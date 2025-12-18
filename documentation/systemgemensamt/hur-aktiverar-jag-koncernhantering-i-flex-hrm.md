@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-aktivera-jag-koncernhantering-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/hur-aktivera-jag-koncernhantering-i-flex-hrm
 
 ---
 

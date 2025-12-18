@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, schema, stämpling, tidrapport  
 **Bilder:** 0  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-n%C3%A4rvarotabl%C3%A5n-p%C3%A5-startsidan-
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-n%C3%A4rvarotabl%C3%A5n-p%C3%A5-startsidan-
 
 ---
 

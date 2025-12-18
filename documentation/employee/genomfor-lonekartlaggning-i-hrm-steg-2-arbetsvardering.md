@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/genomfor-lonekartlaggning-i-hrm-arbetsvardering-0
+**URL:** https://knowledge.flexhrm.com/sv/genomfor-lonekartlaggning-i-hrm-arbetsvardering-0
 
 ---
 

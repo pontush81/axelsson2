@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, cv, dokument, hrm-employee, kompetens, kurs  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-tar-jag-fram-ett-cv-for-en-anstalld
+**URL:** https://knowledge.flexhrm.com/sv/hur-tar-jag-fram-ett-cv-for-en-anstalld
 
 ---
 

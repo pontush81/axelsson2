@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, tidrapport  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/fr%C3%A5nvaro-hur-ans%C3%B6ker-och-rapporterar-jag-fr%C3%A5nvaro
+**URL:** https://knowledge.flexhrm.com/sv/fr%C3%A5nvaro-hur-ans%C3%B6ker-och-rapporterar-jag-fr%C3%A5nvaro
 
 ---
 

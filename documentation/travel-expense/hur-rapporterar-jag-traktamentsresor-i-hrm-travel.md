@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** bil, resa, traktamente  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/rapportera-resetransaktioner-hur-rapporterar-man-resetransaktioner-i-hrm-travel
+**URL:** https://knowledge.flexhrm.com/sv/rapportera-resetransaktioner-hur-rapporterar-man-resetransaktioner-i-hrm-travel
 
 ---
 

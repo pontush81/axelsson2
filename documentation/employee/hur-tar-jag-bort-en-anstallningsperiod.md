@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-tar-jag-bort-en-anst%C3%A4llningsperiod
+**URL:** https://knowledge.flexhrm.com/sv/hur-tar-jag-bort-en-anst%C3%A4llningsperiod
 
 ---
 

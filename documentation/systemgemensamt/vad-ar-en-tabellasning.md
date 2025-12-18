@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-en-tabell%C3%A5sning
+**URL:** https://knowledge.flexhrm.com/sv/vad-%C3%A4r-en-tabell%C3%A5sning
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, saldo, schema, semester, stämpling, tidrapport  
 **Bilder:** 14  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-st%C3%A4mplingsterminalen
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-st%C3%A4mplingsterminalen
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/genomfor-lonekartlaggning-i-hrm-dokument-0
+**URL:** https://knowledge.flexhrm.com/sv/genomfor-lonekartlaggning-i-hrm-dokument-0
 
 ---
 

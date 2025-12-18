@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/g%C3%A5r-det-att-beh%C3%B6righetsstyra-en-st%C3%A4mpelklocka
+**URL:** https://knowledge.flexhrm.com/sv/g%C3%A5r-det-att-beh%C3%B6righetsstyra-en-st%C3%A4mpelklocka
 
 ---
 

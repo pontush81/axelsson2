@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lönerevision  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-verkstaller-jag-arets-lonerevision-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-verkstaller-jag-arets-lonerevision-0
 
 ---
 

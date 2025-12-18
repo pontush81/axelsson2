@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/exportmallar-hur-skapar-och-hanterar-du-exportmallar-f%C3%B6r-att-f%C3%A5-ut-data-fr%C3%A5n-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/exportmallar-hur-skapar-och-hanterar-du-exportmallar-f%C3%B6r-att-f%C3%A5-ut-data-fr%C3%A5n-flex-hrm
 
 ---
 

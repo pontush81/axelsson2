@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-kan-jag-skapa-ett-nytt-f%C3%B6retag-eller-kopiera-ett-f%C3%B6retag
+**URL:** https://knowledge.flexhrm.com/sv/hur-kan-jag-skapa-ett-nytt-f%C3%B6retag-eller-kopiera-ett-f%C3%B6retag
 
 ---
 

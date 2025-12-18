@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** kalender, prenumeration, schema  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-kan-jag-prenumerera-p%C3%A5-mitt-schema-till-min-kalender-
+**URL:** https://knowledge.flexhrm.com/sv/hur-kan-jag-prenumerera-p%C3%A5-mitt-schema-till-min-kalender-
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** hrm-time, ob, schema, tidkod, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hrm-time-vad-%C3%A4r-generella-h%C3%A4ndelseformler
+**URL:** https://knowledge.flexhrm.com/sv/hrm-time-vad-%C3%A4r-generella-h%C3%A4ndelseformler
 
 ---
 

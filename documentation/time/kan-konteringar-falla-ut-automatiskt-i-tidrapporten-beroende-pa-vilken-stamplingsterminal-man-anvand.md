@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** stämpling, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-p%C3%A5-vilken-st%C3%A4mplingsterminal-man-anv%C3%A4nder
+**URL:** https://knowledge.flexhrm.com/sv/kan-konteringar-falla-ut-automatiskt-i-tidrapporten-beroende-p%C3%A5-vilken-st%C3%A4mplingsterminal-man-anv%C3%A4nder
 
 ---
 

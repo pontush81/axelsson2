@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, lön, schema, tidkod, tidrapport, övertid  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-har-jag-ospecad-tid-i-min-tidrapport
+**URL:** https://knowledge.flexhrm.com/sv/varf%C3%B6r-har-jag-ospecad-tid-i-min-tidrapport
 
 ---
 

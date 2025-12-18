@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, lön, ob, saldo, schema, semester, tidkod, tidrapport  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/tidkoder-hur-st%C3%A4ller-man-in-tidkoder
+**URL:** https://knowledge.flexhrm.com/sv/tidkoder-hur-st%C3%A4ller-man-in-tidkoder
 
 ---
 

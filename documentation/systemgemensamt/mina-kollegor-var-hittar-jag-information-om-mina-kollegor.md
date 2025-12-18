@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/mina-kollegor-var-kan-jag-se-information-om-mina-kollegor
+**URL:** https://knowledge.flexhrm.com/sv/mina-kollegor-var-kan-jag-se-information-om-mina-kollegor
 
 ---
 

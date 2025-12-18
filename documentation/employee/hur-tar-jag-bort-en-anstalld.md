@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-tar-jag-bort-en-anst%C3%A4lld
+**URL:** https://knowledge.flexhrm.com/sv/hur-tar-jag-bort-en-anst%C3%A4lld
 
 ---
 

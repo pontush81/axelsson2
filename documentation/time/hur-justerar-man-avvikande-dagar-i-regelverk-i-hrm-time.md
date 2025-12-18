@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** beredskap, hrm-time, ob, tidkod, övertid  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/avvikande-dagar-hur-justerar-man-avvikande-dagar-i-regelverk-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/avvikande-dagar-hur-justerar-man-avvikande-dagar-i-regelverk-i-hrm-time
 
 ---
 

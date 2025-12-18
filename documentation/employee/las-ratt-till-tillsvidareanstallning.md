@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/las-ratt-till-tillsvidareanstallning-0
+**URL:** https://knowledge.flexhrm.com/sv/las-ratt-till-tillsvidareanstallning-0
 
 ---
 

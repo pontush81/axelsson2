@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** roll  
 **Bilder:** 14  
-**URL:** https://knowledge.flexhrm.com/%C3%A5rsskiftet-hrm-travel
+**URL:** https://knowledge.flexhrm.com/sv/%C3%A5rsskiftet-hrm-travel
 
 ---
 

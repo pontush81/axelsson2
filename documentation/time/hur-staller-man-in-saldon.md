@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, lön, ob, saldo, schema, semester, stämpling, tidkod  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/saldon-hur-anpassar-och-visar-man-saldon
+**URL:** https://knowledge.flexhrm.com/sv/saldon-hur-anpassar-och-visar-man-saldon
 
 ---
 

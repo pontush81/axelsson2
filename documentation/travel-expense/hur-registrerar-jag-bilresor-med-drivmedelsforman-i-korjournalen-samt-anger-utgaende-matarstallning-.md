@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, resa  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-registrerar-jag-resor-med-f%C3%B6rm%C3%A5nsbil-i-k%C3%B6rjournalen
+**URL:** https://knowledge.flexhrm.com/sv/hur-registrerar-jag-resor-med-f%C3%B6rm%C3%A5nsbil-i-k%C3%B6rjournalen
 
 ---
 

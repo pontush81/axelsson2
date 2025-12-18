@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, kvitto, mobil, resa, utlägg  
 **Bilder:** 17  
-**URL:** https://knowledge.flexhrm.com/hur-registrerar-jag-reser%C3%A4kningar-i-mobilen
+**URL:** https://knowledge.flexhrm.com/sv/hur-registrerar-jag-reser%C3%A4kningar-i-mobilen
 
 ---
 

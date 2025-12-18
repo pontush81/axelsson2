@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, mobil, roll  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/p%C3%A5minnelser-hur-anv%C3%A4nder-man-sig-av-p%C3%A5minnelser
+**URL:** https://knowledge.flexhrm.com/sv/p%C3%A5minnelser-hur-anv%C3%A4nder-man-sig-av-p%C3%A5minnelser
 
 ---
 

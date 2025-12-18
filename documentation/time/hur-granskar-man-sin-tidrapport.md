@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** ob, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-granskar-man-sin-tidrapport
+**URL:** https://knowledge.flexhrm.com/sv/hur-granskar-man-sin-tidrapport
 
 ---
 

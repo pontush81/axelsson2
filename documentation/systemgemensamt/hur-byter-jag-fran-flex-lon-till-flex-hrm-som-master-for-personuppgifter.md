@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, integration, roll  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/hur-byter-jag-fr%C3%A5n-att-ha-flex-l%C3%B6n-som-master-till-att-ha-flex-hrm-som-master
+**URL:** https://knowledge.flexhrm.com/sv/hur-byter-jag-fr%C3%A5n-att-ha-flex-l%C3%B6n-som-master-till-att-ha-flex-hrm-som-master
 
 ---
 

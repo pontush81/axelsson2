@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, saldo  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-sp%C3%A4rras-min-fr%C3%A5nvaroans%C3%B6kan-trots-att-det-finns-tillr%C3%A4ckligt-mycket-i-det-utg%C3%A5ende-saldot
+**URL:** https://knowledge.flexhrm.com/sv/varf%C3%B6r-sp%C3%A4rras-min-fr%C3%A5nvaroans%C3%B6kan-trots-att-det-finns-tillr%C3%A4ckligt-mycket-i-det-utg%C3%A5ende-saldot
 
 ---
 

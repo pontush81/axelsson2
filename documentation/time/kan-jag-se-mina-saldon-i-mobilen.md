@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, saldo, schema, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kan-jag-se-mina-saldon-i-mobilen
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-se-mina-saldon-i-mobilen
 
 ---
 

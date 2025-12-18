@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kan-konteringar-fr%C3%A5n-tidrapporten-f%C3%B6lja-med-till-l%C3%B6nesystemet
+**URL:** https://knowledge.flexhrm.com/sv/kan-konteringar-fr%C3%A5n-tidrapporten-f%C3%B6lja-med-till-l%C3%B6nesystemet
 
 ---
 

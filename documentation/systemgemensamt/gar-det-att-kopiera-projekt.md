@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/g%C3%A5r-det-att-kopiera-projekt
+**URL:** https://knowledge.flexhrm.com/sv/g%C3%A5r-det-att-kopiera-projekt
 
 ---
 

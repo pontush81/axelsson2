@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, cv, dokument, hrm-employee, signering  
 **Bilder:** 23  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-hr-blanketter-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-hr-blanketter-0
 
 ---
 

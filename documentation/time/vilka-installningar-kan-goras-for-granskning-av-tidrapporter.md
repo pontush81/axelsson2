@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, frånvaro, lön, ob, saldo, semester, tidkod, tidrapport  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kan-g%C3%B6ras-f%C3%B6r-granskning-av-tidrapporter
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kan-g%C3%B6ras-f%C3%B6r-granskning-av-tidrapporter
 
 ---
 

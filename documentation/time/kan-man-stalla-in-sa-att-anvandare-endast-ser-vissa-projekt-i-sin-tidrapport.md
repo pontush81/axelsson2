@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** tidrapport  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/kan-man-st%C3%A4lla-in-s%C3%A5-att-anv%C3%A4ndare-endast-ser-vissa-projekt-i-sin-tidrapport
+**URL:** https://knowledge.flexhrm.com/sv/kan-man-st%C3%A4lla-in-s%C3%A5-att-anv%C3%A4ndare-endast-ser-vissa-projekt-i-sin-tidrapport
 
 ---
 

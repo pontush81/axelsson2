@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** beredskap, schema, tidkod  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/kan-beredskap-p%C3%A5-ledig-dag-g%C3%A4lla-%C3%A4ven-f%C3%B6r-dagen-f%C3%B6re-och-dagen-efter-ledig-dag
+**URL:** https://knowledge.flexhrm.com/sv/kan-beredskap-p%C3%A5-ledig-dag-g%C3%A4lla-%C3%A4ven-f%C3%B6r-dagen-f%C3%B6re-och-dagen-efter-ledig-dag
 
 ---
 

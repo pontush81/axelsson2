@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, semester  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/kan-anst%C3%A4llda-f%C3%A5-en-p%C3%A5minnelse-n%C3%A4r-deras-semester-%C3%A4r-godk%C3%A4nd
+**URL:** https://knowledge.flexhrm.com/sv/kan-anst%C3%A4llda-f%C3%A5-en-p%C3%A5minnelse-n%C3%A4r-deras-semester-%C3%A4r-godk%C3%A4nd
 
 ---
 

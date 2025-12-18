@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** mobil, ob, schema, stämpling, tidkod, tidrapport, övertid  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-%C3%B6vertidsregelverk
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-%C3%B6vertidsregelverk
 
 ---
 

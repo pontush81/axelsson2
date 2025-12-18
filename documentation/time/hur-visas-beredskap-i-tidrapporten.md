@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** beredskap, schema, tidkod, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-visas-beredskap-i-tidrapporten
+**URL:** https://knowledge.flexhrm.com/sv/hur-visas-beredskap-i-tidrapporten
 
 ---
 

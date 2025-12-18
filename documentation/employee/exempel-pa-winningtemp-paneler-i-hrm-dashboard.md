@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 13  
-**URL:** https://knowledge.flexhrm.com/exempel-winningtemp-paneler-0
+**URL:** https://knowledge.flexhrm.com/sv/exempel-winningtemp-paneler-0
 
 ---
 

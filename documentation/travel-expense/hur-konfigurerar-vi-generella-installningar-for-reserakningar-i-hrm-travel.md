@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hrm-travel-hur-konfigurerar-man-generella-inst%C3%A4llningar-f%C3%B6r-reser%C3%A4kningar-i-hrm-travel
+**URL:** https://knowledge.flexhrm.com/sv/hrm-travel-hur-konfigurerar-man-generella-inst%C3%A4llningar-f%C3%B6r-reser%C3%A4kningar-i-hrm-travel
 
 ---
 

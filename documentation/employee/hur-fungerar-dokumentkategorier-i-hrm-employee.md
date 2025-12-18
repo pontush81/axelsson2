@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, cv, dokument, hrm-employee, kurs, signering  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/sa-har-fungerar-dokumentkategorier-0
+**URL:** https://knowledge.flexhrm.com/sv/sa-har-fungerar-dokumentkategorier-0
 
 ---
 

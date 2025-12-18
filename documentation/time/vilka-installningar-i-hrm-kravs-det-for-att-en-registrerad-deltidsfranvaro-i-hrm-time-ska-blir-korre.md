@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, hrm-time, lön, ob, schema, semester  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-i-hrm-kr%C3%A4vs-det-f%C3%B6r-att-en-registrerad-deltidsfr%C3%A5nvaro-i-hrm-time-ska-blir-korrekt-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-i-hrm-kr%C3%A4vs-det-f%C3%B6r-att-en-registrerad-deltidsfr%C3%A5nvaro-i-hrm-time-ska-blir-korrekt-i-hrm-payroll
 
 ---
 

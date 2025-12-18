@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 21  
-**URL:** https://knowledge.flexhrm.com/las-installningar-och-berakningsdetaljer-0
+**URL:** https://knowledge.flexhrm.com/sv/las-installningar-och-berakningsdetaljer-0
 
 ---
 

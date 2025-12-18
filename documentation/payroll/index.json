@@ -38,6 +38,26 @@
     "excerpt": "Du kan få en tydlig översikt över en medarbetares frånvaro, både semestergrundande och icke semestergrundande, i kalendariet. All frånvaro som registreras via en löneart kopplad till en frånvaroorsak ..."
   },
   {
+    "title": "Hur hanteras retroaktiv lön vid lönerevision i HRM Payroll?",
+    "file": "hur-hanteras-retroaktiv-lon-vid-lonerevision-i-hrm-payroll.md",
+    "slug": "hur-hanteras-retroaktiv-lon-vid-lonerevision-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 17 december 2025",
+    "url": "https://knowledge.flexhrm.com/hur-hanteras-retroaktiv-l%C3%B6n-vid-l%C3%B6nerevision-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "Varje år genomförs vanligen en lönerevision för att sätta nya löner för medarbetarna. Det är vanligt att de nya lönerna blir klara efter att de har börjat gälla. Om det händer behöver du betala ut lön..."
+  },
+  {
     "title": "Var kan jag se vilka poster som var med i överföringen till lönekörningen från HRM Time, HRM Travel eller en importerad fil?",
     "file": "var-kan-jag-se-vilka-poster-som-var-med-i-overforingen-till-lonekorningen-fran-hrm-time-hrm-travel-e.md",
     "slug": "var-kan-jag-se-vilka-poster-som-var-med-i-overforingen-till-lonekorningen-fran-hrm-time-hrm-travel-e",

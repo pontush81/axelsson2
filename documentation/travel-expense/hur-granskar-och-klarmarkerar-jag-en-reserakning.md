@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** bil  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/granska-reser%C3%A4kning-hur-granskar-och-klarmarkerar-man-en-reser%C3%A4kning
+**URL:** https://knowledge.flexhrm.com/sv/granska-reser%C3%A4kning-hur-granskar-och-klarmarkerar-man-en-reser%C3%A4kning
 
 ---
 

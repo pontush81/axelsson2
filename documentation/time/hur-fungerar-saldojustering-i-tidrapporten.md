@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, ob, saldo, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-saldojustering-i-tidrapport
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-saldojustering-i-tidrapport
 
 ---
 

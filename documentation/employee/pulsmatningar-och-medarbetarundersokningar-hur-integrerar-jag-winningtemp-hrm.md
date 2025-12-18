@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 9  
-**URL:** https://knowledge.flexhrm.com/aktivera-integration-winningtemp-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/aktivera-integration-winningtemp-hrm-0
 
 ---
 

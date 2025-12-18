@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** hrm-employee, kompetens  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/anvand-organisationsoversikt-i-hrm
+**URL:** https://knowledge.flexhrm.com/sv/anvand-organisationsoversikt-i-hrm
 
 ---
 

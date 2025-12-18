@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** lönerevision  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/anstalld-ingar-i-aktiv-lonerevision
+**URL:** https://knowledge.flexhrm.com/sv/anstalld-ingar-i-aktiv-lonerevision
 
 ---
 

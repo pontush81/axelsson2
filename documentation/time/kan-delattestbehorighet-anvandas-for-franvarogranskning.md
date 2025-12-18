@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, semester, tidkod, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/kan-delattestbeh%C3%B6righet-anv%C3%A4ndas-f%C3%B6r-fr%C3%A5nvarogranskning
+**URL:** https://knowledge.flexhrm.com/sv/kan-delattestbeh%C3%B6righet-anv%C3%A4ndas-f%C3%B6r-fr%C3%A5nvarogranskning
 
 ---
 

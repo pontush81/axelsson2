@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, stämpling, tidkod, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-man-in-att-ers%C3%A4ttningar-ska-kunna-st%C3%A4mplas-i-hrm-timeclock
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-man-in-att-ers%C3%A4ttningar-ska-kunna-st%C3%A4mplas-i-hrm-timeclock
 
 ---
 

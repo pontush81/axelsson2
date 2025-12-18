@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** schema  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/vad-betyder-avv.-tid-i-vyn-avvikelsedagar
+**URL:** https://knowledge.flexhrm.com/sv/vad-betyder-avv.-tid-i-vyn-avvikelsedagar
 
 ---
 

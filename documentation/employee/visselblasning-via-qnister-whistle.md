@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/instruktion-hrm-visselblasning-via-qnister-whistle
+**URL:** https://knowledge.flexhrm.com/sv/instruktion-hrm-visselblasning-via-qnister-whistle
 
 ---
 

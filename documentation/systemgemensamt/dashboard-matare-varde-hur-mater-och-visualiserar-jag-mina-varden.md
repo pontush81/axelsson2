@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/m%C3%A4tare/v%C3%A4rde-hur-m%C3%A4ter-och-visualiserar-jag-mina-v%C3%A4rden
+**URL:** https://knowledge.flexhrm.com/sv/m%C3%A4tare/v%C3%A4rde-hur-m%C3%A4ter-och-visualiserar-jag-mina-v%C3%A4rden
 
 ---
 

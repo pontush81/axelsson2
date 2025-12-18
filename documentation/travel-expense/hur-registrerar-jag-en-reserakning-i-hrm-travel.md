@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, resa, traktamente, utlägg  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/reser%C3%A4kning-hur-skapar-jag-en-reser%C3%A4kning
+**URL:** https://knowledge.flexhrm.com/sv/reser%C3%A4kning-hur-skapar-jag-en-reser%C3%A4kning
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** mobil  
 **Bilder:** 0  
-**URL:** https://knowledge.flexhrm.com/byte-av-losenord
+**URL:** https://knowledge.flexhrm.com/sv/byte-av-losenord
 
 ---
 

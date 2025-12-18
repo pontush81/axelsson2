@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, ob, schema, tidkod, tidrapport, övertid  
 **Bilder:** 10  
-**URL:** https://knowledge.flexhrm.com/periodredovisning-hur-registrerar-man-n%C3%A4rvaro-fr%C3%A5nvaro-och-%C3%B6vertid-f%C3%B6r-en-period
+**URL:** https://knowledge.flexhrm.com/sv/periodredovisning-hur-registrerar-man-n%C3%A4rvaro-fr%C3%A5nvaro-och-%C3%B6vertid-f%C3%B6r-en-period
 
 ---
 

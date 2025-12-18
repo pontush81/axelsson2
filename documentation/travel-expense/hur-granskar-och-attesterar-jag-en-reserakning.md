@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, bil  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/attestering-av-reser%C3%A4kning-hur-genomf%C3%B6r-man-en-attestering-av-en-reser%C3%A4kning
+**URL:** https://knowledge.flexhrm.com/sv/attestering-av-reser%C3%A4kning-hur-genomf%C3%B6r-man-en-attestering-av-en-reser%C3%A4kning
 
 ---
 

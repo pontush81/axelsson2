@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** roll  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/new-year-hrm-travel-0
+**URL:** https://knowledge.flexhrm.com/sv/new-year-hrm-travel-0
 
 ---
 

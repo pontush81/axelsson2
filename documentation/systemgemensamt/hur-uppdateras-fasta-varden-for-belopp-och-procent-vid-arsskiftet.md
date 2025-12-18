@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-uppdateras-fasta-v%C3%A4rden-f%C3%B6r-belopp-och-procent-vid-%C3%A5rsskiftet
+**URL:** https://knowledge.flexhrm.com/sv/hur-uppdateras-fasta-v%C3%A4rden-f%C3%B6r-belopp-och-procent-vid-%C3%A5rsskiftet
 
 ---
 

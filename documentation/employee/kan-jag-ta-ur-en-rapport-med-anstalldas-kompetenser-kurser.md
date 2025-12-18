@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** kompetens, kurs  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/rapport-kompetenser-kurser-0
+**URL:** https://knowledge.flexhrm.com/sv/rapport-kompetenser-kurser-0
 
 ---
 

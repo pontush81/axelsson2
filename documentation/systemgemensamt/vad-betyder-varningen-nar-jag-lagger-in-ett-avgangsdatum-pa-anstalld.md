@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/varning-avg%C3%A5ngsdatum
+**URL:** https://knowledge.flexhrm.com/sv/varning-avg%C3%A5ngsdatum
 
 ---
 

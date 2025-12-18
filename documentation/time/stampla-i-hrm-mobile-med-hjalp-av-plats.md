@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, stämpling, tidrapport  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/st%C3%A4mpla-i-hrm-mobile-med-hj%C3%A4lp-av-plats
+**URL:** https://knowledge.flexhrm.com/sv/st%C3%A4mpla-i-hrm-mobile-med-hj%C3%A4lp-av-plats
 
 ---
 

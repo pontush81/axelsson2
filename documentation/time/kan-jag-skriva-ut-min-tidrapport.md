@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, ob, saldo, tidkod, tidrapport  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/kan-jag-skriva-ut-min-tidrapport
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-skriva-ut-min-tidrapport
 
 ---
 

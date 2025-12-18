@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, stämpling  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kan-man-skicka-meddelanden-i-st%C3%A4mpelklockan
+**URL:** https://knowledge.flexhrm.com/sv/kan-man-skicka-meddelanden-i-st%C3%A4mpelklockan
 
 ---
 

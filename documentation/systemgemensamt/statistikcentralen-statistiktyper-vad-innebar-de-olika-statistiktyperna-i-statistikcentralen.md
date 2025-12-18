@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** behörighet, roll  
 **Bilder:** 24  
-**URL:** https://knowledge.flexhrm.com/statistikcentralen-statistiktyper-vad-inneb%C3%A4r-de-olika-statistiktyperna-i-statistikcentralen
+**URL:** https://knowledge.flexhrm.com/sv/statistikcentralen-statistiktyper-vad-inneb%C3%A4r-de-olika-statistiktyperna-i-statistikcentralen
 
 ---
 

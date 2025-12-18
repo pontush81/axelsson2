@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** dokument  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-lagger-jag-upp-ett-dokument-pa-startsidan-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-lagger-jag-upp-ett-dokument-pa-startsidan-0
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, cv, dokument, hrm-employee, signering  
 **Bilder:** 10  
-**URL:** https://knowledge.flexhrm.com/hur-hanterar-man-dokument-for-anstallda-i-hrm-employee
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-man-dokument-for-anstallda-i-hrm-employee
 
 ---
 

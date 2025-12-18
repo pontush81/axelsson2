@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/tidrapporter-hur-st%C3%A4ller-man-in-tidrapporten
+**URL:** https://knowledge.flexhrm.com/sv/tidrapporter-hur-st%C3%A4ller-man-in-tidrapporten
 
 ---
 

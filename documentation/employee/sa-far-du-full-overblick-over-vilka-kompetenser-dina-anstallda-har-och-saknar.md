@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** cv, kompetens, kurs  
 **Bilder:** 36  
-**URL:** https://knowledge.flexhrm.com/sa-far-du-full-overblick-over-kompetenser
+**URL:** https://knowledge.flexhrm.com/sv/sa-far-du-full-overblick-over-kompetenser
 
 ---
 

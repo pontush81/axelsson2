@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, frånvaro, lön, ob, saldo, schema, tidrapport  
 **Bilder:** 8  
-**URL:** https://knowledge.flexhrm.com/kan-tidrapporter-granskas-automatiskt
+**URL:** https://knowledge.flexhrm.com/sv/kan-tidrapporter-granskas-automatiskt
 
 ---
 

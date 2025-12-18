@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/byt-sprak-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/byt-sprak-flex-hrm-0
 
 ---
 

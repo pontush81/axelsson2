@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/loggning-flex-hrm-0-0
+**URL:** https://knowledge.flexhrm.com/sv/loggning-flex-hrm-0-0
 
 ---
 

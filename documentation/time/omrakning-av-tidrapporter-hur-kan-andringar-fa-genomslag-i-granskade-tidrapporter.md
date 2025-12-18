@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, ob, schema, stämpling, tidrapport, övertid  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/omr%C3%A4kning-av-tidrapporter-hur-kan-%C3%A4ndringar-f%C3%A5-genomslag-i-granskade-tidrapporter
+**URL:** https://knowledge.flexhrm.com/sv/omr%C3%A4kning-av-tidrapporter-hur-kan-%C3%A4ndringar-f%C3%A5-genomslag-i-granskade-tidrapporter
 
 ---
 

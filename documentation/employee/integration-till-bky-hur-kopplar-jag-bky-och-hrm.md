@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** kompetens  
 **Bilder:** 15  
-**URL:** https://knowledge.flexhrm.com/integration-till-bky-
+**URL:** https://knowledge.flexhrm.com/sv/integration-till-bky-
 
 ---
 

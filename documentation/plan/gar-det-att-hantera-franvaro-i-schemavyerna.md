@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** schema  
 **Bilder:** 8  
-**URL:** https://knowledge.flexhrm.com/g%C3%A5r-det-att-hantera-fr%C3%A5nvaro-i-schemavyerna
+**URL:** https://knowledge.flexhrm.com/sv/g%C3%A5r-det-att-hantera-fr%C3%A5nvaro-i-schemavyerna
 
 ---
 

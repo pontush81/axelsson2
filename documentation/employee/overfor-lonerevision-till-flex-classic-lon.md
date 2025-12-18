@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lönerevision  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/overfor-lonerevision-till-flex-lon
+**URL:** https://knowledge.flexhrm.com/sv/overfor-lonerevision-till-flex-lon
 
 ---
 

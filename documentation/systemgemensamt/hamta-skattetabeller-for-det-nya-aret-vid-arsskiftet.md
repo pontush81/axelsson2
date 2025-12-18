@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/h%C3%A4mta-skattetabeller-f%C3%B6r-det-nya-%C3%A5ret-vid-%C3%A5rsskiftet
+**URL:** https://knowledge.flexhrm.com/sv/h%C3%A4mta-skattetabeller-f%C3%B6r-det-nya-%C3%A5ret-vid-%C3%A5rsskiftet
 
 ---
 

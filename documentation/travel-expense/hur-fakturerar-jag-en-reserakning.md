@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, utlägg  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/fakturering-hur-fakturerar-man-en-reser%C3%A4kning
+**URL:** https://knowledge.flexhrm.com/sv/fakturering-hur-fakturerar-man-en-reser%C3%A4kning
 
 ---
 

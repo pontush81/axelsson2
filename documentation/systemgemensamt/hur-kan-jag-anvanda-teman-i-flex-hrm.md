@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-kan-jag-anv%C3%A4nda-teman-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/hur-kan-jag-anv%C3%A4nda-teman-i-flex-hrm
 
 ---
 

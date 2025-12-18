@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, schema, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-hrm-time
 
 ---
 

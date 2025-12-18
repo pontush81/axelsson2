@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-funktionen-redigering-av-fakturaunderlag-
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-funktionen-redigering-av-fakturaunderlag-
 
 ---
 

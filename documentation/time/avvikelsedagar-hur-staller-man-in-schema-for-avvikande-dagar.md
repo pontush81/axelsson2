@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, schema, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/avvikelsedagar-hur-st%C3%A4ller-man-in-avvikande-dagar
+**URL:** https://knowledge.flexhrm.com/sv/avvikelsedagar-hur-st%C3%A4ller-man-in-avvikande-dagar
 
 ---
 

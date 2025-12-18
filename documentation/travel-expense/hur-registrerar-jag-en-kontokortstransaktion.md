@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, utlägg  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/utl%C3%A4gg-hur-registrerar-och-hanterar-man-utl%C3%A4gg-och-representation
+**URL:** https://knowledge.flexhrm.com/sv/utl%C3%A4gg-hur-registrerar-och-hanterar-man-utl%C3%A4gg-och-representation
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/rapportgeneratorn-vad-%C3%A4r-rapportgeneratorn
+**URL:** https://knowledge.flexhrm.com/sv/rapportgeneratorn-vad-%C3%A4r-rapportgeneratorn
 
 ---
 

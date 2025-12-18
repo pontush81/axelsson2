@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/anv%C3%A4ndarlogg-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/anv%C3%A4ndarlogg-flex-hrm-0
 
 ---
 

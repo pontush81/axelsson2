@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, offboarding, onboarding  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-uppgifter-och-uppdrag-i-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-uppgifter-och-uppdrag-i-flex-hrm-0
 
 ---
 

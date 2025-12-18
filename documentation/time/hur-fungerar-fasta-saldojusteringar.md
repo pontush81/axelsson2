@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** saldo, semester, tidrapport  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-fasta-saldojusteringar
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-fasta-saldojusteringar
 
 ---
 

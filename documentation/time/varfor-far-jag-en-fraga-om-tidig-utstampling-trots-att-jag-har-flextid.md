@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema, stämpling, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-f%C3%A5r-jag-en-fr%C3%A5ga-om-tidig-utst%C3%A4mpling-trots-att-jag-har-flextid
+**URL:** https://knowledge.flexhrm.com/sv/varf%C3%B6r-f%C3%A5r-jag-en-fr%C3%A5ga-om-tidig-utst%C3%A4mpling-trots-att-jag-har-flextid
 
 ---
 

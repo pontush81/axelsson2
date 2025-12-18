@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** schema  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/schema-personligt-schema-hur-skapar-man-ett-personligt-schema
+**URL:** https://knowledge.flexhrm.com/sv/schema-personligt-schema-hur-skapar-man-ett-personligt-schema
 
 ---
 

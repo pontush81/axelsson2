@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning, cv, dokument, signering  
 **Bilder:** 8  
-**URL:** https://knowledge.flexhrm.com/aktivera-integration-till-verified-0-0-0
+**URL:** https://knowledge.flexhrm.com/sv/aktivera-integration-till-verified-0-0-0
 
 ---
 

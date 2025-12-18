@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil  
 **Bilder:** 9  
-**URL:** https://knowledge.flexhrm.com/inloggning-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/inloggning-i-flex-hrm
 
 ---
 

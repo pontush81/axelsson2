@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, ob  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/rapport-personalliggare-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/rapport-personalliggare-hrm-time
 
 ---
 

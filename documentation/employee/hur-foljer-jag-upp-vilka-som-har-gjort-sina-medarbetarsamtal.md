@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** medarbetarsamtal  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-folja-upp-medarbetarsamtal-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-folja-upp-medarbetarsamtal-0
 
 ---
 

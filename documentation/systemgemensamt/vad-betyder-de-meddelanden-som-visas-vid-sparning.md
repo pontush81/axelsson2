@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** Ingen  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/vad-betyder-de-meddelanden-som-visas-vid-sparning
+**URL:** https://knowledge.flexhrm.com/sv/vad-betyder-de-meddelanden-som-visas-vid-sparning
 
 ---
 

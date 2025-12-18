@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, roll  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-kan-jag-l%C3%A4gga-in-kontaktpersoner-i-flex-hem
+**URL:** https://knowledge.flexhrm.com/sv/hur-kan-jag-l%C3%A4gga-in-kontaktpersoner-i-flex-hem
 
 ---
 

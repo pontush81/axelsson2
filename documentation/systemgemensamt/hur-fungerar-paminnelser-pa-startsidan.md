@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-p%C3%A5minnelser-p%C3%A5-startsidan
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-p%C3%A5minnelser-p%C3%A5-startsidan
 
 ---
 

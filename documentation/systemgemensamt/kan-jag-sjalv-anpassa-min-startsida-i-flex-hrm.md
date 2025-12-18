@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** behörighet  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/kan-jag-sj%C3%A4lv-anpassa-min-startsida-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-sj%C3%A4lv-anpassa-min-startsida-i-flex-hrm
 
 ---
 

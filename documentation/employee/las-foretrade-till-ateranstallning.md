@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning, kurs  
 **Bilder:** 9  
-**URL:** https://knowledge.flexhrm.com/las-foretrade-till-ateranstallning-0
+**URL:** https://knowledge.flexhrm.com/sv/las-foretrade-till-ateranstallning-0
 
 ---
 

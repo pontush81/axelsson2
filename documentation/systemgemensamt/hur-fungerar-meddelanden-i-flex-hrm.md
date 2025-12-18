@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-meddelanden-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-meddelanden-i-flex-hrm
 
 ---
 

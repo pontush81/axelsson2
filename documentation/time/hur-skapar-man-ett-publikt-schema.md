@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** ob, schema  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-man-ett-publikt-schema
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-man-ett-publikt-schema
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, resa  
 **Bilder:** 21  
-**URL:** https://knowledge.flexhrm.com/hur-importerar-jag-en-k%C3%B6rjournal-fr%C3%A5n-volvo-cars-appen-till-hrm-travel
+**URL:** https://knowledge.flexhrm.com/sv/hur-importerar-jag-en-k%C3%B6rjournal-fr%C3%A5n-volvo-cars-appen-till-hrm-travel
 
 ---
 

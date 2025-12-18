@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/dashboard-vad-%C3%A4r-en-dashboard
+**URL:** https://knowledge.flexhrm.com/sv/dashboard-vad-%C3%A4r-en-dashboard
 
 ---
 

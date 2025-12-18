@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** frånvaro, lön, ob, saldo, schema, semester, stämpling, tidkod  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/fr%C3%A5nvaroorsaker-i-tidrapporten-vad-%C3%A4r-en-fr%C3%A5nvaroorsak
+**URL:** https://knowledge.flexhrm.com/sv/fr%C3%A5nvaroorsaker-i-tidrapporten-vad-%C3%A4r-en-fr%C3%A5nvaroorsak
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, hrm-time, ob, schema, tidkod  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/hur-importerar-man-ett-schema-till-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/hur-importerar-man-ett-schema-till-hrm-time
 
 ---
 

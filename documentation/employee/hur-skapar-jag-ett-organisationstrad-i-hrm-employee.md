@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, hrm-employee  
 **Bilder:** 9  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-ett-organisationstrad-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-ett-organisationstrad-0
 
 ---
 

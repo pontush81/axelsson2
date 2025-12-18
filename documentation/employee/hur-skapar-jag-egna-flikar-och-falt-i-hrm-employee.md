@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, cv, dokument, hrm-employee, kompetens, lönerevision, medarbetarsamtal  
 **Bilder:** 32  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-egna-flikar-falt-i-hrm-employee-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-egna-flikar-falt-i-hrm-employee-0
 
 ---
 

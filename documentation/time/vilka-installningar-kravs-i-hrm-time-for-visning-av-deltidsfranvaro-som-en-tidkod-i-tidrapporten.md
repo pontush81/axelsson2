@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, hrm-time, lön, ob, schema, tidkod, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-i-hrm-time-f%C3%B6r-visning-av-deltidsfr%C3%A5nvaro-som-en-tidkod-i-tidrapporten
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-i-hrm-time-f%C3%B6r-visning-av-deltidsfr%C3%A5nvaro-som-en-tidkod-i-tidrapporten
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, hrm-employee, offboarding, onboarding  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/hur-hanterar-man-personaldata-och-anst%C3%A4llningsuppgifter-i-flex-hrm-employee
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-man-personaldata-och-anst%C3%A4llningsuppgifter-i-flex-hrm-employee
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, tidkod, tidrapport, övertid  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-beh%C3%B6ver-g%C3%B6ras-f%C3%B6r-%C3%B6vertidsbevakning
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-beh%C3%B6ver-g%C3%B6ras-f%C3%B6r-%C3%B6vertidsbevakning
 
 ---
 

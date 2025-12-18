@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/fragor-och-svar-winningtemp-paneler-0
+**URL:** https://knowledge.flexhrm.com/sv/fragor-och-svar-winningtemp-paneler-0
 
 ---
 

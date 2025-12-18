@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema, tidrapport  
 **Bilder:** 8  
-**URL:** https://knowledge.flexhrm.com/hur-registrerar-man-2-samtidiga-deltidsfr%C3%A5nvaro-
+**URL:** https://knowledge.flexhrm.com/sv/hur-registrerar-man-2-samtidiga-deltidsfr%C3%A5nvaro-
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** dokument, medarbetarsamtal  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-anonymisera-anstallda-i-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-anonymisera-anstallda-i-hrm-0
 
 ---
 

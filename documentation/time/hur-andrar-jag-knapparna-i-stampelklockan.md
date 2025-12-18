@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, stämpling  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-%C3%A4ndrar-jag-knapparna-i-st%C3%A4mpelklockan
+**URL:** https://knowledge.flexhrm.com/sv/hur-%C3%A4ndrar-jag-knapparna-i-st%C3%A4mpelklockan
 
 ---
 

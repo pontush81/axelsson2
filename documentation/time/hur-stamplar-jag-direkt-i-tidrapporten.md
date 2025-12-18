@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, stämpling, tidrapport, övertid  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4mplar-man-direkt-i-tidrapporten
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4mplar-man-direkt-i-tidrapporten
 
 ---
 

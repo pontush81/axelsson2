@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, lön, ob, tidkod, tidrapport  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-jag-in-regler-f%C3%B6r-sjuk-ob
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-jag-in-regler-f%C3%B6r-sjuk-ob
 
 ---
 

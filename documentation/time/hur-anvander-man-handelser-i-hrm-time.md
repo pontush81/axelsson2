@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** hrm-time, ob, saldo, schema, tidkod, tidrapport, övertid  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nder-man-h%C3%A4ndelser-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nder-man-h%C3%A4ndelser-i-hrm-time
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** schema  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/kan-jag-ange-n%C3%A4r-jag-%C3%A4r-tillg%C3%A4nglig-f%C3%B6r-arbetspass
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-ange-n%C3%A4r-jag-%C3%A4r-tillg%C3%A4nglig-f%C3%B6r-arbetspass
 
 ---
 

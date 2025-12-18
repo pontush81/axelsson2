@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-gallring-rensning-av-personuppgifter-i-hrm-0
 
 ---
 

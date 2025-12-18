@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** Ingen  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/andring-utskick-anstalld-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/andring-utskick-anstalld-flex-hrm-0
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** attestering, mobil, ob, saldo, schema, stämpling, tidkod, tidrapport  
 **Bilder:** 13  
-**URL:** https://knowledge.flexhrm.com/hur-sk%C3%B6ter-jag-min-tidrapportering-i-mobilen
+**URL:** https://knowledge.flexhrm.com/sv/hur-sk%C3%B6ter-jag-min-tidrapportering-i-mobilen
 
 ---
 

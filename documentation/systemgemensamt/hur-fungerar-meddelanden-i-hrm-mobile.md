@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/meddelande-notiser-och-p%C3%A5minnelser-hur-fungerar-meddelanden-och-notiser-i-flex-hrm-mobile
+**URL:** https://knowledge.flexhrm.com/sv/meddelande-notiser-och-p%C3%A5minnelser-hur-fungerar-meddelanden-och-notiser-i-flex-hrm-mobile
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/paneler-gemensamt-hur-fungerar-de-gemensamma-inst%C3%A4llningar-f%C3%B6r-paneler
+**URL:** https://knowledge.flexhrm.com/sv/paneler-gemensamt-hur-fungerar-de-gemensamma-inst%C3%A4llningar-f%C3%B6r-paneler
 
 ---
 

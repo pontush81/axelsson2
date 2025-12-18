@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/vilken-roll-g%C3%A4ller-n%C3%A4r-en-anv%C3%A4ndare-har-flera-roller
+**URL:** https://knowledge.flexhrm.com/sv/vilken-roll-g%C3%A4ller-n%C3%A4r-en-anv%C3%A4ndare-har-flera-roller
 
 ---
 

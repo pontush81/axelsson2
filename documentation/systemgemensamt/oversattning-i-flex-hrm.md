@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** roll  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/oversattning-flex-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/oversattning-flex-hrm-0
 
 ---
 

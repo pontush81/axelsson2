@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, mobil, säkerhet  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/skapas-visma-connect-konton-automatiskt-f%C3%B6r-nyanst%C3%A4llda-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/skapas-visma-connect-konton-automatiskt-f%C3%B6r-nyanst%C3%A4llda-i-flex-hrm
 
 ---
 

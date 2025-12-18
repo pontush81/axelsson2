@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, mobil, roll, säkerhet  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-en-roll
+**URL:** https://knowledge.flexhrm.com/sv/vad-%C3%A4r-en-roll
 
 ---
 

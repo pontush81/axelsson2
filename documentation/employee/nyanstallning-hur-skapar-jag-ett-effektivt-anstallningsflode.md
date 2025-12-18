@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, onboarding  
 **Bilder:** 17  
-**URL:** https://knowledge.flexhrm.com/nyanstallning-hur-skapa-0
+**URL:** https://knowledge.flexhrm.com/sv/nyanstallning-hur-skapa-0
 
 ---
 

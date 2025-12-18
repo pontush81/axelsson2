@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/las-berakningsdetaljer-fordjupning-0
+**URL:** https://knowledge.flexhrm.com/sv/las-berakningsdetaljer-fordjupning-0
 
 ---
 

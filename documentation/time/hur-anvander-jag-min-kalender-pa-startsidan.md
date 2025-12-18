@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nder-jag-min-kalender-p%C3%A5-startsidan
+**URL:** https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nder-jag-min-kalender-p%C3%A5-startsidan
 
 ---
 

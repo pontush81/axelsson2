@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/kan-tidrapporten-tillf%C3%A4lligt-l%C3%A4gga-ut-ett-annat-kostnadsst%C3%A4lle-%C3%A4n-mitt-hemkostnadsst%C3%A4lle
+**URL:** https://knowledge.flexhrm.com/sv/kan-tidrapporten-tillf%C3%A4lligt-l%C3%A4gga-ut-ett-annat-kostnadsst%C3%A4lle-%C3%A4n-mitt-hemkostnadsst%C3%A4lle
 
 ---
 

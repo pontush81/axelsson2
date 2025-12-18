@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** behörighet, mobil, roll  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/var-hittar-jag-info-om-narmast-anhorig-0-0
+**URL:** https://knowledge.flexhrm.com/sv/var-hittar-jag-info-om-narmast-anhorig-0-0
 
 ---
 

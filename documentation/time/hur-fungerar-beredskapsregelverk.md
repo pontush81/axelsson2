@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** beredskap, ob, schema, tidkod, tidrapport, övertid  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-beredskapsregelverk
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-beredskapsregelverk
 
 ---
 

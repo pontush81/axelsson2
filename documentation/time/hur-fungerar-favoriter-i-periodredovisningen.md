@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-favoriter-i-periodredovisningen
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-favoriter-i-periodredovisningen
 
 ---
 

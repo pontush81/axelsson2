@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/tips-inf%C3%B6r-semester
+**URL:** https://knowledge.flexhrm.com/sv/tips-inf%C3%B6r-semester
 
 ---
 

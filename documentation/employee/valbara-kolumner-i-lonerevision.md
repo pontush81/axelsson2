@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lönerevision  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/valbara-kolumner-i-lonerevision-0
+**URL:** https://knowledge.flexhrm.com/sv/valbara-kolumner-i-lonerevision-0
 
 ---
 

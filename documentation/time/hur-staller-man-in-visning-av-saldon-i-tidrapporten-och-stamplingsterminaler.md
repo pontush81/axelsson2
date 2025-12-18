@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, ob, saldo, schema, semester, stämpling, tidrapport, övertid  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-man-in-visning-av-saldo-i-tidrapporten-och-st%C3%A4mplingsterminer
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-man-in-visning-av-saldo-i-tidrapporten-och-st%C3%A4mplingsterminer
 
 ---
 

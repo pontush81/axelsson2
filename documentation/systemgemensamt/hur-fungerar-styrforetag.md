@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 13  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-styrf%C3%B6retag
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-styrf%C3%B6retag
 
 ---
 

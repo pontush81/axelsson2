@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** behörighet, mobil  
 **Bilder:** 28  
-**URL:** https://knowledge.flexhrm.com/administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen
+**URL:** https://knowledge.flexhrm.com/sv/administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen
 
 ---
 

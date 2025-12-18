@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/vilken-fr%C3%A5nvaro-g%C3%A4ller-n%C3%A4r-det-finns-%C3%B6verlappande-fr%C3%A5nvaroposter
+**URL:** https://knowledge.flexhrm.com/sv/vilken-fr%C3%A5nvaro-g%C3%A4ller-n%C3%A4r-det-finns-%C3%B6verlappande-fr%C3%A5nvaroposter
 
 ---
 

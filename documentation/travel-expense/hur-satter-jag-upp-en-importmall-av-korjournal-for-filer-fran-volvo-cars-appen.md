@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-s%C3%A4tter-jag-upp-en-importmall-av-k%C3%B6rjopurnal-efr%C3%A5n-volvo-cars-appen
+**URL:** https://knowledge.flexhrm.com/sv/hur-s%C3%A4tter-jag-upp-en-importmall-av-k%C3%B6rjopurnal-efr%C3%A5n-volvo-cars-appen
 
 ---
 

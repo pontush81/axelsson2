@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, hrm-time, ob, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-arbetar-man-med-delattestering-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/hur-arbetar-man-med-delattestering-i-hrm-time
 
 ---
 

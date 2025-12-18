@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/hur-g%C3%B6r-man-f%C3%B6r-att-registrera-nyanst%C3%A4lld-och-anv%C3%A4ndare-manuellt
+**URL:** https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-man-f%C3%B6r-att-registrera-nyanst%C3%A4lld-och-anv%C3%A4ndare-manuellt
 
 ---
 

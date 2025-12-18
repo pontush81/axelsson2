@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, ob, saldo, tidkod, tidrapport, övertid  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/tidkodsavrundning-varf%C3%B6r-avrundas-min-rapporterade-tid-i-saldot
+**URL:** https://knowledge.flexhrm.com/sv/tidkodsavrundning-varf%C3%B6r-avrundas-min-rapporterade-tid-i-saldot
 
 ---
 

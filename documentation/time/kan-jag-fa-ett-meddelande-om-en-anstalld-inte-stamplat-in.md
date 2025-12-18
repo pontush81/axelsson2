@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, mobil, ob, schema, stämpling  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kan-jag-f%C3%A5-ett-meddelande-om-en-anst%C3%A4lld-inte-st%C3%A4mplat-in
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-f%C3%A5-ett-meddelande-om-en-anst%C3%A4lld-inte-st%C3%A4mplat-in
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, ob, saldo, semester  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-visas-ett-framtida-saldo-i-fr%C3%A5nvarohanteraren
+**URL:** https://knowledge.flexhrm.com/sv/varf%C3%B6r-visas-ett-framtida-saldo-i-fr%C3%A5nvarohanteraren
 
 ---
 

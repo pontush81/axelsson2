@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** attestering, frånvaro, hrm-time, lön, schema, stämpling, tidkod, tidrapport  
 **Bilder:** 0  
-**URL:** https://knowledge.flexhrm.com/begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time
 
 ---
 

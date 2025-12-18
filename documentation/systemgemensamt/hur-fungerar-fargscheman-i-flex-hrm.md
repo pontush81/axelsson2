@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-f%C3%A4rgscheman-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-f%C3%A4rgscheman-i-flex-hrm
 
 ---
 

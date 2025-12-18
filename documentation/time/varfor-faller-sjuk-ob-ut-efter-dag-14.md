@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, lön, ob, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-faller-sjuk-ob-ut-efter-dag-14
+**URL:** https://knowledge.flexhrm.com/sv/varf%C3%B6r-faller-sjuk-ob-ut-efter-dag-14
 
 ---
 

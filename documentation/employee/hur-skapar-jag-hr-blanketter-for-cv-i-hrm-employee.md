@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, cv, dokument, hrm-employee, kompetens, kurs  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-hr-blanketter-for-cv-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-hr-blanketter-for-cv-0
 
 ---
 

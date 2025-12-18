@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, stämpling, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/tidrapport-hur-fungerar-vyn-%C3%B6versikt
+**URL:** https://knowledge.flexhrm.com/sv/tidrapport-hur-fungerar-vyn-%C3%B6versikt
 
 ---
 

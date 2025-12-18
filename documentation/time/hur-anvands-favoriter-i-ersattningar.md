@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, tidkod, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nds-favoriter-i-ers%C3%A4ttningar
+**URL:** https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nds-favoriter-i-ers%C3%A4ttningar
 
 ---
 

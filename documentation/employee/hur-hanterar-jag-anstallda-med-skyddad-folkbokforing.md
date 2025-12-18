@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-hanterar-jag-skyddad-folkbokforing-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-jag-skyddad-folkbokforing-0
 
 ---
 

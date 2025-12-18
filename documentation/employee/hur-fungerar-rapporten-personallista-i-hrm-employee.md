@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-employee  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/rapport-personallista-hrm-employee-0
+**URL:** https://knowledge.flexhrm.com/sv/rapport-personallista-hrm-employee-0
 
 ---
 

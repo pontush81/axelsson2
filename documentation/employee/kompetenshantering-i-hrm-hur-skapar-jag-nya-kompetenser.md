@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning, kompetens, kurs  
 **Bilder:** 13  
-**URL:** https://knowledge.flexhrm.com/kompetenshantering-i-hrm-hur-skapa-nya-kompetenser-0
+**URL:** https://knowledge.flexhrm.com/sv/kompetenshantering-i-hrm-hur-skapa-nya-kompetenser-0
 
 ---
 

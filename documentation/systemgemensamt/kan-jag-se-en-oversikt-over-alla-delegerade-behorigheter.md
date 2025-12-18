@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/kan-jag-se-en-%C3%B6versikt-%C3%B6ver-alla-delegerade-beh%C3%B6righeter
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-se-en-%C3%B6versikt-%C3%B6ver-alla-delegerade-beh%C3%B6righeter
 
 ---
 

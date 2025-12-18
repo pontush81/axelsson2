@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/genomfor-lonekartlaggning-i-hrm-forberedelser-0
+**URL:** https://knowledge.flexhrm.com/sv/genomfor-lonekartlaggning-i-hrm-forberedelser-0
 
 ---
 

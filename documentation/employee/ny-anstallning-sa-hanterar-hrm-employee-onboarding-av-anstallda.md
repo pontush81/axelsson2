@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, hrm-employee, offboarding, onboarding, signering  
 **Bilder:** 21  
-**URL:** https://knowledge.flexhrm.com/hur-hanterar-flex-hrm-employee-onboarding-och-offboarding-av-anst%C3%A4llda
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-flex-hrm-employee-onboarding-och-offboarding-av-anst%C3%A4llda
 
 ---
 

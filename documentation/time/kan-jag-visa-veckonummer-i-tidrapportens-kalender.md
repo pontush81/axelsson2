@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** frånvaro, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/kan-jag-visa-veckonummer-i-tidrapportens-kalender
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-visa-veckonummer-i-tidrapportens-kalender
 
 ---
 

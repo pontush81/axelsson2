@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning, hrm-employee  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/sa-har-fungerar-narmaste-chef
+**URL:** https://knowledge.flexhrm.com/sv/sa-har-fungerar-narmaste-chef
 
 ---
 

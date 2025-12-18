@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** frånvaro, lön, ob, schema, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-man-in-automatisk-ber%C3%A4kning-av-heltidsm%C3%A5tt-vid-en-deltidsfr%C3%A5nvaro
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-man-in-automatisk-ber%C3%A4kning-av-heltidsm%C3%A5tt-vid-en-deltidsfr%C3%A5nvaro
 
 ---
 

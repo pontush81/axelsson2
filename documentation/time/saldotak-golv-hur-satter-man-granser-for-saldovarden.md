@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, lön, saldo, tidkod, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/saldotak/-golv-hur-s%C3%A4tter-man-gr%C3%A4nser-f%C3%B6r-saldov%C3%A4rden
+**URL:** https://knowledge.flexhrm.com/sv/saldotak/-golv-hur-s%C3%A4tter-man-gr%C3%A4nser-f%C3%B6r-saldov%C3%A4rden
 
 ---
 

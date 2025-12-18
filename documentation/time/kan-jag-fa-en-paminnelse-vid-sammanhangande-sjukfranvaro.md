@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/kan-jag-f%C3%A5-en-p%C3%A5minnelse-vid-sammanh%C3%A4ngande-sjukfr%C3%A5nvaro
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-f%C3%A5-en-p%C3%A5minnelse-vid-sammanh%C3%A4ngande-sjukfr%C3%A5nvaro
 
 ---
 

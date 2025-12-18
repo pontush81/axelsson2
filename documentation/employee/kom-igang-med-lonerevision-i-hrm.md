@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lönerevision  
 **Bilder:** 9  
-**URL:** https://knowledge.flexhrm.com/kom-igang-med-lonerevision-i-hrm
+**URL:** https://knowledge.flexhrm.com/sv/kom-igang-med-lonerevision-i-hrm
 
 ---
 

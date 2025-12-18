@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning, onboarding  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/aktivera-integration-teamtailor-0
+**URL:** https://knowledge.flexhrm.com/sv/aktivera-integration-teamtailor-0
 
 ---
 

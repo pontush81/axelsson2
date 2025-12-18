@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, lön, mobil, ob, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kan-hrm-time-skicka-en-p%C3%A5minnelse-n%C3%A4r-alla-periodens-tidrapporter-%C3%A4r-redo-att-%C3%B6verf%C3%B6ras-till-l%C3%B6n
+**URL:** https://knowledge.flexhrm.com/sv/kan-hrm-time-skicka-en-p%C3%A5minnelse-n%C3%A4r-alla-periodens-tidrapporter-%C3%A4r-redo-att-%C3%B6verf%C3%B6ras-till-l%C3%B6n
 
 ---
 

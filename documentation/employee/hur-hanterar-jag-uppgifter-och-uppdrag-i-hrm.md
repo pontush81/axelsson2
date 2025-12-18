@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, offboarding, onboarding  
 **Bilder:** 13  
-**URL:** https://knowledge.flexhrm.com/hur-hanterar-jag-uppgifter-och-uppdrag-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-jag-uppgifter-och-uppdrag-i-flex-hrm
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/export-i-hrm-lonekartlagging-0
+**URL:** https://knowledge.flexhrm.com/sv/export-i-hrm-lonekartlagging-0
 
 ---
 

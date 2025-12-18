@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, traktamente, utlägg  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-flex-hrm-travel
+**URL:** https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-flex-hrm-travel
 
 ---
 

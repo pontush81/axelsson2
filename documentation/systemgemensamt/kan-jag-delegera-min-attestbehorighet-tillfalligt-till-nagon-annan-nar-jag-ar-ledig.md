@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kan-jag-delegera-min-attestbeh%C3%B6righet-tillf%C3%A4lligt-till-n%C3%A5gon-annan-n%C3%A4r-jag-%C3%A4r-ledig
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-delegera-min-attestbeh%C3%B6righet-tillf%C3%A4lligt-till-n%C3%A5gon-annan-n%C3%A4r-jag-%C3%A4r-ledig
 
 ---
 

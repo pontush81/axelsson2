@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** kalender, prenumeration, schema  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/vad-beh%C3%B6ver-jag-som-administrat%C3%B6r-st%C3%A4lla-in-i-hrm-f%C3%B6r-att-vi-ska-kunna-anv%C3%A4nda-oss-av-funktionen-prenumerera-p%C3%A5-schema-som-kalender
+**URL:** https://knowledge.flexhrm.com/sv/vad-beh%C3%B6ver-jag-som-administrat%C3%B6r-st%C3%A4lla-in-i-hrm-f%C3%B6r-att-vi-ska-kunna-anv%C3%A4nda-oss-av-funktionen-prenumerera-p%C3%A5-schema-som-kalender
 
 ---
 

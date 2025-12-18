@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** behörighet  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-hittar-jag-l%C3%A4ttast-r%C3%A4tt-menyer-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/hur-hittar-jag-l%C3%A4ttast-r%C3%A4tt-menyer-i-flex-hrm
 
 ---
 

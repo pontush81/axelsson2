@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, mobil, säkerhet  
 **Bilder:** 0  
-**URL:** https://knowledge.flexhrm.com/automatisk-hantering-borttag-visma-connect
+**URL:** https://knowledge.flexhrm.com/sv/automatisk-hantering-borttag-visma-connect
 
 ---
 

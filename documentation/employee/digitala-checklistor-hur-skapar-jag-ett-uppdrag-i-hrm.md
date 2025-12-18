@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, offboarding, onboarding  
 **Bilder:** 19  
-**URL:** https://knowledge.flexhrm.com/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/digitala-checklistor-hur-skapar-jag-ett-uppdrag-i-hrm-0
 
 ---
 

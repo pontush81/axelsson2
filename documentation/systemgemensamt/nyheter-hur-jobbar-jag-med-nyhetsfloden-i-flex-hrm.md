@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/nyheter-hur-jobbar-jag-med-nyhetsfl%C3%B6den-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/nyheter-hur-jobbar-jag-med-nyhetsfl%C3%B6den-i-flex-hrm
 
 ---
 

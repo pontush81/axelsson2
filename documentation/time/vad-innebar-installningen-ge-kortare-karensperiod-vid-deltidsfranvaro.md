@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, ob  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/vad-inneb%C3%A4r-inst%C3%A4llningen-ge-kortare-karensperiod-vid-deltidsfr%C3%A5nvaro-
+**URL:** https://knowledge.flexhrm.com/sv/vad-inneb%C3%A4r-inst%C3%A4llningen-ge-kortare-karensperiod-vid-deltidsfr%C3%A5nvaro-
 
 ---
 

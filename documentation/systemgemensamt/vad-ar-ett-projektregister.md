@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, integration, mobil, roll  
 **Bilder:** 16  
-**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-ett-projektregister
+**URL:** https://knowledge.flexhrm.com/sv/vad-%C3%A4r-ett-projektregister
 
 ---
 

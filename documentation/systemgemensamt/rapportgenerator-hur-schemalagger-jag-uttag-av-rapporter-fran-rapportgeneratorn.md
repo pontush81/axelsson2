@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** behörighet  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/rapportgeneratorn-hur-schemal%C3%A4gger-man-exporter-fr%C3%A5n-rapportgeneratorn
+**URL:** https://knowledge.flexhrm.com/sv/rapportgeneratorn-hur-schemal%C3%A4gger-man-exporter-fr%C3%A5n-rapportgeneratorn
 
 ---
 

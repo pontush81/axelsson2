@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, schema  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-hanteras-utf%C3%B6rda-manuella-schema%C3%A4ndringar-vid-skapandet-av-ett-deltidsfr%C3%A5nvaroschema
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanteras-utf%C3%B6rda-manuella-schema%C3%A4ndringar-vid-skapandet-av-ett-deltidsfr%C3%A5nvaroschema
 
 ---
 

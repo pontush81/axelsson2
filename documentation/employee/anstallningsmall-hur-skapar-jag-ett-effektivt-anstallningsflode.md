@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** anställning  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/anstallningsmall-hur-skapa
+**URL:** https://knowledge.flexhrm.com/sv/anstallningsmall-hur-skapa
 
 ---
 

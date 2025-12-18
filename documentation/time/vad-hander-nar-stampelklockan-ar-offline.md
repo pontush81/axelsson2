@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, stämpling, tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/vad-h%C3%A4nder-n%C3%A4r-st%C3%A4mpelklockan-%C3%A4r-offline
+**URL:** https://knowledge.flexhrm.com/sv/vad-h%C3%A4nder-n%C3%A4r-st%C3%A4mpelklockan-%C3%A4r-offline
 
 ---
 

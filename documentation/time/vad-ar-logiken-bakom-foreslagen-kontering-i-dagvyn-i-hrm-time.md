@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** frånvaro, hrm-time, mobil, ob, schema, tidkod, tidrapport  
 **Bilder:** 0  
-**URL:** https://knowledge.flexhrm.com/logiken-bakom-f%C3%B6reslagen-kontering-i-dagvyn-i-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/logiken-bakom-f%C3%B6reslagen-kontering-i-dagvyn-i-hrm-time
 
 ---
 

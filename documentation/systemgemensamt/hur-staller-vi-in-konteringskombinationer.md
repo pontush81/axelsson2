@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-vi-in-konteringskombinationer
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-vi-in-konteringskombinationer
 
 ---
 

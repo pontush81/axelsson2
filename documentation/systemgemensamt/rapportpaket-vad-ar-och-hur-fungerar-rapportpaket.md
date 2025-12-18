@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 16  
-**URL:** https://knowledge.flexhrm.com/rapportpaket-vad-%C3%A4r-och-hur-fungerar-rapportpaket
+**URL:** https://knowledge.flexhrm.com/sv/rapportpaket-vad-%C3%A4r-och-hur-fungerar-rapportpaket
 
 ---
 

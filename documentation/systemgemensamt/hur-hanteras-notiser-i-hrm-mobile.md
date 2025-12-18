@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-hanteras-notiser-i-hrm-mobile
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanteras-notiser-i-hrm-mobile
 
 ---
 

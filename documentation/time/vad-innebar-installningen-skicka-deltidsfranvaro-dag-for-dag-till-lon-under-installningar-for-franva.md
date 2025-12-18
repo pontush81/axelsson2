@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** frånvaro, lön, ob, schema, semester, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/vad-inneb%C3%A4r-inst%C3%A4llningen-skicka-deltidsfr%C3%A5nvaro-dag-f%C3%B6r-dag-till-l%C3%B6n-under-inst%C3%A4llningar-f%C3%B6r-fr%C3%A5nvaroorsaker
+**URL:** https://knowledge.flexhrm.com/sv/vad-inneb%C3%A4r-inst%C3%A4llningen-skicka-deltidsfr%C3%A5nvaro-dag-f%C3%B6r-dag-till-l%C3%B6n-under-inst%C3%A4llningar-f%C3%B6r-fr%C3%A5nvaroorsaker
 
 ---
 

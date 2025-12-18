@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** mobil, ob, stämpling, tidrapport  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/kan-man-begr%C3%A4nsa-st%C3%A4mplingen-i-hrm-mobile-via-plats-
+**URL:** https://knowledge.flexhrm.com/sv/kan-man-begr%C3%A4nsa-st%C3%A4mplingen-i-hrm-mobile-via-plats-
 
 ---
 

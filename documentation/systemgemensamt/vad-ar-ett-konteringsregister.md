@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-ett-konteringsregister
+**URL:** https://knowledge.flexhrm.com/sv/vad-%C3%A4r-ett-konteringsregister
 
 ---
 

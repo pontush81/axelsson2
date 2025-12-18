@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/kontrollera-avvikelsedagar-vid-%C3%A5rsskifte-0
+**URL:** https://knowledge.flexhrm.com/sv/kontrollera-avvikelsedagar-vid-%C3%A5rsskifte-0
 
 ---
 

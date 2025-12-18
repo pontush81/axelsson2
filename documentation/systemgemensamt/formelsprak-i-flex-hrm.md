@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, roll  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/formelspr%C3%A5k-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/formelspr%C3%A5k-i-flex-hrm
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, resa  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-rapporterar-jag-bilresresor-i-hrm-travel
+**URL:** https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-bilresresor-i-hrm-travel
 
 ---
 

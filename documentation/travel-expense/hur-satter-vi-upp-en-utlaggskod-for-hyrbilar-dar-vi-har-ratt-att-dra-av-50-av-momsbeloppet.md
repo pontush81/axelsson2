@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, utlägg  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-s%C3%A4tter-man-upp-en-utl%C3%A4ggskod-f%C3%B6r-hyrbilar-d%C3%A4r-man-har-r%C3%A4tt-att-dra-av-50-av-momsbeloppet
+**URL:** https://knowledge.flexhrm.com/sv/hur-s%C3%A4tter-man-upp-en-utl%C3%A4ggskod-f%C3%B6r-hyrbilar-d%C3%A4r-man-har-r%C3%A4tt-att-dra-av-50-av-momsbeloppet
 
 ---
 

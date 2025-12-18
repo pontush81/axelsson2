@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kom-igang-med-lonekartlaggning-i-hrm-0
+**URL:** https://knowledge.flexhrm.com/sv/kom-igang-med-lonekartlaggning-i-hrm-0
 
 ---
 

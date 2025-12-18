@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/kan-jag-v%C3%A4lja-en-egen-startsida-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/kan-jag-v%C3%A4lja-en-egen-startsida-i-flex-hrm
 
 ---
 

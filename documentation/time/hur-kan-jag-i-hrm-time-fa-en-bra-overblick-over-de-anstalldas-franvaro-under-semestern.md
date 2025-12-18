@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** attestering, frånvaro, hrm-time, ob, schema, semester, tidrapport  
 **Bilder:** 8  
-**URL:** https://knowledge.flexhrm.com/hur-kan-jag-f%C3%A5-en-bra-%C3%B6verblick-%C3%B6ver-de-anst%C3%A4lldas-fr%C3%A5nvaro-under-semetsern
+**URL:** https://knowledge.flexhrm.com/sv/hur-kan-jag-f%C3%A5-en-bra-%C3%B6verblick-%C3%B6ver-de-anst%C3%A4lldas-fr%C3%A5nvaro-under-semetsern
 
 ---
 

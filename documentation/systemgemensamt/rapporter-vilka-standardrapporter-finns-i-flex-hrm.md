@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet  
 **Bilder:** 8  
-**URL:** https://knowledge.flexhrm.com/rapporter-vilka-standardrapporter-finns
+**URL:** https://knowledge.flexhrm.com/sv/rapporter-vilka-standardrapporter-finns
 
 ---
 

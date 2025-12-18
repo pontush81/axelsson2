@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, lönerevision  
 **Bilder:** 16  
-**URL:** https://knowledge.flexhrm.com/arbeta-med-arets-lonerevision-0
+**URL:** https://knowledge.flexhrm.com/sv/arbeta-med-arets-lonerevision-0
 
 ---
 

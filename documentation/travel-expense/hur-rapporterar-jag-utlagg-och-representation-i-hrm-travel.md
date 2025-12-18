@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bil, kvitto, utlägg  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-rapporterar-jag-utl%C3%A4gg-och-representation
+**URL:** https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-utl%C3%A4gg-och-representation
 
 ---
 

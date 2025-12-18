@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** Ingen  
 **Bilder:** 17  
-**URL:** https://knowledge.flexhrm.com/rapportgeneratorn-vilka-typer-av-rapporter-kan-h%C3%A4mtas-fr%C3%A5n-rapportgeneratorn
+**URL:** https://knowledge.flexhrm.com/sv/rapportgeneratorn-vilka-typer-av-rapporter-kan-h%C3%A4mtas-fr%C3%A5n-rapportgeneratorn
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, hrm-employee, signering  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-skickar-jag-en-hrblankett-for-esignering-i-hrm-employee
+**URL:** https://knowledge.flexhrm.com/sv/hur-skickar-jag-en-hrblankett-for-esignering-i-hrm-employee
 
 ---
 

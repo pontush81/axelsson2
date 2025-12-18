@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, mobil, roll  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-hanterar-man-konteringsdimensioner-i-systemet
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-man-konteringsdimensioner-i-systemet
 
 ---
 

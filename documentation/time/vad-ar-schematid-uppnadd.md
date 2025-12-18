@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** schema, tidrapport  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-schematid-uppn%C3%A5dd
+**URL:** https://knowledge.flexhrm.com/sv/vad-%C3%A4r-schematid-uppn%C3%A5dd
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** frånvaro  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/fr%C3%A5nvarostatistik-vad-betyder-ta-endast-med-fr%C3%A5nvaroperioder-l%C3%A4ngre/kortare-%C3%A4n
+**URL:** https://knowledge.flexhrm.com/sv/fr%C3%A5nvarostatistik-vad-betyder-ta-endast-med-fr%C3%A5nvaroperioder-l%C3%A4ngre/kortare-%C3%A4n
 
 ---
 

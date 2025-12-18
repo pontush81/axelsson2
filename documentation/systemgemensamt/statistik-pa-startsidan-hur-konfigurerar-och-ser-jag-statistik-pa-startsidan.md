@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, behörighet, roll  
 **Bilder:** 10  
-**URL:** https://knowledge.flexhrm.com/statistik-p%C3%A5-startsidan-hur-konfigurerar-och-ser-jag-statistik-p%C3%A5-startsidan
+**URL:** https://knowledge.flexhrm.com/sv/statistik-p%C3%A5-startsidan-hur-konfigurerar-och-ser-jag-statistik-p%C3%A5-startsidan
 
 ---
 

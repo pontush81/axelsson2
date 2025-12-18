@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, signering  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/notis-nar-ett-nytt-dokument-laggs-upp-0
+**URL:** https://knowledge.flexhrm.com/sv/notis-nar-ett-nytt-dokument-laggs-upp-0
 
 ---
 

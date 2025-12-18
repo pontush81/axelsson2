@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** tidrapport  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-vi-ska-kunna-anv%C3%A4nda-tillf%C3%A4llig-utl%C3%A5ning
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-vi-ska-kunna-anv%C3%A4nda-tillf%C3%A4llig-utl%C3%A5ning
 
 ---
 

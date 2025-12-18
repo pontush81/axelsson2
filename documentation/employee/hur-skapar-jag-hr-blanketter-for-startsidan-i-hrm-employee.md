@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** anställning, dokument, hrm-employee  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-hr-blanketter-for-startsidan-0
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-hr-blanketter-for-startsidan-0
 
 ---
 
