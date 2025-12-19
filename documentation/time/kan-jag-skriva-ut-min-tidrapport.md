@@ -1,6 +1,6 @@
 # Kan jag skriva ut min tidrapport?
 
-**Datum:** den 5 november 2025  
+**Datum:** den 18 december 2025  
 **Kategori:** Time  
 **Underkategori:** Tidrapportering  
 **Typ:** faq  
@@ -13,7 +13,7 @@
 
 Månadsrapporten kan skrivas ut direkt från tidrapporten eller via vyn Rapporter.
 Månadsrapporten ger dig en översikt över de tider du har matat in under en månad.
-![Bild](images/kan-jag-skriva-ut-min-tidrapport_440ef9d7.png)
+![Bild](images/kan-jag-skriva-ut-min-tidrapport_c7510951.png)
 Du kan skriva ut månadsrapporten på två olika sätt: direkt från tidrapporten eller via vyn
 Rapporter
 .
@@ -68,7 +68,7 @@ dagsaldon
 och
 periodsaldon
 ska skrivas ut.
-![Bild](images/kan-jag-skriva-ut-min-tidrapport_b7206a53.png)
+![Bild](images/kan-jag-skriva-ut-min-tidrapport_5254daa1.png)
 Så fungerar gruppering
 Visningsalternativet
 Gruppera på
@@ -85,7 +85,6 @@ Ingen gruppering:
 Tidraderna visas i bokstavsordning, baserat på tidkodens
 kod
 .
-Rader med OB-tidkod visas efter rader utan OB-tidkod.
 Visa kvittens på utskriften
 Du kan välja att visa vem eller vilka som har granskat tidrapporten på utskriften. Detta ställs in per granskningsnivå i systemet under
 Inställningar
