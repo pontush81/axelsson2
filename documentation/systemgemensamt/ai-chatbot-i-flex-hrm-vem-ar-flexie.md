@@ -1,6 +1,6 @@
 # AI-chatbot i Flex HRM - Vem är Flexie?
 
-**Datum:** den 28 november 2025  
+**Datum:** den 19 december 2025  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** other  
@@ -34,14 +34,14 @@ i Flex HRM, som ser ut som en
 pratbubbla
 . Den visas som default nere till höger, men du kan flytta den.
 När du klickar på ikonen öppnas ett chattfönster där du kan skriva din fråga.
-![Bild](images/ai-chatbot-i-flex-hrm-vem-ar-flexie_59ac608e.png)
+![Bild](images/ai-chatbot-i-flex-hrm-vem-ar-flexie_e573a535.png)
 Helskärmsläge och navigering
 Du kan klicka på pilikonen
 uppe till höger
 för att förstora fönstret till
 helskärmsläge
 . Du ser då tidigare konversationer och kan välja att starta en ny.
-![Bild](images/ai-chatbot-i-flex-hrm-vem-ar-flexie_83d90217.png)
+![Bild](images/ai-chatbot-i-flex-hrm-vem-ar-flexie_5bdf94d5.png)
 Avsluta helskärmsläget genom att klicka på ikonen i det
 övre högra hörnet
 igen.
