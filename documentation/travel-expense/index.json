@@ -248,25 +248,6 @@
     "excerpt": "Hur registrerar jag en reseräkning i HRM Travel för gjorda utlägg, traktamentesnätter samt bilresor.\nÖversikt reseräkning\nReseräkningens huvudinformation visas alltid högst upp i reseräkningsvyn. Dina..."
   },
   {
-    "title": "⚙️Utlägg och representation - Var redigerar man de olika inställningarna för utlägg och representation?",
-    "file": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation.md",
-    "slug": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation",
-    "category": "travel-expense",
-    "subcategory": "Utlägg & Kvitton",
-    "type": "config",
-    "difficulty": "intermediate",
-    "tags": [
-      "bil",
-      "utlägg"
-    ],
-    "date": "den 5 december 2025",
-    "url": "https://knowledge.flexhrm.com/sv/utl%C3%A4gg-och-representation-var-redigerar-man-de-olikainst%C3%A4llningarna-f%C3%B6r-utl%C3%A4gg-och-representation",
-    "isConfig": true,
-    "imageCount": 6,
-    "hasImages": true,
-    "excerpt": "Under \"Utlägg & representation\" ställer man in koder för olika utlägg. Här definierar man allmänna uppgifter som namn och momssats, kopplar lönearter och konton för bokföring, samt specificerar regist..."
-  },
-  {
     "title": "Hur fakturerar jag en reseräkning?",
     "file": "hur-fakturerar-jag-en-reserakning.md",
     "slug": "hur-fakturerar-jag-en-reserakning",
@@ -398,6 +379,25 @@
     "imageCount": 3,
     "hasImages": true,
     "excerpt": "För att skriva ut din reseräkningsspecifikation, använd knappen:\n![Bild](images/hur-exporterar-jag-en-reserakningsspecifikation_80c3fd62.png)\nUtskriften öppnas i en ny flik, varifrån du sedan kan expo..."
+  },
+  {
+    "title": "⚙️Utlägg och representation - Var redigerar man de olika inställningarna för utlägg och representation?",
+    "file": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation.md",
+    "slug": "utlagg-och-representation-var-redigerar-man-de-olika-installningarna-for-utlagg-och-representation",
+    "category": "travel-expense",
+    "subcategory": "Utlägg & Kvitton",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "utlägg"
+    ],
+    "date": "den 23 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/utl%C3%A4gg-och-representation-var-redigerar-man-de-olikainst%C3%A4llningarna-f%C3%B6r-utl%C3%A4gg-och-representation",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Under \"Utlägg & representation\" ställer man in koder för olika utlägg. Här definierar man allmänna uppgifter som namn och momssats, kopplar lönearter och konton för bokföring, samt specificerar regist..."
   },
   {
     "title": "⚙️Hur sätter vi upp en utläggskod för hyrbilar där vi har rätt att dra av 50% av momsbeloppet?",

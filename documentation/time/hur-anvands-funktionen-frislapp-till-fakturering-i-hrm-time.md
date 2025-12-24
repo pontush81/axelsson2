@@ -1,9 +1,9 @@
-# Hur används funktionen Frisläpp till fakturering i HRM Time?
+# ⚙️Hur används funktionen Frisläpp till fakturering i HRM Time?
 
-**Datum:** den 29 september 2025  
+**Datum:** den 23 december 2025  
 **Kategori:** Time  
-**Underkategori:** Tidrapportering  
-**Typ:** howto  
+**Underkategori:** Inställningar  
+**Typ:** config  
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, schema, tidrapport  
 **Bilder:** 1  

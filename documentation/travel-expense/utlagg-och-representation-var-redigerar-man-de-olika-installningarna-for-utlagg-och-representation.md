@@ -1,6 +1,6 @@
 # ⚙️Utlägg och representation - Var redigerar man de olika inställningarna för utlägg och representation?
 
-**Datum:** den 5 december 2025  
+**Datum:** den 23 december 2025  
 **Kategori:** Travel & Expense  
 **Underkategori:** Utlägg & Kvitton  
 **Typ:** config  

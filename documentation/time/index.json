@@ -2311,21 +2311,21 @@
     "excerpt": "Generella händelseformler kan användas för händelser på olika nivåer.\nHändelser byggs av formler och används för att utifrån vissa förutsättningar generera tidkoder eller ersättningskoder i tidrapport..."
   },
   {
-    "title": "Hur används funktionen Frisläpp till fakturering i HRM Time?",
+    "title": "⚙️Hur används funktionen Frisläpp till fakturering i HRM Time?",
     "file": "hur-anvands-funktionen-frislapp-till-fakturering-i-hrm-time.md",
     "slug": "hur-anvands-funktionen-frislapp-till-fakturering-i-hrm-time",
     "category": "time",
-    "subcategory": "Tidrapportering",
-    "type": "howto",
+    "subcategory": "Inställningar",
+    "type": "config",
     "difficulty": "intermediate",
     "tags": [
       "hrm-time",
       "schema",
       "tidrapport"
     ],
-    "date": "den 29 september 2025",
+    "date": "den 23 december 2025",
     "url": "https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nds-funktionen-frisl%C3%A4pp-till-fakturering-i-hrm-time",
-    "isConfig": false,
+    "isConfig": true,
     "imageCount": 1,
     "hasImages": true,
     "excerpt": "I denna funktion frisläpps de tider i tidrapporterna som är markerade som fakturerbara. Därmed låses tidrapporterna och ett fakturaunderlag skapas.\nAdministration > Bearbetningar > Frisläpp till faktu..."
