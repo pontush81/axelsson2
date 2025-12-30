@@ -75,6 +75,25 @@
     "excerpt": "För att kunna importera körjournaler från andra system så måste du skapa importmallar för bilresor och körjournaler.\nImportera körjournaler\nI Flex HRM kan du importera körjournaler från externa levera..."
   },
   {
+    "title": "⚙️Vilka inställningar behöver jag aktivera i HRM Travel & Expense för att hantera bilar med Drivmedelsförmån?",
+    "file": "vilka-installningar-behover-jag-aktivera-i-hrm-travel-expense-for-att-hantera-bilar-med-drivmedelsfo.md",
+    "slug": "vilka-installningar-behover-jag-aktivera-i-hrm-travel-expense-for-att-hantera-bilar-med-drivmedelsfo",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "bil",
+      "resa"
+    ],
+    "date": "den 29 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-aktivera-i-hrm-travel-expense-f%C3%B6r-att-hantera-bilar-med-drivmedelsf%C3%B6rm%C3%A5n",
+    "isConfig": true,
+    "imageCount": 19,
+    "hasImages": true,
+    "excerpt": "Förutsättningar\nDefinition förmånsbilar\nMed förmånsbil avser vi här en tjänstebil där drivmedlet betalas av företaget och den anställde blir förmånsbeskattad på de privat körda milen med drivmedelsför..."
+  },
+  {
     "title": "Hur granskar och klarmarkerar jag en reseräkning?",
     "file": "hur-granskar-och-klarmarkerar-jag-en-reserakning.md",
     "slug": "hur-granskar-och-klarmarkerar-jag-en-reserakning",
