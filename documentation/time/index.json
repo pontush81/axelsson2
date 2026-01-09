@@ -531,12 +531,12 @@
     "excerpt": "Tidrapporten kan ställas in på flera nivåer. Den mest specifika nivån gäller.\nTidrapportsinställningar\nTidrapportens utseende och inställningar kan definieras på 3 olika nivåer:\nFöretag (\nTidrapporter..."
   },
   {
-    "title": "Frånvaro - Hur ansöker och rapporterar jag frånvaro i mobilen?",
-    "file": "franvaro-hur-ansoker-och-rapporterar-jag-franvaro-i-mobilen.md",
-    "slug": "franvaro-hur-ansoker-och-rapporterar-jag-franvaro-i-mobilen",
+    "title": "Hur ansöker och rapporterar jag frånvaro i HRM Mobile?",
+    "file": "hur-ansoker-och-rapporterar-jag-franvaro-i-hrm-mobile.md",
+    "slug": "hur-ansoker-och-rapporterar-jag-franvaro-i-hrm-mobile",
     "category": "time",
     "subcategory": "Mobil & Stämpling",
-    "type": "other",
+    "type": "howto",
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
@@ -544,12 +544,12 @@
       "ob",
       "tidrapport"
     ],
-    "date": "den 18 augusti 2025",
+    "date": "den 8 januari 2026",
     "url": "https://knowledge.flexhrm.com/sv/fr%C3%A5nvaro-hur-ans%C3%B6ker-och-rapporterar-jag-fr%C3%A5nvaro",
     "isConfig": false,
     "imageCount": 4,
     "hasImages": true,
-    "excerpt": "Frånvaro i HRM Mobile\nI funktionen\nFrånvaro\nser du all din registrerade och ansökta frånvaro och du kan ansöka om frånvaro samt rapportera tidigare frånvaro.\n![Bild](images/franvaro-hur-ansoker-och-ra..."
+    "excerpt": "Frånvaro i HRM Mobile\nI funktionen\nFrånvaro\nser du all din registrerade och ansökta frånvaro och du kan ansöka om frånvaro samt rapportera tidigare frånvaro.\n![Bild](images/hur-ansoker-och-rapporterar..."
   },
   {
     "title": "Hur kan jag i HRM Time få en bra överblick över de anställdas frånvaro under semestern?",
@@ -965,9 +965,9 @@
     "excerpt": "Nedan kan du läsa om hur man använder stämplingsterminalen, HRM Timeclock. Artikeln beskriver hur du stämplar din tid och använder övriga funktioner.\nAnvända stämplingsterminalen\nStämpla din tid\nFör s..."
   },
   {
-    "title": "Hur stämplar man sin tid i mobilen?",
-    "file": "hur-stamplar-man-sin-tid-i-mobilen.md",
-    "slug": "hur-stamplar-man-sin-tid-i-mobilen",
+    "title": "Hur stämplar man sin tid i HRM Mobile?",
+    "file": "hur-stamplar-man-sin-tid-i-hrm-mobile.md",
+    "slug": "hur-stamplar-man-sin-tid-i-hrm-mobile",
     "category": "time",
     "subcategory": "Övertid & Ersättning",
     "type": "howto",
@@ -980,7 +980,7 @@
       "tidrapport",
       "övertid"
     ],
-    "date": "den 19 augusti 2025",
+    "date": "den 8 januari 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-st%C3%A4mplar-man-sin-tid-i-mobilen",
     "isConfig": false,
     "imageCount": 3,
