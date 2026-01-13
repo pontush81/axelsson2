@@ -1,6 +1,6 @@
 # ⚙️Everything you need to know for the year-end closing in HRM Travel (en)
 
-**Datum:** den 18 november 2025  
+**Datum:** den 12 januari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** config  
@@ -43,6 +43,11 @@ Norwegian mileage rates for 2026
 New rates for mileage allowance for Norwegian companies has not been published yet. Read more at
 Skatteetaten
 .
+NB!
+The Norwegian Tax Administration’s website has not been updated, and the applicable rates are 5.3 and 1.8.
+The government rate for mileage allowance, as stated in the
+Norwegian Government Travel Regulations
+, is NOK 5.30 per kilometer. The difference between the two rates means that, in practice, you are taxed on the last NOK 1.80 you receive per kilometer.
 If the rate is retrieved from the pay code, there is no need to do anything, but feel free to double check and update the rate manually if you do not have the rate for 2026.
 You do this by going to
 Settings > Travel > Car trips > Mileage limit template
@@ -61,6 +66,8 @@ pay code
 ![Bild](images/everything-you-need-to-know-for-the-year-end-closing-in-hrm-travel-en_0ee21d59.png)
 The new rates Finnish companies
 ![Bild](images/everything-you-need-to-know-for-the-year-end-closing-in-hrm-travel-en_15e990f9.png)
+Reminder!
+From 1 January 2026, Finland will reduce the lower VAT rate from 14% to 13.5%. The change applies to areas such as food and restaurant services, transport and hotel accommodation, while the standard rate of 25.5% remains unchanged.
 Initiation of travel expense claim
 If you use a number series for travel expense claims to be initiated at the end of the year, do so under
 Administration > Settings > Travel expense claims

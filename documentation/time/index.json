@@ -1594,9 +1594,9 @@
     "excerpt": "Beskrivning av påminnelsen för sammanhängande sjukfrånvaro, med inställningar och exempel.\nI HRM Time finns en funktion för att skicka ut påminnelser vid sammanhängande frånvaro. Den här påminnelsen k..."
   },
   {
-    "title": "Kan jag se information om mitt schema i mobilen?",
-    "file": "kan-jag-se-information-om-mitt-schema-i-mobilen.md",
-    "slug": "kan-jag-se-information-om-mitt-schema-i-mobilen",
+    "title": "Kan jag se information om mitt schema i HRM Mobile?",
+    "file": "kan-jag-se-information-om-mitt-schema-i-hrm-mobile.md",
+    "slug": "kan-jag-se-information-om-mitt-schema-i-hrm-mobile",
     "category": "time",
     "subcategory": "Schema & Planering",
     "type": "faq",
@@ -1607,7 +1607,7 @@
       "schema",
       "övertid"
     ],
-    "date": "den 22 augusti 2025",
+    "date": "den 12 januari 2026",
     "url": "https://knowledge.flexhrm.com/sv/kan-jag-se-information-om-mitt-schema-i-mobilen",
     "isConfig": false,
     "imageCount": 3,
@@ -1775,9 +1775,9 @@
     "excerpt": "Om man önskar importera scheman till anställd från annat system till HRM Time så kan man använda importmallen \"Schema\"\nAllmänt Schemaimport\nDu importerar alltså schema per anställd och datum, vilket i..."
   },
   {
-    "title": "Kan jag se mina saldon i mobilen?",
-    "file": "kan-jag-se-mina-saldon-i-mobilen.md",
-    "slug": "kan-jag-se-mina-saldon-i-mobilen",
+    "title": "Kan jag se mina saldon i HRM Mobile?",
+    "file": "kan-jag-se-mina-saldon-i-hrm-mobile.md",
+    "slug": "kan-jag-se-mina-saldon-i-hrm-mobile",
     "category": "time",
     "subcategory": "Mobil & Stämpling",
     "type": "faq",
@@ -1790,7 +1790,7 @@
       "schema",
       "tidrapport"
     ],
-    "date": "den 22 augusti 2025",
+    "date": "den 12 januari 2026",
     "url": "https://knowledge.flexhrm.com/sv/kan-jag-se-mina-saldon-i-mobilen",
     "isConfig": false,
     "imageCount": 2,

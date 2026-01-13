@@ -1,6 +1,6 @@
 # ⚙️Alt du må tenke på før årsskiftet i HRM Travel? (no)
 
-**Datum:** den 18 november 2025  
+**Datum:** den 12 januari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** config  
@@ -40,6 +40,13 @@ Norsk kilometergodtgjørelse 2026
 Det må legges inn nye satser på kilometergodtgjørelse når de nye satsene er kommet. Les mer hos
 Skatteetaten
 .
+NB!
+Skatteetatens side er ikke oppdatert og gjeldene satser er 5,3 og 1,8.
+Statens sats for kjøregodtgjørelse som du finner
+i Statens reiseregulativ
+er 5,30 kroner per kilometer. Differansen mellom de to satsene betyr i praksis at
+du skatter av de siste 1,80 kronene
+du får betalt per kilometer.
 Hvis satsen blir hentet fra lønnsarten trengs det ikke å gjøre noe, men dobbeltsjekk gjerne og oppdater satsen manuelt hvis dere ikke ligger inne med sats for 2026.
 Ingen nye skattesatser fra norske skattemyndigheter når utsendelsen er oppdatert.
 Det gjør du ved å gå til
@@ -60,6 +67,8 @@ lønnsartene
 Dette er de nye satsene for
 finske bedrifter
 ![Bild](images/alt-du-ma-tenke-pa-f-r-arsskiftet-i-hrm-travel-no_276d9cd1.png)
+Husk!
+Fra 1. januar 2026 senker Finland den lave mva-satsen fra 14 % til 13,5 %. Endringen omfatter blant annet mat, servering, transport og hotellovernattinger, mens standardsatsen på 25,5 % forblir uendret.
 Initiering av reiseregningsnummer
 Hvis du bruker en nummerserie for reiseregninger som skal initieres ved årsskifte gjør du dette under
 Administrasjon > Innstillinger > Reise > Reiseregninger.
