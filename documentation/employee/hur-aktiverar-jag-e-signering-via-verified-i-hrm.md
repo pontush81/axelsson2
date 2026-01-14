@@ -1,6 +1,6 @@
 # ⚙️Hur aktiverar jag e-signering via Verified i HRM?
 
-**Datum:** den 26 augusti 2025  
+**Datum:** den 13 januari 2026  
 **Kategori:** Employee  
 **Underkategori:** Dokument & E-signering  
 **Typ:** config  
@@ -22,6 +22,9 @@ Behörighet
 Integration till Verified
 Med denna modul kan du i HRM skicka Anställningsavtal, HR-blanketter och CV för digital signering i Verified och slipper på så sätt hantering av papper och manuella underskrifter. Chefer och HR med flera får i HRM en komplett översikt över alla pågående och signerade dokument och behöver därför inte arbeta i flera system med hanteringen.
 Verified sköter e-postutskick till alla som ska signera, påminnelser om dokument som ännu inte signerats samt hantering av den tekniska signeringen. Alla dokument finns tillgängliga både i HRM och Verified.
+För att kunna använda integrationen till Verified måste det finnas ett avtal mellan ditt företag och Verified. Kontakta
+Verified
+för mer information om villkor och pris för att aktivera integrationen.
 Aktivering – steg för steg
 Licens
 För att aktivera funktionen för e-signering måste du först aktivera licensen E-signering i HRM. Under

@@ -1,6 +1,6 @@
 # ⚙️Hur ställer man in att Ersättningar ska kunna stämplas i HRM Timeclock?
 
-**Datum:** den 26 september 2025  
+**Datum:** den 13 januari 2026  
 **Kategori:** Time  
 **Underkategori:** Mobil & Stämpling  
 **Typ:** config  
@@ -31,7 +31,7 @@ för att lägga till en ersättning eller tidkod som ska finnas som valbar för 
 De stämplade ersättningarna hamnar under fliken
 Ersättningar
 i tidrapporten.
-![Bild](images/hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock_9afd0099.png)
+![Bild](images/hur-staller-man-in-att-ersattningar-ska-kunna-stamplas-i-hrm-timeclock_8b80c9a7.png)
 Tips!
 Det går att ställa in en knapp i stämpelklockan för en specifik ersättningskod, istället för att användarna ska välja kod. Det gör du med hjälp av funktionen
 Direktval

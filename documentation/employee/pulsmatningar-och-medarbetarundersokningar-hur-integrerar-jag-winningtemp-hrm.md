@@ -1,6 +1,6 @@
 # ⚙️Pulsmätningar och medarbetarundersökningar - Hur integrerar jag Winningtemp & HRM?
 
-**Datum:** den 23 oktober 2025  
+**Datum:** den 13 januari 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  
@@ -78,8 +78,13 @@ Client Secret
 som ska klistras in i HRMs programlänk för Winningtemp (se nästa avsnitt):
 ![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_b6393ff6.png)
 Aktivera integration i HRM
-För att aktivera funktionen måste du först skapa en programlänk till Winningtemp.
+För att aktivera funktionen måste du först aktivera licensen och skapa en programlänk till Winningtemp.
 Logga in i HRM.
+Gå till
+Allmänt > Företag
+och aktivera licens för Winningtemp på aktuellt företag. Se fliken
+Licens
+.
 Gå till
 Administration > Inställningar > Import/export > Programlänkar
 .
