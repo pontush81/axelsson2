@@ -1,6 +1,6 @@
 # Hur registrerar jag deltidsfrånvaro i HRM Time?
 
-**Datum:** den 22 augusti 2025  
+**Datum:** den 14 januari 2026  
 **Kategori:** Time  
 **Underkategori:** Tidrapportering  
 **Typ:** howto  
@@ -63,6 +63,9 @@ Deltidsfrånvaro förkortar den anställdes schema. Deltidsfrånvarons omfattnin
 ![Bild](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_7b7cb034.png)
 Det går att visa deltidsfrånvaron med tidrader i tidrapporten, som på bilden nedan. Schemat förkortas, precis som ovan, men deltidsfrånvaron visas också med en tidrad, utlagd efter schematid.
 ![Bild](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_f386f170.png)
+Bra att veta om tidrader för deltidsfrånvaro
+För dagar med schematid läggs tidrader för deltidsfrånvaro ut när det finns något annat registrerat på dagen.
+För dagar utan schematid ska endast tidrad för deltidsfrånvaro läggas ut (om man till exempel arbetar måndag till torsdag, och är föräldraledig på fredagar). Detta läggs inte ut i förväg. Tidraden för deltidsfrånvaro visas på lediga dagar först när dagen passerats.
 För att tidkoden för frånvaro ska läggas ut som tidrader i tidrapporten behöver man ange en
 tidkod för deltidsfrånvaro i tidrapporten
 under
