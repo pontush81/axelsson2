@@ -934,25 +934,6 @@
     "excerpt": "Flexie är Flex HRMs AI-chatbot som ger dig snabba svar på dina frågor och guidar dig rätt i systemet.\nU\nn\nd\nr\na\nr\nd\nu hur du registrerar ett utlägg eller var du attesterar dina medarbetares tidrapport..."
   },
   {
-    "title": "Vad är bakgrundsjobb och var hittar jag dem?",
-    "file": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem.md",
-    "slug": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "concept",
-    "difficulty": "beginner",
-    "tags": [
-      "användare",
-      "behörighet"
-    ],
-    "date": "den 6 november 2025",
-    "url": "https://knowledge.flexhrm.com/sv/vad-%C3%A4r-bakgrundsjobb-och-var-hittar-jag-dem",
-    "isConfig": false,
-    "imageCount": 0,
-    "hasImages": false,
-    "excerpt": "I Flex HRM använder vi bakgrundsjobb för att hantera många funktioner. Detta gör vi för att\nbibehålla systemets prestanda\nför dig och dina kollegor, även under tunga processer.\nExempel på funktioner s..."
-  },
-  {
     "title": "Hur fungerar Påminnelser på startsidan?",
     "file": "hur-fungerar-paminnelser-pa-startsidan.md",
     "slug": "hur-fungerar-paminnelser-pa-startsidan",
@@ -1118,6 +1099,41 @@
     "imageCount": 0,
     "hasImages": false,
     "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i Flex HRM.\nHar ditt företag en koncernstruktur? Här får du en översikt över de funktioner so..."
+  },
+  {
+    "title": "Vad är bakgrundsjobb och var hittar jag dem?",
+    "file": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem.md",
+    "slug": "vad-ar-bakgrundsjobb-och-var-hittar-jag-dem",
+    "category": "systemgemensamt",
+    "subcategory": "Användare & Behörighet",
+    "type": "concept",
+    "difficulty": "beginner",
+    "tags": [
+      "användare",
+      "behörighet"
+    ],
+    "date": "den 6 november 2025",
+    "url": "https://knowledge.flexhrm.com/sv/vad-%C3%A4r-bakgrundsjobb-och-var-hittar-jag-dem",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I Flex HRM använder vi bakgrundsjobb för att hantera många funktioner. Detta gör vi för att\nbibehålla systemets prestanda\nför dig och dina kollegor, även under tunga processer.\nExempel på funktioner s..."
+  },
+  {
+    "title": "Hur vet jag att ett jobb jag startat är klart?",
+    "file": "hur-vet-jag-att-ett-jobb-jag-startat-ar-klart.md",
+    "slug": "hur-vet-jag-att-ett-jobb-jag-startat-ar-klart",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [],
+    "date": "den 15 januari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-vet-jag-n%C3%A4r-ett-bakgrundsjobb-%C3%A4r-klart",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "När ett bakgrundsjobb du startat är klart visas det i en notispopup. En klocka visar när det finns notiser att läsa.\nI Flex HRM använder vi bakgrundsjobb för att hantera många funktioner. Vi gör detta..."
   },
   {
     "title": "⚙️Hur fungerar Påminnelser?",
