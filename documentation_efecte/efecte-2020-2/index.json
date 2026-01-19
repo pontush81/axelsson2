@@ -1,0 +1,176 @@
+{
+  "category": "Efecte 2020.2 Overview and Features",
+  "url": "https://community.efecte.com/category/efecte-2020-2",
+  "updated": "2026-01-19T16:44:58.996247",
+  "article_count": 24,
+  "articles": [
+    {
+      "title": "Key Features from Efecte 2020.2",
+      "slug": "key-features-from-efecte-2020-2",
+      "url": "https://community.efecte.com/t/60h80c7/key-features-from-efecte-2020-2",
+      "published": "2020-09-01T10:58:06.507Z",
+      "updated": "2020-09-01T12:59:16.193000"
+    },
+    {
+      "title": "Service Management Tool UI Refresh - Page Header",
+      "slug": "service-management-tool-ui-refresh-page-header",
+      "url": "https://community.efecte.com/t/80v60p/service-management-tool-ui-refresh-page-header",
+      "published": "2019-12-10T12:57:12.933Z",
+      "updated": "2019-12-10T15:20:19.443000"
+    },
+    {
+      "title": "EIM 2020.2 will be an on-premise only release.",
+      "slug": "eim-2020-2-will-be-an-on-premise-only-release",
+      "url": "https://community.efecte.com/t/q6hynm5/eim-2020-2-will-be-an-on-premise-only-release",
+      "published": "2020-04-30T06:06:40.030Z",
+      "updated": "2020-06-04T07:09:40.820000"
+    },
+    {
+      "title": "CP-2764/CP-3644: Meaningful web page titles for WCAG2.0",
+      "slug": "cp-2764-cp-3644-meaningful-web-page-titles-for-wcag2-0",
+      "url": "https://community.efecte.com/t/h4db5z/cp-2764cp-3644-meaningful-web-page-titles-for-wcag2-0",
+      "published": "2018-12-28T07:32:57.937Z",
+      "updated": "2019-03-13T09:13:37.927000"
+    },
+    {
+      "title": "Transporting views from one to another environment",
+      "slug": "transporting-views-from-one-to-another-environment",
+      "url": "https://community.efecte.com/t/63am7g/transporting-views-from-one-to-another-environment",
+      "published": "2019-07-11T06:58:27.163Z",
+      "updated": "2019-07-11T08:58:27.163000"
+    },
+    {
+      "title": "Self-Service Portal Front Page UI Enhancements",
+      "slug": "self-service-portal-front-page-ui-enhancements",
+      "url": "https://community.efecte.com/t/p8hyqjz/self-service-portal-front-page-ui-enhancements",
+      "published": "2020-04-01T12:37:00.363Z",
+      "updated": "2020-04-01T14:37:00.363000"
+    },
+    {
+      "title": "User creation in Azure AD with workflow orchestration node",
+      "slug": "user-creation-in-azure-ad-with-workflow-orchestration-node",
+      "url": "https://community.efecte.com/t/83hh8wy/user-creation-in-azure-ad-with-workflow-orchestration-node",
+      "published": "2020-02-28T10:11:32.173Z",
+      "updated": "2020-02-28T11:11:32.173000"
+    },
+    {
+      "title": "Managing proxyaddresses in AD with workflow orchestration activity",
+      "slug": "managing-proxyaddresses-in-ad-with-workflow-orchestration-activity",
+      "url": "https://community.efecte.com/t/p8h3fct/managing-proxyaddresses-in-ad-with-workflow-orchestration-activity",
+      "published": "2020-05-22T05:47:13.110Z",
+      "updated": "2020-05-22T07:47:13.110000"
+    },
+    {
+      "title": "EIM searches should include wildcards automatically when searching",
+      "slug": "eim-searches-should-include-wildcards-automatically-when-searching",
+      "url": "https://community.efecte.com/t/m1h3850/eim-searches-should-include-wildcards-automatically-when-searching",
+      "published": "2020-05-15T12:10:21.870Z",
+      "updated": "2020-05-15T14:10:21.870000"
+    },
+    {
+      "title": "Reset user password in AD and Azure AD with workflow orchestration node",
+      "slug": "reset-user-password-in-ad-and-azure-ad-with-workflow-orchestration-node",
+      "url": "https://community.efecte.com/t/y4h3y28/reset-user-password-in-ad-and-azure-ad-with-workflow-orchestration-node",
+      "published": "2020-05-12T13:51:30.307Z",
+      "updated": "2020-05-12T15:51:30.307000"
+    },
+    {
+      "title": "Enabling user to edit data card more easily when mandatory fields missing in Kanban board",
+      "slug": "enabling-user-to-edit-data-card-more-easily-when-mandatory-fields-missing-in-kanban-board",
+      "url": "https://community.efecte.com/t/h49w4m/enabling-user-to-edit-data-card-more-easily-when-mandatory-fields-missing-in-kanban-board",
+      "published": "2019-11-21T07:07:14.843Z",
+      "updated": "2019-11-21T08:07:14.843000"
+    },
+    {
+      "title": "Toxic combination management in IGA",
+      "slug": "toxic-combination-management-in-iga",
+      "url": "https://community.efecte.com/t/p8hh8b0/toxic-combination-management-in-iga",
+      "published": "2020-02-28T07:31:09.197Z",
+      "updated": "2020-02-28T09:07:42.943000"
+    },
+    {
+      "title": "Update user information in Azure AD with workflow orchestration node",
+      "slug": "update-user-information-in-azure-ad-with-workflow-orchestration-node",
+      "url": "https://community.efecte.com/t/35hh8wx/update-user-information-in-azure-ad-with-workflow-orchestration-node",
+      "published": "2020-02-28T10:15:01.470Z",
+      "updated": "2020-04-01T08:27:47.757000"
+    },
+    {
+      "title": "Verify user in Azure AD with workflow orchestration node",
+      "slug": "verify-user-in-azure-ad-with-workflow-orchestration-node",
+      "url": "https://community.efecte.com/t/60hh8dv/verify-user-in-azure-ad-with-workflow-orchestration-node",
+      "published": "2020-02-28T10:09:40.670Z",
+      "updated": "2020-02-28T11:09:40.670000"
+    },
+    {
+      "title": "Add/Remove a user to/from a Azure AD group(s) with workflow orchestration node",
+      "slug": "add-remove-a-user-to-from-a-azure-ad-group-s-with-workflow-orchestration-node",
+      "url": "https://community.efecte.com/t/g9hh8d9/addremove-a-user-tofrom-a-azure-ad-groups-with-workflow-orchestration-node",
+      "published": "2020-02-28T10:06:47.217Z",
+      "updated": "2020-02-28T11:06:58.217000"
+    },
+    {
+      "title": "EIM support for DB2 11.5",
+      "slug": "eim-support-for-db2-11-5",
+      "url": "https://community.efecte.com/t/p8hq4gj/eim-support-for-db2-11-5",
+      "published": "2020-02-19T12:09:11.113Z",
+      "updated": "2020-02-19T13:09:11.113000"
+    },
+    {
+      "title": "EIM JBOSS EAP 7 support",
+      "slug": "eim-jboss-eap-7-support",
+      "url": "https://community.efecte.com/t/m24pzj/eim-jboss-eap-7-support",
+      "published": "2019-10-08T09:39:07.800Z",
+      "updated": "2020-01-02T13:19:28.377000"
+    },
+    {
+      "title": "Display workflow status on workspace",
+      "slug": "display-workflow-status-on-workspace",
+      "url": "https://community.efecte.com/t/18sdwf/display-workflow-status-on-workspace",
+      "published": "2019-05-08T12:12:58.343Z",
+      "updated": "2019-05-09T06:56:11.150000"
+    },
+    {
+      "title": "Pentaho Kettle upgrade to a newer version",
+      "slug": "pentaho-kettle-upgrade-to-a-newer-version",
+      "url": "https://community.efecte.com/t/634pz5/pentaho-kettle-upgrade-to-a-newer-version",
+      "published": "2019-10-08T09:44:57.930Z",
+      "updated": "2019-10-08T11:44:57.930000"
+    },
+    {
+      "title": "CP-4115 Extensions for UI-fields",
+      "slug": "cp-4115-extensions-for-ui-fields",
+      "url": "https://community.efecte.com/t/36vh02/cp-4115-extensions-for-ui-fields",
+      "published": "2019-12-04T11:38:25.490Z",
+      "updated": "2019-12-04T12:38:25.490000"
+    },
+    {
+      "title": "CP-4113 Possibility to check assignment and task types from roles",
+      "slug": "cp-4113-possibility-to-check-assignment-and-task-types-from-roles",
+      "url": "https://community.efecte.com/t/63vh0j/cp-4113-possibility-to-check-assignment-and-task-types-from-roles",
+      "published": "2019-12-04T10:37:06.417Z",
+      "updated": "2019-12-04T11:37:06.417000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

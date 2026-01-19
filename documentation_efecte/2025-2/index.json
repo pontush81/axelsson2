@@ -1,0 +1,113 @@
+{
+  "category": "2025.2",
+  "url": "https://community.efecte.com/category/2025-2",
+  "updated": "2026-01-19T16:14:22.428308",
+  "article_count": 15,
+  "articles": [
+    {
+      "title": "M42 Core & Pro 2025.2",
+      "slug": "m42-core-pro-2025-2",
+      "url": "https://community.efecte.com/t/m1yfn4t/m42-core-pro-20252",
+      "published": "2025-04-22T07:28:00.000Z",
+      "updated": "2025-04-22T12:07:13.773000"
+    },
+    {
+      "title": "ESS2: Configurable Greeting Text",
+      "slug": "ess2-configurable-greeting-text",
+      "url": "https://community.efecte.com/t/y4yfgn7/ess2-configurable-greeting-text",
+      "published": "2025-03-28T07:55:30.050Z",
+      "updated": "2025-03-28T08:55:30.050000"
+    },
+    {
+      "title": "ESS2: Field Validation with RegEx",
+      "slug": "ess2-field-validation-with-regex",
+      "url": "https://community.efecte.com/t/x2yfgt5/ess2-field-validation-with-regex",
+      "published": "2025-03-27T14:51:40.820Z",
+      "updated": "2025-03-27T15:51:40.820000"
+    },
+    {
+      "title": "ESS2: Unread Announcements",
+      "slug": "ess2-unread-announcements",
+      "url": "https://community.efecte.com/t/35yfg8j/ess2-unread-announcements",
+      "published": "2025-03-27T13:08:45.357Z",
+      "updated": "2025-03-27T15:52:00.270000"
+    },
+    {
+      "title": "ESS2: Access Groups for Product Items",
+      "slug": "ess2-access-groups-for-product-items",
+      "url": "https://community.efecte.com/t/p8yf6dl/ess2-access-groups-for-product-items",
+      "published": "2025-03-12T06:20:09.527Z",
+      "updated": "2025-03-13T15:38:19.420000"
+    },
+    {
+      "title": "New Agent UI: Creating graphs from list view",
+      "slug": "new-agent-ui-creating-graphs-from-list-view",
+      "url": "https://community.efecte.com/t/q6yf3fz/new-agent-ui-creating-graphs-from-list-view",
+      "published": "2025-03-05T14:05:54.033Z",
+      "updated": "2025-03-05T15:05:54.033000"
+    },
+    {
+      "title": "New Agent UI: Custom color support",
+      "slug": "new-agent-ui-custom-color-support",
+      "url": "https://community.efecte.com/t/g9yfh5v/new-agent-ui-custom-color-support",
+      "published": "2025-03-03T11:09:15.377Z",
+      "updated": "2025-03-03T12:09:15.377000"
+    },
+    {
+      "title": "New Agent UI: Changing views in Dashboards",
+      "slug": "new-agent-ui-changing-views-in-dashboards",
+      "url": "https://community.efecte.com/t/x2yl2rr/new-agent-ui-changing-views-in-dashboards",
+      "published": "2025-01-31T13:11:15.520Z",
+      "updated": "2025-01-31T14:11:15.520000"
+    },
+    {
+      "title": "New EPE Connector: Generic REST API",
+      "slug": "new-epe-connector-generic-rest-api",
+      "url": "https://community.efecte.com/t/m1yz20b/new-epe-connector-generic-rest-api",
+      "published": "2024-11-14T05:35:00.000Z",
+      "updated": "2025-01-08T10:48:04.900000"
+    },
+    {
+      "title": "ESS2: Additional info for orders",
+      "slug": "ess2-additional-info-for-orders",
+      "url": "https://community.efecte.com/t/83yzxsj/ess2-additional-info-for-orders",
+      "published": "2024-10-16T14:37:46.320Z",
+      "updated": "2025-03-13T15:39:57.740000"
+    },
+    {
+      "title": "New Agent UI: Support for ValueChangeMonitor handler",
+      "slug": "new-agent-ui-support-for-valuechangemonitor-handler",
+      "url": "https://community.efecte.com/t/x2ytnnt/new-agent-ui-support-for-valuechangemonitor-handler",
+      "published": "2024-09-18T11:58:52.553Z",
+      "updated": "2024-09-18T13:58:52.553000"
+    },
+    {
+      "title": "New EPE Connector: Google Directory",
+      "slug": "new-epe-connector-google-directory",
+      "url": "https://community.efecte.com/t/m1hadzs/new-epe-connector-google-directory",
+      "published": "2023-03-07T06:56:11.260Z",
+      "updated": "2024-01-23T07:10:21.450000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

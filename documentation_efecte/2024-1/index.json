@@ -1,0 +1,99 @@
+{
+  "category": "Efecte 2024.1",
+  "url": "https://community.efecte.com/category/2024-1",
+  "updated": "2026-01-19T16:18:32.594676",
+  "article_count": 13,
+  "articles": [
+    {
+      "title": "ESM: Effie AI Summarizer",
+      "slug": "esm-effie-ai-summarizer",
+      "url": "https://community.efecte.com/t/p8y6lqf/esm-effie-ai-summarizer",
+      "published": "2024-04-17T05:39:56.020Z",
+      "updated": "2024-04-17T07:39:56.020000"
+    },
+    {
+      "title": "ESS2: Conditional (dynamic) fields",
+      "slug": "ess2-conditional-dynamic-fields",
+      "url": "https://community.efecte.com/t/y4y82ka/ess2-conditional-dynamic-fields",
+      "published": "2024-03-21T06:58:59.127Z",
+      "updated": "2024-04-03T15:02:25.293000"
+    },
+    {
+      "title": "ESS2: New form fields support in multi-mapping",
+      "slug": "ess2-new-form-fields-support-in-multi-mapping",
+      "url": "https://community.efecte.com/t/h7y88pa/ess2-new-form-fields-support-in-multi-mapping",
+      "published": "2024-03-05T12:56:38.660Z",
+      "updated": "2024-03-05T13:56:50.737000"
+    },
+    {
+      "title": "ESS2: Improvements to the Case presentation view",
+      "slug": "ess2-improvements-to-the-case-presentation-view",
+      "url": "https://community.efecte.com/t/q6y88pt/ess2-improvements-to-the-case-presentation-view",
+      "published": "2024-03-05T12:31:23.990Z",
+      "updated": "2024-03-05T13:31:23.990000"
+    },
+    {
+      "title": "ESS: Copy link to Tips&Tricks article",
+      "slug": "ess-copy-link-to-tips-tricks-article",
+      "url": "https://community.efecte.com/t/35y8hgd/ess-copy-link-to-tipstricks-article",
+      "published": "2024-02-29T12:09:20.627Z",
+      "updated": "2024-02-29T13:09:20.627000"
+    },
+    {
+      "title": "Azure OpenAI support for Effie AI Email",
+      "slug": "azure-openai-support-for-effie-ai-email",
+      "url": "https://community.efecte.com/t/y4yx2y3/azure-openai-support-for-effie-ai-email",
+      "published": "2024-02-13T14:06:33.573Z",
+      "updated": "2024-02-13T15:06:33.573000"
+    },
+    {
+      "title": "Unified Effie AI admin UI",
+      "slug": "unified-effie-ai-admin-ui",
+      "url": "https://community.efecte.com/t/y4yx2ha/unified-effie-ai-admin-ui",
+      "published": "2024-02-13T14:06:32.143Z",
+      "updated": "2024-02-13T15:06:32.143000"
+    },
+    {
+      "title": "UPDATE: Viewing existing conditions and applying view settings in the new agent UI",
+      "slug": "update-viewing-existing-conditions-and-applying-view-settings-in-the-new-agent-ui",
+      "url": "https://community.efecte.com/t/x2y3vja/view-conditions-and-settings-in-the-new-agent-ui",
+      "published": "2024-01-23T06:37:00.000Z",
+      "updated": "2024-03-20T07:59:10.893000"
+    },
+    {
+      "title": "New ESA Authentication method Okta",
+      "slug": "new-esa-authentication-method-okta",
+      "url": "https://community.efecte.com/t/h7y3v5q/new-esa-authentication-method-okta",
+      "published": "2024-01-23T06:37:07.013Z",
+      "updated": "2024-01-23T07:37:07.013000"
+    },
+    {
+      "title": "New ESA Authentication method Keycloak",
+      "slug": "new-esa-authentication-method-keycloak",
+      "url": "https://community.efecte.com/t/60y3vjs/new-esa-authentication-method-keycloak",
+      "published": "2024-01-23T06:16:14.930Z",
+      "updated": "2024-01-23T07:16:14.930000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

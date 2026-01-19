@@ -1,0 +1,697 @@
+{
+  "source": "Efecte Community",
+  "url": "https://community.efecte.com",
+  "scraped_at": "2026-01-19T16:57:50.769582",
+  "stats": {
+    "categories": 137,
+    "topics": 1009,
+    "errors": 0
+  },
+  "categories": [
+    {
+      "name": "Discussions",
+      "slug": "discussions",
+      "url": "https://community.efecte.com/category/discussions"
+    },
+    {
+      "name": "Peer-to-Peer Q&A",
+      "slug": "quesitons",
+      "url": "https://community.efecte.com/category/quesitons"
+    },
+    {
+      "name": "Ideas for Product Development",
+      "slug": "product-development",
+      "url": "https://community.efecte.com/category/product-development"
+    },
+    {
+      "name": "Latest Admin Manuals",
+      "slug": "admin-manuals",
+      "url": "https://community.efecte.com/category/admin-manuals"
+    },
+    {
+      "name": "Product News & Information",
+      "slug": "news",
+      "url": "https://community.efecte.com/category/news"
+    },
+    {
+      "name": "Known Errors",
+      "slug": "known-errors",
+      "url": "https://community.efecte.com/category/known-errors"
+    },
+    {
+      "name": "Tips for Administrators",
+      "slug": "tips-for-administrators",
+      "url": "https://community.efecte.com/category/tips-for-administrators"
+    },
+    {
+      "name": "Partner Information",
+      "slug": "partners",
+      "url": "https://community.efecte.com/category/partners"
+    },
+    {
+      "name": "Roadmap",
+      "slug": "roadmap",
+      "url": "https://community.efecte.com/category/roadmap"
+    },
+    {
+      "name": "2026.2",
+      "slug": "2026-2",
+      "url": "https://community.efecte.com/category/2026-2"
+    },
+    {
+      "name": "2026.1",
+      "slug": "2026-1",
+      "url": "https://community.efecte.com/category/2026-1"
+    },
+    {
+      "name": "Future",
+      "slug": "future",
+      "url": "https://community.efecte.com/category/future"
+    },
+    {
+      "name": "How to understand the roadmap",
+      "slug": "how-to-understand-the-roadmap",
+      "url": "https://community.efecte.com/category/how-to-understand-the-roadmap"
+    },
+    {
+      "name": "Releases",
+      "slug": "releases",
+      "url": "https://community.efecte.com/category/releases"
+    },
+    {
+      "name": "Matrix42 Core and Pro 2025.3 Release Information",
+      "slug": "matrix42-core-and-pro-20253-release-information",
+      "url": "https://community.efecte.com/category/matrix42-core-and-pro-20253-release-information"
+    },
+    {
+      "name": "2025.3",
+      "slug": "2025-3",
+      "url": "https://community.efecte.com/category/2025-3"
+    },
+    {
+      "name": "Matrix42 Core and Pro 2025.2 Release Information",
+      "slug": "matrix42-core-and-pro-20252-release-information",
+      "url": "https://community.efecte.com/category/matrix42-core-and-pro-20252-release-information"
+    },
+    {
+      "name": "2025.2",
+      "slug": "2025-2",
+      "url": "https://community.efecte.com/category/2025-2"
+    },
+    {
+      "name": "Matrix42 Core and Pro 2025.1 Release Information",
+      "slug": "m42-core-pro-release-20251",
+      "url": "https://community.efecte.com/category/m42-core-pro-release-20251"
+    },
+    {
+      "name": "2025.1",
+      "slug": "20251",
+      "url": "https://community.efecte.com/category/20251"
+    },
+    {
+      "name": "EFECTE 2024.2 DOCUMENTS & INFORMATION",
+      "slug": "efecte-20242-documents-information",
+      "url": "https://community.efecte.com/category/efecte-20242-documents-information"
+    },
+    {
+      "name": "Efecte 2024.2 Documents & information",
+      "slug": "efecte-20242-documents-and-information",
+      "url": "https://community.efecte.com/category/efecte-20242-documents-and-information"
+    },
+    {
+      "name": "2024.2",
+      "slug": "2024-2",
+      "url": "https://community.efecte.com/category/2024-2"
+    },
+    {
+      "name": "EFECTE 2024.1 DOCUMENTS & INFORMATION",
+      "slug": "efecte-20241-documents-and-information",
+      "url": "https://community.efecte.com/category/efecte-20241-documents-and-information"
+    },
+    {
+      "name": "Efecte 2024.1 Documents & Information",
+      "slug": "efecte-20241-documents-information",
+      "url": "https://community.efecte.com/category/efecte-20241-documents-information"
+    },
+    {
+      "name": "Efecte 2024.1",
+      "slug": "2024-1",
+      "url": "https://community.efecte.com/category/2024-1"
+    },
+    {
+      "name": "EFECTE 2023.4 DOCUMENTS & INFORMATION",
+      "slug": "efecte-20234-documents-information",
+      "url": "https://community.efecte.com/category/efecte-20234-documents-information"
+    },
+    {
+      "name": "Efecte 2023.4 Documents and information",
+      "slug": "efecte-20234-documents-and-information",
+      "url": "https://community.efecte.com/category/efecte-20234-documents-and-information"
+    },
+    {
+      "name": "Efecte 2023.4",
+      "slug": "2023-4",
+      "url": "https://community.efecte.com/category/2023-4"
+    },
+    {
+      "name": "Efecte 2023.3 DOCUMENTS & INFORMATION",
+      "slug": "efecte-20233-documents",
+      "url": "https://community.efecte.com/category/efecte-20233-documents"
+    },
+    {
+      "name": "Efecte 2023.3",
+      "slug": "2023-3",
+      "url": "https://community.efecte.com/category/2023-3"
+    },
+    {
+      "name": "Efecte 2023.3 Documents & information",
+      "slug": "efecte-2023-3-documents-information",
+      "url": "https://community.efecte.com/category/efecte-2023-3-documents-information"
+    },
+    {
+      "name": "Efecte 2023.2 DOCUMENTS & INFORMATION",
+      "slug": "efecte-20232-documents",
+      "url": "https://community.efecte.com/category/efecte-20232-documents"
+    },
+    {
+      "name": "Efecte 2023.2",
+      "slug": "2023-2",
+      "url": "https://community.efecte.com/category/2023-2"
+    },
+    {
+      "name": "Efecte 2023.2 Documents & information",
+      "slug": "efecte-20232-documents-information",
+      "url": "https://community.efecte.com/category/efecte-20232-documents-information"
+    },
+    {
+      "name": "Efecte 2023.1 Documents & Information",
+      "slug": "efecte-20231-documents",
+      "url": "https://community.efecte.com/category/efecte-20231-documents"
+    },
+    {
+      "name": "Efecte 2023.1 Documentation & Information",
+      "slug": "efecte-20231-documentation-information",
+      "url": "https://community.efecte.com/category/efecte-20231-documentation-information"
+    },
+    {
+      "name": "Efecte 2023.1",
+      "slug": "2023-1",
+      "url": "https://community.efecte.com/category/2023-1"
+    },
+    {
+      "name": "Efecte 2022.4 Documents & Information",
+      "slug": "efecte-20224-documents",
+      "url": "https://community.efecte.com/category/efecte-20224-documents"
+    },
+    {
+      "name": "Efecte 2022.4",
+      "slug": "2022-4",
+      "url": "https://community.efecte.com/category/2022-4"
+    },
+    {
+      "name": "Efecte 2022.4 release documents",
+      "slug": "efecte-20224-release-notes",
+      "url": "https://community.efecte.com/category/efecte-20224-release-notes"
+    },
+    {
+      "name": "Efecte 2022.3 Documents & Information",
+      "slug": "efecte-20223-documents",
+      "url": "https://community.efecte.com/category/efecte-20223-documents"
+    },
+    {
+      "name": "Efecte 2022.3",
+      "slug": "efecte-2022-3",
+      "url": "https://community.efecte.com/category/efecte-2022-3"
+    },
+    {
+      "name": "Service Management Tool 2022.3",
+      "slug": "service-management-tool-20223",
+      "url": "https://community.efecte.com/category/service-management-tool-20223"
+    },
+    {
+      "name": "Self-Service Portal 2022.3",
+      "slug": "self-service-portal-20223",
+      "url": "https://community.efecte.com/category/self-service-portal-20223"
+    },
+    {
+      "name": "Efecte Provisioning Engine 2022.3",
+      "slug": "efecte-provisioning-engine-20223",
+      "url": "https://community.efecte.com/category/efecte-provisioning-engine-20223"
+    },
+    {
+      "name": "Efecte Secure Access 2022.3",
+      "slug": "efecte-secure-access-20223",
+      "url": "https://community.efecte.com/category/efecte-secure-access-20223"
+    },
+    {
+      "name": "Efecte Identity Management 2022.3",
+      "slug": "efecte-identity-management-20223",
+      "url": "https://community.efecte.com/category/efecte-identity-management-20223"
+    },
+    {
+      "name": "Efecte 2022.2 Documents & Information",
+      "slug": "efecte-20222-documents",
+      "url": "https://community.efecte.com/category/efecte-20222-documents"
+    },
+    {
+      "name": "Efecte 2022.2",
+      "slug": "efecte-2022-2",
+      "url": "https://community.efecte.com/category/efecte-2022-2"
+    },
+    {
+      "name": "Service Management Tool 2022.2",
+      "slug": "service-management-tool-20222",
+      "url": "https://community.efecte.com/category/service-management-tool-20222"
+    },
+    {
+      "name": "Self-Service Portal 2022.2",
+      "slug": "self-service-portal-20222",
+      "url": "https://community.efecte.com/category/self-service-portal-20222"
+    },
+    {
+      "name": "Efecte Provisioning Engine 2022.2",
+      "slug": "efecte-provisioning-engine-20222",
+      "url": "https://community.efecte.com/category/efecte-provisioning-engine-20222"
+    },
+    {
+      "name": "Efecte Secure Access 2022.2",
+      "slug": "efecte-secure-access-20222",
+      "url": "https://community.efecte.com/category/efecte-secure-access-20222"
+    },
+    {
+      "name": "Efecte Identity Management 2022.2",
+      "slug": "efecte-identity-management-20222",
+      "url": "https://community.efecte.com/category/efecte-identity-management-20222"
+    },
+    {
+      "name": "Efecte 2022.1 Documents & Information",
+      "slug": "efecte-20221-documents",
+      "url": "https://community.efecte.com/category/efecte-20221-documents"
+    },
+    {
+      "name": "Efecte 2022.1",
+      "slug": "efecte-2022-1",
+      "url": "https://community.efecte.com/category/efecte-2022-1"
+    },
+    {
+      "name": "Service Management Tool 2022.1",
+      "slug": "service-management-tool-20221",
+      "url": "https://community.efecte.com/category/service-management-tool-20221"
+    },
+    {
+      "name": "Self-Service Portal 2022.1",
+      "slug": "self-service-portal-20221",
+      "url": "https://community.efecte.com/category/self-service-portal-20221"
+    },
+    {
+      "name": "Efecte Provisioning Engine 2022.1",
+      "slug": "efecte-provisioning-engine-20221",
+      "url": "https://community.efecte.com/category/efecte-provisioning-engine-20221"
+    },
+    {
+      "name": "Efecte Secure Access 2022.1",
+      "slug": "efecte-secure-access-20221",
+      "url": "https://community.efecte.com/category/efecte-secure-access-20221"
+    },
+    {
+      "name": "Efecte Identity Management 2022.1",
+      "slug": "Efecte-Identity-Management-20221",
+      "url": "https://community.efecte.com/category/Efecte-Identity-Management-20221"
+    },
+    {
+      "name": "Efecte 2021.4 Documents & Information",
+      "slug": "efecte-20214-documents",
+      "url": "https://community.efecte.com/category/efecte-20214-documents"
+    },
+    {
+      "name": "Efecte 2021.4 Overview and Features",
+      "slug": "efecte-2021-4",
+      "url": "https://community.efecte.com/category/efecte-2021-4"
+    },
+    {
+      "name": "Service Management Tool 2021.4",
+      "slug": "service-management-tool-20214",
+      "url": "https://community.efecte.com/category/service-management-tool-20214"
+    },
+    {
+      "name": "Self-Service Portal 2021.4",
+      "slug": "self-service-portal-20214",
+      "url": "https://community.efecte.com/category/self-service-portal-20214"
+    },
+    {
+      "name": "Efecte Identity Management 2021.4",
+      "slug": "efecte-identity-management-20214",
+      "url": "https://community.efecte.com/category/efecte-identity-management-20214"
+    },
+    {
+      "name": "Efecte 2021.3 Documents & Information",
+      "slug": "efecte-20213-documents",
+      "url": "https://community.efecte.com/category/efecte-20213-documents"
+    },
+    {
+      "name": "Efecte 2021.3 Overview and Features",
+      "slug": "efecte-20213",
+      "url": "https://community.efecte.com/category/efecte-20213"
+    },
+    {
+      "name": "Service Management Tool 2021.3",
+      "slug": "service-management-tool-20213",
+      "url": "https://community.efecte.com/category/service-management-tool-20213"
+    },
+    {
+      "name": "Self-Service Portal 2021.3",
+      "slug": "self-service-portal-20213",
+      "url": "https://community.efecte.com/category/self-service-portal-20213"
+    },
+    {
+      "name": "Efecte Provisioning Engine 2021.3",
+      "slug": "efecte-provisioning-engine-20213",
+      "url": "https://community.efecte.com/category/efecte-provisioning-engine-20213"
+    },
+    {
+      "name": "Efecte Secure Access 2021.3",
+      "slug": "efecte-secure-access-20213",
+      "url": "https://community.efecte.com/category/efecte-secure-access-20213"
+    },
+    {
+      "name": "Efecte Identity Management 2021.3",
+      "slug": "efecte-identity-management-20213",
+      "url": "https://community.efecte.com/category/efecte-identity-management-20213"
+    },
+    {
+      "name": "Efecte 2021.2 Documents & Information",
+      "slug": "efecte-20212-documents",
+      "url": "https://community.efecte.com/category/efecte-20212-documents"
+    },
+    {
+      "name": "Efecte 2021.2 Overview and Features",
+      "slug": "efecte-20212",
+      "url": "https://community.efecte.com/category/efecte-20212"
+    },
+    {
+      "name": "Service Management Tool 2021.2",
+      "slug": "service-management-tool-20212",
+      "url": "https://community.efecte.com/category/service-management-tool-20212"
+    },
+    {
+      "name": "Self-Service Portal 2021.2",
+      "slug": "self-service-portal-20212",
+      "url": "https://community.efecte.com/category/self-service-portal-20212"
+    },
+    {
+      "name": "Efecte Provisioning Engine 2021.2",
+      "slug": "efecte-provisioning-engine-20212",
+      "url": "https://community.efecte.com/category/efecte-provisioning-engine-20212"
+    },
+    {
+      "name": "Efecte Secure Access 2021.2",
+      "slug": "efecte-secure-access-20212",
+      "url": "https://community.efecte.com/category/efecte-secure-access-20212"
+    },
+    {
+      "name": "Efecte Identity Management 2021.2",
+      "slug": "efecte-identity-management-20212",
+      "url": "https://community.efecte.com/category/efecte-identity-management-20212"
+    },
+    {
+      "name": "Efecte 2021.1 Documents & Information",
+      "slug": "efecte-20211-documents",
+      "url": "https://community.efecte.com/category/efecte-20211-documents"
+    },
+    {
+      "name": "Efecte 2021.1 Overview and Features",
+      "slug": "efecte-20211",
+      "url": "https://community.efecte.com/category/efecte-20211"
+    },
+    {
+      "name": "Service Management Tool 2021.1",
+      "slug": "service-management-tool-20211",
+      "url": "https://community.efecte.com/category/service-management-tool-20211"
+    },
+    {
+      "name": "Self-Service Portal 2021.1",
+      "slug": "self-service-portal-20211",
+      "url": "https://community.efecte.com/category/self-service-portal-20211"
+    },
+    {
+      "name": "Efecte Provisioning Engine 2021.1",
+      "slug": "efecte-provisioning-engine-20211",
+      "url": "https://community.efecte.com/category/efecte-provisioning-engine-20211"
+    },
+    {
+      "name": "Efecte Secure Access 2021.1",
+      "slug": "efecte-secure-access-20211",
+      "url": "https://community.efecte.com/category/efecte-secure-access-20211"
+    },
+    {
+      "name": "Efecte Identity Management 2021.1",
+      "slug": "efecte-identity-management-20211",
+      "url": "https://community.efecte.com/category/efecte-identity-management-20211"
+    },
+    {
+      "name": "Efecte 2020.4 Documents & Information",
+      "slug": "efecte-20204-documents",
+      "url": "https://community.efecte.com/category/efecte-20204-documents"
+    },
+    {
+      "name": "Efecte 2020.4 Overview and Features",
+      "slug": "efecte-20204",
+      "url": "https://community.efecte.com/category/efecte-20204"
+    },
+    {
+      "name": "Service Management Tool 2020.4",
+      "slug": "service-management-tool-20204",
+      "url": "https://community.efecte.com/category/service-management-tool-20204"
+    },
+    {
+      "name": "Self-Service Portal 2020.4",
+      "slug": "self-service-portal-20204",
+      "url": "https://community.efecte.com/category/self-service-portal-20204"
+    },
+    {
+      "name": "Efecte Provisioning Engine 2020.4",
+      "slug": "efecte-provisioning-engine-20204",
+      "url": "https://community.efecte.com/category/efecte-provisioning-engine-20204"
+    },
+    {
+      "name": "Efecte Secure Access 2020.4",
+      "slug": "efecte-secure-access-20204",
+      "url": "https://community.efecte.com/category/efecte-secure-access-20204"
+    },
+    {
+      "name": "Efecte Identity Management 2020.4",
+      "slug": "efecte-identity-management-20204",
+      "url": "https://community.efecte.com/category/efecte-identity-management-20204"
+    },
+    {
+      "name": "Efecte 2020.3 Documents & Information",
+      "slug": "efecte-20203-documents",
+      "url": "https://community.efecte.com/category/efecte-20203-documents"
+    },
+    {
+      "name": "Efecte 2020.3 Overview and Features",
+      "slug": "efecte-20203",
+      "url": "https://community.efecte.com/category/efecte-20203"
+    },
+    {
+      "name": "Efecte Provisioning Engine 2020.3",
+      "slug": "efecte-provisioning-engine-20203",
+      "url": "https://community.efecte.com/category/efecte-provisioning-engine-20203"
+    },
+    {
+      "name": "Efecte 2020.2 Documents & Information",
+      "slug": "efecte-20202-documents-information",
+      "url": "https://community.efecte.com/category/efecte-20202-documents-information"
+    },
+    {
+      "name": "Efecte 2020.2 Overview and Features",
+      "slug": "efecte-2020-2",
+      "url": "https://community.efecte.com/category/efecte-2020-2"
+    },
+    {
+      "name": "Community Solutions",
+      "slug": "community-solutions",
+      "url": "https://community.efecte.com/category/community-solutions"
+    },
+    {
+      "name": "Enterprise Facility Management",
+      "slug": "facility-management",
+      "url": "https://community.efecte.com/category/facility-management"
+    },
+    {
+      "name": "Resources",
+      "slug": "resources",
+      "url": "https://community.efecte.com/category/resources"
+    },
+    {
+      "name": "Report Bugs for Enterprise Facility Management",
+      "slug": "report-bugs-for-enterprise-facility-management",
+      "url": "https://community.efecte.com/category/report-bugs-for-enterprise-facility-management"
+    },
+    {
+      "name": "Enterprise Contract Management",
+      "slug": "enterprise-contract-management",
+      "url": "https://community.efecte.com/category/enterprise-contract-management"
+    },
+    {
+      "name": "Resources",
+      "slug": "ecm-resources",
+      "url": "https://community.efecte.com/category/ecm-resources"
+    },
+    {
+      "name": "Report Bugs for Enterprise Contract Management",
+      "slug": "report-bugs-ecm",
+      "url": "https://community.efecte.com/category/report-bugs-ecm"
+    },
+    {
+      "name": "Report Misuse of ECM",
+      "slug": "report-misuse-ecm",
+      "url": "https://community.efecte.com/category/report-misuse-ecm"
+    },
+    {
+      "name": "Essential SAFe",
+      "slug": "essential-safe",
+      "url": "https://community.efecte.com/category/essential-safe"
+    },
+    {
+      "name": "Resources",
+      "slug": "safe-resource",
+      "url": "https://community.efecte.com/category/safe-resource"
+    },
+    {
+      "name": "Report Bugs for Essential SAFe Operations",
+      "slug": "report-bugs-safe",
+      "url": "https://community.efecte.com/category/report-bugs-safe"
+    },
+    {
+      "name": "Report Misuse of SAFe",
+      "slug": "report-misuse-safe",
+      "url": "https://community.efecte.com/category/report-misuse-safe"
+    },
+    {
+      "name": "Crisis Ops Solution",
+      "slug": "crisis-ops",
+      "url": "https://community.efecte.com/category/crisis-ops"
+    },
+    {
+      "name": "Resources",
+      "slug": "crisis-ops-resources",
+      "url": "https://community.efecte.com/category/crisis-ops-resources"
+    },
+    {
+      "name": "Report Bugs for Crisis Ops",
+      "slug": "report-bugs-for-crisis-ops",
+      "url": "https://community.efecte.com/category/report-bugs-for-crisis-ops"
+    },
+    {
+      "name": "Report Misuse of Crisis Ops",
+      "slug": "report-misuse-of-crisis-ops",
+      "url": "https://community.efecte.com/category/report-misuse-of-crisis-ops"
+    },
+    {
+      "name": "Create a New Community Solution",
+      "slug": "Community-Created-Solutions",
+      "url": "https://community.efecte.com/category/Community-Created-Solutions"
+    },
+    {
+      "name": "Create New Solutions",
+      "slug": "Create-New-Solutions",
+      "url": "https://community.efecte.com/category/Create-New-Solutions"
+    },
+    {
+      "name": "Community Add-ons",
+      "slug": "community-add-ons",
+      "url": "https://community.efecte.com/category/community-add-ons"
+    },
+    {
+      "name": "Efecte Community Add-ons",
+      "slug": "efecte-community-add-ons",
+      "url": "https://community.efecte.com/category/efecte-community-add-ons"
+    },
+    {
+      "name": "Ideas for Add-ons",
+      "slug": "ideas-for-add-ons",
+      "url": "https://community.efecte.com/category/ideas-for-add-ons"
+    },
+    {
+      "name": "Resources & Information",
+      "slug": "Resources-Information",
+      "url": "https://community.efecte.com/category/Resources-Information"
+    },
+    {
+      "name": "Contract materials",
+      "slug": "contract-materials",
+      "url": "https://community.efecte.com/category/contract-materials"
+    },
+    {
+      "name": "End of Life Notices",
+      "slug": "end-of-life",
+      "url": "https://community.efecte.com/category/end-of-life"
+    },
+    {
+      "name": "Templates",
+      "slug": "templates",
+      "url": "https://community.efecte.com/category/templates"
+    },
+    {
+      "name": "Icons",
+      "slug": "icons",
+      "url": "https://community.efecte.com/category/icons"
+    },
+    {
+      "name": "Training & Other Documents",
+      "slug": "training-other-documents",
+      "url": "https://community.efecte.com/category/training-other-documents"
+    },
+    {
+      "name": "Solution Descriptions",
+      "slug": "solution-descriptions",
+      "url": "https://community.efecte.com/category/solution-descriptions"
+    },
+    {
+      "name": "Factsheets",
+      "slug": "factsheets",
+      "url": "https://community.efecte.com/category/factsheets"
+    },
+    {
+      "name": "Previous Release Documents",
+      "slug": "previous-release-documents",
+      "url": "https://community.efecte.com/category/previous-release-documents"
+    },
+    {
+      "name": "Archive",
+      "slug": "archive",
+      "url": "https://community.efecte.com/category/archive"
+    },
+    {
+      "name": "Archived Product Ideas",
+      "slug": "archived-product-ideas",
+      "url": "https://community.efecte.com/category/archived-product-ideas"
+    },
+    {
+      "name": "Admin Video Library",
+      "slug": "admin-library",
+      "url": "https://community.efecte.com/category/admin-library"
+    },
+    {
+      "name": "Admin videos",
+      "slug": "admin-videos",
+      "url": "https://community.efecte.com/category/admin-videos"
+    },
+    {
+      "name": "Solution introduction videos",
+      "slug": "intro-videos",
+      "url": "https://community.efecte.com/category/intro-videos"
+    },
+    {
+      "name": "How-to video library",
+      "slug": "how-to-video-library",
+      "url": "https://community.efecte.com/category/how-to-video-library"
+    },
+    {
+      "name": "Tips & Tricks webinar recordings",
+      "slug": "tips-tricks-webinar-recordings",
+      "url": "https://community.efecte.com/category/tips-tricks-webinar-recordings"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "category": "Efecte 2023.4",
+  "url": "https://community.efecte.com/category/2023-4",
+  "updated": "2026-01-19T16:20:12.818237",
+  "article_count": 18,
+  "articles": [
+    {
+      "title": "ESM: Support for Quickfill handler in the new datacard view",
+      "slug": "esm-support-for-quickfill-handler-in-the-new-datacard-view",
+      "url": "https://community.efecte.com/t/m1yq9pp/esm-support-for-quickfill-handler-in-the-new-datacard-view",
+      "published": "2023-09-21T08:23:11.953Z",
+      "updated": "2023-09-21T10:23:11.953000"
+    },
+    {
+      "title": "Self-service portal (ESS): Accessibilty gaps improved to be aligned with WCAG 2.1 A- and AA-levels",
+      "slug": "self-service-portal-ess-accessibilty-gaps-improved-to-be-aligned-with-wcag-2-1-a-and-aa-levels",
+      "url": "https://community.efecte.com/t/h7y31r3/self-service-portal-ess-accessibilty-gaps-improved-to-be-aligned-with-wcag-2-1-a-and-aa-levels",
+      "published": "2023-12-29T14:38:16.750Z",
+      "updated": "2023-12-29T15:38:16.750000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Case Presentation for Open Cases (beta)",
+      "slug": "efecte-self-service-ess2-case-presentation-for-open-cases-beta",
+      "url": "https://community.efecte.com/t/60y31m5/efecte-self-service-ess2-case-presentation-for-open-cases-beta",
+      "published": "2023-12-28T14:54:37.150Z",
+      "updated": "2023-12-28T15:56:45.767000"
+    },
+    {
+      "title": "ESA: Support for read ESM local user's mobile number to ESA claim",
+      "slug": "esa-support-for-read-esm-local-user-s-mobile-number-to-esa-claim",
+      "url": "https://community.efecte.com/t/g9y3mb4/esa-support-for-read-esm-local-users-mobile-number-to-esa-claim",
+      "published": "2023-12-18T08:25:38.527Z",
+      "updated": "2023-12-18T09:25:38.527000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Adding section title and text blocks to a form",
+      "slug": "efecte-self-service-ess2-adding-section-title-and-text-blocks-to-a-form",
+      "url": "https://community.efecte.com/t/h7yhxr2/efecte-self-service-ess2-adding-section-title-and-text-blocks-to-a-form",
+      "published": "2023-09-27T08:29:22.250Z",
+      "updated": "2023-09-27T15:38:20.013000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Configure multiple reference drop-down fields to single attribute",
+      "slug": "efecte-self-service-ess2-configure-multiple-reference-drop-down-fields-to-single-attribute",
+      "url": "https://community.efecte.com/t/y4yhx59/efecte-self-service-ess2-configure-multiple-reference-drop-down-fields-to-single-attribute",
+      "published": "2023-09-27T07:53:14.887Z",
+      "updated": "2023-09-27T09:53:14.887000"
+    },
+    {
+      "title": "ESM: Multitemplate list views in the new UI",
+      "slug": "esm-multitemplate-list-views-in-the-new-ui",
+      "url": "https://community.efecte.com/t/83yh3jn/esm-multitemplate-list-views-in-the-new-ui",
+      "published": "2023-09-26T12:46:38.880Z",
+      "updated": "2023-09-26T15:01:40.677000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Configure multiple custom drop-down fields to single attribute",
+      "slug": "efecte-self-service-ess2-configure-multiple-custom-drop-down-fields-to-single-attribute",
+      "url": "https://community.efecte.com/t/y4yh31k/efecte-self-service-ess2-configure-multiple-custom-drop-down-fields-to-single-attribute",
+      "published": "2023-09-26T07:58:27.710Z",
+      "updated": "2023-09-26T09:58:27.710000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Configure multiple single line form fields to single attribute",
+      "slug": "efecte-self-service-ess2-configure-multiple-single-line-form-fields-to-single-attribute",
+      "url": "https://community.efecte.com/t/83yh3f9/efecte-self-service-ess2-configure-multiple-single-line-form-fields-to-single-attribute",
+      "published": "2023-09-26T06:02:49.897Z",
+      "updated": "2023-09-26T08:02:49.897000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Reference value support in Override defaults configuration",
+      "slug": "efecte-self-service-ess2-reference-value-support-in-override-defaults-configuration",
+      "url": "https://community.efecte.com/t/83yhhv0/efecte-self-service-ess2-reference-value-support-in-override-defaults-configuration",
+      "published": "2023-09-25T06:43:55.277Z",
+      "updated": "2023-09-25T08:43:55.277000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Support for Reference values",
+      "slug": "efecte-self-service-ess2-support-for-reference-values",
+      "url": "https://community.efecte.com/t/g9yhh9c/efecte-self-service-ess2-support-for-reference-values",
+      "published": "2023-09-25T06:00:05.907Z",
+      "updated": "2023-09-25T08:00:05.907000"
+    },
+    {
+      "title": "ESM: Support for reference tables in the Agent UI",
+      "slug": "esm-support-for-reference-tables-in-the-agent-ui",
+      "url": "https://community.efecte.com/t/m1yq9gm/esm-support-for-reference-tables-in-the-agent-ui",
+      "published": "2023-09-21T09:22:52.277Z",
+      "updated": "2023-09-21T11:22:52.277000"
+    },
+    {
+      "title": "ESM: Dark theme in the new Agent UI",
+      "slug": "esm-dark-theme-in-the-new-agent-ui",
+      "url": "https://community.efecte.com/t/83yq9gq/esm-dark-theme-in-the-new-agent-ui",
+      "published": "2023-09-21T08:56:16.043Z",
+      "updated": "2023-09-21T10:56:16.043000"
+    },
+    {
+      "title": "ESM: Support for Worklog handler in the new Agent UI",
+      "slug": "esm-support-for-worklog-handler-in-the-new-agent-ui",
+      "url": "https://community.efecte.com/t/p8yq9pa/esm-support-for-worklog-handler-in-the-new-agent-ui",
+      "published": "2023-09-21T08:34:52.473Z",
+      "updated": "2023-09-21T10:34:52.473000"
+    },
+    {
+      "title": "ESM: Viewing and sending comments (worklog) from the new beta UI datacard view",
+      "slug": "esm-viewing-and-sending-comments-worklog-from-the-new-beta-ui-datacard-view",
+      "url": "https://community.efecte.com/t/83h6n2d/esm-viewing-and-sending-comments-worklog-from-the-new-beta-ui-datacard-view",
+      "published": "2020-10-15T11:56:00.000Z",
+      "updated": "2024-01-23T07:48:58"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

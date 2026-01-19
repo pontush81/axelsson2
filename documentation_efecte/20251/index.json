@@ -1,0 +1,92 @@
+{
+  "category": "2025.1",
+  "url": "https://community.efecte.com/category/20251",
+  "updated": "2026-01-19T16:15:17.814649",
+  "article_count": 12,
+  "articles": [
+    {
+      "title": "M42 Core & Pro 2025.1",
+      "slug": "m42-core-pro-2025-1",
+      "url": "https://community.efecte.com/t/60ylynb/m42-core-pro-2025-1",
+      "published": "2024-12-18T07:14:00.000Z",
+      "updated": "2024-12-20T16:47:15.860000"
+    },
+    {
+      "title": "ESM: View support for dashboards in the new Agent UI",
+      "slug": "esm-view-support-for-dashboards-in-the-new-agent-ui",
+      "url": "https://community.efecte.com/t/m1yzd1z/esm-view-support-for-dashboards-in-the-new-agent-ui",
+      "published": "2024-11-19T06:40:10.563Z",
+      "updated": "2024-11-19T07:40:10.563000"
+    },
+    {
+      "title": "ESM: Additional custom branding settings",
+      "slug": "esm-additional-custom-branding-settings",
+      "url": "https://community.efecte.com/t/q6yzdf8/esm-additional-custom-branding-settings",
+      "published": "2024-11-18T09:24:29.403Z",
+      "updated": "2024-11-18T10:24:29.403000"
+    },
+    {
+      "title": "ESS2: Show Announcements",
+      "slug": "ess2-show-announcements",
+      "url": "https://community.efecte.com/t/60yzxsn/ess2-show-announcements",
+      "published": "2024-10-16T14:40:57.180Z",
+      "updated": "2024-10-16T16:40:57.180000"
+    },
+    {
+      "title": "ESS2: Role-based content for forms and form categorization",
+      "slug": "ess2-role-based-content-for-forms-and-form-categorization",
+      "url": "https://community.efecte.com/t/q6yzxs2/ess2-role-based-content-for-forms-and-form-categorization",
+      "published": "2024-10-16T14:39:13.150Z",
+      "updated": "2024-10-16T16:39:13.150000"
+    },
+    {
+      "title": "New Agent UI: External reference support",
+      "slug": "new-agent-ui-external-reference-support",
+      "url": "https://community.efecte.com/t/x2yzhmh/new-agent-ui-external-reference-support",
+      "published": "2024-10-11T05:21:41.917Z",
+      "updated": "2024-10-11T07:21:41.917000"
+    },
+    {
+      "title": "New Agent UI: ExternalLinkParameter handler support",
+      "slug": "new-agent-ui-externallinkparameter-handler-support",
+      "url": "https://community.efecte.com/t/m1ytnnm/new-agent-ui-externallinkparameter-handler-support",
+      "published": "2024-09-18T10:44:14.373Z",
+      "updated": "2024-09-18T12:44:44.863000"
+    },
+    {
+      "title": "New Agent UI: ReferenceCopy support",
+      "slug": "new-agent-ui-referencecopy-support",
+      "url": "https://community.efecte.com/t/p8ytnwa/new-agent-ui-referencecopy-support",
+      "published": "2024-09-18T10:26:17.647Z",
+      "updated": "2024-09-18T12:26:17.647000"
+    },
+    {
+      "title": "New EPE Connector Microsoft Graph API",
+      "slug": "new-epe-connector-microsoft-graph-api",
+      "url": "https://community.efecte.com/t/p8y3vjn/new-epe-connector-microsoft-graph-api",
+      "published": "2024-01-23T06:12:23.423Z",
+      "updated": "2024-11-14T06:43:35.210000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

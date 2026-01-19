@@ -1,0 +1,204 @@
+{
+  "category": "Discussions",
+  "url": "https://community.efecte.com/category/discussions",
+  "updated": "2026-01-19T15:59:34.159705",
+  "article_count": 28,
+  "articles": [
+    {
+      "title": "Forum Rules",
+      "slug": "forum-rules",
+      "url": "https://community.efecte.com/t/q5djfx/forum-rules",
+      "published": "2018-12-20T07:46:06.800Z",
+      "updated": "2019-03-06T12:19:13.603000"
+    },
+    {
+      "title": "Snippet collection / documentation",
+      "slug": "snippet-collection-documentation",
+      "url": "https://community.efecte.com/t/35y1xvc/snippet-collection-documentation",
+      "published": "2025-08-21T11:22:50.870Z",
+      "updated": "2025-08-21T13:22:50.870000"
+    },
+    {
+      "title": "Mail to Team via Workflow",
+      "slug": "mail-to-team-via-workflow",
+      "url": "https://community.efecte.com/t/y4yk4yg/mail-to-team-via-workflow",
+      "published": "2025-07-31T07:14:50.933Z",
+      "updated": "2025-07-31T09:14:50.933000"
+    },
+    {
+      "title": "grammar correction for emails before sending to clients",
+      "slug": "grammar-correction-for-emails-before-sending-to-clients",
+      "url": "https://community.efecte.com/t/h7ykbyz/grammar-correction-for-emails-before-sending-to-clients",
+      "published": "2025-07-02T12:30:16.740Z",
+      "updated": "2025-07-02T14:30:16.740000"
+    },
+    {
+      "title": "Software Asset Management",
+      "slug": "software-asset-management",
+      "url": "https://community.efecte.com/t/60ykrtv/software-asset-management",
+      "published": "2025-06-26T06:46:07.630Z",
+      "updated": "2025-06-26T08:46:07.630000"
+    },
+    {
+      "title": "Sign up now for our Agent UI feedback group",
+      "slug": "sign-up-now-for-our-agent-ui-feedback-group",
+      "url": "https://community.efecte.com/t/60ykm6h/sign-up-now-for-our-agent-ui-feedback-group",
+      "published": "2025-05-23T10:07:50.140Z",
+      "updated": "2025-06-10T09:45:27.520000"
+    },
+    {
+      "title": "Model Completion Protocol (MCP) server",
+      "slug": "model-completion-protocol-mcp-server",
+      "url": "https://community.efecte.com/t/83yfa8b/model-completion-protocol-mcp-server",
+      "published": "2025-04-22T07:31:12.320Z",
+      "updated": "2025-04-22T09:31:12.320000"
+    },
+    {
+      "title": "Mapping dropdown selection in ESS to ESM",
+      "slug": "mapping-dropdown-selection-in-ess-to-esm",
+      "url": "https://community.efecte.com/t/m1ylazg/mapping-dropdown-selection-in-ess-to-esm",
+      "published": "2025-02-17T07:27:20.053Z",
+      "updated": "2025-02-17T08:27:20.053000"
+    },
+    {
+      "title": "Replying to a e-mail on a ticket",
+      "slug": "replying-to-a-e-mail-on-a-ticket",
+      "url": "https://community.efecte.com/t/y4yl5jm/replying-to-a-e-mail-on-a-ticket",
+      "published": "2025-01-27T19:42:04.740Z",
+      "updated": "2025-01-27T20:42:04.740000"
+    },
+    {
+      "title": "How to Create PDFs?",
+      "slug": "how-to-create-pdfs",
+      "url": "https://community.efecte.com/t/p8yly7w/how-to-create-pdfs",
+      "published": "2024-12-16T13:57:38.877Z",
+      "updated": "2024-12-16T16:31:14.533000"
+    },
+    {
+      "title": "REST API with references",
+      "slug": "rest-api-with-references",
+      "url": "https://community.efecte.com/t/m1yzws1/rest-api-with-references",
+      "published": "2024-11-20T11:36:56.363Z",
+      "updated": "2024-11-20T12:36:56.363000"
+    },
+    {
+      "title": "ESS date field format hint should reflect language",
+      "slug": "ess-date-field-format-hint-should-reflect-language",
+      "url": "https://community.efecte.com/t/m1yz6qz/ess-date-field-format-hint-should-reflect-language",
+      "published": "2024-10-18T13:38:52.860Z",
+      "updated": "2024-10-18T15:38:52.860000"
+    },
+    {
+      "title": "Data card listeners",
+      "slug": "data-card-listeners",
+      "url": "https://community.efecte.com/t/q6yt0vp/data-card-listeners",
+      "published": "2024-09-26T08:25:03.373Z",
+      "updated": "2024-09-26T10:25:03.373000"
+    },
+    {
+      "title": "Reading Embedded Template",
+      "slug": "reading-embedded-template",
+      "url": "https://community.efecte.com/t/h7yt09b/reading-embedded-template",
+      "published": "2024-09-26T06:18:03.177Z",
+      "updated": "2024-09-26T08:18:03.177000"
+    },
+    {
+      "title": "Resolution time",
+      "slug": "resolution-time",
+      "url": "https://community.efecte.com/t/g9ytnvc/resolution-time",
+      "published": "2024-09-18T20:42:07.123Z",
+      "updated": "2024-09-18T22:42:07.123000"
+    },
+    {
+      "title": "Team members",
+      "slug": "team-members",
+      "url": "https://community.efecte.com/t/p8yt2v4/team-members",
+      "published": "2024-09-09T06:55:03.097Z",
+      "updated": "2024-09-09T08:55:03.097000"
+    },
+    {
+      "title": "ESS2: Conditional Overwrite Possibility",
+      "slug": "ess2-conditional-overwrite-possibility",
+      "url": "https://community.efecte.com/t/q6ytrd9/ess2-conditional-overwrite-possibility",
+      "published": "2024-09-04T14:28:21.437Z",
+      "updated": "2024-09-04T16:28:21.437000"
+    },
+    {
+      "title": "Calendar share",
+      "slug": "calendar-share",
+      "url": "https://community.efecte.com/t/y4yttkt/calendar-share",
+      "published": "2024-08-09T09:17:05.930Z",
+      "updated": "2024-08-09T11:17:05.930000"
+    },
+    {
+      "title": "Attribute and classes",
+      "slug": "attribute-and-classes",
+      "url": "https://community.efecte.com/t/60ym0z0/attribute-and-classes",
+      "published": "2024-07-03T09:19:43.530Z",
+      "updated": "2024-07-03T11:19:43.530000"
+    },
+    {
+      "title": "Comments regarding the New Agent UI",
+      "slug": "comments-regarding-the-new-agent-ui",
+      "url": "https://community.efecte.com/t/y4y6cgw/comments-regarding-the-new-agent-ui",
+      "published": "2024-05-10T07:58:50.333Z",
+      "updated": "2024-05-10T09:58:50.333000"
+    },
+    {
+      "title": "ValueChange -model visibility to normal user",
+      "slug": "valuechange-model-visibility-to-normal-user",
+      "url": "https://community.efecte.com/t/x2y8h1f/valuechange-model-visibility-to-normal-user",
+      "published": "2024-02-29T07:35:07.457Z",
+      "updated": "2024-02-29T08:35:07.457000"
+    },
+    {
+      "title": "Subject display for service requests",
+      "slug": "subject-display-for-service-requests",
+      "url": "https://community.efecte.com/t/83yxyfw/subject-display-for-service-requests",
+      "published": "2024-01-25T14:28:31.720Z",
+      "updated": "2024-01-25T15:28:31.720000"
+    },
+    {
+      "title": "View of changes in the self-service portal",
+      "slug": "view-of-changes-in-the-self-service-portal",
+      "url": "https://community.efecte.com/t/h7yxyfr/view-of-changes-in-the-self-service-portal",
+      "published": "2024-01-25T14:24:43.030Z",
+      "updated": "2024-01-25T15:24:43.030000"
+    },
+    {
+      "title": "How can the service catalog be published via efecte?",
+      "slug": "how-can-the-service-catalog-be-published-via-efecte",
+      "url": "https://community.efecte.com/t/35yxy6x/how-can-the-service-catalog-be-published-via-efecte",
+      "published": "2024-01-25T07:42:31.440Z",
+      "updated": "2024-01-25T08:42:31.440000"
+    },
+    {
+      "title": "ESS2 reference fields",
+      "slug": "ess2-reference-fields",
+      "url": "https://community.efecte.com/t/q6y307j/ess2-reference-fields",
+      "published": "2024-01-17T06:53:54.170Z",
+      "updated": "2024-01-17T07:53:54.170000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

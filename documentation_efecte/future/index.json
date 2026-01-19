@@ -1,0 +1,92 @@
+{
+  "category": "Future",
+  "url": "https://community.efecte.com/category/future",
+  "updated": "2026-01-19T16:12:09.142616",
+  "article_count": 12,
+  "articles": [
+    {
+      "title": "EPE provisioning Statistics view for Admin Users",
+      "slug": "epe-provisioning-statistics-view-for-admin-users",
+      "url": "https://community.efecte.com/t/83yt23b/epe-provisioning-statistics-view-for-admin-users",
+      "published": "2024-09-05T06:15:12.343Z",
+      "updated": "2024-09-05T08:15:12.343000"
+    },
+    {
+      "title": "ESA Login Statistics view for Admin Users",
+      "slug": "esa-login-statistics-view-for-admin-users",
+      "url": "https://community.efecte.com/t/60yt235/esa-login-statistics-view-for-admin-users",
+      "published": "2024-09-05T06:11:37.690Z",
+      "updated": "2024-09-05T08:11:37.690000"
+    },
+    {
+      "title": "ESM / Effie AI Email: allowing specific attributes",
+      "slug": "esm-effie-ai-email-allowing-specific-attributes",
+      "url": "https://community.efecte.com/t/x2ymqx2/esm-effie-ai-email-allowing-specific-attributes",
+      "published": "2024-05-16T07:00:00.000Z",
+      "updated": "2024-09-11T11:21:07.717000"
+    },
+    {
+      "title": "Notify users in ESA environment that their current session is about to expire",
+      "slug": "notify-users-in-esa-environment-that-their-current-session-is-about-to-expire",
+      "url": "https://community.efecte.com/t/35yxbfs/notify-users-in-esa-environment-that-their-current-session-is-about-to-expire",
+      "published": "2024-02-14T06:51:48.167Z",
+      "updated": "2024-02-14T07:51:48.167000"
+    },
+    {
+      "title": "New EPE Connector: Amazon Web Service",
+      "slug": "new-epe-connector-amazon-web-service",
+      "url": "https://community.efecte.com/t/83yx3p2/new-epe-connector-amazon-web-service",
+      "published": "2024-01-26T06:14:31.327Z",
+      "updated": "2024-01-26T07:14:31.327000"
+    },
+    {
+      "title": "New EPE Connector: Microsoft Teams",
+      "slug": "new-epe-connector-microsoft-teams",
+      "url": "https://community.efecte.com/t/m1yx3p5/new-epe-connector-microsoft-teams",
+      "published": "2024-01-26T06:10:49.873Z",
+      "updated": "2024-01-26T07:10:49.873000"
+    },
+    {
+      "title": "New EPE Connector: SCIM",
+      "slug": "new-epe-connector-scim",
+      "url": "https://community.efecte.com/t/83yx3pl/new-epe-connector-scim",
+      "published": "2024-01-26T05:58:22.130Z",
+      "updated": "2024-01-26T06:58:22.130000"
+    },
+    {
+      "title": "ESA: Support for Oracle authentication",
+      "slug": "esa-support-for-oracle-authentication",
+      "url": "https://community.efecte.com/t/35hadzb/esa-support-for-oracle-authentication",
+      "published": "2023-03-07T06:36:19.290Z",
+      "updated": "2023-03-07T07:37:52.803000"
+    },
+    {
+      "title": "ESA: Support for AWS authentication",
+      "slug": "esa-support-for-aws-authentication",
+      "url": "https://community.efecte.com/t/p8har3c/esa-support-for-aws-authentication",
+      "published": "2023-03-02T08:30:43.590Z",
+      "updated": "2023-03-02T09:30:43.590000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

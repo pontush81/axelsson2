@@ -1,0 +1,78 @@
+{
+  "category": "Efecte 2021.2 Overview and Features",
+  "url": "https://community.efecte.com/category/efecte-20212",
+  "updated": "2026-01-19T16:36:26.527642",
+  "article_count": 10,
+  "articles": [
+    {
+      "title": "Preliminary Maintenance Information for 2021.2",
+      "slug": "preliminary-maintenance-information-for-2021-2",
+      "url": "https://community.efecte.com/t/g9hf1sa/preliminary-maintenance-information-for-2021-2",
+      "published": "2021-05-07T05:32:52.207Z",
+      "updated": "2021-05-24T12:12:40.907000"
+    },
+    {
+      "title": "Key Features from Efecte 2021.2",
+      "slug": "key-features-from-efecte-2021-2",
+      "url": "https://community.efecte.com/t/60hf7f9/key-features-from-efecte-2021-2",
+      "published": "2021-05-24T10:11:21.503Z",
+      "updated": "2021-05-24T12:11:36.900000"
+    },
+    {
+      "title": "ESS: Hide user input",
+      "slug": "ess-hide-user-input",
+      "url": "https://community.efecte.com/t/m1hfflc/ess-hide-user-input",
+      "published": "2021-05-04T06:25:55.107Z",
+      "updated": "2021-05-04T08:25:55.107000"
+    },
+    {
+      "title": "Enhanced event-based provisioning task configuration",
+      "slug": "enhanced-event-based-provisioning-task-configuration",
+      "url": "https://community.efecte.com/t/m1hld2y/enhanced-event-based-provisioning-task-configuration",
+      "published": "2021-03-31T09:18:04.967Z",
+      "updated": "2021-03-31T11:18:04.967000"
+    },
+    {
+      "title": "EPE: Group lifecycle management for AD & AAD (Verify, Create, Update, Delete)",
+      "slug": "epe-group-lifecycle-management-for-ad-aad-verify-create-update-delete",
+      "url": "https://community.efecte.com/t/60hlrdk/epe-group-lifecycle-management-for-ad-aad-verify-create-update-delete",
+      "published": "2021-03-26T08:54:05.390Z",
+      "updated": "2021-03-26T09:54:05.390000"
+    },
+    {
+      "title": "ESM: Detail View UI Refresh - Normal Layout - Edit Mode",
+      "slug": "esm-detail-view-ui-refresh-normal-layout-edit-mode",
+      "url": "https://community.efecte.com/t/p8h331x/esm-detail-view-ui-refresh-normal-layout-edit-mode",
+      "published": "2020-05-13T06:21:54.253Z",
+      "updated": "2020-08-07T06:57:53.773000"
+    },
+    {
+      "title": "EIM: Extending agent schema",
+      "slug": "eim-extending-agent-schema",
+      "url": "https://community.efecte.com/t/g9hz37y/eim-extending-agent-schema",
+      "published": "2021-01-27T08:38:20.207Z",
+      "updated": "2021-01-27T09:38:20.207000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

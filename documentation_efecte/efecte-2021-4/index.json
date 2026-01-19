@@ -1,0 +1,78 @@
+{
+  "category": "Efecte 2021.4 Overview and Features",
+  "url": "https://community.efecte.com/category/efecte-2021-4",
+  "updated": "2026-01-19T16:32:47.490998",
+  "article_count": 10,
+  "articles": [
+    {
+      "title": "Key Features of Efecte 2021.4",
+      "slug": "key-features-of-efecte-2021-4",
+      "url": "https://community.efecte.com/t/x2hjvtk/key-features-of-efecte-2021-4",
+      "published": "2022-01-10T13:58:17.527Z",
+      "updated": "2022-01-10T14:58:17.527000"
+    },
+    {
+      "title": "ESM: REST API",
+      "slug": "esm-rest-api",
+      "url": "https://community.efecte.com/t/g9hf1a5/esm-rest-api",
+      "published": "2021-05-07T14:39:07.993Z",
+      "updated": "2021-05-07T16:46:18.613000"
+    },
+    {
+      "title": "ViCo: Automatic Second Level Categorisation (AI)",
+      "slug": "vico-automatic-second-level-categorisation-ai",
+      "url": "https://community.efecte.com/t/m1htblm/vico-automatic-second-level-categorisation-ai",
+      "published": "2021-01-08T12:51:00.000Z",
+      "updated": "2021-11-11T10:17:10.247000"
+    },
+    {
+      "title": "EIM: Possibility to add custom claims for userinfo endpoint and to the ID token",
+      "slug": "eim-possibility-to-add-custom-claims-for-userinfo-endpoint-and-to-the-id-token",
+      "url": "https://community.efecte.com/t/x2hpv8s/eim-possibility-to-add-custom-claims-for-userinfo-endpoint-and-to-the-id-token",
+      "published": "2021-10-05T10:11:42.050Z",
+      "updated": "2021-10-05T12:11:42.050000"
+    },
+    {
+      "title": "EIM: Provisioning processes statistics",
+      "slug": "eim-provisioning-processes-statistics",
+      "url": "https://community.efecte.com/t/m1hpv8g/eim-provisioning-processes-statistics",
+      "published": "2021-10-05T10:00:49.157Z",
+      "updated": "2021-10-05T12:00:49.157000"
+    },
+    {
+      "title": "EIM: Possibility to check assignment and task types from agent groups",
+      "slug": "eim-possibility-to-check-assignment-and-task-types-from-agent-groups",
+      "url": "https://community.efecte.com/t/g9hpv81/eim-possibility-to-check-assignment-and-task-types-from-agent-groups",
+      "published": "2021-10-05T09:45:41.723Z",
+      "updated": "2021-10-05T11:45:41.723000"
+    },
+    {
+      "title": "Efecte Provisioining Engine support event-based provisioning to IBM LDAP",
+      "slug": "efecte-provisioining-engine-support-event-based-provisioning-to-ibm-ldap",
+      "url": "https://community.efecte.com/t/g9hpksh/efecte-provisioining-engine-support-event-based-provisioning-to-ibm-ldap",
+      "published": "2021-09-13T08:11:19.437Z",
+      "updated": "2021-09-13T10:11:19.437000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

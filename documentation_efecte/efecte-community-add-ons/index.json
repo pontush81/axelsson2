@@ -1,0 +1,92 @@
+{
+  "category": "Efecte Community Add-ons",
+  "url": "https://community.efecte.com/category/efecte-community-add-ons",
+  "updated": "2026-01-19T16:49:53.329596",
+  "article_count": 12,
+  "articles": [
+    {
+      "title": "Recurring ticket feature",
+      "slug": "recurring-ticket-feature",
+      "url": "https://community.efecte.com/t/p8hgxtj/recurring-ticket-feature",
+      "published": "2021-10-12T05:32:42.583Z",
+      "updated": "2021-10-12T07:32:42.583000"
+    },
+    {
+      "title": "Service quality status + Support group members management via AD group members",
+      "slug": "service-quality-status-support-group-members-management-via-ad-group-members",
+      "url": "https://community.efecte.com/t/q6hkmk7/service-quality-status-support-group-members-management-via-ad-group-members",
+      "published": "2021-06-17T05:47:00.000Z",
+      "updated": "2021-12-13T12:40:39.070000"
+    },
+    {
+      "title": "External linking examples",
+      "slug": "external-linking-examples",
+      "url": "https://community.efecte.com/t/h7hk8g7/external-linking-examples",
+      "published": "2021-06-14T14:32:54.840Z",
+      "updated": "2021-06-14T16:32:54.840000"
+    },
+    {
+      "title": "Visitor management",
+      "slug": "visitor-management",
+      "url": "https://community.efecte.com/t/g9hlb6r/visitor-management",
+      "published": "2021-03-29T08:09:58.110Z",
+      "updated": "2021-03-29T10:09:58.110000"
+    },
+    {
+      "title": "Certificate management",
+      "slug": "certificate-management",
+      "url": "https://community.efecte.com/t/h7hlg0p/certificate-management",
+      "published": "2021-03-28T12:37:00.000Z",
+      "updated": "2021-03-29T10:11:55.167000"
+    },
+    {
+      "title": "Activity / reporting for multi ticket templates",
+      "slug": "activity-reporting-for-multi-ticket-templates",
+      "url": "https://community.efecte.com/t/x2ht32a/activity-reporting-for-multi-ticket-templates",
+      "published": "2020-12-14T17:33:41.010Z",
+      "updated": "2020-12-14T18:33:41.010000"
+    },
+    {
+      "title": "Notice lists and a Communication ticket",
+      "slug": "notice-lists-and-a-communication-ticket",
+      "url": "https://community.efecte.com/t/p8ht3kn/notice-lists-and-a-communication-ticket",
+      "published": "2020-12-14T11:38:00.000Z",
+      "updated": "2020-12-16T10:33:17.003000"
+    },
+    {
+      "title": "Absence setting for person with ESS deputy sync",
+      "slug": "absence-setting-for-person-with-ess-deputy-sync",
+      "url": "https://community.efecte.com/t/p8h6f0v/absence-setting-for-person-with-ess-deputy-sync",
+      "published": "2020-09-28T12:54:27.453Z",
+      "updated": "2023-06-15T12:40:20.063000"
+    },
+    {
+      "title": "Mass notification of open tickets",
+      "slug": "mass-notification-of-open-tickets",
+      "url": "https://community.efecte.com/t/35h6f0l/mass-notification-of-open-tickets",
+      "published": "2020-09-28T12:06:37.330Z",
+      "updated": "2020-09-28T19:02:38.710000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

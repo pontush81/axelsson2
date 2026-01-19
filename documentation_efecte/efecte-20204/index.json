@@ -1,0 +1,99 @@
+{
+  "category": "Efecte 2020.4 Overview and Features",
+  "url": "https://community.efecte.com/category/efecte-20204",
+  "updated": "2026-01-19T16:41:03.826666",
+  "article_count": 13,
+  "articles": [
+    {
+      "title": "Key Features from Efecte 2020.4",
+      "slug": "key-features-from-efecte-2020-4",
+      "url": "https://community.efecte.com/t/x2hm727/key-features-from-efecte-2020-4",
+      "published": "2020-12-01T07:09:45.137Z",
+      "updated": "2020-12-01T08:11:18.170000"
+    },
+    {
+      "title": "ESM: AI-Powered Similar Issue Suggestions",
+      "slug": "esm-ai-powered-similar-issue-suggestions",
+      "url": "https://community.efecte.com/t/60h6gxg/esm-ai-powered-similar-issue-suggestions",
+      "published": "2020-10-02T07:21:22.933Z",
+      "updated": "2020-11-10T12:47:37.607000"
+    },
+    {
+      "title": "ESM: Multi-Language Support for Static Values of String Attributes",
+      "slug": "esm-multi-language-support-for-static-values-of-string-attributes",
+      "url": "https://community.efecte.com/t/m1hm8t9/esm-multi-language-support-for-static-values-of-string-attributes",
+      "published": "2020-11-02T11:18:23.717Z",
+      "updated": "2020-11-02T12:18:23.717000"
+    },
+    {
+      "title": "ESM: Detail View UI Refresh - Normal Layout - View Mode",
+      "slug": "esm-detail-view-ui-refresh-normal-layout-view-mode",
+      "url": "https://community.efecte.com/t/y4hqjfj/esm-detail-view-ui-refresh-normal-layout-view-mode",
+      "published": "2020-02-04T09:11:19.607Z",
+      "updated": "2020-08-07T06:58:16.690000"
+    },
+    {
+      "title": "ESS: Guest Access",
+      "slug": "ess-guest-access",
+      "url": "https://community.efecte.com/t/83h68az/ess-guest-access",
+      "published": "2020-09-18T11:51:52.637Z",
+      "updated": "2020-09-21T08:10:28.620000"
+    },
+    {
+      "title": "ESM: Translation of button texts in the Template Localization tab",
+      "slug": "esm-translation-of-button-texts-in-the-template-localization-tab",
+      "url": "https://community.efecte.com/t/x2h82lv/esm-translation-of-button-texts-in-the-template-localization-tab",
+      "published": "2020-08-21T08:48:46.773Z",
+      "updated": "2020-08-21T10:48:46.773000"
+    },
+    {
+      "title": "ESS: Quantity Selection for Service Item",
+      "slug": "ess-quantity-selection-for-service-item",
+      "url": "https://community.efecte.com/t/x2h8njs/ess-quantity-selection-for-service-item",
+      "published": "2020-08-27T05:35:40.480Z",
+      "updated": "2020-08-27T07:37:43.697000"
+    },
+    {
+      "title": "EIM: Support for  PostgreSQL 13",
+      "slug": "eim-support-for-postgresql-13",
+      "url": "https://community.efecte.com/t/60hq4p7/eim-support-for-postgresql-13",
+      "published": "2020-02-19T11:37:22.110Z",
+      "updated": "2020-10-08T13:08:50.363000"
+    },
+    {
+      "title": "ESM: Multiple Language Configuration for List and Detail Datacard View",
+      "slug": "esm-multiple-language-configuration-for-list-and-detail-datacard-view",
+      "url": "https://community.efecte.com/t/q6hqjfr/esm-multiple-language-configuration-for-list-and-detail-datacard-view",
+      "published": "2020-02-04T09:12:44.797Z",
+      "updated": "2020-08-07T06:57:28.530000"
+    },
+    {
+      "title": "ESM: Localization Support for Attributes",
+      "slug": "esm-localization-support-for-attributes",
+      "url": "https://community.efecte.com/t/p8hqjfb/esm-localization-support-for-attributes",
+      "published": "2020-02-04T09:34:50.910Z",
+      "updated": "2020-08-07T06:57:08.673000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

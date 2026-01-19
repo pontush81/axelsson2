@@ -1,0 +1,64 @@
+{
+  "category": "Efecte 2023.2",
+  "url": "https://community.efecte.com/category/2023-2",
+  "updated": "2026-01-19T16:23:31.850874",
+  "article_count": 8,
+  "articles": [
+    {
+      "title": "ESM: New beta UI with new list view and datacard view",
+      "slug": "esm-new-beta-ui-with-new-list-view-and-datacard-view",
+      "url": "https://community.efecte.com/t/p8hamxh/esm-new-beta-ui-with-new-list-view-and-datacard-view",
+      "published": "2023-02-14T14:20:59.633Z",
+      "updated": "2023-04-21T14:11:11.377000"
+    },
+    {
+      "title": "EPE: support for Efecte ESM connector",
+      "slug": "epe-support-for-efecte-esm-connector",
+      "url": "https://community.efecte.com/t/y4hc624/epe-support-for-efecte-esm-connector",
+      "published": "2023-04-04T05:44:38.207Z",
+      "updated": "2023-04-14T08:16:28.210000"
+    },
+    {
+      "title": "ESA: Support for auditing Admin events",
+      "slug": "esa-support-for-auditing-admin-events",
+      "url": "https://community.efecte.com/t/p8hck9z/esa-support-for-auditing-admin-events",
+      "published": "2023-04-14T06:12:14.050Z",
+      "updated": "2023-04-14T08:12:14.050000"
+    },
+    {
+      "title": "EPE: Filter Target folder by target template",
+      "slug": "epe-filter-target-folder-by-target-template",
+      "url": "https://community.efecte.com/t/q6har35/epe-filter-target-folder-by-target-template",
+      "published": "2023-03-02T06:37:10.140Z",
+      "updated": "2023-03-02T07:37:10.140000"
+    },
+    {
+      "title": "EPE: Event-based provisionings displayed green if in use",
+      "slug": "epe-event-based-provisionings-displayed-green-if-in-use",
+      "url": "https://community.efecte.com/t/m1harya/epe-event-based-provisionings-displayed-green-if-in-use",
+      "published": "2023-03-02T06:18:08.670Z",
+      "updated": "2023-03-02T07:18:08.670000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

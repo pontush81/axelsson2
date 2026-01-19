@@ -1,0 +1,50 @@
+{
+  "category": "Admin videos",
+  "url": "https://community.efecte.com/category/admin-videos",
+  "updated": "2026-01-19T16:57:02.301574",
+  "article_count": 6,
+  "articles": [
+    {
+      "title": "New Efecte Self-Service (ESS2) videos",
+      "slug": "new-efecte-self-service-ess2-videos",
+      "url": "https://community.efecte.com/t/g9ytpq9/new-efecte-self-service-ess2-videos",
+      "published": "2024-08-23T10:28:00.000Z",
+      "updated": "2024-08-23T12:50:13.520000"
+    },
+    {
+      "title": "Administering Self-Service Portal video",
+      "slug": "administering-self-service-portal-video",
+      "url": "https://community.efecte.com/t/m1hvds4/administering-self-service-portal-video",
+      "published": "2023-08-16T09:45:04.307Z",
+      "updated": "2025-11-19T09:20:17.920000"
+    },
+    {
+      "title": "Administering Efecte Service Management Tool videos",
+      "slug": "administering-efecte-service-management-tool-videos",
+      "url": "https://community.efecte.com/t/60hm4sf/administering-efecte-service-management-tool-videos",
+      "published": "2020-12-07T10:47:47.173Z",
+      "updated": "2025-11-19T08:41:05.293000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

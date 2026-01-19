@@ -1,0 +1,57 @@
+{
+  "category": "2026.1",
+  "url": "https://community.efecte.com/category/2026-1",
+  "updated": "2026-01-19T16:11:25.077071",
+  "article_count": 7,
+  "articles": [
+    {
+      "title": "Agent UI: IPAddress handler support",
+      "slug": "agent-ui-ipaddress-handler-support",
+      "url": "https://community.efecte.com/t/q6ypkzd/agent-ui-ipaddress-handler-support",
+      "published": "2026-01-08T15:03:22.807Z",
+      "updated": "2026-01-08T16:03:22.807000"
+    },
+    {
+      "title": "Pro ESM: Localization of AI configurations",
+      "slug": "pro-esm-localization-of-ai-configurations",
+      "url": "https://community.efecte.com/t/q6ypkzk/pro-esm-localization-of-ai-configurations",
+      "published": "2026-01-08T14:44:12.110Z",
+      "updated": "2026-01-08T15:44:12.110000"
+    },
+    {
+      "title": "Agent UI: Quick Actions",
+      "slug": "agent-ui-quick-actions",
+      "url": "https://community.efecte.com/t/35y1llc/agent-ui-quick-actions",
+      "published": "2025-09-08T06:10:06.247Z",
+      "updated": "2025-09-08T08:10:06.247000"
+    },
+    {
+      "title": "Agent UI: Adjusting dashboard layout",
+      "slug": "agent-ui-adjusting-dashboard-layout",
+      "url": "https://community.efecte.com/t/m1y1zcw/agent-ui-adjusting-dashboard-layout",
+      "published": "2025-09-05T17:50:43.743Z",
+      "updated": "2025-09-05T19:50:43.743000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

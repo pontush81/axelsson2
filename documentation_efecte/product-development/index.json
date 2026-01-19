@@ -1,0 +1,204 @@
+{
+  "category": "Ideas for Product Development",
+  "url": "https://community.efecte.com/category/product-development",
+  "updated": "2026-01-19T16:02:55.876255",
+  "article_count": 28,
+  "articles": [
+    {
+      "title": "How to discuss a new idea",
+      "slug": "how-to-discuss-a-new-idea",
+      "url": "https://community.efecte.com/t/80d22k/how-to-discuss-a-new-idea",
+      "published": "2018-12-26T17:16:00.000Z",
+      "updated": "2022-11-29T09:49:27.423000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq/suggestions-to-improve-e-mail-functionality-in-esm",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l/improvements-for-datacard-historychange-record-feature",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    },
+    {
+      "title": "Limiting Excel export to only spesific models & data",
+      "slug": "limiting-excel-export-to-only-spesific-models-data",
+      "url": "https://community.efecte.com/t/83ypf61/limiting-excel-export-to-only-spesific-models-data",
+      "published": "2026-01-05T07:15:32.507Z",
+      "updated": "2026-01-05T08:29:13.710000"
+    },
+    {
+      "title": "Offer a \"StateTransition\" handler (in conjunction with HiddenState)",
+      "slug": "offer-a-statetransition-handler-in-conjunction-with-hiddenstate",
+      "url": "https://community.efecte.com/t/m1yp1xm/offer-a-statetransition-handler-in-conjunction-with-hiddenstate",
+      "published": "2026-01-12T11:59:14.053Z",
+      "updated": "2026-01-12T12:59:14.053000"
+    },
+    {
+      "title": "Filters for dropdowns in ESS2",
+      "slug": "filters-for-dropdowns-in-ess2",
+      "url": "https://community.efecte.com/t/h7yplb0/filters-for-dropdowns-in-ess2",
+      "published": "2026-01-02T10:37:05.957Z",
+      "updated": "2026-01-02T11:37:51.097000"
+    },
+    {
+      "title": "Enable Drag-and-Drop Functionality for Attached Files in data card",
+      "slug": "enable-drag-and-drop-functionality-for-attached-files-in-data-card",
+      "url": "https://community.efecte.com/t/x2ykjq8/enable-drag-and-drop-functionality-for-attached-files-in-data-card",
+      "published": "2025-06-19T06:17:34.760Z",
+      "updated": "2025-06-19T08:17:34.760000"
+    },
+    {
+      "title": "Text attribute height should be static (and user definable)",
+      "slug": "text-attribute-height-should-be-static-and-user-definable",
+      "url": "https://community.efecte.com/t/m2db2s/text-attribute-height-should-be-static-and-user-definable",
+      "published": "2018-12-28T11:16:31.500Z",
+      "updated": "2018-12-28T12:16:31.500000"
+    },
+    {
+      "title": "Date in attached file i AgentUI",
+      "slug": "date-in-attached-file-i-agentui",
+      "url": "https://community.efecte.com/t/83yp6g3/date-in-attached-file-i-agentui",
+      "published": "2025-12-12T09:49:07.133Z",
+      "updated": "2025-12-12T10:49:07.133000"
+    },
+    {
+      "title": "ESM: CP-4976: New user level Admin and administrative permissions in service management tool",
+      "slug": "esm-cp-4976-new-user-level-admin-and-administrative-permissions-in-service-management-tool",
+      "url": "https://community.efecte.com/t/y7nfh3/esm-cp-4976-new-user-level-admin-and-administrative-permissions-in-service-management-tool",
+      "published": "2019-02-28T08:42:00.000Z",
+      "updated": "2021-11-11T10:24:07.527000"
+    },
+    {
+      "title": "ESS2 approvals view: new and past requests",
+      "slug": "ess2-approvals-view-new-and-past-requests",
+      "url": "https://community.efecte.com/t/83yp3mf/ess2-approvals-view-new-and-past-requests",
+      "published": "2025-12-02T14:19:30.927Z",
+      "updated": "2025-12-02T15:19:30.927000"
+    },
+    {
+      "title": "MyServices Filtering with an Attribute from Service Management Tool",
+      "slug": "myservices-filtering-with-an-attribute-from-service-management-tool",
+      "url": "https://community.efecte.com/t/36w55p/myservices-filtering-with-an-attribute-from-service-management-tool",
+      "published": "2019-01-31T10:26:19.200Z",
+      "updated": "2019-02-01T09:35:25.323000"
+    },
+    {
+      "title": "Possibility to edit worklog comments",
+      "slug": "possibility-to-edit-worklog-comments",
+      "url": "https://community.efecte.com/t/g9hcxhw/possibility-to-edit-worklog-comments",
+      "published": "2023-03-30T13:28:13.760Z",
+      "updated": "2023-03-30T15:28:13.760000"
+    },
+    {
+      "title": "Admin rights elevation",
+      "slug": "admin-rights-elevation",
+      "url": "https://community.efecte.com/t/35y1spy/admin-rights-elevation",
+      "published": "2025-10-28T11:39:42.307Z",
+      "updated": "2025-10-28T12:39:42.307000"
+    },
+    {
+      "title": "Overriding defaults option for Catalog Forms",
+      "slug": "overriding-defaults-option-for-catalog-forms",
+      "url": "https://community.efecte.com/t/p8y1a73/overriding-defaults-option-for-catalog-forms",
+      "published": "2025-11-04T13:59:15.923Z",
+      "updated": "2025-11-17T08:41:20.790000"
+    },
+    {
+      "title": "Team Cases in ESS2",
+      "slug": "team-cases-in-ess2",
+      "url": "https://community.efecte.com/t/x2y1wk9/team-cases-in-ess2",
+      "published": "2025-10-17T08:17:31.840Z",
+      "updated": "2025-10-17T10:17:31.840000"
+    },
+    {
+      "title": "Conditional formatting",
+      "slug": "conditional-formatting",
+      "url": "https://community.efecte.com/t/y4y1xva/conditional-formatting",
+      "published": "2025-08-21T11:10:48.797Z",
+      "updated": "2025-08-21T13:10:48.797000"
+    },
+    {
+      "title": "ESS2: Approval delegation",
+      "slug": "ess2-approval-delegation",
+      "url": "https://community.efecte.com/t/35y1x97/ess2-approval-delegation",
+      "published": "2025-08-21T07:23:57.593Z",
+      "updated": "2025-08-21T09:23:57.593000"
+    },
+    {
+      "title": "ESS2: My cases and additional information from the ticket",
+      "slug": "ess2-my-cases-and-additional-information-from-the-ticket",
+      "url": "https://community.efecte.com/t/q6ykgnz/ess2-my-cases-and-additional-information-from-the-ticket",
+      "published": "2025-06-18T11:52:19.730Z",
+      "updated": "2025-06-18T13:52:19.730000"
+    },
+    {
+      "title": "Disable approval multiple selection in Self Service Portal",
+      "slug": "disable-approval-multiple-selection-in-self-service-portal",
+      "url": "https://community.efecte.com/t/y4y1w0s/disable-approval-multiple-selection-in-self-service-portal",
+      "published": "2025-10-20T07:35:21.617Z",
+      "updated": "2025-10-20T09:35:21.617000"
+    },
+    {
+      "title": "How to exclude views from Search -user interface edit.",
+      "slug": "how-to-exclude-views-from-search-user-interface-edit",
+      "url": "https://community.efecte.com/t/g9y1lk9/how-to-exclude-views-from-search-user-interface-edit",
+      "published": "2025-09-08T11:45:42.270Z",
+      "updated": "2025-09-08T13:45:42.270000"
+    },
+    {
+      "title": "Read Receipts for Comments Sent from Self Service",
+      "slug": "read-receipts-for-comments-sent-from-self-service",
+      "url": "https://community.efecte.com/t/y4y1rzd/read-receipts-for-comments-sent-from-self-service",
+      "published": "2025-10-02T06:56:37.170Z",
+      "updated": "2025-10-02T08:56:37.170000"
+    },
+    {
+      "title": "Error Message from EPE Task via E-Mail",
+      "slug": "error-message-from-epe-task-via-e-mail",
+      "url": "https://community.efecte.com/t/83y1tlw/error-message-from-epe-task-via-e-mail",
+      "published": "2025-09-01T11:32:47.957Z",
+      "updated": "2025-09-01T13:32:47.957000"
+    },
+    {
+      "title": "ESS2: Service Catalog - Shopping Cart",
+      "slug": "ess2-service-catalog-shopping-cart",
+      "url": "https://community.efecte.com/t/x2yfry0/ess2-service-catalog-shopping-cart",
+      "published": "2025-04-02T11:32:54.763Z",
+      "updated": "2025-04-02T13:32:54.763000"
+    },
+    {
+      "title": "EPE: User Import catch InValidAttributeValueException",
+      "slug": "epe-user-import-catch-invalidattributevalueexception",
+      "url": "https://community.efecte.com/t/60yk4yc/epe-user-import-catch-invalidattributevalueexception",
+      "published": "2025-07-31T08:17:14.307Z",
+      "updated": "2025-07-31T10:17:14.307000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

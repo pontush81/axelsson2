@@ -1,0 +1,78 @@
+{
+  "category": "End of Life Notices",
+  "url": "https://community.efecte.com/category/end-of-life",
+  "updated": "2026-01-19T16:50:58.578547",
+  "article_count": 10,
+  "articles": [
+    {
+      "title": "End of Life for Microsoft SQL Server 2016 with ESM On-prem in ESM 2025.2",
+      "slug": "end-of-life-for-microsoft-sql-server-2016-with-esm-on-prem-in-esm-2025-2",
+      "url": "https://community.efecte.com/t/p8yzzkg/end-of-life-for-microsoft-sql-server-2016-with-esm-on-prem-in-esm-2025-2",
+      "published": "2024-10-25T06:21:02.667Z",
+      "updated": "2024-10-25T08:21:02.667000"
+    },
+    {
+      "title": "EIM Weblogic application server and Oracle DB EOL",
+      "slug": "eim-weblogic-application-server-and-oracle-db-eol",
+      "url": "https://community.efecte.com/t/83h5kjj/eim-weblogic-application-server-and-oracle-db-eol",
+      "published": "2022-01-28T09:07:29.520Z",
+      "updated": "2022-01-28T10:07:29.520000"
+    },
+    {
+      "title": "EIM Database/Application Server End Of Life notices",
+      "slug": "eim-database-application-server-end-of-life-notices",
+      "url": "https://community.efecte.com/t/g9hpvmx/eim-databaseapplication-server-end-of-life-notices",
+      "published": "2021-10-05T11:58:07.267Z",
+      "updated": "2021-10-05T13:58:07.267000"
+    },
+    {
+      "title": "PostgreSQL version 9 - EOL 06/2021",
+      "slug": "postgresql-version-9-eol-06-2021",
+      "url": "https://community.efecte.com/t/m1hmqx8/postgresql-version-9-eol-062021",
+      "published": "2020-10-27T12:18:59.263Z",
+      "updated": "2020-10-27T13:18:59.263000"
+    },
+    {
+      "title": "Microsoft IE 11 support - EOL 09/2020",
+      "slug": "microsoft-ie-11-support-eol-09-2020",
+      "url": "https://community.efecte.com/t/m1hyvmy/microsoft-ie-11-support-eol-092020",
+      "published": "2020-05-08T12:49:49.470Z",
+      "updated": "2021-09-23T08:26:19.247000"
+    },
+    {
+      "title": "Microsoft IE 10 support - EOL 12/19",
+      "slug": "microsoft-ie-10-support-eol-12-19",
+      "url": "https://community.efecte.com/t/80awkx/microsoft-ie-10-support-eol-1219",
+      "published": "2019-08-02T07:57:32.110Z",
+      "updated": "2019-09-16T09:39:54.600000"
+    },
+    {
+      "title": "Efecte Inspector - EOL 01/2020",
+      "slug": "efecte-inspector-eol-01-2020",
+      "url": "https://community.efecte.com/t/k9wj07/efecte-inspector-eol-012020",
+      "published": "2019-01-30T18:16:58.037Z",
+      "updated": "2019-01-30T19:17:41.600000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "category": "Self-Service Portal 2022.2",
+  "url": "https://community.efecte.com/category/self-service-portal-20222",
+  "updated": "2026-01-19T16:29:46.434662",
+  "article_count": 9,
+  "articles": [
+    {
+      "title": "2022.2.0.2 ESS Admin Guide",
+      "slug": "2022-2-0-2-ess-admin-guide",
+      "url": "https://community.efecte.com/t/83hd4dw/2022-2-0-2-ess-admin-guide",
+      "published": "2022-06-14T08:38:24.407Z",
+      "updated": "2022-06-14T10:38:24.407000"
+    },
+    {
+      "title": "2022.2.0.2 Configuring Tips & Tricks",
+      "slug": "2022-2-0-2-configuring-tips-tricks",
+      "url": "https://community.efecte.com/t/x2hd4dd/2022-2-0-2-configuring-tips-tricks",
+      "published": "2022-06-14T08:37:48.020Z",
+      "updated": "2022-06-14T10:37:48.020000"
+    },
+    {
+      "title": "2022.2.0.2 ESM Connector",
+      "slug": "2022-2-0-2-esm-connector",
+      "url": "https://community.efecte.com/t/m1hd4db/2022-2-0-2-esm-connector",
+      "published": "2022-06-14T08:37:21.343Z",
+      "updated": "2022-06-14T10:37:21.343000"
+    },
+    {
+      "title": "2022.2.0.2 Configuring Feedback Management",
+      "slug": "2022-2-0-2-configuring-feedback-management",
+      "url": "https://community.efecte.com/t/60hd4d2/2022-2-0-2-configuring-feedback-management",
+      "published": "2022-06-14T08:36:55.673Z",
+      "updated": "2022-06-14T10:36:55.673000"
+    },
+    {
+      "title": "2022.2.0.2 Efecte Identity Connector",
+      "slug": "2022-2-0-2-efecte-identity-connector",
+      "url": "https://community.efecte.com/t/g9hd4dr/2022-2-0-2-efecte-identity-connector",
+      "published": "2022-06-14T08:36:15.430Z",
+      "updated": "2022-06-14T10:36:15.430000"
+    },
+    {
+      "title": "2022.0.2 Self-Service Portal Release Notes",
+      "slug": "2022-0-2-self-service-portal-release-notes",
+      "url": "https://community.efecte.com/t/q6hd6gs/2022-0-2-self-service-portal-release-notes",
+      "published": "2022-05-09T05:42:43.403Z",
+      "updated": "2022-06-14T10:39:00.800000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

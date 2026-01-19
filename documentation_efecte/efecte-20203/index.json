@@ -1,0 +1,106 @@
+{
+  "category": "Efecte 2020.3 Overview and Features",
+  "url": "https://community.efecte.com/category/efecte-20203",
+  "updated": "2026-01-19T16:43:14.550265",
+  "article_count": 14,
+  "articles": [
+    {
+      "title": "Key Features from Efecte 2020.3",
+      "slug": "key-features-from-efecte-2020-3",
+      "url": "https://community.efecte.com/t/60h6c18/key-features-from-efecte-2020-3",
+      "published": "2020-10-22T12:46:44.060Z",
+      "updated": "2020-11-10T12:48:05.170000"
+    },
+    {
+      "title": "EIM: Multiple features for better supporting DFN-AAI",
+      "slug": "eim-multiple-features-for-better-supporting-dfn-aai",
+      "url": "https://community.efecte.com/t/h7h6xjk/eim-multiple-features-for-better-supporting-dfn-aai",
+      "published": "2020-09-16T12:19:31.283Z",
+      "updated": "2020-09-16T14:21:55"
+    },
+    {
+      "title": "EPE: Delete user from AD / Azure AD with workflow orchestration node",
+      "slug": "epe-delete-user-from-ad-azure-ad-with-workflow-orchestration-node",
+      "url": "https://community.efecte.com/t/x2hx7cw/epe-delete-user-from-ad-azure-ad-with-workflow-orchestration-node",
+      "published": "2020-07-15T10:26:13.863Z",
+      "updated": "2020-08-07T06:58:49.267000"
+    },
+    {
+      "title": "EPE: Possibility to unlock user account by orchestration node",
+      "slug": "epe-possibility-to-unlock-user-account-by-orchestration-node",
+      "url": "https://community.efecte.com/t/k9sd7b/epe-possibility-to-unlock-user-account-by-orchestration-node",
+      "published": "2019-05-08T13:11:18.007Z",
+      "updated": "2020-08-07T06:55:23.423000"
+    },
+    {
+      "title": "EIM: CP-3548: EIM: visibility problem of permissions via agent group",
+      "slug": "eim-cp-3548-eim-visibility-problem-of-permissions-via-agent-group",
+      "url": "https://community.efecte.com/t/q6hq4g8/eim-cp-3548-eim-visibility-problem-of-permissions-via-agent-group",
+      "published": "2020-02-19T11:57:37.293Z",
+      "updated": "2020-08-07T06:54:56.647000"
+    },
+    {
+      "title": "EPE: Automation for attribute based access right management in IGA",
+      "slug": "epe-automation-for-attribute-based-access-right-management-in-iga",
+      "url": "https://community.efecte.com/t/p8hy5js/epe-automation-for-attribute-based-access-right-management-in-iga",
+      "published": "2020-04-23T04:29:15.317Z",
+      "updated": "2020-08-07T06:54:01.880000"
+    },
+    {
+      "title": "EPE: Possibility to execute scheduled based provisioning with different technical users",
+      "slug": "epe-possibility-to-execute-scheduled-based-provisioning-with-different-technical-users",
+      "url": "https://community.efecte.com/t/h7h35sm/epe-possibility-to-execute-scheduled-based-provisioning-with-different-technical-users",
+      "published": "2020-05-29T06:22:57.900Z",
+      "updated": "2020-08-07T06:53:21.437000"
+    },
+    {
+      "title": "EPE: Enhancements for Provisioning task configuration UI",
+      "slug": "epe-enhancements-for-provisioning-task-configuration-ui",
+      "url": "https://community.efecte.com/t/h7hxpm9/epe-enhancements-for-provisioning-task-configuration-ui",
+      "published": "2020-06-30T11:37:57.887Z",
+      "updated": "2020-08-07T06:52:49.917000"
+    },
+    {
+      "title": "ESS: UI Refresh Self-Service Portal: Progress Indicator",
+      "slug": "ess-ui-refresh-self-service-portal-progress-indicator",
+      "url": "https://community.efecte.com/t/x2hxgxm/ess-ui-refresh-self-service-portal-progress-indicator",
+      "published": "2020-07-01T10:52:18.333Z",
+      "updated": "2020-08-07T06:52:25.337000"
+    },
+    {
+      "title": "ESS: UI Refresh Self-Service Portal - Service Item Page",
+      "slug": "ess-ui-refresh-self-service-portal-service-item-page",
+      "url": "https://community.efecte.com/t/83hxgxj/ess-ui-refresh-self-service-portal-service-item-page",
+      "published": "2020-07-01T10:56:13.090Z",
+      "updated": "2020-08-07T06:52:08.807000"
+    },
+    {
+      "title": "ESS: Detail information expanded in confirmation dialogue",
+      "slug": "ess-detail-information-expanded-in-confirmation-dialogue",
+      "url": "https://community.efecte.com/t/x1dbdp/ess-detail-information-expanded-in-confirmation-dialogue",
+      "published": "2018-12-28T12:05:57.010Z",
+      "updated": "2020-08-07T06:51:49.840000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

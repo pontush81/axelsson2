@@ -1,0 +1,162 @@
+{
+  "category": "Known Errors",
+  "url": "https://community.efecte.com/category/known-errors",
+  "updated": "2026-01-19T16:07:49.265347",
+  "article_count": 22,
+  "articles": [
+    {
+      "title": "Major incident in many dedicated cloud environments environments unreachable",
+      "slug": "major-incident-in-many-dedicated-cloud-environments-environments-unreachable",
+      "url": "https://community.efecte.com/t/y4y1tjf/major-incident-in-many-dedicated-cloud-environments-environments-unreachable",
+      "published": "2025-09-02T08:44:09.083Z",
+      "updated": "2025-09-03T13:21:59.707000"
+    },
+    {
+      "title": "Major incident in many dedicated cloud environments (Resolved)",
+      "slug": "major-incident-in-many-dedicated-cloud-environments-resolved",
+      "url": "https://community.efecte.com/t/35y1l79/major-incident-in-many-dedicated-cloud-environments-resolved",
+      "published": "2025-09-09T05:19:52.477Z",
+      "updated": "2025-09-09T09:09:51.717000"
+    },
+    {
+      "title": "ESM 2025.2: REVIEW YOUR CONFIGURATION TO PRESERVE MULTIPLE ATTACHMENTS ON A DATA CARD",
+      "slug": "esm-2025-2-review-your-configuration-to-preserve-multiple-attachments-on-a-data-card",
+      "url": "https://community.efecte.com/t/g9ykp68/esm-2025-2-review-your-configuration-to-preserve-multiple-attachments-on-a-data-card",
+      "published": "2025-06-13T12:55:19.110Z",
+      "updated": "2025-06-13T14:55:19.110000"
+    },
+    {
+      "title": "ValueChangeMonitor and MonitoringStamp handler can miss changes in certain use case",
+      "slug": "valuechangemonitor-and-monitoringstamp-handler-can-miss-changes-in-certain-use-case",
+      "url": "https://community.efecte.com/t/x2ytgn2/valuechangemonitor-and-monitoringstamp-handler-can-miss-changes-in-certain-use-case",
+      "published": "2024-08-28T10:10:46.577Z",
+      "updated": "2024-08-28T12:10:46.577000"
+    },
+    {
+      "title": "Known Issue with MS Teams Integration – New MS Teams Bot Soon Available",
+      "slug": "known-issue-with-ms-teams-integration-new-ms-teams-bot-soon-available",
+      "url": "https://community.efecte.com/t/35yfg0c/known-issue-with-ms-teams-integration-new-ms-teams-bot-soon-available",
+      "published": "2025-03-28T14:29:09.623Z",
+      "updated": "2025-03-28T15:29:09.623000"
+    },
+    {
+      "title": "Slowness in Navigation view loading and New view creation in ESM 2025.1 release",
+      "slug": "slowness-in-navigation-view-loading-and-new-view-creation-in-esm-2025-1-release",
+      "url": "https://community.efecte.com/t/q6yfzyb/slowness-in-navigation-view-loading-and-new-view-creation-in-esm-2025-1-release",
+      "published": "2025-03-17T14:31:30.947Z",
+      "updated": "2025-03-18T09:28:41.480000"
+    },
+    {
+      "title": "Known Bug in Calendar Picker Functionality on Efecte’s Self-Service Portal release 2024.1",
+      "slug": "known-bug-in-calendar-picker-functionality-on-efecte-s-self-service-portal-release-2024-1",
+      "url": "https://community.efecte.com/t/m1ym1p8/known-bug-in-calendar-picker-functionality-on-efectes-self-service-portal-release-2024-1",
+      "published": "2024-06-07T08:05:55.940Z",
+      "updated": "2024-06-07T10:09:50.533000"
+    },
+    {
+      "title": "Efecte is not vulnerable to Libwebp / CVE-2023-4863",
+      "slug": "efecte-is-not-vulnerable-to-libwebp-cve-2023-4863",
+      "url": "https://community.efecte.com/t/60yhcaj/efecte-is-not-vulnerable-to-libwebp-cve-2023-4863",
+      "published": "2023-10-23T05:39:54.987Z",
+      "updated": "2023-10-23T07:39:54.987000"
+    },
+    {
+      "title": "Typing issue in Safari version 17.0 (19616.1.27.211.1)",
+      "slug": "typing-issue-in-safari-version-17-0-19616-1-27-211-1",
+      "url": "https://community.efecte.com/t/q6yhwhv/typing-issue-in-safari-version-170-196161272111",
+      "published": "2023-10-16T12:30:39.660Z",
+      "updated": "2023-10-16T14:30:39.660000"
+    },
+    {
+      "title": "Some special characters are shown as encoded in data card viewing mode",
+      "slug": "some-special-characters-are-shown-as-encoded-in-data-card-viewing-mode",
+      "url": "https://community.efecte.com/t/p8hsdyc/some-special-characters-are-shown-as-encoded-in-data-card-viewing-mode",
+      "published": "2022-11-28T11:07:33.653Z",
+      "updated": "2022-12-07T09:52:38.737000"
+    },
+    {
+      "title": "Role dashboard creation button missing from ESM 2023.2.1",
+      "slug": "role-dashboard-creation-button-missing-from-esm-2023-2-1",
+      "url": "https://community.efecte.com/t/35h4hfq/role-dashboard-creation-button-missing-from-esm-2023-2-1",
+      "published": "2023-05-09T06:44:10.110Z",
+      "updated": "2023-05-09T08:44:32.067000"
+    },
+    {
+      "title": "Switching quickly between views might cause data from other views to be shown",
+      "slug": "switching-quickly-between-views-might-cause-data-from-other-views-to-be-shown",
+      "url": "https://community.efecte.com/t/m1hdj9y/switching-quickly-between-views-might-cause-data-from-other-views-to-be-shown",
+      "published": "2022-05-24T06:41:31.570Z",
+      "updated": "2022-05-24T08:41:31.570000"
+    },
+    {
+      "title": "Efecte stack is not vulnerable to Apache log4j / CVE-2021-44228 issue",
+      "slug": "efecte-stack-is-not-vulnerable-to-apache-log4j-cve-2021-44228-issue",
+      "url": "https://community.efecte.com/t/x2hjj3s/efecte-stack-is-not-vulnerable-to-apache-log4j-cve-2021-44228-issue",
+      "published": "2021-12-13T09:35:55.803Z",
+      "updated": "2022-03-09T13:03:47.307000"
+    },
+    {
+      "title": "Virtual Coach not working after upgrade to ESM release 2021.2",
+      "slug": "virtual-coach-not-working-after-upgrade-to-esm-release-2021-2",
+      "url": "https://community.efecte.com/t/g9hka4q/virtual-coach-not-working-after-upgrade-to-esm-release-20212",
+      "published": "2021-07-21T13:42:21.640Z",
+      "updated": "2021-07-21T15:42:21.640000"
+    },
+    {
+      "title": "Pictures embedded in emails don't show when they have white spaces in the file name",
+      "slug": "pictures-embedded-in-emails-don-t-show-when-they-have-white-spaces-in-the-file-name",
+      "url": "https://community.efecte.com/t/q6hk0ag/pictures-embedded-in-emails-dont-show-when-they-have-white-spaces-in-the-file-name",
+      "published": "2021-07-21T08:16:34.347Z",
+      "updated": "2021-07-21T10:16:34.347000"
+    },
+    {
+      "title": "Removing a Template Permission from a Role breaks the Global Search",
+      "slug": "removing-a-template-permission-from-a-role-breaks-the-global-search",
+      "url": "https://community.efecte.com/t/60hfsnm/removing-a-template-permission-from-a-role-breaks-the-global-search",
+      "published": "2021-05-26T05:18:21.613Z",
+      "updated": "2021-05-26T07:18:21.613000"
+    },
+    {
+      "title": "Scandinavian letters in the attachment name break the file name in ESM",
+      "slug": "scandinavian-letters-in-the-attachment-name-break-the-file-name-in-esm",
+      "url": "https://community.efecte.com/t/m1hffkz/scandinavian-letters-in-the-file-name-break-the-file-name-in-esm",
+      "published": "2021-05-04T13:40:27.970Z",
+      "updated": "2021-05-04T15:40:27.970000"
+    },
+    {
+      "title": "Sending an email from a data card removes all the data not yet saved",
+      "slug": "sending-an-email-from-a-data-card-removes-all-the-data-not-yet-saved",
+      "url": "https://community.efecte.com/t/35hl06r/sending-an-email-from-a-data-card-removes-all-the-data-not-yet-saved",
+      "published": "2021-04-07T10:11:16.127Z",
+      "updated": "2021-04-07T12:11:16.127000"
+    },
+    {
+      "title": "This.Get Method Returns Attribute Value of Static String Attribute  Instead of the Attribute Code",
+      "slug": "this-get-method-returns-attribute-value-of-static-string-attribute-instead-of-the-attribute-code",
+      "url": "https://community.efecte.com/t/y4hhpds/this-get-method-returns-attribute-value-of-static-string-attribute-instead-of-the-attribute-code",
+      "published": "2020-03-10T14:02:47.397Z",
+      "updated": "2020-08-06T11:14:08.960000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "category": "Efecte 2021.1 Overview and Features",
+  "url": "https://community.efecte.com/category/efecte-20211",
+  "updated": "2026-01-19T16:38:38.521532",
+  "article_count": 12,
+  "articles": [
+    {
+      "title": "Key Features from Efecte 2021.1",
+      "slug": "key-features-from-efecte-2021-1",
+      "url": "https://community.efecte.com/t/m1hzaba/key-features-from-efecte-2021-1",
+      "published": "2021-02-23T07:09:25.613Z",
+      "updated": "2021-02-23T08:09:25.613000"
+    },
+    {
+      "title": "ESM: support for IMAP & POP OAuth 2.0 for O365 emails",
+      "slug": "esm-support-for-imap-pop-oauth-2-0-for-o365-emails",
+      "url": "https://community.efecte.com/t/83hmqm2/esm-support-for-imap-pop-oauth-2-0-for-o365-emails",
+      "published": "2020-10-27T13:22:15.957Z",
+      "updated": "2020-10-27T14:22:15.957000"
+    },
+    {
+      "title": "ESM: AI-Powered Category Suggestions",
+      "slug": "esm-ai-powered-category-suggestions",
+      "url": "https://community.efecte.com/t/y4h6njy/esm-ai-powered-category-suggestions",
+      "published": "2020-10-15T04:16:45.600Z",
+      "updated": "2020-10-15T06:31:25.097000"
+    },
+    {
+      "title": "EIM: Possibility to add agent.searchString5-8 as agent search result columns",
+      "slug": "eim-possibility-to-add-agent-searchstring5-8-as-agent-search-result-columns",
+      "url": "https://community.efecte.com/t/60hzpgm/eim-possibility-to-add-agent-searchstring5-8-as-agent-search-result-columns",
+      "published": "2021-02-08T06:51:12.620Z",
+      "updated": "2021-02-08T07:51:12.620000"
+    },
+    {
+      "title": "EIM: support for MySQL 5.7",
+      "slug": "eim-support-for-mysql-5-7",
+      "url": "https://community.efecte.com/t/h7hz37q/eim-support-for-mysql-5-7",
+      "published": "2021-01-27T07:03:06.287Z",
+      "updated": "2021-01-27T08:05:11.577000"
+    },
+    {
+      "title": "ESM: Multi-language Configuration Support for Searching from Static Values",
+      "slug": "esm-multi-language-configuration-support-for-searching-from-static-values",
+      "url": "https://community.efecte.com/t/60hmlg8/esm-multi-language-configuration-support-for-searching-from-static-values",
+      "published": "2020-11-09T12:50:37.710Z",
+      "updated": "2020-11-09T13:50:37.710000"
+    },
+    {
+      "title": "EPE: New Orchestration activity - Verify Group Membership",
+      "slug": "epe-new-orchestration-activity-verify-group-membership",
+      "url": "https://community.efecte.com/t/m1ht61z/epe-new-orchestration-activity-verify-group-membership",
+      "published": "2020-12-18T05:59:37.453Z",
+      "updated": "2020-12-18T06:59:37.453000"
+    },
+    {
+      "title": "EPE: Enhancements for Add / Remove User to / from Group orchestration activities",
+      "slug": "epe-enhancements-for-add-remove-user-to-from-group-orchestration-activities",
+      "url": "https://community.efecte.com/t/60ht61t/epe-enhancements-for-add-remove-user-to-from-group-orchestration-activities",
+      "published": "2020-12-18T05:57:52.100Z",
+      "updated": "2020-12-18T06:57:52.100000"
+    },
+    {
+      "title": "EIM: REST API improvements",
+      "slug": "eim-rest-api-improvements",
+      "url": "https://community.efecte.com/t/63vh0m/eim-rest-api-improvements",
+      "published": "2019-12-04T10:23:39.843Z",
+      "updated": "2020-12-09T06:59:49.717000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

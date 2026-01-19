@@ -1,0 +1,99 @@
+{
+  "category": "Efecte 2023.1",
+  "url": "https://community.efecte.com/category/2023-1",
+  "updated": "2026-01-19T16:25:09.414490",
+  "article_count": 13,
+  "articles": [
+    {
+      "title": "Supported browsers for ESM 2023.1",
+      "slug": "supported-browsers-for-esm-2023-1",
+      "url": "https://community.efecte.com/t/35has5n/supported-browsers-for-esm-20231",
+      "published": "2023-03-13T14:16:55.663Z",
+      "updated": "2023-03-13T15:16:55.663000"
+    },
+    {
+      "title": "ESM: New logger for VWA execution",
+      "slug": "esm-new-logger-for-vwa-execution",
+      "url": "https://community.efecte.com/t/60ham30/esm-new-logger-for-vwa-execution",
+      "published": "2023-02-14T13:54:25.643Z",
+      "updated": "2023-02-14T14:54:25.643000"
+    },
+    {
+      "title": "ESA: More language options",
+      "slug": "esa-more-language-options",
+      "url": "https://community.efecte.com/t/35hahgd/esa-more-language-options",
+      "published": "2023-02-06T13:07:27.830Z",
+      "updated": "2023-02-06T14:07:27.830000"
+    },
+    {
+      "title": "ESA and EPE: Easier access to logs via ESM",
+      "slug": "esa-and-epe-easier-access-to-logs-via-esm",
+      "url": "https://community.efecte.com/t/m1hahgr/esa-and-epe-easier-access-to-logs-via-esm",
+      "published": "2023-02-06T12:55:49.893Z",
+      "updated": "2023-02-06T13:55:49.893000"
+    },
+    {
+      "title": "ESA: support for SAML2 IdP Discovery Service",
+      "slug": "esa-support-for-saml2-idp-discovery-service",
+      "url": "https://community.efecte.com/t/60h7ngw/esa-support-for-saml2-idp-discovery-service",
+      "published": "2022-10-13T05:07:00.000Z",
+      "updated": "2023-02-06T12:15:28.730000"
+    },
+    {
+      "title": "EPE: Capability to create local users to ESM via workflow",
+      "slug": "epe-capability-to-create-local-users-to-esm-via-workflow",
+      "url": "https://community.efecte.com/t/83h0288/epe-capability-to-create-local-users-to-esm-via-workflow",
+      "published": "2023-01-17T06:57:00.000Z",
+      "updated": "2023-02-06T08:40:15.353000"
+    },
+    {
+      "title": "EPE: Capability Update and Delete custom object",
+      "slug": "epe-capability-update-and-delete-custom-object",
+      "url": "https://community.efecte.com/t/35hahk0/epe-capability-update-and-delete-custom-object",
+      "published": "2023-02-06T08:54:56.013Z",
+      "updated": "2023-02-06T09:54:56.013000"
+    },
+    {
+      "title": "EPE: Support for 389 LDAP Directory server",
+      "slug": "epe-support-for-389-ldap-directory-server",
+      "url": "https://community.efecte.com/t/m1hahk7/epe-support-for-389-ldap-directory-server",
+      "published": "2023-02-06T08:06:37.190Z",
+      "updated": "2023-02-06T09:06:37.190000"
+    },
+    {
+      "title": "ESS: Ordering a previous request again",
+      "slug": "ess-ordering-a-previous-request-again",
+      "url": "https://community.efecte.com/t/m1hdnt2/ess-ordering-a-previous-request-again",
+      "published": "2022-06-02T11:44:43.370Z",
+      "updated": "2022-10-13T08:10:36.260000"
+    },
+    {
+      "title": "EIM: .well-known URI for OpenID applications",
+      "slug": "eim-well-known-uri-for-openid-applications",
+      "url": "https://community.efecte.com/t/m1hpv64/eim-well-known-uri-for-openid-applications",
+      "published": "2021-10-05T11:46:15.633Z",
+      "updated": "2021-10-05T13:46:15.633000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "category": "Efecte 2022.3",
+  "url": "https://community.efecte.com/category/efecte-2022-3",
+  "updated": "2026-01-19T16:27:05.060307",
+  "article_count": 11,
+  "articles": [
+    {
+      "title": "Boost your processes: Efecte 2022.3",
+      "slug": "boost-your-processes-efecte-2022-3",
+      "url": "https://community.efecte.com/t/p8hnd66/boost-your-processes-efecte-2022-3",
+      "published": "2022-08-29T05:28:00.980Z",
+      "updated": "2022-10-10T09:09:18.177000"
+    },
+    {
+      "title": "EPE: support for incremental fetch of AD users and groups",
+      "slug": "epe-support-for-incremental-fetch-of-ad-users-and-groups",
+      "url": "https://community.efecte.com/t/y4hn8sy/epe-support-for-incremental-fetch-of-ad-users-and-groups",
+      "published": "2022-08-12T07:18:37.767Z",
+      "updated": "2022-08-12T09:18:37.767000"
+    },
+    {
+      "title": "EPE: password reset flag if the password is temporary or not",
+      "slug": "epe-password-reset-flag-if-the-password-is-temporary-or-not",
+      "url": "https://community.efecte.com/t/60hn8sm/epe-password-reset-flag-if-the-password-is-temporary-or-not",
+      "published": "2022-08-12T07:36:54.260Z",
+      "updated": "2022-08-12T09:36:54.260000"
+    },
+    {
+      "title": "ESM: Gantt view for visualizing datacards in relation to a timeline",
+      "slug": "esm-gantt-view-for-visualizing-datacards-in-relation-to-a-timeline",
+      "url": "https://community.efecte.com/t/g9hw61w/esm-gantt-view-for-visualizing-datacards-in-relation-to-a-timeline",
+      "published": "2022-06-29T14:47:39.890Z",
+      "updated": "2022-06-29T16:47:39.890000"
+    },
+    {
+      "title": "ESS: CP-3799: Negative condition for a form",
+      "slug": "ess-cp-3799-negative-condition-for-a-form",
+      "url": "https://community.efecte.com/t/x2hdl1x/ess-cp-3799-negative-condition-for-a-form",
+      "published": "2022-05-13T07:19:36.480Z",
+      "updated": "2022-05-13T09:19:36.480000"
+    },
+    {
+      "title": "ESS: CP-6688: Layout optimization",
+      "slug": "ess-cp-6688-layout-optimization",
+      "url": "https://community.efecte.com/t/83hdt88/ess-cp-6688-layout-optimization",
+      "published": "2022-05-11T07:00:05.270Z",
+      "updated": "2022-05-11T09:00:05.270000"
+    },
+    {
+      "title": "ESS: CP-6689: Expandable comment text area input box",
+      "slug": "ess-cp-6689-expandable-comment-text-area-input-box",
+      "url": "https://community.efecte.com/t/m1hdt83/ess-cp-6689-expandable-comment-text-area-input-box",
+      "published": "2022-05-11T06:50:05.403Z",
+      "updated": "2022-05-11T08:50:05.403000"
+    },
+    {
+      "title": "ESS: CP-6319: Limit for tile size",
+      "slug": "ess-cp-6319-limit-for-tile-size",
+      "url": "https://community.efecte.com/t/60hdt8y/ess-cp-6319-limit-for-tile-size",
+      "published": "2022-05-11T06:48:22.377Z",
+      "updated": "2022-05-11T08:48:22.377000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

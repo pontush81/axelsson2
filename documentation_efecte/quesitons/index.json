@@ -1,0 +1,204 @@
+{
+  "category": "Peer-to-Peer Q&A",
+  "url": "https://community.efecte.com/category/quesitons",
+  "updated": "2026-01-19T16:01:19.615228",
+  "article_count": 28,
+  "articles": [
+    {
+      "title": "Important Information",
+      "slug": "important-information",
+      "url": "https://community.efecte.com/t/y7wxkw/important-information",
+      "published": "2019-01-16T06:20:48.907Z",
+      "updated": "2019-03-04T11:46:47.507000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr/mapping-numeric-attributes-in-ess2",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "How do you compare \"Transformation settings\" across systems (TEST/PROD)?",
+      "slug": "how-do-you-compare-transformation-settings-across-systems-test-prod",
+      "url": "https://community.efecte.com/t/g9ypt3c/how-do-you-compare-transformation-settings-across-systems-testprod",
+      "published": "2025-12-17T11:26:15.447Z",
+      "updated": "2025-12-17T12:26:15.447000"
+    },
+    {
+      "title": "Mass-assigning a new role in case of \"manual\" role assignment (not from directory)",
+      "slug": "mass-assigning-a-new-role-in-case-of-manual-role-assignment-not-from-directory",
+      "url": "https://community.efecte.com/t/h7ypxyn/mass-assigning-a-new-role-in-case-of-manual-role-assignment-not-from-directory",
+      "published": "2025-12-04T16:36:39.087Z",
+      "updated": "2025-12-04T17:36:39.087000"
+    },
+    {
+      "title": "List of available python \"functions\" useable in expressions and scripts?",
+      "slug": "list-of-available-python-functions-useable-in-expressions-and-scripts",
+      "url": "https://community.efecte.com/t/60ypy5c/list-of-available-python-functions-useable-in-expressions-and-scripts",
+      "published": "2025-11-28T14:49:37.090Z",
+      "updated": "2025-11-28T15:49:37.090000"
+    },
+    {
+      "title": "new \"deletion fact\" support in EPE connectors: how does it work exactly?",
+      "slug": "new-deletion-fact-support-in-epe-connectors-how-does-it-work-exactly",
+      "url": "https://community.efecte.com/t/p8yphlp/new-deletion-fact-support-in-epe-connectors-how-does-it-work-exactly",
+      "published": "2025-11-24T09:45:29.783Z",
+      "updated": "2025-11-24T10:45:29.783000"
+    },
+    {
+      "title": "Password change for local user on older baseline (without pre-configured local user handling in Ticket template)",
+      "slug": "password-change-for-local-user-on-older-baseline-without-pre-configured-local-user-handling-in-ticke",
+      "url": "https://community.efecte.com/t/x2y14wb/password-change-for-local-user-on-older-baseline-without-pre-configured-local-user-handling-in-ticket-template",
+      "published": "2025-11-11T14:06:30.107Z",
+      "updated": "2025-11-11T15:06:30.107000"
+    },
+    {
+      "title": "Enble-if and Catalog forms?",
+      "slug": "enble-if-and-catalog-forms",
+      "url": "https://community.efecte.com/t/h7y1ccy/enble-if-and-catalog-forms",
+      "published": "2025-11-07T16:45:07.727Z",
+      "updated": "2025-11-07T17:45:07.727000"
+    },
+    {
+      "title": "Back in the game",
+      "slug": "back-in-the-game",
+      "url": "https://community.efecte.com/t/q6y1a2z/back-in-the-game",
+      "published": "2025-11-03T22:37:12.187Z",
+      "updated": "2025-11-03T23:37:12.187000"
+    },
+    {
+      "title": "Change status based on Updated attribute",
+      "slug": "change-status-based-on-updated-attribute",
+      "url": "https://community.efecte.com/t/h7yk3zy/change-status-based-on-updated-attribute",
+      "published": "2025-05-13T12:10:06.670Z",
+      "updated": "2025-05-13T14:10:06.670000"
+    },
+    {
+      "title": "CI and IP Address asignment",
+      "slug": "ci-and-ip-address-asignment",
+      "url": "https://community.efecte.com/t/h7y1ksd/ci-and-ip-address-asignment",
+      "published": "2025-09-15T14:56:38.753Z",
+      "updated": "2025-09-15T16:56:38.753000"
+    },
+    {
+      "title": "Guided Offering passing values",
+      "slug": "guided-offering-passing-values",
+      "url": "https://community.efecte.com/t/h7yk9c7/guided-offering-passing-values",
+      "published": "2025-08-05T13:33:03.220Z",
+      "updated": "2025-08-05T15:33:03.220000"
+    },
+    {
+      "title": "Best way to handle status changes and sending mails",
+      "slug": "best-way-to-handle-status-changes-and-sending-mails",
+      "url": "https://community.efecte.com/t/m1y1xdy/best-way-to-handle-status-changes-and-sending-mails",
+      "published": "2025-08-20T08:45:11.823Z",
+      "updated": "2025-08-20T10:45:11.823000"
+    },
+    {
+      "title": "Update field value between data cards",
+      "slug": "update-field-value-between-data-cards",
+      "url": "https://community.efecte.com/t/m1ykg6q/update-field-value-between-data-cards",
+      "published": "2025-06-17T09:41:34.270Z",
+      "updated": "2025-06-17T11:41:34.270000"
+    },
+    {
+      "title": "check old value against new value of an attribute via listener?",
+      "slug": "check-old-value-against-new-value-of-an-attribute-via-listener",
+      "url": "https://community.efecte.com/t/p8ykg8y/check-old-value-against-new-value-of-an-attribute-via-listener",
+      "published": "2025-06-17T07:08:43.350Z",
+      "updated": "2025-06-17T09:08:43.350000"
+    },
+    {
+      "title": "Link Task to Service Request",
+      "slug": "link-task-to-service-request",
+      "url": "https://community.efecte.com/t/35ykg6x/link-task-to-service-request",
+      "published": "2025-06-17T09:47:39.813Z",
+      "updated": "2025-06-17T11:47:39.813000"
+    },
+    {
+      "title": "Workflows: Can only run once on a data card?",
+      "slug": "workflows-can-only-run-once-on-a-data-card",
+      "url": "https://community.efecte.com/t/60yft9s/workflows-can-only-run-once-on-a-data-card",
+      "published": "2025-03-17T10:15:36.730Z",
+      "updated": "2025-03-17T11:17:11.367000"
+    },
+    {
+      "title": "Automatically select all filter results in a dropdown to show them in the \"Show selected values of referred template\" list",
+      "slug": "automatically-select-all-filter-results-in-a-dropdown-to-show-them-in-the-show-selected-values-of-re",
+      "url": "https://community.efecte.com/t/83yl5hf/automatically-select-all-filter-results-in-a-dropdown-to-show-them-in-the-show-selected-values-of-referred-template-list",
+      "published": "2025-01-27T14:12:23.183Z",
+      "updated": "2025-01-27T15:12:23.183000"
+    },
+    {
+      "title": "AutoEntityCreation",
+      "slug": "autoentitycreation",
+      "url": "https://community.efecte.com/t/60yls4r/autoentitycreation",
+      "published": "2025-02-13T11:02:58.827Z",
+      "updated": "2025-02-13T12:02:58.827000"
+    },
+    {
+      "title": "How to get extensionAttribute2 from Azure AD",
+      "slug": "how-to-get-extensionattribute2-from-azure-ad",
+      "url": "https://community.efecte.com/t/q6yzj09/how-to-get-extensionattribute2-from-azure-ad",
+      "published": "2024-11-08T05:34:23.943Z",
+      "updated": "2024-11-08T06:34:23.943000"
+    },
+    {
+      "title": "Dropdown content often not shown",
+      "slug": "dropdown-content-often-not-shown",
+      "url": "https://community.efecte.com/t/x2ylcmh/dropdown-content-often-not-shown",
+      "published": "2025-02-19T07:30:16.440Z",
+      "updated": "2025-02-19T08:30:16.440000"
+    },
+    {
+      "title": "Mapping dropdown values from ESS to ESM",
+      "slug": "mapping-dropdown-values-from-ess-to-esm",
+      "url": "https://community.efecte.com/t/g9ylam8/mapping-dropdown-values-from-ess-to-esm",
+      "published": "2025-02-16T18:35:02.657Z",
+      "updated": "2025-02-16T19:35:02.657000"
+    },
+    {
+      "title": "How to add static values",
+      "slug": "how-to-add-static-values",
+      "url": "https://community.efecte.com/t/83yla8z/how-to-add-static-values",
+      "published": "2025-02-16T06:14:12.597Z",
+      "updated": "2025-02-16T07:14:12.597000"
+    },
+    {
+      "title": "Indent (sisennys)",
+      "slug": "indent-sisennys",
+      "url": "https://community.efecte.com/t/83yzdfk/indent-sisennys",
+      "published": "2024-11-18T10:46:10.140Z",
+      "updated": "2024-11-18T11:46:10.140000"
+    },
+    {
+      "title": "Worklog entries in View",
+      "slug": "worklog-entries-in-view",
+      "url": "https://community.efecte.com/t/x2y651r/worklog-entries-in-view",
+      "published": "2024-04-25T12:00:47.383Z",
+      "updated": "2024-04-25T14:00:47.383000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

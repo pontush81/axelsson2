@@ -1,0 +1,204 @@
+{
+  "category": "Efecte 2023.3",
+  "url": "https://community.efecte.com/category/2023-3",
+  "updated": "2026-01-19T16:22:27.726974",
+  "article_count": 28,
+  "articles": [
+    {
+      "title": "Efecte Self-Service (ESS2): Improved Search Functionalities",
+      "slug": "efecte-self-service-ess2-improved-search-functionalities",
+      "url": "https://community.efecte.com/t/m1yqpv9/efecte-self-service-ess2-improved-search-functionalities",
+      "published": "2023-09-06T15:01:53.253Z",
+      "updated": "2023-09-07T08:12:53.460000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Efecte Chat top of ESS2",
+      "slug": "efecte-self-service-ess2-efecte-chat-top-of-ess2",
+      "url": "https://community.efecte.com/t/q6yqpaz/efecte-self-service-ess2-efecte-chat-top-of-ess2",
+      "published": "2023-09-06T14:13:14.183Z",
+      "updated": "2023-09-07T08:12:37.680000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Easy administration of Forms",
+      "slug": "efecte-self-service-ess2-easy-administration-of-forms",
+      "url": "https://community.efecte.com/t/p8hvb6y/efecte-self-service-ess2-easy-administration-of-forms",
+      "published": "2023-08-15T12:39:00.000Z",
+      "updated": "2023-09-07T08:12:21.400000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Support for new field types",
+      "slug": "efecte-self-service-ess2-support-for-new-field-types",
+      "url": "https://community.efecte.com/t/35hvbmx/efecte-self-service-ess2-support-for-new-field-types",
+      "published": "2023-08-15T13:16:26.553Z",
+      "updated": "2023-09-07T08:11:07.980000"
+    },
+    {
+      "title": "Efecte Self-Service (ESS2): Override template default values",
+      "slug": "efecte-self-service-ess2-override-template-default-values",
+      "url": "https://community.efecte.com/t/q6hvbtr/efecte-self-service-ess2-override-template-default-values",
+      "published": "2023-08-15T13:35:48.683Z",
+      "updated": "2023-09-07T08:09:16.120000"
+    },
+    {
+      "title": "EPE: Support for Jira connector",
+      "slug": "epe-support-for-jira-connector",
+      "url": "https://community.efecte.com/t/p8hvaxr/epe-support-for-jira-connector",
+      "published": "2023-08-21T06:15:10.833Z",
+      "updated": "2023-09-07T06:52:31.290000"
+    },
+    {
+      "title": "EPE: Capability to update local user's username",
+      "slug": "epe-capability-to-update-local-user-s-username",
+      "url": "https://community.efecte.com/t/p8yqpdj/epe-capability-to-update-local-users-username",
+      "published": "2023-09-06T06:34:20.027Z",
+      "updated": "2023-09-06T08:34:20.027000"
+    },
+    {
+      "title": "Efecte Provisioning Engine new place",
+      "slug": "efecte-provisioning-engine-new-place",
+      "url": "https://community.efecte.com/t/g9yqpdt/efecte-provisioning-engine-new-place",
+      "published": "2023-09-06T06:26:05.013Z",
+      "updated": "2023-09-06T08:26:05.013000"
+    },
+    {
+      "title": "ESM: Improvements to the new email UI in the new datacard view",
+      "slug": "esm-improvements-to-the-new-email-ui-in-the-new-datacard-view",
+      "url": "https://community.efecte.com/t/h7yqln7/esm-improvements-to-the-new-email-ui-in-the-new-datacard-view",
+      "published": "2023-09-01T14:47:11.543Z",
+      "updated": "2023-09-01T16:47:11.543000"
+    },
+    {
+      "title": "ESM: Improvements to email connection mechanisms for mitigating oAuth throttling issues",
+      "slug": "esm-improvements-to-email-connection-mechanisms-for-mitigating-oauth-throttling-issues",
+      "url": "https://community.efecte.com/t/83yqln3/esm-improvements-to-email-connection-mechanisms-for-mitigating-oauth-throttling-issues",
+      "published": "2023-09-01T14:39:36.227Z",
+      "updated": "2023-11-29T09:02:28.387000"
+    },
+    {
+      "title": "ESM: Support for backslashes in global search",
+      "slug": "esm-support-for-backslashes-in-global-search",
+      "url": "https://community.efecte.com/t/60yqlwn/esm-support-for-backslashes-in-global-search",
+      "published": "2023-09-01T14:27:54.067Z",
+      "updated": "2023-09-01T16:27:54.067000"
+    },
+    {
+      "title": "ESM: Support for TicketReservation button in new list view",
+      "slug": "esm-support-for-ticketreservation-button-in-new-list-view",
+      "url": "https://community.efecte.com/t/h7yqlds/esm-support-for-ticketreservation-button-in-new-list-view",
+      "published": "2023-09-01T14:02:59.530Z",
+      "updated": "2023-09-01T16:18:04.460000"
+    },
+    {
+      "title": "ESM: Multivalue support for servlet.auth.user.ad.group and servlet.auth.admin.ad.group settings",
+      "slug": "esm-multivalue-support-for-servlet-auth-user-ad-group-and-servlet-auth-admin-ad-group-settings",
+      "url": "https://community.efecte.com/t/p8yql5z/esm-multivalue-support-for-servlet-auth-user-ad-group-and-servlet-auth-admin-ad-group-settings",
+      "published": "2023-09-01T12:15:06.927Z",
+      "updated": "2023-09-01T16:16:57.470000"
+    },
+    {
+      "title": "ESM: Support for ValidatorHandler in new datacard view",
+      "slug": "esm-support-for-validatorhandler-in-new-datacard-view",
+      "url": "https://community.efecte.com/t/60yql54/esm-support-for-validatorhandler-in-new-datacard-view",
+      "published": "2023-09-01T13:44:15.080Z",
+      "updated": "2023-09-01T16:14:20.283000"
+    },
+    {
+      "title": "ESM: Support for conditional attributes in the new datacard view",
+      "slug": "esm-support-for-conditional-attributes-in-the-new-datacard-view",
+      "url": "https://community.efecte.com/t/x2yqldf/esm-support-for-conditional-attributes-in-the-new-datacard-view",
+      "published": "2023-09-01T13:47:09.407Z",
+      "updated": "2023-09-01T16:12:30.873000"
+    },
+    {
+      "title": "ESM: Support for TextNote handler in the new datacard view",
+      "slug": "esm-support-for-textnote-handler-in-the-new-datacard-view",
+      "url": "https://community.efecte.com/t/y4yqld1/esm-support-for-textnote-handler-in-the-new-datacard-view",
+      "published": "2023-09-01T13:52:54.600Z",
+      "updated": "2023-09-01T16:10:24.067000"
+    },
+    {
+      "title": "ESM: Support for CategoryDropdownReference handler in the new datacard view",
+      "slug": "esm-support-for-categorydropdownreference-handler-in-the-new-datacard-view",
+      "url": "https://community.efecte.com/t/m1yqldb/esm-support-for-categorydropdownreference-handler-in-the-new-datacard-view",
+      "published": "2023-09-01T13:55:17.040Z",
+      "updated": "2023-09-01T16:08:51.560000"
+    },
+    {
+      "title": "ESM: Support for TicketReservation button in new datacard view",
+      "slug": "esm-support-for-ticketreservation-button-in-new-datacard-view",
+      "url": "https://community.efecte.com/t/h7yql5a/esm-support-for-ticketreservation-button-in-new-datacard-view",
+      "published": "2023-09-01T12:20:53.820Z",
+      "updated": "2023-09-01T16:06:05.243000"
+    },
+    {
+      "title": "ESM: Decreased minimum width of the list view columns",
+      "slug": "esm-decreased-minimum-width-of-the-list-view-columns",
+      "url": "https://community.efecte.com/t/35yqljd/esm-decreased-minimum-width-of-the-list-view-columns",
+      "published": "2023-09-01T11:43:48.563Z",
+      "updated": "2023-09-01T14:05:40.747000"
+    },
+    {
+      "title": "ESM: Styling and accessibility improvements to the new datacard view",
+      "slug": "esm-styling-and-accessibility-improvements-to-the-new-datacard-view",
+      "url": "https://community.efecte.com/t/h7yql5q/esm-styling-and-accessibility-improvements-to-the-new-datacard-view",
+      "published": "2023-09-01T12:05:10.883Z",
+      "updated": "2023-09-01T14:05:10.883000"
+    },
+    {
+      "title": "EPE: Error handling improvement: a ticket to ESM",
+      "slug": "epe-error-handling-improvement-a-ticket-to-esm",
+      "url": "https://community.efecte.com/t/q6hvq45/epe-error-handling-improvement-a-ticket-to-esm",
+      "published": "2023-07-31T09:27:00.323Z",
+      "updated": "2023-09-01T09:30:09.810000"
+    },
+    {
+      "title": "ESA: The login language menu must be selectable from the keyboard",
+      "slug": "esa-the-login-language-menu-must-be-selectable-from-the-keyboard",
+      "url": "https://community.efecte.com/t/p8hva8x/esa-the-login-language-menu-must-be-selectable-from-the-keyboard",
+      "published": "2023-08-21T06:45:54.430Z",
+      "updated": "2023-08-21T08:45:54.430000"
+    },
+    {
+      "title": "EPE: Scheduled task option to read only groups or users",
+      "slug": "epe-scheduled-task-option-to-read-only-groups-or-users",
+      "url": "https://community.efecte.com/t/g9hvaxc/epe-scheduled-task-option-to-read-only-groups-or-users",
+      "published": "2023-08-21T06:26:44.813Z",
+      "updated": "2023-08-21T08:28:22.560000"
+    },
+    {
+      "title": "Efecte Service Management tool (ESM): Viewing and sending emails from the new beta UI datacard view",
+      "slug": "efecte-service-management-tool-esm-viewing-and-sending-emails-from-the-new-beta-ui-datacard-view",
+      "url": "https://community.efecte.com/t/y4hxr92/efecte-service-management-tool-esm-viewing-and-sending-emails-from-the-new-beta-ui-datacard-view",
+      "published": "2020-07-07T05:06:00.000Z",
+      "updated": "2023-08-21T07:48:08.590000"
+    },
+    {
+      "title": "EPE: Capability to delete local users to ESM via workflow",
+      "slug": "epe-capability-to-delete-local-users-to-esm-via-workflow",
+      "url": "https://community.efecte.com/t/q6hvaxm/epe-capabilityto-delete-local-users-to-esm-via-workflow",
+      "published": "2023-08-21T05:46:17.517Z",
+      "updated": "2023-08-21T07:46:17.517000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

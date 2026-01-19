@@ -1,0 +1,92 @@
+{
+  "category": "Templates",
+  "url": "https://community.efecte.com/category/templates",
+  "updated": "2026-01-19T16:51:30.717039",
+  "article_count": 12,
+  "articles": [
+    {
+      "title": "ISO27001 Control",
+      "slug": "iso27001-control",
+      "url": "https://community.efecte.com/t/g9hmv0l/iso27001-control",
+      "published": "2020-12-09T10:55:48.487Z",
+      "updated": "2020-12-09T11:55:48.487000"
+    },
+    {
+      "title": "Test Management Templates",
+      "slug": "test-management-templates",
+      "url": "https://community.efecte.com/t/q6hx3m7/test-management-templates",
+      "published": "2020-06-17T07:53:37.710Z",
+      "updated": "2020-06-17T09:53:37.710000"
+    },
+    {
+      "title": "Availability Management template",
+      "slug": "availability-management-template",
+      "url": "https://community.efecte.com/t/35hx3mn/availability-management-template",
+      "published": "2020-06-17T07:52:53.783Z",
+      "updated": "2020-06-17T09:52:53.783000"
+    },
+    {
+      "title": "Capacity Management templates",
+      "slug": "capacity-management-templates",
+      "url": "https://community.efecte.com/t/y4hx3mw/capacity-management-templates",
+      "published": "2020-06-17T07:52:27.603Z",
+      "updated": "2020-06-17T09:52:27.603000"
+    },
+    {
+      "title": "Deployment Management Templates",
+      "slug": "deployment-management-templates",
+      "url": "https://community.efecte.com/t/83hx3md/deployment-management-templates",
+      "published": "2020-06-17T07:51:54.450Z",
+      "updated": "2020-06-17T09:51:54.450000"
+    },
+    {
+      "title": "Risk Template",
+      "slug": "risk-template",
+      "url": "https://community.efecte.com/t/y77y3k/risk-template",
+      "published": "2019-03-13T05:13:56.510Z",
+      "updated": "2020-03-12T08:42:12"
+    },
+    {
+      "title": "Service Template according to ITIL4",
+      "slug": "service-template-according-to-itil4",
+      "url": "https://community.efecte.com/t/807y36/service-template-according-to-itil4",
+      "published": "2019-03-13T05:10:35.603Z",
+      "updated": "2019-03-13T06:10:35.603000"
+    },
+    {
+      "title": "SaaS Component template for ITIL 4",
+      "slug": "saas-component-template-for-itil-4",
+      "url": "https://community.efecte.com/t/80npjz/saas-component-template-for-itil-4",
+      "published": "2019-03-04T06:47:09.257Z",
+      "updated": "2019-03-05T13:59:06.107000"
+    },
+    {
+      "title": "Cloud Infrastructure template for ITIL 4",
+      "slug": "cloud-infrastructure-template-for-itil-4",
+      "url": "https://community.efecte.com/t/36npj8/cloud-infrastructure-template-for-itil-4",
+      "published": "2019-03-04T06:45:22.187Z",
+      "updated": "2019-03-05T13:59:37.740000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

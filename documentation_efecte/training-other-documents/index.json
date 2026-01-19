@@ -1,0 +1,78 @@
+{
+  "category": "Training & Other Documents",
+  "url": "https://community.efecte.com/category/training-other-documents",
+  "updated": "2026-01-19T16:53:04.946015",
+  "article_count": 10,
+  "articles": [
+    {
+      "title": "Visual Workflow Automation (VWA) training material",
+      "slug": "visual-workflow-automation-vwa-training-material",
+      "url": "https://community.efecte.com/t/q6hlrss/visual-workflow-automation-vwa-training-material",
+      "published": "2021-03-26T14:30:39.337Z",
+      "updated": "2025-03-14T13:19:21.190000"
+    },
+    {
+      "title": "Efecte Service Management Tool Testing",
+      "slug": "efecte-service-management-tool-testing",
+      "url": "https://community.efecte.com/t/x2h605a/efecte-service-management-tool-testing",
+      "published": "2020-10-20T05:42:13.340Z",
+      "updated": "2020-10-20T07:42:13.340000"
+    },
+    {
+      "title": "Efecte Identity Management EIM-5274 revert",
+      "slug": "efecte-identity-management-eim-5274-revert",
+      "url": "https://community.efecte.com/t/q541qj/efecte-identity-management-eim-5274-revert",
+      "published": "2019-10-07T10:28:42.943Z",
+      "updated": "2019-10-07T12:28:42.943000"
+    },
+    {
+      "title": "Service Management User Guide (EN, FI, DE, FR, SE)",
+      "slug": "service-management-user-guide-en-fi-de-fr-se",
+      "url": "https://community.efecte.com/t/63ah2l/service-management-user-guide-en-fi-de-fr-se",
+      "published": "2019-07-02T12:55:38.537Z",
+      "updated": "2020-04-30T11:36:36.913000"
+    },
+    {
+      "title": "Efecte Web API & EQL description",
+      "slug": "efecte-web-api-eql-description",
+      "url": "https://community.efecte.com/t/x1n56k/efecte-web-api-eql-description",
+      "published": "2019-03-06T11:31:29.730Z",
+      "updated": "2019-06-19T08:07:45.140000"
+    },
+    {
+      "title": "Self-Service Portal (ESS) Administrator's Training Material",
+      "slug": "self-service-portal-ess-administrator-s-training-material",
+      "url": "https://community.efecte.com/t/q5d5lf/self-service-portal-ess-administrators-training-material",
+      "published": "2018-12-21T07:06:34.350Z",
+      "updated": "2025-03-14T12:00:35.467000"
+    },
+    {
+      "title": "Matrix42 Core & Pro Service Management (ESM) Administrator's Training Material",
+      "slug": "matrix42-core-pro-service-management-esm-administrator-s-training-material",
+      "url": "https://community.efecte.com/t/h4d5ll/matrix42-core-pro-service-management-esm-administrators-training-material",
+      "published": "2018-12-21T07:05:46.823Z",
+      "updated": "2025-06-11T14:27:58.330000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}

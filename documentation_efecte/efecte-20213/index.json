@@ -1,0 +1,113 @@
+{
+  "category": "Efecte 2021.3 Overview and Features",
+  "url": "https://community.efecte.com/category/efecte-20213",
+  "updated": "2026-01-19T16:34:24.179621",
+  "article_count": 15,
+  "articles": [
+    {
+      "title": "Key Features of Efecte 2021.3",
+      "slug": "key-features-of-efecte-2021-3",
+      "url": "https://community.efecte.com/t/83hp7tg/key-features-of-efecte-2021-3",
+      "published": "2021-09-27T05:10:30.867Z",
+      "updated": "2021-09-27T07:10:42.047000"
+    },
+    {
+      "title": "EPE: Support for IBM Directory server",
+      "slug": "epe-support-for-ibm-directory-server",
+      "url": "https://community.efecte.com/t/60hk8rk/epe-support-for-ibm-directory-server",
+      "published": "2021-06-14T15:47:00.000Z",
+      "updated": "2022-08-12T06:37:02.523000"
+    },
+    {
+      "title": "ViCo: Quick-fill for Similar Issue Suggestions (AI)",
+      "slug": "vico-quick-fill-for-similar-issue-suggestions-ai",
+      "url": "https://community.efecte.com/t/83htblq/vico-quick-fill-for-similar-issue-suggestions-ai",
+      "published": "2021-01-08T12:48:35.627Z",
+      "updated": "2021-08-18T07:14:28.470000"
+    },
+    {
+      "title": "EIM: New search criteria to assignments",
+      "slug": "eim-new-search-criteria-to-assignments",
+      "url": "https://community.efecte.com/t/60hkmpq/eim-new-search-criteria-to-assignments",
+      "published": "2021-06-17T08:42:20.890Z",
+      "updated": "2021-06-17T10:42:20.890000"
+    },
+    {
+      "title": "EIM: Support for OAuth 2.0 for Native Apps, rfc8252",
+      "slug": "eim-support-for-oauth-2-0-for-native-apps-rfc8252",
+      "url": "https://community.efecte.com/t/x2hkmk9/eim-support-for-oauth-2-0-for-native-apps-rfc8252",
+      "published": "2021-06-17T05:58:56.073Z",
+      "updated": "2021-06-17T07:58:56.073000"
+    },
+    {
+      "title": "EIM: Refresh token support when EIM acts as authorization server",
+      "slug": "eim-refresh-token-support-when-eim-acts-as-authorization-server",
+      "url": "https://community.efecte.com/t/h7hkmks/eim-refresh-token-support-when-eim-acts-as-authorization-server",
+      "published": "2021-06-17T05:53:03.447Z",
+      "updated": "2021-06-17T07:53:03.447000"
+    },
+    {
+      "title": "EIM: JWT access token",
+      "slug": "eim-jwt-access-token",
+      "url": "https://community.efecte.com/t/y4hkmkw/eim-jwt-access-token",
+      "published": "2021-06-17T05:41:43.483Z",
+      "updated": "2021-06-17T07:41:43.483000"
+    },
+    {
+      "title": "EIM: Quartz scheduler upgrade",
+      "slug": "eim-quartz-scheduler-upgrade",
+      "url": "https://community.efecte.com/t/83hkmkd/eim-quartz-scheduler-upgrade",
+      "published": "2021-06-17T05:29:13.313Z",
+      "updated": "2021-06-17T07:29:13.313000"
+    },
+    {
+      "title": "EIM: Support for handling group memberships in OAuth2 authentication method with OpenID Connect protocol",
+      "slug": "eim-support-for-handling-group-memberships-in-oauth2-authentication-method-with-openid-connect-proto",
+      "url": "https://community.efecte.com/t/m1hkmkb/eim-support-for-handling-group-memberships-in-oauth2-authentication-method-with-openid-connect-protocol",
+      "published": "2021-06-17T05:26:02.757Z",
+      "updated": "2021-06-17T07:26:02.757000"
+    },
+    {
+      "title": "ESS: Adding file attachments to existing request",
+      "slug": "ess-adding-file-attachments-to-existing-request",
+      "url": "https://community.efecte.com/t/q6hm5y0/ess-adding-file-attachments-to-existing-request",
+      "published": "2020-11-18T14:36:17.927Z",
+      "updated": "2020-11-18T15:36:38.403000"
+    },
+    {
+      "title": "EPE: Possibility to read data from Linux RedHat LDAP (FreeIPA)",
+      "slug": "epe-possibility-to-read-data-from-linux-redhat-ldap-freeipa",
+      "url": "https://community.efecte.com/t/m1hk8rx/epe-possibility-to-read-data-from-linux-redhat-ldap-freeipa",
+      "published": "2021-06-14T15:37:36.153Z",
+      "updated": "2021-06-14T17:37:36.153000"
+    },
+    {
+      "title": "Efecte Provisioining Engine support for OpenLDAP",
+      "slug": "efecte-provisioining-engine-support-for-openldap",
+      "url": "https://community.efecte.com/t/h7h8pz3/efecte-provisioining-engine-support-for-openldap",
+      "published": "2020-08-14T11:33:15.547Z",
+      "updated": "2020-08-14T13:33:15.547000"
+    },
+    {
+      "title": "Mapping numeric attributes in ESS2",
+      "slug": "mapping-numeric-attributes-in-ess2",
+      "url": "https://community.efecte.com/t/y4ypztr",
+      "published": "2025-12-22T15:05:45.897Z",
+      "updated": "2025-12-22T16:05:45.897000"
+    },
+    {
+      "title": "Suggestions to improve e-mail functionality in ESM",
+      "slug": "suggestions-to-improve-e-mail-functionality-in-esm",
+      "url": "https://community.efecte.com/t/h44anq",
+      "published": "2019-10-23T18:31:43.267Z",
+      "updated": "2019-10-23T21:00:32.750000"
+    },
+    {
+      "title": "Improvements for Datacard history/change record feature",
+      "slug": "improvements-for-datacard-history-change-record-feature",
+      "url": "https://community.efecte.com/t/m1ypm2l",
+      "published": "2025-12-16T08:52:37.660Z",
+      "updated": "2025-12-16T09:59:55.733000"
+    }
+  ]
+}
