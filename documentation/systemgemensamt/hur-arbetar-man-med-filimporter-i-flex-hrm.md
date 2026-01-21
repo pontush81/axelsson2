@@ -1,6 +1,6 @@
 # ⚙️Hur arbetar man med filimporter i Flex HRM?
 
-**Datum:** den 29 september 2025  
+**Datum:** den 20 januari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Register  
 **Typ:** config  
@@ -30,6 +30,7 @@ HRM Travel
 för att du ska kunna importera bilresor.
 Här är de importtyper som kan göras:
 Ackumulatorvärden
+Anställda - Barnregister
 Anställda - Fasta transaktioner
 Anställda - Tabeller
 Anställda/användare
@@ -105,7 +106,7 @@ Importera data från fil
 Gå till
 Bearbetningar > Servicerutiner > Import
 .
-![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_cc605f17.png)
+![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_85517fae.png)
 Namn
 : Du kan ange ett namn om du vill spara importen för att kunna schemalägga den eller köra den flera gånger.
 Ta bort importfilen från loggen efter avslutad import
@@ -123,7 +124,7 @@ Visa logg
 :
 D
 etaljer om importen, som när den startade och avslutades samt eventuella fel. Om något har gått fel, hittar du en fellogg som informerar om vilka rader som inte kunde importeras och varför.
-![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_7d92182e.png)
+![Bild](images/hur-arbetar-man-med-filimporter-i-flex-hrm_109fdee6.png)
 Schemalägga import
 Du kan schemalägga en sparad import så att den körs automatiskt vid en viss tidpunkt.
 Gå till

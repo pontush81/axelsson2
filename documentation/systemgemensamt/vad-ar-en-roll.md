@@ -1,12 +1,12 @@
 # ⚙️Vad är en roll?
 
-**Datum:** den 17 oktober 2025  
+**Datum:** den 19 januari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** concept  
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, mobil, roll, säkerhet  
-**Bilder:** 2  
+**Bilder:** 3  
 **URL:** https://knowledge.flexhrm.com/sv/vad-%C3%A4r-en-roll
 
 ---
@@ -62,14 +62,21 @@ Fliken Allmänna
 Du sätter
 en grön bock för de menyer användarna ska kunna se och använda, ett hänglås för att ge läsbehörighet och et
 t rött kryss för de menyer som inte ska vara tillgängliga. Många menyer går att expandera, och göra mer specifika behörighetsinställningar.
-Observera a
+Du kan markera flera menyer samtidigt genom att hålla in CTRL-knappen på ditt tangentbord.
+Du kan antingen markera och klicka på grön bock, hänglås eller rött kryss i överkant eller högerklicka på en rad för att välja behörighet. Båda alternativen är markerade på bilden nedan.
+Observera
+a
 tt när en huvudmeny markeras med en viss behörighet så sätts automatiskt samma behörighet på tillhörande undermenyer.
 På bilden nedan är menyn
 Tid
 och dess undermeny
 Tidrapport
 utfällda. Rollen har behörighet till tidrapport, men inte till alla funktioner, den kan till exempel se saldojusteringar, men tillåts inte att göra egna justeringar av saldon.
-![Bild](images/vad-ar-en-roll_5a884d75.png)
+![Bild](images/vad-ar-en-roll_8af4c52d.png)
+Söka i rollträdet
+Du kan använda sökfältet för att söka upp en meny istället för att manuellt klicka fram den. Sökträffarna visar alla matchande menyer, med eventuella övernoder.
+![Bild](images/vad-ar-en-roll_d2b80362.png)
+Klickar du efter sökning på en övernod nollställs sökningen. Det är för att tydliggöra att en förändring av en övernod påverkar alla undernoder (inte bara den framsökta).
 Fliken Företagsknutna
 Används för register som kan se olika ut i olika företag, och därför inte kan styras helt i det generella behörighetsträdet. Precis som på fliken
 Allmänna

@@ -264,10 +264,10 @@
       "roll",
       "säkerhet"
     ],
-    "date": "den 17 oktober 2025",
+    "date": "den 19 januari 2026",
     "url": "https://knowledge.flexhrm.com/sv/vad-%C3%A4r-en-roll",
     "isConfig": true,
-    "imageCount": 2,
+    "imageCount": 3,
     "hasImages": true,
     "excerpt": "Användares roller styr vad de kan se och göra i HRM. Nedan följer en beskrivning av inställningsmöjligheterna för roller.\nAllmänna inställningar för en roll\nInställningar för menyer\nTilldelning av rol..."
   },
@@ -888,7 +888,7 @@
       "användare",
       "behörighet"
     ],
-    "date": "den 29 september 2025",
+    "date": "den 20 januari 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-arbetar-man-med-filimporter-i-flex-hrm",
     "isConfig": true,
     "imageCount": 6,
@@ -926,7 +926,7 @@
       "användare",
       "roll"
     ],
-    "date": "den 19 december 2025",
+    "date": "den 19 januari 2026",
     "url": "https://knowledge.flexhrm.com/sv/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie",
     "isConfig": false,
     "imageCount": 3,
