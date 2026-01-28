@@ -1,8 +1,8 @@
 {
-  "total_articles": 389,
+  "total_articles": 390,
   "total_categories": 6,
-  "total_images": 2224,
-  "last_updated": "2026-01-27 03:14:13",
+  "total_images": 2225,
+  "last_updated": "2026-01-28 03:11:13",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
@@ -18,9 +18,9 @@
     },
     "time": {
       "name": "Time",
-      "total": 119,
+      "total": 120,
       "subcategories": {
-        "Tidrapportering": 29,
+        "Tidrapportering": 30,
         "Mobil & Stämpling": 20,
         "Schema & Planering": 6,
         "Övertid & Ersättning": 8,
@@ -80,6 +80,6 @@
       }
     }
   },
-  "last_check": "2026-01-27 03:14:13",
+  "last_check": "2026-01-28 03:11:13",
   "last_check_status": "success"
 }

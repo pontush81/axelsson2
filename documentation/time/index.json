@@ -44,6 +44,28 @@
     "excerpt": "Om du stämplar ut innan din schemalagda tids slut, kan systemet fråga dig om orsaken till\ntidig utstämpling\n. Syftet är att att du inte ska missa att registrera eventuell frånvaro.\nFrågan kan visas äv..."
   },
   {
+    "title": "Varför visas inte ospecificerad frånvaro vid otillåten rast?",
+    "file": "varfor-visas-inte-ospecificerad-franvaro-vid-otillaten-rast.md",
+    "slug": "varfor-visas-inte-ospecificerad-franvaro-vid-otillaten-rast",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "frånvaro",
+      "schema",
+      "stämpling",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 27 januari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/varf%C3%B6r-visas-inte-ospecificerad-fr%C3%A5nvaro-vid-otill%C3%A5ten-rast",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Om du registrerar rast på en annan tid än vad schemat anger, kan systemet markera detta som ospecificerad frånvaro. Det finns dock flera anledningar till att denna markering ibland uteblir.\nI HRM Time..."
+  },
+  {
     "title": "Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?",
     "file": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare.md",
     "slug": "periodredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-som-periodredovisare",
