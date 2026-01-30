@@ -1,6 +1,6 @@
 # Genomför Lönekartläggning i HRM - Steg 3 anställda
 
-**Datum:** den 4 november 2025  
+**Datum:** den 29 januari 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  
@@ -54,3 +54,11 @@ När du kontrollerat alla anställda kan du klarmarkera vyn genom att klicka på
 Klarmarkera.
 Du kan nu gå vidare för att göra
 analyserna.
+Hur beräknas anställningstid i lönekartläggningen?
+Beräkningsprincipen för att ta fram antal dagar till år är
+(Alla anställningsperioders antal kalenderdagar) / 365.25
+Flex HRM avrundar sedan nedåt.
+Exempel
+3.5 år = 3 år
+2.92 år = 2 år
+Det avrundas alltid nedåt.
