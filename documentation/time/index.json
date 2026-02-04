@@ -1962,14 +1962,15 @@
     "difficulty": "intermediate",
     "tags": [
       "frånvaro",
-      "schema"
+      "schema",
+      "tidrapport"
     ],
-    "date": "den 6 oktober 2025",
+    "date": "den 2 februari 2026",
     "url": "https://knowledge.flexhrm.com/sv/kan-jag-ta-ut-information-om-fr%C3%A5nvaro-i-rapportgeneratorn-",
     "isConfig": false,
-    "imageCount": 0,
-    "hasImages": false,
-    "excerpt": "Du kan ta fram anpassade rapporter över alla typer av frånvaro i HRM Time med hjälp av datakällan Frånvaro i Rapportgeneratorn.\nMed datakällan\nFrånvaro\nkan du ta fram olika uppgifter för att få en tyd..."
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Du kan ta fram anpassade rapporter över alla typer av frånvaro i HRM Time med hjälp av datakällan Frånvaro i Rapportgeneratorn.\nTillgängliga fält och urval\nVilken frånvaro visas i rapporten?\nKontering..."
   },
   {
     "title": "Hur fungerar rapporten Projektuppföljning?",
