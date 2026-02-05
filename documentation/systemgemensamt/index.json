@@ -18,9 +18,9 @@
     "excerpt": "Denna artikel beskriver hur du loggar in i Flex HRM och HRM Mobile. Den här guiden hjälper dig steg för steg med din första inloggning till Flex HRM.\nHur loggar jag in i Flex HRM?\nSå här loggar du in\n..."
   },
   {
-    "title": "Hur byter jag av lösenord i Flex HRM?",
-    "file": "hur-byter-jag-av-losenord-i-flex-hrm.md",
-    "slug": "hur-byter-jag-av-losenord-i-flex-hrm",
+    "title": "Hur byter jag lösenord i Flex HRM?",
+    "file": "hur-byter-jag-losenord-i-flex-hrm.md",
+    "slug": "hur-byter-jag-losenord-i-flex-hrm",
     "category": "systemgemensamt",
     "subcategory": "Mobil",
     "type": "howto",
@@ -28,7 +28,7 @@
     "tags": [
       "mobil"
     ],
-    "date": "den 3 december 2025",
+    "date": "den 4 februari 2026",
     "url": "https://knowledge.flexhrm.com/sv/byte-av-losenord",
     "isConfig": false,
     "imageCount": 0,
