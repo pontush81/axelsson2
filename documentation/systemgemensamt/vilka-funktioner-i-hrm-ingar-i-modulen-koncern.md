@@ -1,6 +1,6 @@
 # Vilka funktioner i HRM ingår i modulen Koncern?
 
-**Datum:** den 3 december 2025  
+**Datum:** den 6 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Rapporter  
 **Typ:** other  
@@ -60,6 +60,7 @@ Lönearter
 Fordon
 Schema (arbetspass)
 Schema (dag)
+Frånvaro
 Anställdaregister
 Inom anställdaregistret finns följande koncernfunktioner:
 Anställningsdatum inom koncern

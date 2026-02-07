@@ -1,11 +1,11 @@
 # Kan jag ta ut information om frånvaro i rapportgeneratorn?
 
-**Datum:** den 2 februari 2026  
+**Datum:** den 6 februari 2026  
 **Kategori:** Time  
 **Underkategori:** Frånvaro & Semester  
 **Typ:** faq  
-**Svårighetsgrad:** intermediate  
-**Tags:** frånvaro, schema, tidrapport  
+**Svårighetsgrad:** advanced  
+**Tags:** frånvaro, ob, schema, tidrapport  
 **Bilder:** 1  
 **URL:** https://knowledge.flexhrm.com/sv/kan-jag-ta-ut-information-om-fr%C3%A5nvaro-i-rapportgeneratorn-
 
@@ -15,6 +15,7 @@ Du kan ta fram anpassade rapporter över alla typer av frånvaro i HRM Time med 
 Tillgängliga fält och urval
 Vilken frånvaro visas i rapporten?
 Konteringar i datakälla frånvaro
+Hur fungerar urval och visning av antal timmar karens?
 Ta hänsyn till återinsjuknande
 Med datakällan
 Frånvaro
@@ -36,6 +37,11 @@ kön
 eller
 ålder
 .
+Datakällan kan tas ut på koncernnivå för er som använder modulen
+Koncernhantering
+.
+Observera
+Datakällan Frånvaro utökades med hantering för koncern och karens nyligen. Du behöver ha version 2026.29 eller senare för att det ska finnas på plats.
 Tillgängliga fält och urval
 För datakällan
 Frånvaro
@@ -46,6 +52,8 @@ Antal dagar totalt i frånvaroperiod
 (kalenderdagar)
 Antal frånvaroperioder
 Antal timmar frånvaro
+Antal timmar frånvaro (exklusive karens)
+Antal timmar karens
 Barn - Identifikationsnummer
 Barn - Namn
 Dag i frånvaroperiod
@@ -60,6 +68,7 @@ Fr.o.m. klockslag
 (inkl. dygnsbryttecken)
 Frånvaroorsak
 Frånvaroperiod i datumurvalet
+Frånvarotyp
 Första datum i frånvaroperiod
 Hem - Kontering - Kod (vid frånvarotillfället)
 Hem - Kontering - Namn (vid frånvarotillfället)
@@ -75,9 +84,6 @@ Sista datum i frånvaroperiod
 T.o.m. klockslag
 T.o.m. klockslag
 (inkl. dygnsbryttecken)
-Datakällan
-Frånvaro
-kommer att utökas med fler funktioner.
 Vilken frånvaro visas i rapporten?
 Rapporten hämtar frånvaro från tidrapportens frånvarohanterare. Frånvarotidrader som endast skrivits in direkt i tidrapporten kommer alltså inte med.
 Finns det flera frånvaroposter för samma tidpunkt hämtar rapporten enligt samma logik som tidrapporten. Du kan läsa mer om det i denna artikel:
@@ -100,6 +106,12 @@ Exempel:
 Anställd 1 tillhörde kostnadsställe 8 i januari och kostnadsställe 7 i februari.
 Rapporten visar hemkostnadsställe utifrån datum, INTE vad den anställde har idag.
 ![Bild](images/kan-jag-ta-ut-information-om-franvaro-i-rapportgeneratorn_6b98b4f3.png)
+Hur fungerar urval och visning av antal timmar karens?
+Karens beräknas som 20% av faktiskt arbetsmått/vecka.
+Väljer du att ha med karens i rapporten räknas karens oavsett frånvaroorsak.
+I anställdaregistret finns en inställning för
+Karensbefriad
+. Den påverkar inte resultatet i rapporten.
 Ta hänsyn till återinsjuknande
 En viktig funktion är möjligheten att ta hänsyn till
 återinsjuknande

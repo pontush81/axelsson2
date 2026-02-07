@@ -1959,13 +1959,14 @@
     "category": "time",
     "subcategory": "Frånvaro & Semester",
     "type": "faq",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [
       "frånvaro",
+      "ob",
       "schema",
       "tidrapport"
     ],
-    "date": "den 2 februari 2026",
+    "date": "den 6 februari 2026",
     "url": "https://knowledge.flexhrm.com/sv/kan-jag-ta-ut-information-om-fr%C3%A5nvaro-i-rapportgeneratorn-",
     "isConfig": false,
     "imageCount": 1,
@@ -2450,14 +2451,15 @@
       "attestering",
       "frånvaro",
       "hrm-time",
+      "schema",
       "övertid"
     ],
-    "date": "den 29 september 2025",
+    "date": "den 6 februari 2026",
     "url": "https://knowledge.flexhrm.com/sv/vilka-funktioner-i-hrm-time-fungerar-med-modulen-koncern",
     "isConfig": false,
     "imageCount": 0,
     "hasImages": false,
-    "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i HRM Time\nVad ingår i koncernhanteringen?\nDashboard:\nSjukfrånvaro\nStartsida\n: Närvarotablå, ..."
+    "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i HRM Time\nVad ingår i koncernhanteringen?\nDashboard:\nSjukfrånvaro.\nStartsida\n: Närvarotablå,..."
   },
   {
     "title": "⚙️Hur justerar man avvikande dagar i regelverk i HRM Time?",
