@@ -1,6 +1,6 @@
 # Semesterårsskifte HRM Payroll: Januari - Vad behöver jag göra inför semesterårsskiftet?
 
-**Datum:** den 25 november 2025  
+**Datum:** den 2 januari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** other  
@@ -66,7 +66,7 @@ Det ska då göras i den ordinarie lönekörningen för januari genom att manuel
 Importmall och importfil för utbetalning av överskjutande dagar
 längre ned i denna artikel).
 Om medarbetaren ska få årets betalda dagar utbetalda behövs en separat löneart för att dessa ska avräknas mot rätt saldo, dvs årets betalda dagar istället för sparade dagar.
-![Bild](images/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet_095b1715.png)
+![Bild](images/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet_5ce27020.png)
 Om utbetalning inte görs i den ordinarie körningen för januari kommer alla dagar att flyttas över till sparade dagar, årets kvarvarande betalda dagar hamnar då på sparår 1 och när utbetalning görs i kommande lönekörning utbetalas sparade dagar från det sista sparåret i första hand, näst sista året i andra hand o.s.v. Detta innebär att du då kan behöva justera saldona för sparade dagar innan eller efter utbetalning gjorts för att få rätt fördelning på de olika sparåren.
 Före utbetalning:
 ![Bild](images/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet_abfc60ae.png)
@@ -88,11 +88,11 @@ Kontrollera alla
 När allt är klart klickar du på
 Verkställ underlag
 och semesterårsskiftet är klart.
-![Bild](images/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet_97dc8067.png)
+![Bild](images/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet_f60b8889.png)
 De anställda har nu fått sina nya dagar som du kan se både i anställdaregistret och i löneberedningen.
 ![Bild](images/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet_ee9b3fcb.png)
 Sista steget är nu att avräkna den preliminära lönekörningen. Om du använder HRM Time rekommenderar vi också att du exporterar semestersaldon dit för att de anställda direkt ska se sina nya semesterdagar i tidrapportens saldon. Detta görs normalt direkt vid avräkning av lönekörningen.
-![Bild](images/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet_9fbaa860.png)
+![Bild](images/semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet_8084aa88.png)
 Därefter är semesterskiftet klart!
 Importmall och importfil för utbetalning av överskjutande dagar
 För att läsa in en fil med de dagar som ska utbetalas pga att de ej får sparas behövs en importmall och en fil med det antal dagar som ska utbetalas.
@@ -152,4 +152,4 @@ Starta ordinarie lönekörning och läs in avvikelser
 Skapa semesterskuld "Avstämning semesterårsskifte"
 Skapa underlag för semesterårsskifte
 Komplettera, kontrollera och verkställ semesterårsskiftet
-Avräkna den extra lönekörningen och exportera saldon till TIME
+Avräkna den extra lönekörningen och exportera saldon till Time

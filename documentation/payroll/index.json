@@ -338,10 +338,10 @@
       "lön",
       "skatt"
     ],
-    "date": "den 7 oktober 2025",
+    "date": "den 16 januari 2026",
     "url": "https://knowledge.flexhrm.com/fos-f%C3%B6rfr%C3%A5gan-fr%C3%A5ga-om-skatteavdrag-hur-skickar-jag-in-fos-f%C3%B6rfr%C3%A5gan-i-flex-hrm-payroll",
     "isConfig": false,
-    "imageCount": 2,
+    "imageCount": 3,
     "hasImages": true,
     "excerpt": "Guide för FOS-förfrågan i Flex HRM. Lär dig hämta, granska och verkställa nya skatteuppgifter för anställda inför det nya beskattningsåret.\nInför varje nytt beskattningsår behöver du som löneutbetalar..."
   },
@@ -416,7 +416,7 @@
       "lön",
       "semester"
     ],
-    "date": "den 7 oktober 2025",
+    "date": "den 12 januari 2026",
     "url": "https://knowledge.flexhrm.com/hur-skapar-jag-en-ber%C3%A4kning-av-skuld-t.ex.-semesterskuld-kompskuld-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 6,
@@ -816,10 +816,10 @@
     "tags": [
       "lön"
     ],
-    "date": "den 7 oktober 2025",
+    "date": "den 19 januari 2026",
     "url": "https://knowledge.flexhrm.com/l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-hur-tar-jag-fram-statistik-f%C3%B6r-slp-i-hrm-payroll",
     "isConfig": false,
-    "imageCount": 13,
+    "imageCount": 12,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du tar ut Lönestrukturstatistik för privat sektor (SLP) till SCB, SN eller Sobona i systemet.\nLöpande arbete för rapportering av lönestrukturstatistik (SLP)\nEn gång per år,..."
   },
@@ -903,9 +903,9 @@
     "excerpt": "I denna artikel beskrivs de olika inställningar som krävs för att statistiken för KLP ska bli korrekt.\nUppgifter på individnivå\nLönetillägg\nLöneartsinställningar\nUppgifter på individnivå\nI anställdare..."
   },
   {
-    "title": "Pensionsrapportering (årsvis) till Fora - Hur pensionsrapporterar jag till Fora i Flex HRM Payroll?",
-    "file": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll.md",
-    "slug": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll",
+    "title": "Pensionsrapportering (årsvis) till Fora - Hur pensionsrapporterar jag tjänstemän till Fora i Flex HRM Payroll?",
+    "file": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-tjansteman-till-fora-i-flex-hrm-pa.md",
+    "slug": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-tjansteman-till-fora-i-flex-hrm-pa",
     "category": "payroll",
     "subcategory": "Löneberedning",
     "type": "other",
@@ -915,12 +915,12 @@
       "löneart",
       "pension"
     ],
-    "date": "den 26 september 2025",
+    "date": "den 12 januari 2026",
     "url": "https://knowledge.flexhrm.com/peinsonsrapportering-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll",
     "isConfig": false,
-    "imageCount": 13,
+    "imageCount": 10,
     "hasImages": true,
-    "excerpt": "Denna artikel beskriver hur du pensionsrapporterar till Fora årsvis i Flex HRM Payroll: från att skapa underlag och fil till uppladdning på Foras hemsida, inklusive hur beräkningar görs.\nSkapa underla..."
+    "excerpt": "Denna artikel beskriver hur du pensionsrapporterar tjänstemän till Fora årsvis i Flex HRM Payroll.\nSkapa underlag\nKomplettera\nTa bort underlag\nKontrollera underlaget\nInrapportering\nFördjupad informati..."
   },
   {
     "title": "⚙️Hur skapar jag en COINS-fil?",
@@ -954,7 +954,7 @@
       "löneart",
       "pension"
     ],
-    "date": "den 26 september 2025",
+    "date": "den 26 januari 2026",
     "url": "https://knowledge.flexhrm.com/vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl/akap-kr",
     "isConfig": false,
     "imageCount": 13,
@@ -968,12 +968,12 @@
     "category": "payroll",
     "subcategory": "Löneberedning",
     "type": "howto",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [
       "lön",
       "pension"
     ],
-    "date": "den 26 september 2025",
+    "date": "den 19 januari 2026",
     "url": "https://knowledge.flexhrm.com/hur-genomf%C3%B6r-man-rapportering-till-collectum-i-flex-hrm-payroll",
     "isConfig": false,
     "imageCount": 14,
@@ -1115,7 +1115,7 @@
       "pension",
       "semester"
     ],
-    "date": "den 8 december 2025",
+    "date": "den 19 januari 2026",
     "url": "https://knowledge.flexhrm.com/hur-g%C3%B6r-man-inst%C3%A4llningar-f%C3%B6r-rapportering-till-collectum-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 6,
@@ -1298,7 +1298,7 @@
       "löneart",
       "semester"
     ],
-    "date": "den 25 november 2025",
+    "date": "den 2 januari 2026",
     "url": "https://knowledge.flexhrm.com/semester%C3%A5rsskifte-hrm-payroll-januari-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
     "isConfig": false,
     "imageCount": 26,

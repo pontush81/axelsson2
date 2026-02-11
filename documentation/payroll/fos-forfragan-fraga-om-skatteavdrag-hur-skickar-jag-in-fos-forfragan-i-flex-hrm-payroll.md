@@ -1,12 +1,12 @@
 # FOS-förfrågan (fråga om skatteavdrag) - Hur skickar jag in FOS-förfrågan i Flex HRM Payroll?
 
-**Datum:** den 7 oktober 2025  
+**Datum:** den 16 januari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** other  
 **Svårighetsgrad:** advanced  
 **Tags:** lön, skatt  
-**Bilder:** 2  
+**Bilder:** 3  
 **URL:** https://knowledge.flexhrm.com/fos-f%C3%B6rfr%C3%A5gan-fr%C3%A5ga-om-skatteavdrag-hur-skickar-jag-in-fos-f%C3%B6rfr%C3%A5gan-i-flex-hrm-payroll
 
 ---
@@ -22,17 +22,11 @@ Ny
 2. I dialogrutan som kommer upp, välj vilket inkomstår du vill hämta skatteuppgifter för.
 Viktigt!
 När du hämtar uppgifter för ett nytt skatteår måste du vara helt klar med alla löneutbetalningar för det föregående året.
-3.  Under rubriken
-Tjänst
-väljer du om du vill göra ett test eller en skarp förfrågan.
-Skatteverkets testtjänst:
-Använd detta val om du vill testa funktionen utan att göra en riktig förfrågan.
-Driftsatt tjänst:
-Välj detta för att göra en skarp förfrågan till Skatteverkets centrala skatteregister.
-4.  Gör ett urval för vilka anställda som ska ingå i förfrågan. Du kan till exempel välja att inkludera avslutade anställda om du har återkommande säsongsanställda.
-5.  Klicka på
+3.  Gör ett urval för vilka anställda som ska ingå i förfrågan. Du kan till exempel välja att inkludera avslutade anställda om du har återkommande säsongsanställda.
+4.  Klicka på
 Hämta
 .
+![Bild](images/fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-payroll_a870f309.png)
 En förfrågan skickas nu via Skatteverkets API. Inom några sekunder till några minuter, beroende på antalet anställda, får du ett svar som visas direkt i vyn. Om något blir fel, till exempel om ett personnummer inte finns i registret, visas en fellogg.
 Kontrollera och granska uppgifterna
 När uppgifterna har hämtats visas de i en preliminär lista och uppdaterar alltså inte anställdaregistret direkt. Alla FOS-förfrågningar som du har gjort sparas och du kan se tidigare förfrågningar via fältet

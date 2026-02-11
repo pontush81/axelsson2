@@ -1,11 +1,11 @@
 # Kan jag ta ut information om frånvaro i rapportgeneratorn?
 
-**Datum:** den 6 februari 2026  
+**Datum:** den 10 februari 2026  
 **Kategori:** Time  
 **Underkategori:** Frånvaro & Semester  
 **Typ:** faq  
 **Svårighetsgrad:** advanced  
-**Tags:** frånvaro, ob, schema, tidrapport  
+**Tags:** frånvaro, schema, tidrapport  
 **Bilder:** 1  
 **URL:** https://knowledge.flexhrm.com/sv/kan-jag-ta-ut-information-om-fr%C3%A5nvaro-i-rapportgeneratorn-
 
@@ -40,8 +40,6 @@ eller
 Datakällan kan tas ut på koncernnivå för er som använder modulen
 Koncernhantering
 .
-Observera
-Datakällan Frånvaro utökades med hantering för koncern och karens nyligen. Du behöver ha version 2026.29 eller senare för att det ska finnas på plats.
 Tillgängliga fält och urval
 För datakällan
 Frånvaro

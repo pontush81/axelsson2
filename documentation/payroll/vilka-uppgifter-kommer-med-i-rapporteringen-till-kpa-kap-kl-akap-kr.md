@@ -1,6 +1,6 @@
 # Vilka uppgifter kommer med i rapporteringen till KPA (KAP-KL/AKAP-KR)?
 
-**Datum:** den 26 september 2025  
+**Datum:** den 26 januari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Pension  
 **Typ:** other  
@@ -19,7 +19,7 @@ I nedan tabell kan du se vilka posttyper samt vilka avtal som kommer med i de ol
 ![Bild](images/vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl-akap-kr_e8c78b3a.png)
 Vilka anställda tas med i underlaget?
 En anställd tas med om något av följande villkor uppfylls:
-Den anställde har en anställning under perioden 1 januari till rapporteringsperiodens slut, med avtalet KAP-KL eller AKAP-KR samt en anställningsform inställd med KPA anställningskod.
+Den anställde har någon anställningsdag under perioden 1 januari till rapporteringsperiodens slut, med avtalet KAP-KL eller AKAP-KR samt en anställningsform inställd med KPA anställningskod.
 För KAP-KL räknas inte anställningsperioder som påbörjas efter det att man fyllt 69 år.
 För timanställda gäller att man också ska ha haft minst en arbetsperiod registrerad.
 Pensionsgrundande lön utbetald utanför en anställningsperiod men under redovisningsperioden och man tidigare haft en anställning tillhörande KAP-KL eller AKAP-KR (slutlön). Detta gäller dock inte vid delårsrapportering då lön inte ska redovisas där.

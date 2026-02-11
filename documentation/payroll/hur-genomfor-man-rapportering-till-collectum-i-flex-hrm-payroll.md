@@ -1,10 +1,10 @@
 # Hur genomför man rapportering till Collectum i Flex HRM Payroll?
 
-**Datum:** den 26 september 2025  
+**Datum:** den 19 januari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** howto  
-**Svårighetsgrad:** intermediate  
+**Svårighetsgrad:** advanced  
 **Tags:** lön, pension  
 **Bilder:** 14  
 **URL:** https://knowledge.flexhrm.com/hur-genomf%C3%B6r-man-rapportering-till-collectum-i-flex-hrm-payroll
@@ -17,6 +17,7 @@ Komplettera och ta bort underlag
 Kontrollera underlaget
 Skapa fil för rapportering
 Skicka in filen till Collectum
+Vad saknas det stöd för i filen
 Löpande arbete för rapportering till Collectum
 En gång per månad ska man rapportera pensionsgrundande lön samt påbörjade och avslutade anställningar för ITP1 och ITP2 till Collectum. Detta gör du i Flex HRM Payroll under
 Lön > Pension
@@ -84,5 +85,19 @@ Här finns filen kvar till dess att du väljer att ta bort den från listan. Fil
 ![Bilden visar dialogrutan för skapade filer för underlaget.](images/hur-genomfor-man-rapportering-till-collectum-i-flex-hrm-payroll_ef5fe2f3.png)
 Skicka in filen till Collectum
 När filen är skapad i Flex HRM laddar du ner den enligt ovan och skickar in den till Collectum. Detta gör du genom att logga in på Collectums hemsida och där följa instruktionerna för rapportering via fil.
+Vad saknas det stöd för i filen från Flex HRM Payroll?
+Det finns några uppgifter som är möjliga att rapportera i filen till Collectum men som ännu inte går att rapportera från Flex HRM Payroll.
+Löneväxling för ITP2 då man vill rapportera dubbla årslöner
+Se information under avsnittet
+Löneväxling för ITP2
+.
+Avanmälan vid tjänstledighet och föräldraledighet
+Om en anställd är tjänstledig eller föräldraledig under längre tid ska man i vissa fall avanmälas till Collectum. Då det redan är en viss manuell hantering för dessa via Collectums internetkontor har vi valt att inte bygga stöd för detta i filen. Detta gäller både ITP1 och ITP2.
+Tjänstledighet på deltid för ITP2
+För anställda med ITP2 som är tjänstlediga på deltid ska man i vissa fall göra en avanmälan och i andra fall räkna ner årslönen. Denna hantering sker inte automatiskt i systemet utan behöver hanteras manuellt via Collectums internetkontor.
+Flytt av anställda inom koncern
+Om en anställd ska flyttas till ett annat företag inom koncernen eller till ett annat kostnadsställe kan man rapportera detta via filen till Collectum. Vi har i dagsläget inte byggt stöd för detta och hänvisar tillsvidare till Collectums internetkontor.
+Nyanmälan vid byte av personalkategori
+Om en anställd byter personalkategori till tjänsteman triggas ingen nyanmälan till Collectum, medarbetaren kommer bara med i filen med uppgifter under Anmälan lön. Nyanmälan måste göras manuellt i Collectums internetkontor.
 Relaterade artiklar:
 Hur gör man inställningar för rapportering till Collectum i HRM Payroll?

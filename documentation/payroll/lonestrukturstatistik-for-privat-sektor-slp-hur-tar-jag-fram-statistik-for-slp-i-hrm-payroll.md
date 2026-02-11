@@ -1,12 +1,12 @@
 # Lönestrukturstatistik för privat sektor (SLP) - Hur tar jag fram statistik för SLP i HRM Payroll?
 
-**Datum:** den 7 oktober 2025  
+**Datum:** den 19 januari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Inställningar  
 **Typ:** other  
 **Svårighetsgrad:** advanced  
 **Tags:** lön  
-**Bilder:** 13  
+**Bilder:** 12  
 **URL:** https://knowledge.flexhrm.com/l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-hur-tar-jag-fram-statistik-f%C3%B6r-slp-i-hrm-payroll
 
 ---
@@ -60,7 +60,6 @@ Kontrollerad
 . Systemet sparar även datum, tid och användarsignatur för den som genomfört kontrollmarkeringen.
 ![Bilden visar fälten för status, datum och tid samt signatur.](images/lonestrukturstatistik-for-privat-sektor-slp-hur-tar-jag-fram-statistik-for-slp-i-hrm-payroll_04610c0f.png)
 Om du hittar ett fel i ett kontrollerat underlag kan du ta bort kontrollmarkeringen igen, vilket gör att statusen återigen blir preliminär.
-![Bilden visar knappen "Ta bort".](images/lonestrukturstatistik-for-privat-sektor-slp-hur-tar-jag-fram-statistik-for-slp-i-hrm-payroll_f189518c.png)
 Fil för redovisning
 När underlaget har sammanställts genereras automatiskt en rapportfil. Denna fil underlättar rapporteringen till SCB eller SN och kan hämtas via knappen
 Visa filer
