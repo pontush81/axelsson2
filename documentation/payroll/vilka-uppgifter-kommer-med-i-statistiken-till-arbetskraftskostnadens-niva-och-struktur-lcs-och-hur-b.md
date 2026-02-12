@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-och-hur-ber%C3%A4knas-dem
+**URL:** https://knowledge.flexhrm.com/sv/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-och-hur-ber%C3%A4knas-dem
 
 ---
 

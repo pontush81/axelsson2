@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-en-ny-l%C3%B6nek%C3%B6rning-i-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-en-ny-l%C3%B6nek%C3%B6rning-i-payroll
 
 ---
 

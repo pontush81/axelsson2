@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, skatt  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-hur-tar-jag-fram-statistik-f%C3%B6r-klp-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-hur-tar-jag-fram-statistik-f%C3%B6r-klp-i-hrm-payroll
 
 ---
 

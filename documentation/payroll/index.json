@@ -11,7 +11,7 @@
       "lön"
     ],
     "date": "den 20 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-tar-jag-bort-en-anst%C3%A4lld-fr%C3%A5n-en-prelimin%C3%A4r-l%C3%B6nek%C3%B6rning",
+    "url": "https://knowledge.flexhrm.com/sv/hur-tar-jag-bort-en-anst%C3%A4lld-fr%C3%A5n-en-prelimin%C3%A4r-l%C3%B6nek%C3%B6rning",
     "isConfig": false,
     "imageCount": 2,
     "hasImages": true,
@@ -31,7 +31,7 @@
       "semester"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/var-kan-jag-se-en-medarbetares-fr%C3%A5nvaro-som-ber%C3%A4knats-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/var-kan-jag-se-en-medarbetares-fr%C3%A5nvaro-som-ber%C3%A4knats-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 4,
     "hasImages": true,
@@ -51,11 +51,33 @@
       "semester"
     ],
     "date": "den 17 december 2025",
-    "url": "https://knowledge.flexhrm.com/hur-hanteras-retroaktiv-l%C3%B6n-vid-l%C3%B6nerevision-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-hanteras-retroaktiv-l%C3%B6n-vid-l%C3%B6nerevision-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 10,
     "hasImages": true,
     "excerpt": "Varje år genomförs vanligen en lönerevision för att sätta nya löner för medarbetarna. Det är vanligt att de nya lönerna blir klara efter att de har börjat gälla. Om det händer behöver du betala ut lön..."
+  },
+  {
+    "title": "Hur hanterar jag en löneskuld i HRM Payroll?",
+    "file": "hur-hanterar-jag-en-loneskuld-i-hrm-payroll.md",
+    "slug": "hur-hanterar-jag-en-loneskuld-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "bokföring",
+      "lön",
+      "löneart",
+      "skatt"
+    ],
+    "date": "den 17 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-hanterar-jag-en-l%C3%B6neskuld-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 15,
+    "hasImages": true,
+    "excerpt": "Hantera löneskuld som inte kan kvittas (återbetalning)\nOm du som arbetsgivare inte har möjlighet att reglera en löneskuld genom avdrag på en senare löneutbetalning, kan du kräva tillbaka det felaktiga..."
   },
   {
     "title": "Var kan jag se vilka poster som var med i överföringen till lönekörningen från HRM Time, HRM Travel eller en importerad fil?",
@@ -70,7 +92,7 @@
       "lön"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/var-kan-jag-se-vilka-poster-som-var-med-i-%C3%B6verf%C3%B6ringen-till-l%C3%B6nek%C3%B6rningen-fr%C3%A5n-hrm-time-eller-hrm-travel-eller-en-importerad-fil",
+    "url": "https://knowledge.flexhrm.com/sv/var-kan-jag-se-vilka-poster-som-var-med-i-%C3%B6verf%C3%B6ringen-till-l%C3%B6nek%C3%B6rningen-fr%C3%A5n-hrm-time-eller-hrm-travel-eller-en-importerad-fil",
     "isConfig": false,
     "imageCount": 5,
     "hasImages": true,
@@ -88,7 +110,7 @@
       "lön"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-f%C3%B6r-att-importera/l%C3%A4sa-in-en-fil-med-l%C3%B6netransaktioner-i-l%C3%B6neberedningen",
+    "url": "https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-f%C3%B6r-att-importera/l%C3%A4sa-in-en-fil-med-l%C3%B6netransaktioner-i-l%C3%B6neberedningen",
     "isConfig": false,
     "imageCount": 4,
     "hasImages": true,
@@ -106,7 +128,7 @@
       "lön"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-skapar-jag-en-ny-l%C3%B6nek%C3%B6rning-i-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-skapar-jag-en-ny-l%C3%B6nek%C3%B6rning-i-payroll",
     "isConfig": false,
     "imageCount": 7,
     "hasImages": true,
@@ -127,7 +149,7 @@
       "skatt"
     ],
     "date": "den 14 november 2025",
-    "url": "https://knowledge.flexhrm.com/vad-kan-smartdetect-varna-f%C3%B6r-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/vad-kan-smartdetect-varna-f%C3%B6r-i-flex-hrm-payroll",
     "isConfig": false,
     "imageCount": 0,
     "hasImages": false,
@@ -148,7 +170,7 @@
       "skatt"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-anv%C3%A4nder-man-smartdetect-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nder-man-smartdetect-i-flex-hrm-payroll",
     "isConfig": false,
     "imageCount": 6,
     "hasImages": true,
@@ -166,7 +188,7 @@
       "lön"
     ],
     "date": "den 2 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-kan-jag-g%C3%B6ra-urval-p%C3%A5-anst%C3%A4llda-n%C3%A4r-jag-skapar-en-ordinarie-l%C3%B6nek%C3%B6rning-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-kan-jag-g%C3%B6ra-urval-p%C3%A5-anst%C3%A4llda-n%C3%A4r-jag-skapar-en-ordinarie-l%C3%B6nek%C3%B6rning-i-flex-hrm-payroll",
     "isConfig": false,
     "imageCount": 2,
     "hasImages": true,
@@ -185,7 +207,7 @@
       "löneart"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-l%C3%A4gger-jag-till-en-fr%C3%A5nvarotransaktion-direkt-i-l%C3%B6neberedningen",
+    "url": "https://knowledge.flexhrm.com/sv/hur-l%C3%A4gger-jag-till-en-fr%C3%A5nvarotransaktion-direkt-i-l%C3%B6neberedningen",
     "isConfig": false,
     "imageCount": 2,
     "hasImages": true,
@@ -207,7 +229,7 @@
       "semester"
     ],
     "date": "den 14 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-ber%C3%A4knar-jag-slutl%C3%B6n-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-ber%C3%A4knar-jag-slutl%C3%B6n-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 6,
     "hasImages": true,
@@ -225,7 +247,7 @@
       "lön"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/det-visas-en-varning-att-det-finns-transaktioner-som-inte-h%C3%A4mtats-in-i-l%C3%B6nek%C3%B6rningen-hur-hittar-jag-och-hanterar-dessa",
+    "url": "https://knowledge.flexhrm.com/sv/det-visas-en-varning-att-det-finns-transaktioner-som-inte-h%C3%A4mtats-in-i-l%C3%B6nek%C3%B6rningen-hur-hittar-jag-och-hanterar-dessa",
     "isConfig": false,
     "imageCount": 4,
     "hasImages": true,
@@ -243,7 +265,7 @@
       "lön"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/min-bank-s%C3%A4ger-att-att-vi-m%C3%A5ste-byta-bankfilsformat-hur-g%C3%B6r-jag-f%C3%B6r-att-byta-format",
+    "url": "https://knowledge.flexhrm.com/sv/min-bank-s%C3%A4ger-att-att-vi-m%C3%A5ste-byta-bankfilsformat-hur-g%C3%B6r-jag-f%C3%B6r-att-byta-format",
     "isConfig": true,
     "imageCount": 0,
     "hasImages": false,
@@ -261,7 +283,7 @@
       "lön"
     ],
     "date": "den 20 november 2025",
-    "url": "https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-inst%C3%A4llningar-f%C3%B6r-bankfiler-med-formatet-iso-20022-pain.001-xml-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-inst%C3%A4llningar-f%C3%B6r-bankfiler-med-formatet-iso-20022-pain.001-xml-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 21,
     "hasImages": true,
@@ -281,7 +303,7 @@
       "semester"
     ],
     "date": "den 2 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-f%C3%B6r-att-importera-i-l%C3%B6neberedningen-l%C3%B6netransaktioner",
+    "url": "https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-f%C3%B6r-att-importera-i-l%C3%B6neberedningen-l%C3%B6netransaktioner",
     "isConfig": true,
     "imageCount": 6,
     "hasImages": true,
@@ -300,7 +322,7 @@
       "löneart"
     ],
     "date": "den 2 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-man-ska-kunna-anv%C3%A4nda-smartdetect",
+    "url": "https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-man-ska-kunna-anv%C3%A4nda-smartdetect",
     "isConfig": true,
     "imageCount": 2,
     "hasImages": true,
@@ -320,7 +342,7 @@
       "semester"
     ],
     "date": "den 28 november 2025",
-    "url": "https://knowledge.flexhrm.com/export-av-saldon-hur-exporterar-man-saldon-fr%C3%A5n-hrm-payroll-till-hrm-time",
+    "url": "https://knowledge.flexhrm.com/sv/export-av-saldon-hur-exporterar-man-saldon-fr%C3%A5n-hrm-payroll-till-hrm-time",
     "isConfig": true,
     "imageCount": 5,
     "hasImages": true,
@@ -339,7 +361,7 @@
       "skatt"
     ],
     "date": "den 16 januari 2026",
-    "url": "https://knowledge.flexhrm.com/fos-f%C3%B6rfr%C3%A5gan-fr%C3%A5ga-om-skatteavdrag-hur-skickar-jag-in-fos-f%C3%B6rfr%C3%A5gan-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/fos-f%C3%B6rfr%C3%A5gan-fr%C3%A5ga-om-skatteavdrag-hur-skickar-jag-in-fos-f%C3%B6rfr%C3%A5gan-i-flex-hrm-payroll",
     "isConfig": false,
     "imageCount": 3,
     "hasImages": true,
@@ -359,7 +381,7 @@
       "skatt"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/varf%C3%B6r-r%C3%A4knas-eng%C3%A5ngsskatten-om-vid-l%C3%B6nek%C3%B6rningens-avr%C3%A4kning",
+    "url": "https://knowledge.flexhrm.com/sv/varf%C3%B6r-r%C3%A4knas-eng%C3%A5ngsskatten-om-vid-l%C3%B6nek%C3%B6rningens-avr%C3%A4kning",
     "isConfig": false,
     "imageCount": 3,
     "hasImages": true,
@@ -377,7 +399,7 @@
       "skatt"
     ],
     "date": "den 10 december 2025",
-    "url": "https://knowledge.flexhrm.com/hur-registreras-skatteavdrag-f%C3%B6r-s%C3%A4rskild-inkomstskatt-sink-i-flex-hrm",
+    "url": "https://knowledge.flexhrm.com/sv/hur-registreras-skatteavdrag-f%C3%B6r-s%C3%A4rskild-inkomstskatt-sink-i-flex-hrm",
     "isConfig": false,
     "imageCount": 2,
     "hasImages": true,
@@ -397,7 +419,7 @@
       "semester"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-skapar-jag-ett-bokf%C3%B6ringsunderlag-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-skapar-jag-ett-bokf%C3%B6ringsunderlag-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 4,
     "hasImages": true,
@@ -417,7 +439,7 @@
       "semester"
     ],
     "date": "den 12 januari 2026",
-    "url": "https://knowledge.flexhrm.com/hur-skapar-jag-en-ber%C3%A4kning-av-skuld-t.ex.-semesterskuld-kompskuld-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-skapar-jag-en-ber%C3%A4kning-av-skuld-t.ex.-semesterskuld-kompskuld-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 6,
     "hasImages": true,
@@ -437,7 +459,7 @@
       "löneart"
     ],
     "date": "den 9 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/jag-f%C3%A5r-en-varning-att-konto-saknas-f%C3%B6r-bokf%C3%B6ringsposter-hur-hittar-jag-var-konto-saknas-och-korrigerar-detta",
+    "url": "https://knowledge.flexhrm.com/sv/jag-f%C3%A5r-en-varning-att-konto-saknas-f%C3%B6r-bokf%C3%B6ringsposter-hur-hittar-jag-var-konto-saknas-och-korrigerar-detta",
     "isConfig": false,
     "imageCount": 4,
     "hasImages": true,
@@ -457,11 +479,30 @@
       "löneart"
     ],
     "date": "den 10 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-ser-jag-vilka-belopp-och-poster-som-bokf%C3%B6rts-p%C3%A5-ett-specifikt-konto-i-bokf%C3%B6ringsunderlaget",
+    "url": "https://knowledge.flexhrm.com/sv/hur-ser-jag-vilka-belopp-och-poster-som-bokf%C3%B6rts-p%C3%A5-ett-specifikt-konto-i-bokf%C3%B6ringsunderlaget",
     "isConfig": false,
     "imageCount": 5,
     "hasImages": true,
     "excerpt": "För att se vilka lönearter som har bokförts på ett specifikt konto, förhandsgranskar du bokföringsunderlaget. Under inställningen Fördelning bokföringspost, väljer du att visa Konto och Löneartsnummer..."
+  },
+  {
+    "title": "Hur använder jag funktionen för överföring av bokföringsinformation från HRM Payroll till Visma.Net Finance?",
+    "file": "hur-anvander-jag-funktionen-for-overforing-av-bokforingsinformation-fran-hrm-payroll-till-visma-net-.md",
+    "slug": "hur-anvander-jag-funktionen-for-overforing-av-bokforingsinformation-fran-hrm-payroll-till-visma-net-",
+    "category": "payroll",
+    "subcategory": "Bokföring",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "bokföring",
+      "lön"
+    ],
+    "date": "den 19 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-%C3%B6verf%C3%B6ring-av-bokf%C3%B6ringsinformation-fr%C3%A5n-hrm-payroll-till-visma.net-finance",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "För att aktivera överföring av bokföringsinformation till Visma.Net Finance kontaktar du oss via\nServiceportalen\nHur integrationen fungerar\nKopplingen från HRM Payroll till Visma.Net kommer att göras ..."
   },
   {
     "title": "Konteringsflöde i HRM Payroll - Hur hanteras konteringsdimensioner och prioriteringar i HRM Payroll?",
@@ -476,7 +517,7 @@
       "löneart"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/konteringsfl%C3%B6de-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/konteringsfl%C3%B6de-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 11,
     "hasImages": true,
@@ -496,7 +537,7 @@
       "löneart"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-hanteras-kompskuld-och-skuld-p%C3%A5-valfria-ackumulatorer-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-hanteras-kompskuld-och-skuld-p%C3%A5-valfria-ackumulatorer-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 12,
     "hasImages": true,
@@ -517,7 +558,7 @@
       "skatt"
     ],
     "date": "den 21 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/vad-beh%C3%B6ver-jag-g%C3%B6ra-med-min-arbetsgivardeklaration-agi-p%C3%A5-individniv%C3%A5-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/vad-beh%C3%B6ver-jag-g%C3%B6ra-med-min-arbetsgivardeklaration-agi-p%C3%A5-individniv%C3%A5-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 31,
     "hasImages": true,
@@ -538,7 +579,7 @@
       "skatt"
     ],
     "date": "den 21 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/varf%C3%B6r-f%C3%A5r-jag-en-varning-i-arbetsgivaruppgifterna-p%C3%A5-individniv%C3%A5-agi-att-det-finns-ett-negativt-belopp-p%C3%A5-f%C3%A4lt-499",
+    "url": "https://knowledge.flexhrm.com/sv/varf%C3%B6r-f%C3%A5r-jag-en-varning-i-arbetsgivaruppgifterna-p%C3%A5-individniv%C3%A5-agi-att-det-finns-ett-negativt-belopp-p%C3%A5-f%C3%A4lt-499",
     "isConfig": false,
     "imageCount": 1,
     "hasImages": true,
@@ -557,7 +598,7 @@
       "skatt"
     ],
     "date": "den 1 december 2025",
-    "url": "https://knowledge.flexhrm.com/hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-%C3%A4nnu-inte-f%C3%A5tt-ett-samordningsnummer/personnummer",
+    "url": "https://knowledge.flexhrm.com/sv/hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-%C3%A4nnu-inte-f%C3%A5tt-ett-samordningsnummer/personnummer",
     "isConfig": false,
     "imageCount": 2,
     "hasImages": true,
@@ -578,7 +619,7 @@
       "skatt"
     ],
     "date": "den 25 september 2025",
-    "url": "https://knowledge.flexhrm.com/hur-hittar-jag-orsaken-till-diffar-i-skatt-och-arbetsgivaravgifter-agi-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-hittar-jag-orsaken-till-diffar-i-skatt-och-arbetsgivaravgifter-agi-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 8,
     "hasImages": true,
@@ -599,7 +640,7 @@
       "skatt"
     ],
     "date": "den 21 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-en-r%C3%A4ttelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-en-r%C3%A4ttelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 13,
     "hasImages": true,
@@ -619,7 +660,7 @@
       "skatt"
     ],
     "date": "den 16 december 2025",
-    "url": "https://knowledge.flexhrm.com/hur-fungerar-inst%C3%A4llningar-p%C3%A5-ackumulatorerna",
+    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-inst%C3%A4llningar-p%C3%A5-ackumulatorerna",
     "isConfig": true,
     "imageCount": 1,
     "hasImages": true,
@@ -638,7 +679,7 @@
       "skatt"
     ],
     "date": "den 25 september 2025",
-    "url": "https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-inst%C3%A4llningar-f%C3%B6r-arbetsplats-tj%C3%A4nstest%C3%A4lle-till-arbetsgivardeklarationen-agi-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-inst%C3%A4llningar-f%C3%B6r-arbetsplats-tj%C3%A4nstest%C3%A4lle-till-arbetsgivardeklarationen-agi-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 7,
     "hasImages": true,
@@ -662,7 +703,7 @@
       "skatt"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/flex-hrm-payroll-hur-anv%C3%A4nder-man-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/flex-hrm-payroll-hur-anv%C3%A4nder-man-flex-hrm-payroll",
     "isConfig": false,
     "imageCount": 20,
     "hasImages": true,
@@ -682,7 +723,7 @@
       "semester"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll",
     "isConfig": false,
     "imageCount": 8,
     "hasImages": true,
@@ -702,7 +743,7 @@
       "semester"
     ],
     "date": "den 2 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg.nu",
+    "url": "https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg.nu",
     "isConfig": true,
     "imageCount": 10,
     "hasImages": true,
@@ -721,11 +762,49 @@
       "löneart"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-och-hur-ber%C3%A4knas-dem",
+    "url": "https://knowledge.flexhrm.com/sv/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-och-hur-ber%C3%A4knas-dem",
     "isConfig": false,
     "imageCount": 1,
     "hasImages": true,
     "excerpt": "I denna artikel hittar du detaljerad information om vilka uppgifter tas med i del A och B i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) samt hur de beräknas.\nFördjupad information ..."
+  },
+  {
+    "title": "⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?",
+    "file": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll.md",
+    "slug": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 30 januari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/byggl%C3%B6sen-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 20,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver de inställningar du behöver göra för att kunna ta ut rapport för rapportering av Bygglösen 1.0 (Tidlön). I nuläget har rapporteringen inte stöd för prestationslön.\nBehörigheter\nLän ..."
+  },
+  {
+    "title": "Hur tar jag fram rapport till Bygglösen  i HRM Payroll?",
+    "file": "hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll.md",
+    "slug": "hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 19 januari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-byggl%C3%B6sen-1.0-tidl%C3%B6n-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du tar ut rapport för Bygglösen 1.0 (Tidlön) i systemet.\nSkapa underlag\nSkapa fil för rapportering\nVilka medarbetare innehåller underlaget\nSå här skapar du ett nytt underla..."
   },
   {
     "title": "Arbetskraftskostnadens nivå och struktur (LCS) - Hur tar jag fram statistiken för LCS i HRM Payroll?",
@@ -742,7 +821,7 @@
       "löneart"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-hur-tar-jag-fram-statistiken-f%C3%B6r-lcs-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-hur-tar-jag-fram-statistiken-f%C3%B6r-lcs-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 7,
     "hasImages": true,
@@ -760,7 +839,7 @@
       "lön"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/konjunkturstatistik-%C3%B6ver-sjukl%C3%B6ner-ksju-hur-tar-jag-fram-statistik-f%C3%B6r-ksju-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/konjunkturstatistik-%C3%B6ver-sjukl%C3%B6ner-ksju-hur-tar-jag-fram-statistik-f%C3%B6r-ksju-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 6,
     "hasImages": true,
@@ -780,7 +859,7 @@
       "skatt"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-hur-tar-jag-fram-statistik-f%C3%B6r-klp-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-hur-tar-jag-fram-statistik-f%C3%B6r-klp-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 11,
     "hasImages": true,
@@ -799,7 +878,7 @@
       "semester"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/kortperiodisk-syssels%C3%A4ttningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-f%C3%B6r-ksp-i-hrm-payroll-",
+    "url": "https://knowledge.flexhrm.com/sv/kortperiodisk-syssels%C3%A4ttningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-f%C3%B6r-ksp-i-hrm-payroll-",
     "isConfig": false,
     "imageCount": 6,
     "hasImages": true,
@@ -817,7 +896,7 @@
       "lön"
     ],
     "date": "den 19 januari 2026",
-    "url": "https://knowledge.flexhrm.com/l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-hur-tar-jag-fram-statistik-f%C3%B6r-slp-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-hur-tar-jag-fram-statistik-f%C3%B6r-slp-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 12,
     "hasImages": true,
@@ -837,7 +916,7 @@
       "semester"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-skapas-underlaget-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp",
+    "url": "https://knowledge.flexhrm.com/sv/hur-skapas-underlaget-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp",
     "isConfig": false,
     "imageCount": 0,
     "hasImages": false,
@@ -856,7 +935,7 @@
       "löneart"
     ],
     "date": "den 26 september 2025",
-    "url": "https://knowledge.flexhrm.com/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-lcs-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-lcs-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 1,
     "hasImages": true,
@@ -876,7 +955,7 @@
       "löneart"
     ],
     "date": "den 2 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-jag-ska-kunna-rapportera-statistik-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-jag-ska-kunna-rapportera-statistik-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-i-flex-hrm-payroll",
     "isConfig": true,
     "imageCount": 12,
     "hasImages": true,
@@ -896,7 +975,7 @@
       "skatt"
     ],
     "date": "den 2 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-klp-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-klp-i-flex-hrm-payroll",
     "isConfig": true,
     "imageCount": 5,
     "hasImages": true,
@@ -916,7 +995,7 @@
       "pension"
     ],
     "date": "den 12 januari 2026",
-    "url": "https://knowledge.flexhrm.com/peinsonsrapportering-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/peinsonsrapportering-till-fora-hur-pensionsrapporterar-jag-till-fora-i-flex-hrm-payroll",
     "isConfig": false,
     "imageCount": 10,
     "hasImages": true,
@@ -935,7 +1014,7 @@
       "pension"
     ],
     "date": "den 21 november 2025",
-    "url": "https://knowledge.flexhrm.com/hur-skapar-jag-en-coins-fil",
+    "url": "https://knowledge.flexhrm.com/sv/hur-skapar-jag-en-coins-fil",
     "isConfig": true,
     "imageCount": 3,
     "hasImages": true,
@@ -955,7 +1034,7 @@
       "pension"
     ],
     "date": "den 26 januari 2026",
-    "url": "https://knowledge.flexhrm.com/vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl/akap-kr",
+    "url": "https://knowledge.flexhrm.com/sv/vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl/akap-kr",
     "isConfig": false,
     "imageCount": 13,
     "hasImages": true,
@@ -974,7 +1053,7 @@
       "pension"
     ],
     "date": "den 19 januari 2026",
-    "url": "https://knowledge.flexhrm.com/hur-genomf%C3%B6r-man-rapportering-till-collectum-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-genomf%C3%B6r-man-rapportering-till-collectum-i-flex-hrm-payroll",
     "isConfig": false,
     "imageCount": 14,
     "hasImages": true,
@@ -993,7 +1072,7 @@
       "pension"
     ],
     "date": "den 26 september 2025",
-    "url": "https://knowledge.flexhrm.com/hur-rapporterar-jag-pensionsunderlag-till-kpa-kap-kl/akap-kr-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-pensionsunderlag-till-kpa-kap-kl/akap-kr-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 13,
     "hasImages": true,
@@ -1015,7 +1094,7 @@
       "skatt"
     ],
     "date": "den 26 september 2025",
-    "url": "https://knowledge.flexhrm.com/hur-r%C3%A4ttar-jag-redan-inl%C3%A4mnad-rapportering-till-fora-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-r%C3%A4ttar-jag-redan-inl%C3%A4mnad-rapportering-till-fora-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 0,
     "hasImages": false,
@@ -1035,7 +1114,7 @@
       "pension"
     ],
     "date": "den 11 november 2025",
-    "url": "https://knowledge.flexhrm.com/hur-rapporterar-jag-pension-till-fora-m%C3%A5nadsvis-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-pension-till-fora-m%C3%A5nadsvis-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 15,
     "hasImages": true,
@@ -1054,7 +1133,7 @@
       "pension"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/m%C3%A5nadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll-och-flex-l%C3%B6n-classic",
+    "url": "https://knowledge.flexhrm.com/sv/m%C3%A5nadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll-och-flex-l%C3%B6n-classic",
     "isConfig": false,
     "imageCount": 2,
     "hasImages": true,
@@ -1074,7 +1153,7 @@
       "pension"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-g%C3%B6ra-%C3%A5rsvis-rapportering-till-fora-i-flex-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-g%C3%B6ra-%C3%A5rsvis-rapportering-till-fora-i-flex-hrm-payroll",
     "isConfig": true,
     "imageCount": 4,
     "hasImages": true,
@@ -1094,7 +1173,7 @@
       "pension"
     ],
     "date": "den 26 september 2025",
-    "url": "https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-inst%C3%A4llningar-i-hrm-payroll-f%C3%B6r-att-kunna-rapportera-till-kpa-kap-kl/akap-kr",
+    "url": "https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-inst%C3%A4llningar-i-hrm-payroll-f%C3%B6r-att-kunna-rapportera-till-kpa-kap-kl/akap-kr",
     "isConfig": true,
     "imageCount": 6,
     "hasImages": true,
@@ -1116,7 +1195,7 @@
       "semester"
     ],
     "date": "den 19 januari 2026",
-    "url": "https://knowledge.flexhrm.com/hur-g%C3%B6r-man-inst%C3%A4llningar-f%C3%B6r-rapportering-till-collectum-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-man-inst%C3%A4llningar-f%C3%B6r-rapportering-till-collectum-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 6,
     "hasImages": true,
@@ -1136,7 +1215,7 @@
       "pension"
     ],
     "date": "den 2 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-rapportera-m%C3%A5nadsvis-till-fora-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-rapportera-m%C3%A5nadsvis-till-fora-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 7,
     "hasImages": true,
@@ -1157,7 +1236,7 @@
       "pension"
     ],
     "date": "den 24 november 2025",
-    "url": "https://knowledge.flexhrm.com/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut",
+    "url": "https://knowledge.flexhrm.com/sv/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut",
     "isConfig": false,
     "imageCount": 13,
     "hasImages": true,
@@ -1178,7 +1257,7 @@
       "pension"
     ],
     "date": "den 16 december 2025",
-    "url": "https://knowledge.flexhrm.com/hur-st%C3%A4ller-jag-in-atk/atf-avtal-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-jag-in-atk/atf-avtal-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 11,
     "hasImages": true,
@@ -1200,7 +1279,7 @@
       "pension"
     ],
     "date": "den 16 december 2025",
-    "url": "https://knowledge.flexhrm.com/inst%C3%A4llningar-av-l%C3%B6nearter-f%C3%B6r-atk/atf-avtal",
+    "url": "https://knowledge.flexhrm.com/sv/inst%C3%A4llningar-av-l%C3%B6nearter-f%C3%B6r-atk/atf-avtal",
     "isConfig": true,
     "imageCount": 35,
     "hasImages": true,
@@ -1220,7 +1299,7 @@
       "löneart"
     ],
     "date": "den 16 december 2025",
-    "url": "https://knowledge.flexhrm.com/hur-st%C3%A4ller-jag-in-p%C3%A5minnelser-f%C3%B6r-att-g%C3%B6ra-val-f%C3%B6r-intj%C3%A4nad-atk/atf",
+    "url": "https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-jag-in-p%C3%A5minnelser-f%C3%B6r-att-g%C3%B6ra-val-f%C3%B6r-intj%C3%A4nad-atk/atf",
     "isConfig": true,
     "imageCount": 2,
     "hasImages": true,
@@ -1240,7 +1319,7 @@
       "pension"
     ],
     "date": "den 5 december 2025",
-    "url": "https://knowledge.flexhrm.com/vad-%C3%A4r-arbetstidskonto-atk-och-arbetstidsf%C3%B6rkortning-atf",
+    "url": "https://knowledge.flexhrm.com/sv/vad-%C3%A4r-arbetstidskonto-atk-och-arbetstidsf%C3%B6rkortning-atf",
     "isConfig": false,
     "imageCount": 4,
     "hasImages": true,
@@ -1259,7 +1338,7 @@
       "löneart"
     ],
     "date": "den 26 september 2025",
-    "url": "https://knowledge.flexhrm.com/hur-fungerar-den-l%C3%B6pande-hanteringen-av-atk-och-atf",
+    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-den-l%C3%B6pande-hanteringen-av-atk-och-atf",
     "isConfig": false,
     "imageCount": 16,
     "hasImages": true,
@@ -1279,7 +1358,7 @@
       "pension"
     ],
     "date": "den 23 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atk-ut",
+    "url": "https://knowledge.flexhrm.com/sv/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atk-ut",
     "isConfig": false,
     "imageCount": 11,
     "hasImages": true,
@@ -1299,7 +1378,7 @@
       "semester"
     ],
     "date": "den 2 januari 2026",
-    "url": "https://knowledge.flexhrm.com/semester%C3%A5rsskifte-hrm-payroll-januari-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
+    "url": "https://knowledge.flexhrm.com/sv/semester%C3%A5rsskifte-hrm-payroll-januari-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
     "isConfig": false,
     "imageCount": 26,
     "hasImages": true,
@@ -1319,11 +1398,32 @@
       "semester"
     ],
     "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/semester%C3%A5rsskifte-hrm-payroll-april-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
+    "url": "https://knowledge.flexhrm.com/sv/semester%C3%A5rsskifte-hrm-payroll-april-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
     "isConfig": false,
     "imageCount": 22,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du gör ett semesterskifte när du har semesterår 1 april–31 mars.\nArbetsgång vid semesterårsbytet 1 april\nImportmall och importfil för utbetalning av överskjutande dagar\nChe..."
+  },
+  {
+    "title": "Hur korrigerar jag semestersaldo som blivit minus i kvarvarande dagar?",
+    "file": "hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-kvarvarande-dagar.md",
+    "slug": "hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-kvarvarande-dagar",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 12 januari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-uttagna-dagar",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Hantering av semestersaldon som hamnat i minus\nOm en medarbetare, t.ex. p.g.a. semesterkvot tagit ut mer semester än vad som finns kvar i saldot kan manuell justering behövas i lönekörningen för att f..."
   },
   {
     "title": "Formelvariabler - Varifrån hämtar formelvariablerna information för semestergrundande närvaro och frånvaro i HRM Payroll?",
@@ -1339,7 +1439,7 @@
       "semester"
     ],
     "date": "den 24 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/formelfunktioner",
+    "url": "https://knowledge.flexhrm.com/sv/formelfunktioner",
     "isConfig": false,
     "imageCount": 0,
     "hasImages": false,
@@ -1359,7 +1459,7 @@
       "semester"
     ],
     "date": "den 29 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/kalendarium-hur-kan-jag-se-en-sammanst%C3%A4llning-av-fr%C3%A5nvaro-och-schematid-f%C3%B6r-en-anst%C3%A4lld",
+    "url": "https://knowledge.flexhrm.com/sv/kalendarium-hur-kan-jag-se-en-sammanst%C3%A4llning-av-fr%C3%A5nvaro-och-schematid-f%C3%B6r-en-anst%C3%A4lld",
     "isConfig": false,
     "imageCount": 10,
     "hasImages": true,
@@ -1379,7 +1479,7 @@
       "skatt"
     ],
     "date": "den 11 november 2025",
-    "url": "https://knowledge.flexhrm.com/vad-styrs-av-inst%C3%A4llningarna-under-l%C3%B6nek%C3%B6rningar-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/vad-styrs-av-inst%C3%A4llningarna-under-l%C3%B6nek%C3%B6rningar-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 6,
     "hasImages": true,
@@ -1398,7 +1498,7 @@
       "löneart"
     ],
     "date": "den 11 november 2025",
-    "url": "https://knowledge.flexhrm.com/hur-st%C3%A4ller-man-in-l%C3%B6nekoppling-till-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-man-in-l%C3%B6nekoppling-till-hrm-payroll",
     "isConfig": true,
     "imageCount": 2,
     "hasImages": true,
@@ -1416,11 +1516,29 @@
       "lön"
     ],
     "date": "den 21 november 2025",
-    "url": "https://knowledge.flexhrm.com/skicka-l%C3%B6nespecifikationer-med-kivra-i-flex-hrm",
+    "url": "https://knowledge.flexhrm.com/sv/skicka-l%C3%B6nespecifikationer-med-kivra-i-flex-hrm",
     "isConfig": true,
     "imageCount": 7,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du ställer in och skickar lönespecifikationer till dina anställda via den digitala brevlådan Kivra.\nFörutsättningar för att använda Kivra\nFör att kunna använda funktionen f..."
+  },
+  {
+    "title": "Hur registreras bankkonton för utbetalning av lön i HRM Payroll?",
+    "file": "hur-registreras-bankkonton-for-utbetalning-av-lon-i-hrm-payroll.md",
+    "slug": "hur-registreras-bankkonton-for-utbetalning-av-lon-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Övrigt",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 22 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-registreras-bankkonton-f%C3%B6r-utbetalning-av-l%C3%B6n-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "Här beskriver vi hur du registrerar en medarbetares bankkonto för utbetalning av lön i HRM Payroll.\nSå här gör du:\nGå till\nPersonal > Anställda\n.\nVälj den medarbetare det gäller och klicka på fliken\nL..."
   },
   {
     "title": "⚙️Hur fungerar Personalkategorier i HRM Payroll?",
@@ -1437,7 +1555,7 @@
       "skatt"
     ],
     "date": "den 11 november 2025",
-    "url": "https://knowledge.flexhrm.com/hur-fungerar-personalkategorier-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-personalkategorier-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 4,
     "hasImages": true,
@@ -1456,7 +1574,7 @@
       "skatt"
     ],
     "date": "den 11 november 2025",
-    "url": "https://knowledge.flexhrm.com/hur-fungerar-utbetalningsgrupper-i-hrm-payroll",
+    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-utbetalningsgrupper-i-hrm-payroll",
     "isConfig": true,
     "imageCount": 5,
     "hasImages": true,

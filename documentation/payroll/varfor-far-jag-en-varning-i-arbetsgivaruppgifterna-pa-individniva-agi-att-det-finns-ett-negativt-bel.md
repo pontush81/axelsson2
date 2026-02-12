@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, lön, löneart, skatt  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-f%C3%A5r-jag-en-varning-i-arbetsgivaruppgifterna-p%C3%A5-individniv%C3%A5-agi-att-det-finns-ett-negativt-belopp-p%C3%A5-f%C3%A4lt-499
+**URL:** https://knowledge.flexhrm.com/sv/varf%C3%B6r-f%C3%A5r-jag-en-varning-i-arbetsgivaruppgifterna-p%C3%A5-individniv%C3%A5-agi-att-det-finns-ett-negativt-belopp-p%C3%A5-f%C3%A4lt-499
 
 ---
 

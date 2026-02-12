@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön  
 **Bilder:** 21  
-**URL:** https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-inst%C3%A4llningar-f%C3%B6r-bankfiler-med-formatet-iso-20022-pain.001-xml-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-inst%C3%A4llningar-f%C3%B6r-bankfiler-med-formatet-iso-20022-pain.001-xml-i-hrm-payroll
 
 ---
 

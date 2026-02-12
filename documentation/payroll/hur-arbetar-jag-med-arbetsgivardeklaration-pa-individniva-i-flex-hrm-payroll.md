@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** agi, lön, löneart, skatt  
 **Bilder:** 31  
-**URL:** https://knowledge.flexhrm.com/vad-beh%C3%B6ver-jag-g%C3%B6ra-med-min-arbetsgivardeklaration-agi-p%C3%A5-individniv%C3%A5-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/vad-beh%C3%B6ver-jag-g%C3%B6ra-med-min-arbetsgivardeklaration-agi-p%C3%A5-individniv%C3%A5-i-hrm-payroll
 
 ---
 

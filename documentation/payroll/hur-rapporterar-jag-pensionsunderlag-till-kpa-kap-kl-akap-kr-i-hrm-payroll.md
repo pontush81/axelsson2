@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, pension  
 **Bilder:** 13  
-**URL:** https://knowledge.flexhrm.com/hur-rapporterar-jag-pensionsunderlag-till-kpa-kap-kl/akap-kr-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-pensionsunderlag-till-kpa-kap-kl/akap-kr-i-hrm-payroll
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart  
 **Bilder:** 16  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-den-l%C3%B6pande-hanteringen-av-atk-och-atf
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-den-l%C3%B6pande-hanteringen-av-atk-och-atf
 
 ---
 

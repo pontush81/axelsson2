@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, pension  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/m%C3%A5nadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll-och-flex-l%C3%B6n-classic
+**URL:** https://knowledge.flexhrm.com/sv/m%C3%A5nadsrapportering-fora-hur-hanteras-foras-fok-koder-i-flex-hrm-payroll-och-flex-l%C3%B6n-classic
 
 ---
 

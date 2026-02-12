@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, semester  
 **Bilder:** 8  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll
 
 ---
 

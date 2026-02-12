@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-man-ska-kunna-anv%C3%A4nda-smartdetect
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-man-ska-kunna-anv%C3%A4nda-smartdetect
 
 ---
 

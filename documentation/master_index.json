@@ -1,8 +1,8 @@
 {
-  "total_articles": 390,
+  "total_articles": 396,
   "total_categories": 6,
-  "total_images": 2223,
-  "last_updated": "2026-02-11 03:56:10",
+  "total_images": 2281,
+  "last_updated": "2026-02-12 03:52:07",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
@@ -59,14 +59,14 @@
     },
     "payroll": {
       "name": "Payroll",
-      "total": 74,
+      "total": 80,
       "subcategories": {
-        "Löneberedning": 37,
-        "Semesterhantering": 7,
+        "Löneberedning": 39,
+        "Semesterhantering": 8,
+        "Skatt & AGI": 11,
         "Inställningar": 13,
-        "Skatt & AGI": 10,
-        "Bokföring": 2,
-        "Övrigt": 1,
+        "Bokföring": 3,
+        "Övrigt": 2,
         "Pension": 4
       }
     },
@@ -80,6 +80,6 @@
       }
     }
   },
-  "last_check": "2026-02-11 03:56:10",
+  "last_check": "2026-02-12 03:52:07",
   "last_check_status": "success"
 }

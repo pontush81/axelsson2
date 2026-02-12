@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester, skatt  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-personalkategorier-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-personalkategorier-i-hrm-payroll
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, pension  
 **Bilder:** 15  
-**URL:** https://knowledge.flexhrm.com/hur-rapporterar-jag-pension-till-fora-m%C3%A5nadsvis-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-pension-till-fora-m%C3%A5nadsvis-i-hrm-payroll
 
 ---
 

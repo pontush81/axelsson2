@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bokföring, lön, löneart  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-ser-jag-vilka-belopp-och-poster-som-bokf%C3%B6rts-p%C3%A5-ett-specifikt-konto-i-bokf%C3%B6ringsunderlaget
+**URL:** https://knowledge.flexhrm.com/sv/hur-ser-jag-vilka-belopp-och-poster-som-bokf%C3%B6rts-p%C3%A5-ett-specifikt-konto-i-bokf%C3%B6ringsunderlaget
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, pension  
 **Bilder:** 13  
-**URL:** https://knowledge.flexhrm.com/vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl/akap-kr
+**URL:** https://knowledge.flexhrm.com/sv/vilka-uppgifter-kommer-med-i-rapporteringen-till-kpa-kap-kl/akap-kr
 
 ---
 

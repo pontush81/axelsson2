@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-man-in-l%C3%B6nekoppling-till-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-man-in-l%C3%B6nekoppling-till-hrm-payroll
 
 ---
 

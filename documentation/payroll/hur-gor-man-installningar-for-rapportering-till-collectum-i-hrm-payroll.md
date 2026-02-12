@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** agi, lön, löneart, pension, semester  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-g%C3%B6r-man-inst%C3%A4llningar-f%C3%B6r-rapportering-till-collectum-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-man-inst%C3%A4llningar-f%C3%B6r-rapportering-till-collectum-i-hrm-payroll
 
 ---
 

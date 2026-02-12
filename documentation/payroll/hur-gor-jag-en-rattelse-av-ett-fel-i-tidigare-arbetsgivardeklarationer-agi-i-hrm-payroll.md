@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, lön, löneart, skatt  
 **Bilder:** 13  
-**URL:** https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-en-r%C3%A4ttelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-en-r%C3%A4ttelse-av-ett-fel-i-tidigare-arbetsgivardeklarationer-agi-i-hrm-payroll
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester  
 **Bilder:** 22  
-**URL:** https://knowledge.flexhrm.com/semester%C3%A5rsskifte-hrm-payroll-april-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet
+**URL:** https://knowledge.flexhrm.com/sv/semester%C3%A5rsskifte-hrm-payroll-april-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet
 
 ---
 

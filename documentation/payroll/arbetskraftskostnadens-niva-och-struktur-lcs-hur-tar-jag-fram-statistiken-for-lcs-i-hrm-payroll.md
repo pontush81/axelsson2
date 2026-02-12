@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, bokföring, lön, löneart  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-hur-tar-jag-fram-statistiken-f%C3%B6r-lcs-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-hur-tar-jag-fram-statistiken-f%C3%B6r-lcs-i-hrm-payroll
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, semester, skatt  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/vad-styrs-av-inst%C3%A4llningarna-under-l%C3%B6nek%C3%B6rningar-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/vad-styrs-av-inst%C3%A4llningarna-under-l%C3%B6nek%C3%B6rningar-i-hrm-payroll
 
 ---
 

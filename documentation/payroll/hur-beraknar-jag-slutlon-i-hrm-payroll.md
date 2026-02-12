@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** agi, lön, löneart, pension, semester  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-ber%C3%A4knar-jag-slutl%C3%B6n-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-ber%C3%A4knar-jag-slutl%C3%B6n-i-hrm-payroll
 
 ---
 

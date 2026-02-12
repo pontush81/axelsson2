@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/skicka-l%C3%B6nespecifikationer-med-kivra-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/skicka-l%C3%B6nespecifikationer-med-kivra-i-flex-hrm
 
 ---
 

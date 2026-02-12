@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, semester  
 **Bilder:** 10  
-**URL:** https://knowledge.flexhrm.com/kalendarium-hur-kan-jag-se-en-sammanst%C3%A4llning-av-fr%C3%A5nvaro-och-schematid-f%C3%B6r-en-anst%C3%A4lld
+**URL:** https://knowledge.flexhrm.com/sv/kalendarium-hur-kan-jag-se-en-sammanst%C3%A4llning-av-fr%C3%A5nvaro-och-schematid-f%C3%B6r-en-anst%C3%A4lld
 
 ---
 

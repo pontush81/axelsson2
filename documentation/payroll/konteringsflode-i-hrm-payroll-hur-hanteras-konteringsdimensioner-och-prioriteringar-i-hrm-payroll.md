@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/konteringsfl%C3%B6de-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/konteringsfl%C3%B6de-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll
 
 ---
 

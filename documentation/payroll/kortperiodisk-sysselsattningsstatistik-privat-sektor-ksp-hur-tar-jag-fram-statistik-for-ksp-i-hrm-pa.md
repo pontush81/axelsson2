@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, semester  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/kortperiodisk-syssels%C3%A4ttningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-f%C3%B6r-ksp-i-hrm-payroll-
+**URL:** https://knowledge.flexhrm.com/sv/kortperiodisk-syssels%C3%A4ttningsstatistik-privat-sektor-ksp-hur-tar-jag-fram-statistik-f%C3%B6r-ksp-i-hrm-payroll-
 
 ---
 

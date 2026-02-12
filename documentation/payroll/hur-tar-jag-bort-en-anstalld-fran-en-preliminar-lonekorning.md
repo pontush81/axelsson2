@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-tar-jag-bort-en-anst%C3%A4lld-fr%C3%A5n-en-prelimin%C3%A4r-l%C3%B6nek%C3%B6rning
+**URL:** https://knowledge.flexhrm.com/sv/hur-tar-jag-bort-en-anst%C3%A4lld-fr%C3%A5n-en-prelimin%C3%A4r-l%C3%B6nek%C3%B6rning
 
 ---
 

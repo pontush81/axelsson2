@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-f%C3%B6r-att-importera/l%C3%A4sa-in-en-fil-med-l%C3%B6netransaktioner-i-l%C3%B6neberedningen
+**URL:** https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-f%C3%B6r-att-importera/l%C3%A4sa-in-en-fil-med-l%C3%B6netransaktioner-i-l%C3%B6neberedningen
 
 ---
 

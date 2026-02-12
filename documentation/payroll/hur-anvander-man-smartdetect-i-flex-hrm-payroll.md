@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, semester, skatt  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-anv%C3%A4nder-man-smartdetect-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nder-man-smartdetect-i-flex-hrm-payroll
 
 ---
 

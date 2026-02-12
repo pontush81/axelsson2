@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, skatt  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-%C3%A4nnu-inte-f%C3%A5tt-ett-samordningsnummer/personnummer
+**URL:** https://knowledge.flexhrm.com/sv/hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-%C3%A4nnu-inte-f%C3%A5tt-ett-samordningsnummer/personnummer
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** bokföring, lön, löneart, pension  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-jag-in-atk/atf-avtal-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-jag-in-atk/atf-avtal-i-hrm-payroll
 
 ---
 

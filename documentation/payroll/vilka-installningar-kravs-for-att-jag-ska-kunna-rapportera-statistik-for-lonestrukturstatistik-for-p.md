@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, lön, löneart  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-jag-ska-kunna-rapportera-statistik-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-jag-ska-kunna-rapportera-statistik-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-i-flex-hrm-payroll
 
 ---
 

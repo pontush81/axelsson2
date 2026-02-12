@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** bokföring, lön, löneart  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/hur-hanteras-kompskuld-och-skuld-p%C3%A5-valfria-ackumulatorer-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanteras-kompskuld-och-skuld-p%C3%A5-valfria-ackumulatorer-i-hrm-payroll
 
 ---
 

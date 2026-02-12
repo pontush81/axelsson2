@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** bokföring, lön, semester  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-en-ber%C3%A4kning-av-skuld-t.ex.-semesterskuld-kompskuld-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-en-ber%C3%A4kning-av-skuld-t.ex.-semesterskuld-kompskuld-i-hrm-payroll
 
 ---
 

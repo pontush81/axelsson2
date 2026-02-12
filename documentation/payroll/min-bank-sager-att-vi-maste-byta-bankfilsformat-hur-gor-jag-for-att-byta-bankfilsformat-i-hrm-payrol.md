@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön  
 **Bilder:** 0  
-**URL:** https://knowledge.flexhrm.com/min-bank-s%C3%A4ger-att-att-vi-m%C3%A5ste-byta-bankfilsformat-hur-g%C3%B6r-jag-f%C3%B6r-att-byta-format
+**URL:** https://knowledge.flexhrm.com/sv/min-bank-s%C3%A4ger-att-att-vi-m%C3%A5ste-byta-bankfilsformat-hur-g%C3%B6r-jag-f%C3%B6r-att-byta-format
 
 ---
 

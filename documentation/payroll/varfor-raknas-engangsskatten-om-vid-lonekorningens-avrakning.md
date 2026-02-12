@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, semester, skatt  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/varf%C3%B6r-r%C3%A4knas-eng%C3%A5ngsskatten-om-vid-l%C3%B6nek%C3%B6rningens-avr%C3%A4kning
+**URL:** https://knowledge.flexhrm.com/sv/varf%C3%B6r-r%C3%A4knas-eng%C3%A5ngsskatten-om-vid-l%C3%B6nek%C3%B6rningens-avr%C3%A4kning
 
 ---
 

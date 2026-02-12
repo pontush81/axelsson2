@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester  
 **Bilder:** 10  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg.nu
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-skicka-arbetsgivarintyg-till-arbetsgivarintyg.nu
 
 ---
 

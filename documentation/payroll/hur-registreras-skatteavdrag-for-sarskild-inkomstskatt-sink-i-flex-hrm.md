@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** skatt  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-registreras-skatteavdrag-f%C3%B6r-s%C3%A4rskild-inkomstskatt-sink-i-flex-hrm
+**URL:** https://knowledge.flexhrm.com/sv/hur-registreras-skatteavdrag-f%C3%B6r-s%C3%A4rskild-inkomstskatt-sink-i-flex-hrm
 
 ---
 

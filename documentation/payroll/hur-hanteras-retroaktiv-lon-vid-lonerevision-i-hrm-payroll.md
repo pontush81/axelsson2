@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester  
 **Bilder:** 10  
-**URL:** https://knowledge.flexhrm.com/hur-hanteras-retroaktiv-l%C3%B6n-vid-l%C3%B6nerevision-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-hanteras-retroaktiv-l%C3%B6n-vid-l%C3%B6nerevision-i-hrm-payroll
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/det-visas-en-varning-att-det-finns-transaktioner-som-inte-h%C3%A4mtats-in-i-l%C3%B6nek%C3%B6rningen-hur-hittar-jag-och-hanterar-dessa
+**URL:** https://knowledge.flexhrm.com/sv/det-visas-en-varning-att-det-finns-transaktioner-som-inte-h%C3%A4mtats-in-i-l%C3%B6nek%C3%B6rningen-hur-hittar-jag-och-hanterar-dessa
 
 ---
 

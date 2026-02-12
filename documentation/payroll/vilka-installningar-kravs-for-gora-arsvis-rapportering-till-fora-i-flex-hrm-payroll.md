@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, pension  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-g%C3%B6ra-%C3%A5rsvis-rapportering-till-fora-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-g%C3%B6ra-%C3%A5rsvis-rapportering-till-fora-i-flex-hrm-payroll
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** agi, bokföring, lön, löneart, pension, semester, skatt  
 **Bilder:** 20  
-**URL:** https://knowledge.flexhrm.com/flex-hrm-payroll-hur-anv%C3%A4nder-man-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/flex-hrm-payroll-hur-anv%C3%A4nder-man-flex-hrm-payroll
 
 ---
 

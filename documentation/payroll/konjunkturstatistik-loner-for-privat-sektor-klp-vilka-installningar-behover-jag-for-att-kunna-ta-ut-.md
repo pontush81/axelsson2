@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, skatt  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-klp-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/konjunkturstatistik-l%C3%B6ner-f%C3%B6r-privat-sektor-klp-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-klp-i-flex-hrm-payroll
 
 ---
 

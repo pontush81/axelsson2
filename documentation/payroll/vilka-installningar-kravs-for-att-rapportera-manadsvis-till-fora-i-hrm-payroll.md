@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, pension  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-rapportera-m%C3%A5nadsvis-till-fora-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/vilka-inst%C3%A4llningar-kr%C3%A4vs-f%C3%B6r-att-rapportera-m%C3%A5nadsvis-till-fora-i-hrm-payroll
 
 ---
 

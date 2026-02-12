@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, pension  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/hur-g%C3%B6r-jag-inst%C3%A4llningar-i-hrm-payroll-f%C3%B6r-att-kunna-rapportera-till-kpa-kap-kl/akap-kr
+**URL:** https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-inst%C3%A4llningar-i-hrm-payroll-f%C3%B6r-att-kunna-rapportera-till-kpa-kap-kl/akap-kr
 
 ---
 

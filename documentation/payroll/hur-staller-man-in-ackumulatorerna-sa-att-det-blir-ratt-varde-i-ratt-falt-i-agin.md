@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, lön, skatt  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-inst%C3%A4llningar-p%C3%A5-ackumulatorerna
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-inst%C3%A4llningar-p%C3%A5-ackumulatorerna
 
 ---
 

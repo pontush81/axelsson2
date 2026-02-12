@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bokföring, lön, löneart  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-st%C3%A4ller-jag-in-p%C3%A5minnelser-f%C3%B6r-att-g%C3%B6ra-val-f%C3%B6r-intj%C3%A4nad-atk/atf
+**URL:** https://knowledge.flexhrm.com/sv/hur-st%C3%A4ller-jag-in-p%C3%A5minnelser-f%C3%B6r-att-g%C3%B6ra-val-f%C3%B6r-intj%C3%A4nad-atk/atf
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, pension  
 **Bilder:** 11  
-**URL:** https://knowledge.flexhrm.com/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atk-ut
+**URL:** https://knowledge.flexhrm.com/sv/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atk-ut
 
 ---
 

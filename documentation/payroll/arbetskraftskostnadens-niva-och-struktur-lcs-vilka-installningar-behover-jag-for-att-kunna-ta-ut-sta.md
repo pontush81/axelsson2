@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart  
 **Bilder:** 1  
-**URL:** https://knowledge.flexhrm.com/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-lcs-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-f%C3%B6r-lcs-i-hrm-payroll
 
 ---
 

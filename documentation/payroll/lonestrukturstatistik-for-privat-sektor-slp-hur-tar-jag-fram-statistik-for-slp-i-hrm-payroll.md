@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön  
 **Bilder:** 12  
-**URL:** https://knowledge.flexhrm.com/l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-hur-tar-jag-fram-statistik-f%C3%B6r-slp-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp-hur-tar-jag-fram-statistik-f%C3%B6r-slp-i-hrm-payroll
 
 ---
 

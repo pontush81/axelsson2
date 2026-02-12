@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, pension  
 **Bilder:** 3  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-en-coins-fil
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-en-coins-fil
 
 ---
 

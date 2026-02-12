@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-l%C3%A4gger-jag-till-en-fr%C3%A5nvarotransaktion-direkt-i-l%C3%B6neberedningen
+**URL:** https://knowledge.flexhrm.com/sv/hur-l%C3%A4gger-jag-till-en-fr%C3%A5nvarotransaktion-direkt-i-l%C3%B6neberedningen
 
 ---
 

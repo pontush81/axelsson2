@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** agi, bokföring, lön, löneart, pension  
 **Bilder:** 35  
-**URL:** https://knowledge.flexhrm.com/inst%C3%A4llningar-av-l%C3%B6nearter-f%C3%B6r-atk/atf-avtal
+**URL:** https://knowledge.flexhrm.com/sv/inst%C3%A4llningar-av-l%C3%B6nearter-f%C3%B6r-atk/atf-avtal
 
 ---
 

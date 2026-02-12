@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart, semester  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/var-kan-jag-se-en-medarbetares-fr%C3%A5nvaro-som-ber%C3%A4knats-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/var-kan-jag-se-en-medarbetares-fr%C3%A5nvaro-som-ber%C3%A4knats-i-hrm-payroll
 
 ---
 

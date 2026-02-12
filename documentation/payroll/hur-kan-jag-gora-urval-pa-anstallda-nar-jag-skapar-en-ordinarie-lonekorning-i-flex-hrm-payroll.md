@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** lön  
 **Bilder:** 2  
-**URL:** https://knowledge.flexhrm.com/hur-kan-jag-g%C3%B6ra-urval-p%C3%A5-anst%C3%A4llda-n%C3%A4r-jag-skapar-en-ordinarie-l%C3%B6nek%C3%B6rning-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-kan-jag-g%C3%B6ra-urval-p%C3%A5-anst%C3%A4llda-n%C3%A4r-jag-skapar-en-ordinarie-l%C3%B6nek%C3%B6rning-i-flex-hrm-payroll
 
 ---
 

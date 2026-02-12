@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, lön  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/var-kan-jag-se-vilka-poster-som-var-med-i-%C3%B6verf%C3%B6ringen-till-l%C3%B6nek%C3%B6rningen-fr%C3%A5n-hrm-time-eller-hrm-travel-eller-en-importerad-fil
+**URL:** https://knowledge.flexhrm.com/sv/var-kan-jag-se-vilka-poster-som-var-med-i-%C3%B6verf%C3%B6ringen-till-l%C3%B6nek%C3%B6rningen-fr%C3%A5n-hrm-time-eller-hrm-travel-eller-en-importerad-fil
 
 ---
 

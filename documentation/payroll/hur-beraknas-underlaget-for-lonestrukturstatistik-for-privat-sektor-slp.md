@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester  
 **Bilder:** 0  
-**URL:** https://knowledge.flexhrm.com/hur-skapas-underlaget-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapas-underlaget-f%C3%B6r-l%C3%B6nestrukturstatistik-f%C3%B6r-privat-sektor-slp
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, skatt  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/hur-fungerar-utbetalningsgrupper-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-fungerar-utbetalningsgrupper-i-hrm-payroll
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, lön, löneart, skatt  
 **Bilder:** 8  
-**URL:** https://knowledge.flexhrm.com/hur-hittar-jag-orsaken-till-diffar-i-skatt-och-arbetsgivaravgifter-agi-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-hittar-jag-orsaken-till-diffar-i-skatt-och-arbetsgivaravgifter-agi-i-hrm-payroll
 
 ---
 

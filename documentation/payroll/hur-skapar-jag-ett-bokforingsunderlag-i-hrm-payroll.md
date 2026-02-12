@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bokföring, lön, semester  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/hur-skapar-jag-ett-bokf%C3%B6ringsunderlag-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-skapar-jag-ett-bokf%C3%B6ringsunderlag-i-hrm-payroll
 
 ---
 

@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön, pension  
 **Bilder:** 14  
-**URL:** https://knowledge.flexhrm.com/hur-genomf%C3%B6r-man-rapportering-till-collectum-i-flex-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-genomf%C3%B6r-man-rapportering-till-collectum-i-flex-hrm-payroll
 
 ---
 

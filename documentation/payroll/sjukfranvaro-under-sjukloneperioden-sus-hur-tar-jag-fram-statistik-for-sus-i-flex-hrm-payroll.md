@@ -7,7 +7,7 @@
 **Svårighetsgrad:** advanced  
 **Tags:** lön  
 **Bilder:** 6  
-**URL:** https://knowledge.flexhrm.com/konjunkturstatistik-%C3%B6ver-sjukl%C3%B6ner-ksju-hur-tar-jag-fram-statistik-f%C3%B6r-ksju-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/konjunkturstatistik-%C3%B6ver-sjukl%C3%B6ner-ksju-hur-tar-jag-fram-statistik-f%C3%B6r-ksju-i-hrm-payroll
 
 ---
 

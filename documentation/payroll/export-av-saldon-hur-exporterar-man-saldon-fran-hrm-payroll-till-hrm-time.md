@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** hrm-time, lön, semester  
 **Bilder:** 5  
-**URL:** https://knowledge.flexhrm.com/export-av-saldon-hur-exporterar-man-saldon-fr%C3%A5n-hrm-payroll-till-hrm-time
+**URL:** https://knowledge.flexhrm.com/sv/export-av-saldon-hur-exporterar-man-saldon-fr%C3%A5n-hrm-payroll-till-hrm-time
 
 ---
 

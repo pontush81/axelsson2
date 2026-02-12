@@ -7,7 +7,7 @@
 **Svårighetsgrad:** beginner  
 **Tags:** lön, löneart, pension  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/vad-%C3%A4r-arbetstidskonto-atk-och-arbetstidsf%C3%B6rkortning-atf
+**URL:** https://knowledge.flexhrm.com/sv/vad-%C3%A4r-arbetstidskonto-atk-och-arbetstidsf%C3%B6rkortning-atf
 
 ---
 

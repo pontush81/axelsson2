@@ -7,7 +7,7 @@
 **Svårighetsgrad:** intermediate  
 **Tags:** bokföring, lön, löneart  
 **Bilder:** 4  
-**URL:** https://knowledge.flexhrm.com/jag-f%C3%A5r-en-varning-att-konto-saknas-f%C3%B6r-bokf%C3%B6ringsposter-hur-hittar-jag-var-konto-saknas-och-korrigerar-detta
+**URL:** https://knowledge.flexhrm.com/sv/jag-f%C3%A5r-en-varning-att-konto-saknas-f%C3%B6r-bokf%C3%B6ringsposter-hur-hittar-jag-var-konto-saknas-och-korrigerar-detta
 
 ---
 
