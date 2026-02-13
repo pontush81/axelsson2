@@ -1,6 +1,6 @@
 # Genomför Lönekartläggning i HRM - Steg 3 anställda
 
-**Datum:** den 29 januari 2026  
+**Datum:** den 12 februari 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  

@@ -1,6 +1,6 @@
 # Genomför Lönekartläggning i HRM - Steg 2 arbetsvärdering
 
-**Datum:** den 4 november 2025  
+**Datum:** den 12 februari 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  

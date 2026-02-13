@@ -1,6 +1,6 @@
 # Genomför Lönekartläggning i HRM - Steg 1 förberedelser
 
-**Datum:** den 1 december 2025  
+**Datum:** den 12 februari 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  
