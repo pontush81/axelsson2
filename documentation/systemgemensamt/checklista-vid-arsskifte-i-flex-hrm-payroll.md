@@ -1,6 +1,6 @@
 # Checklista vid årsskifte i Flex HRM Payroll
 
-**Datum:** den 17 december 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** other  

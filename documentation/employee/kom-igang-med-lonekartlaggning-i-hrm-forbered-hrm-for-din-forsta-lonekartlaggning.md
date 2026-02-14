@@ -1,6 +1,6 @@
 # ⚙️Kom igång med Lönekartläggning i HRM - Förbered HRM för din första lönekartläggning
 
-**Datum:** den 12 februari 2026  
+**Datum:** den 13 februari 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  

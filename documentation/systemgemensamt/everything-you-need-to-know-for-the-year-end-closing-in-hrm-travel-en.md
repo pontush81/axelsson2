@@ -1,6 +1,6 @@
 # ⚙️Everything you need to know for the year-end closing in HRM Travel (en)
 
-**Datum:** den 12 januari 2026  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** config  

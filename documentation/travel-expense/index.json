@@ -112,22 +112,23 @@
     "excerpt": "En beskrivning för attestering av reseräkning, samt hur man avslår en reseräkning.\nAttestering av reseräkning\nAttestering av reseräkning kan göras direkt i registreringsvyn på reseräkningen, genom att..."
   },
   {
-    "title": "⚙️Var och hur hanterar vi inställningarna för bilresor?",
-    "file": "var-och-hur-hanterar-vi-installningarna-for-bilresor.md",
-    "slug": "var-och-hur-hanterar-vi-installningarna-for-bilresor",
+    "title": "Hur rapporterar jag bilresor i HRM Travel?",
+    "file": "hur-rapporterar-jag-bilresor-i-hrm-travel.md",
+    "slug": "hur-rapporterar-jag-bilresor-i-hrm-travel",
     "category": "travel-expense",
-    "subcategory": "Bilresor",
-    "type": "config",
-    "difficulty": "advanced",
+    "subcategory": "Reseräkningar",
+    "type": "howto",
+    "difficulty": "intermediate",
     "tags": [
-      "bil"
+      "bil",
+      "resa"
     ],
-    "date": "den 5 december 2025",
-    "url": "https://knowledge.flexhrm.com/sv/bilresor-",
-    "isConfig": true,
-    "imageCount": 3,
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-bilresresor-i-hrm-travel",
+    "isConfig": false,
+    "imageCount": 4,
     "hasImages": true,
-    "excerpt": "Under Bilresor i administrationen kan du ställa in generella inställningar som enhet för körsträcka och beräkning av drivmedelsförmån. Du kan även hantera fordonstyper, definiera om de ska användas me..."
+    "excerpt": "Hur rapporterar jag bilresor i HRM Travel och ser att jag fått korrekta ersättningar?\nRapportera bilresor\nDu rapporterar dina resor genom att gå till menyn\nResa > Reseräkning\n.\nSkapa en ny reseräkning..."
   },
   {
     "title": "Hur registrerar jag bilresor med drivmedelsförmån i reseräkningsvyn samt anger utgående mätarställning i månadens slut?",
@@ -168,23 +169,62 @@
     "excerpt": "Vid drivmedelsförmånsbilar måste du registrera dina tjänsteresor samt ange utgående mätarställning vid månadens slut för att kunna beräkna vilken drivmedelsförmån du haft under månaden för de privat k..."
   },
   {
-    "title": "Hur rapporterar jag bilresor i HRM Travel?",
-    "file": "hur-rapporterar-jag-bilresor-i-hrm-travel.md",
-    "slug": "hur-rapporterar-jag-bilresor-i-hrm-travel",
+    "title": "Kan jag spela in min bilresa i HRM Mobile?",
+    "file": "kan-jag-spela-in-min-bilresa-i-hrm-mobile.md",
+    "slug": "kan-jag-spela-in-min-bilresa-i-hrm-mobile",
     "category": "travel-expense",
     "subcategory": "Reseräkningar",
-    "type": "howto",
-    "difficulty": "intermediate",
+    "type": "faq",
+    "difficulty": "advanced",
     "tags": [
       "bil",
+      "mobil",
       "resa"
     ],
-    "date": "den 2 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-bilresresor-i-hrm-travel",
+    "date": "den 13 februari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/kan-jag-spela-in-min-bilresa-i-hrm-mobile",
     "isConfig": false,
     "imageCount": 4,
     "hasImages": true,
-    "excerpt": "Hur rapporterar jag bilresor i HRM Travel och ser att jag fått korrekta ersättningar?\nRapportera bilresor\nDu rapporterar dina resor genom att gå till menyn\nResa > Reseräkning\n.\nSkapa en ny reseräkning..."
+    "excerpt": "Spela in bilresa kan användas istället för att registrera bilresor manuellt.\nI HRM Mobile finns funktionen\nSpela in bilresa\nsom du kan använda istället för att registrera din bilresa manuellt. Du star..."
+  },
+  {
+    "title": "Vad krävs för att spela in bilresa i HRM Mobile?",
+    "file": "vad-kravs-for-att-spela-in-bilresa-i-hrm-mobile.md",
+    "slug": "vad-kravs-for-att-spela-in-bilresa-i-hrm-mobile",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "mobil",
+      "resa"
+    ],
+    "date": "den 13 februari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/vad-kr%C3%A4vs-f%C3%B6r-att-spela-in-bilresa-i-hrm-mobile",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Inställningar att kontrollera vid problem att spela in bilresa.\nI HRM Mobile finns funktionen\nSpela in bilresa\nsom du kan använda istället för att registrera din bilresa manuellt. Du startar inspelnin..."
+  },
+  {
+    "title": "⚙️Var och hur hanterar vi inställningarna för bilresor?",
+    "file": "var-och-hur-hanterar-vi-installningarna-for-bilresor.md",
+    "slug": "var-och-hur-hanterar-vi-installningarna-for-bilresor",
+    "category": "travel-expense",
+    "subcategory": "Bilresor",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "bil"
+    ],
+    "date": "den 5 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/bilresor-",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Under Bilresor i administrationen kan du ställa in generella inställningar som enhet för körsträcka och beräkning av drivmedelsförmån. Du kan även hantera fordonstyper, definiera om de ska användas me..."
   },
   {
     "title": "⚙️Vilka inställningar behöver jag aktivera i HRM Travel & Expense för att hantera förmånsbilar med Drivmedelsförmån?",

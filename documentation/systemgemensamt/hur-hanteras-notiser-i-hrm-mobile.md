@@ -1,6 +1,6 @@
 # Hur hanteras notiser i HRM Mobile?
 
-**Datum:** den 29 augusti 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** howto  

@@ -1,6 +1,6 @@
 # Hur fungerar Påminnelser på startsidan?
 
-**Datum:** den 5 september 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** howto  

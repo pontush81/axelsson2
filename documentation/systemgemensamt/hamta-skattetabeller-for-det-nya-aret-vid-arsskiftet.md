@@ -1,6 +1,6 @@
 # ⚙️Hämta skattetabeller för det nya året vid årsskiftet
 
-**Datum:** den 23 oktober 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Integration  
 **Typ:** config  

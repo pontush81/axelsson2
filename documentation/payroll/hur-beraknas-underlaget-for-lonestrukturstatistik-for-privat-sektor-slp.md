@@ -1,6 +1,6 @@
 # Hur beräknas underlaget för lönestrukturstatistik för privat sektor (SLP)?
 
-**Datum:** den 7 oktober 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** howto  
@@ -144,6 +144,19 @@ Summerar antal timmar från lönearter med kryss i fältet ”Lönestrukturstati
 Denna medlemsorganisation har avvikande personalkategorier.
 Sobona (tidigare KFS)
 Alla över 18 år tas med i redovisningen till Sobona.
+Svenskt Näringsliv (SN) – Byggföretagen (MO 28)
+Redovisningsperioden för Byggföretagen är tre månader istället för en. Perioden anges med start och slutdatum när du skapar underlaget. Här finns även fyra extra fält specifika för Byggföretagen som enbart rapporteras för arbetare:
+Traktamente
+Summerar belopp från lönearter med kryss i fältet ”Lönestrukturstatistik (SLP) - Traktamente (Sveriges Byggindustrier)” som har transaktionens fr.o.m.-datum under redovisningsmånaden. Transaktioner utan datum räknas tillhöra lönekörningens avvikelseperiods fr.o.m.-datum.
+Reskostnadsersättning
+Summerar belopp från lönearter med kryss i fältet ”Lönestrukturstatistik (SLP) - Reskostnadsersättning (Sveriges Byggindustrier)” som har transaktionens fr.o.m.-datum under redovisningsmånaden. Transaktioner utan datum räknas tillhöra lönekörningens avvikelseperiods fr.o.m.-datum.
+Förrättningstillägg
+Summerar belopp från lönearter med kryss i fältet ”Lönestrukturstatistik (SLP) - Förrättningstillägg (Sveriges Byggindustrier)” som har transaktionens fr.o.m.-datum under redovisningsmånaden. Transaktioner utan datum räknas tillhöra lönekörningens avvikelseperiods fr.o.m.-datum.
+Län och kommunkod
+I rapporten redovisas den kod för län och kommun där den anställda har arbetat flest timmar under perioden. Om en person har arbetat i flera olika län eller kommuner, är det alltså där hen lagt majoriteten av sin tid som visas.
+Antalet arbetade timmar beräknas för de lönearter som har inställningen
+Lönestrukturstatistik (SLP) - Arbetad tid
+markerad. Län och kommunkoden hämtas från konteringen på de transaktioner som har inställningen ovan.
 Relaterade artiklar:
 Vilka inställningar krävs för att jag ska kunna rapportera statistik för
 Lönestrukturstatistik för privat sektor (SLP) i Flex HRM Payroll?

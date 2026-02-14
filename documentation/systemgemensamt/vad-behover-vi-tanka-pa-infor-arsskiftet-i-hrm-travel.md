@@ -1,6 +1,6 @@
 # ⚙️Vad behöver vi tänka på inför årsskiftet i HRM Travel?
 
-**Datum:** den 18 november 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Inställningar  
 **Typ:** config  

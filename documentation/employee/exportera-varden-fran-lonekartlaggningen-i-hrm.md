@@ -1,6 +1,6 @@
 # Exportera värden från Lönekartläggningen i HRM
 
-**Datum:** den 12 februari 2026  
+**Datum:** den 13 februari 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  

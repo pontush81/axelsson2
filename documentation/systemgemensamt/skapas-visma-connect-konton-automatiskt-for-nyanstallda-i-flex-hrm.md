@@ -1,6 +1,6 @@
 # Skapas Visma Connect-konton automatiskt för nyanställda i Flex HRM?
 
-**Datum:** den 3 december 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** other  

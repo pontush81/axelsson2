@@ -1,6 +1,6 @@
 # När skickas e-post ut om ändringar på anställd?
 
-**Datum:** den 21 november 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** other  

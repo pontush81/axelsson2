@@ -1,6 +1,6 @@
 # ⚙️Alt du må tenke på før årsskiftet i HRM Travel? (no)
 
-**Datum:** den 12 januari 2026  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** config  

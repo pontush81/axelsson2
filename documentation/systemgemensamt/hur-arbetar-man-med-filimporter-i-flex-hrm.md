@@ -1,6 +1,6 @@
 # ⚙️Hur arbetar man med filimporter i Flex HRM?
 
-**Datum:** den 20 januari 2026  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Register  
 **Typ:** config  

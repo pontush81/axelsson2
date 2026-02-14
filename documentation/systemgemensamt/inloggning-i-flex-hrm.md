@@ -1,6 +1,6 @@
 # Inloggning i Flex HRM
 
-**Datum:** den 9 december 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** other  

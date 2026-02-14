@@ -1,6 +1,6 @@
 # Hur fungerar Meddelanden i Flex HRM?
 
-**Datum:** den 29 oktober 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** howto  

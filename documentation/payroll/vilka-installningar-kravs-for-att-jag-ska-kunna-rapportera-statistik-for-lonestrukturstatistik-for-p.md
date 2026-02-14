@@ -1,6 +1,6 @@
 # ⚙️Vilka inställningar krävs för att jag ska kunna rapportera statistik för Lönestrukturstatistik för privat sektor (SLP) i Flex HRM Payroll?
 
-**Datum:** den 2 oktober 2025  
+**Datum:** den 13 februari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Inställningar  
 **Typ:** config  
@@ -22,7 +22,7 @@ Det första du behöver göra är att välja om redovisning ska göras till SCB,
 Administration > Inställningar > Lön > Lönestatistik
 .
 ![Bilden visar översikten för Lönestatistik.](images/vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestrukturstatistik-for-p_51270d93.png)
-Om du lämnar in statistiken via en arbetsgivarorganisation finns det ofta lite olika avvikelser jämfört med den lagstadgade insamlingen till SCB. Vi har i Flex HRM Payroll stöd för 12 av 13 varianter till Svenskt Näringsliv (SN) samt Sobona enligt listan nedan. Vi har ännu inte stöd för byggbranschen (MO28) till Svenskt Näringsliv.
+Om du lämnar in statistiken via en arbetsgivarorganisation finns det ofta lite olika avvikelser jämfört med den lagstadgade insamlingen till SCB. Vi har i Flex HRM Payroll stöd för 13 varianter till Svenskt Näringsliv (SN) samt Sobona enligt listan nedan.
 Statistiska Centralbyrån (SCB)
 Svenskt Näringsliv (SN) – Standard
 Svenskt Näringsliv (SN) – FAO (MO 48)
@@ -37,6 +37,7 @@ Svenskt Näringsliv (SN) – Industriarbetsgivarna - svets mekaniska avtalet (MO
 Svenskt Näringsliv (SN) – Industriarbetsgivarna - stål och metall (MO 56 005006)
 Svenskt Näringsliv (SN) – Kompetensföretagen (MO 87)
 Sobona (tidigare KFS)
+Svenskt Näringsliv (SN) - Byggföretagen (MO28)
 Beroende på om redovisning ska göras till SCB, SN eller Sobona visas ett antal ytterligare fält; "Arbetsställe (CFAR-nummer)" och "Finns avtal om separat helglön".
 ![Bilden visar två fält: "Arbetsställe" och "Finns avtal om separat helglön".](images/vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestrukturstatistik-for-p_dae09ab9.png)
 Företagsgenerella uppgifter för SCB:
@@ -103,7 +104,7 @@ Används för summering av tillägg för t.ex. risk, smuts, värme, kyla (styrko
 Prestationslön, provision
 Används för summering av utbetald prestationslön och provision (styrkod 058).
 För vissa medlemsorganisationer inom SN finns det ytterligare information som ska redovisas vilket kräver ytterligare kryssrutor för att identifiera de olika ersättningarna.
-![Bilden visar fler exempel på kryssrutor i löneartsregistret för olika branscher](images/vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestrukturstatistik-for-p_bb39ea0c.png)
+![avvikande löneartsbockar](images/vilka-installningar-kravs-for-att-jag-ska-kunna-rapportera-statistik-for-lonestrukturstatistik-for-p_5644d937.png)
 Läs mer om de branschspecifika avvikelserna under rubriken
 Avvikelser och tillägg
 i rapporten
