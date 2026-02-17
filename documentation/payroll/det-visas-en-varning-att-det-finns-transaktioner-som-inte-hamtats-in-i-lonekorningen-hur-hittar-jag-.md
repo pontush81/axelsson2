@@ -1,6 +1,6 @@
 # Det visas en varning att det finns transaktioner som inte hämtats in i lönekörningen, hur hittar jag och hanterar dessa?
 
-**Datum:** den 7 oktober 2025  
+**Datum:** den 16 februari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** other  
@@ -23,8 +23,8 @@ för att hämta in transaktioner.
 Hitta de ej inlästa transaktionerna:
 Gå till
 Bearbetningar > Servicerutiner > Inlästa originaltransaktioner till lönekörningar.
-Välj den specifika filen i fältet "Löneöverföring" för att isolera transaktionerna.
-![Bild](images/det-visas-en-varning-att-det-finns-transaktioner-som-inte-hamtats-in-i-lonekorningen-hur-hittar-jag-_1026cadc.png)
+Ta bort ev urval i fältet "Löneöverföring" för att hitta transaktionerna.
+![Bild](images/det-visas-en-varning-att-det-finns-transaktioner-som-inte-hamtats-in-i-lonekorningen-hur-hittar-jag-_a612082f.png)
 Sortera på kolumnen "Utbetalningsdatum". De rader som saknar ett utbetalningsdatum är de som inte har lästs in.
 Åtgärda de ej inlästa transaktionerna:
 Korrigera och läs in på nytt:
