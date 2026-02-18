@@ -534,5 +534,25 @@
     "imageCount": 17,
     "hasImages": true,
     "excerpt": "I HRM Mobile kan du enkelt fotografera kvitton, registrera körda mil, hantera utlägg och signera din reseräkning, oavsett var du befinner dig.\nSkapa och hantera reseräkningar i HRM Mobile\nI HRM Mobile..."
+  },
+  {
+    "title": "Rapportgeneratorn - Kan jag skapa en rapport med data från resor i HRM?",
+    "file": "rapportgeneratorn-kan-jag-skapa-en-rapport-med-data-fran-resor-i-hrm.md",
+    "slug": "rapportgeneratorn-kan-jag-skapa-en-rapport-med-data-fran-resor-i-hrm",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "resa",
+      "traktamente"
+    ],
+    "date": "den 17 februari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/rapportgeneratorn-kan-jag-skapa-en-rapport-med-data-fr%C3%A5n-resor-i-hrm",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I rapportgeneratorn finns datakälla Resa.\nDatakällan\nResa\nkan användas för att skapa rapporter med information om resor som registrerats i HRM Travel.\nDen kan till exempel användas för att få detaljer..."
   }
 ]

@@ -190,24 +190,24 @@
     "excerpt": "I Flex HRM finns det en skillnad mellan vad systemet definierar som en anställd och vad som är en användare. Kortfattat handlar det om att den anställda är personen som systemet hanterar data för (til..."
   },
   {
-    "title": "Kan jag se en översikt över alla delegerade behörigheter?",
-    "file": "kan-jag-se-en-oversikt-over-alla-delegerade-behorigheter.md",
-    "slug": "kan-jag-se-en-oversikt-over-alla-delegerade-behorigheter",
+    "title": "Hur fungerar delegerad behörighet?",
+    "file": "hur-fungerar-delegerad-behorighet.md",
+    "slug": "hur-fungerar-delegerad-behorighet",
     "category": "systemgemensamt",
     "subcategory": "Användare & Behörighet",
-    "type": "faq",
+    "type": "howto",
     "difficulty": "intermediate",
     "tags": [
       "användare",
       "behörighet",
       "roll"
     ],
-    "date": "den 3 september 2025",
+    "date": "den 17 februari 2026",
     "url": "https://knowledge.flexhrm.com/sv/kan-jag-se-en-%C3%B6versikt-%C3%B6ver-alla-delegerade-beh%C3%B6righeter",
     "isConfig": false,
     "imageCount": 1,
     "hasImages": true,
-    "excerpt": "Du ser en översikt över delegerade behörigheter i vyn\nAnvändare/Behörigheter > Delegerade behörigheter\n. Här kan du också redigera och skapa delegeringar.\nI listan till vänster ser du aktuella deleger..."
+    "excerpt": "Användare kan delegera sin behörighet via\nMin profil > Delegera användarbehörighet\n.\nDu ser en översikt över delegerade behörigheter i vyn\nAnvändare/Behörigheter > Delegerade behörigheter\n. Här kan du..."
   },
   {
     "title": "Kan jag delegera min attestbehörighet tillfälligt till någon annan när jag är ledig?",
