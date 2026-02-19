@@ -1,6 +1,6 @@
 # Hur rapporterar jag utlägg och representation i HRM Travel?
 
-**Datum:** den 16 februari 2026  
+**Datum:** den 18 februari 2026  
 **Kategori:** Travel & Expense  
 **Underkategori:** Utlägg & Kvitton  
 **Typ:** howto  
@@ -35,7 +35,7 @@ Bilder visas direkt. Bilagor i andra format, som PDF-filer, kan du behöva ladda
 ![Bild](images/hur-rapporterar-jag-utlagg-och-representation-i-hrm-travel_1d4dbed0.png)
 Syfte och deltagare
 Om du har valt Representation måste du fylla i fälten för syfte och deltagare.
-![Bild](images/hur-rapporterar-jag-utlagg-och-representation-i-hrm-travel_3e1a309a.png)
+![Bild](images/hur-rapporterar-jag-utlagg-och-representation-i-hrm-travel_37904c6d.png)
 Om den här informationen redan finns i systemet kan du bocka i rutan
 deltagare ska redovisas separat
 . Då redovisas deltagarna separat i en bilaga.
