@@ -1,6 +1,6 @@
 # Hur arbetar jag med arbetsgivardeklaration på individnivå i Flex HRM Payroll?
 
-**Datum:** den 21 oktober 2025  
+**Datum:** den 19 februari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Skatt & AGI  
 **Typ:** howto  
@@ -45,6 +45,9 @@ ppgifterna är grupperade i ämnesområde, och du ser för varje fält Skattever
 ![Bilden visar detaljvyn i arbetsgivardeklarationen på individnivå (AGI).](images/hur-arbetar-jag-med-arbetsgivardeklaration-pa-individniva-i-flex-hrm-payroll_0b58e18f.png)
 Längst ner i vyn finns de huvuduppgifter som redovisas till Skatteverket. Med huvuduppgifter menas uppgifter som avser hela företaget, såsom avdrag för regionalt stöd, forskning och utveckling, samt summa arbetsgivaravgifter, skatt på ränta och utdelning, skatteavdrag och total sjuklönekostnad (tom 240630).
 ![Bilden visar summeringarna för huvuduppgifterna för arbetsgivardeklarationen på individnivå. ](images/hur-arbetar-jag-med-arbetsgivardeklaration-pa-individniva-i-flex-hrm-payroll_08b36dec.png)
+Öreshantering av redovisade belopp och vid beräkning
+Beräkning av arbetsgivaravgifter i arbetsgivardeklarationen (AGI) i Flex HRM Payroll sker per anställd innan summering. Det innebär att systemet först avrundar beloppen för varje individ till heltal genom trunkering enligt skatteförfarandelagen, och därefter summeras dessa värden till totalsumman för redovisningen.
+Detta kan medföra en mindre differens mellan individuppgifterna och huvuduppgiften, eftersom ören kapas per individ och inte på totalsumman. Denna hantering följer Skatteverkets regler för AGI.
 Skapa underlag
 När du vill börja med redovisningen för en månad börjar du med att skapa underlag för redovisningen genom att klicka på knappen
 Ny

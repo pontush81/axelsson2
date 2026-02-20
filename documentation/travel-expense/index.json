@@ -201,7 +201,7 @@
       "mobil",
       "resa"
     ],
-    "date": "den 13 februari 2026",
+    "date": "den 19 februari 2026",
     "url": "https://knowledge.flexhrm.com/sv/vad-kr%C3%A4vs-f%C3%B6r-att-spela-in-bilresa-i-hrm-mobile",
     "isConfig": false,
     "imageCount": 1,
@@ -534,6 +534,25 @@
     "imageCount": 17,
     "hasImages": true,
     "excerpt": "I HRM Mobile kan du enkelt fotografera kvitton, registrera körda mil, hantera utlägg och signera din reseräkning, oavsett var du befinner dig.\nSkapa och hantera reseräkningar i HRM Mobile\nI HRM Mobile..."
+  },
+  {
+    "title": "Rapportgeneratorn - Kan jag skapa en rapport med data från bilresor i HRM?",
+    "file": "rapportgeneratorn-kan-jag-skapa-en-rapport-med-data-fran-bilresor-i-hrm.md",
+    "slug": "rapportgeneratorn-kan-jag-skapa-en-rapport-med-data-fran-bilresor-i-hrm",
+    "category": "travel-expense",
+    "subcategory": "Reseräkningar",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil",
+      "resa"
+    ],
+    "date": "den 19 februari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/rapportgeneratorn-kan-jag-skapa-en-rapport-med-data-fr%C3%A5n-bilresor-i-hrm",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I rapportgeneratorn finns datakällorna Bilresa och Fordon.\nDatakällorna\nBilresa\noch\nFordon\nkan användas för att skapa rapporter med information om bilresor som registrerats i reseräkningen och körjour..."
   },
   {
     "title": "Rapportgeneratorn - Kan jag skapa en rapport med data från resor i HRM?",

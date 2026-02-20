@@ -1,6 +1,6 @@
 # Vad krävs för att spela in bilresa i HRM Mobile?
 
-**Datum:** den 13 februari 2026  
+**Datum:** den 19 februari 2026  
 **Kategori:** Travel & Expense  
 **Underkategori:** Reseräkningar  
 **Typ:** other  
@@ -20,6 +20,7 @@ HRM Mobile stöder den senaste versionen av iOS och versioner av Android som for
 Du måste i din mobila enhet tillåta att HRM Mobile får tillgång till platsinfo. Vi rekommenderar att tillåta plats “Alltid” (vissa mobiler har dock inte denna inställning, utan kan endast tillåta när appen används).
 Tillåt exakt platsinformation.
 Stäng inte av appen medan inspelning pågår.
+Du kan släcka skärmen eller använda andra appar, men låt HRM Mobile vara igång i bakgrunden.
 Kontrollera den mobila enhetens inställning för batterioptimering. Batterioptimering kan göra att appar inte får köra i bakgrunden, vilket kan påverka inspelningen av bilresa negativt.
 Har du problem att spara din inspelade bilresa? Kontrollera att du har Internetuppkoppling. Om du till exempel avslutar resan i ett garage med dålig mottagning kan du behöva lämna garaget för att kunna spara.
 ![Bild](images/vad-kravs-for-att-spela-in-bilresa-i-hrm-mobile_1a8b55d7.png)
