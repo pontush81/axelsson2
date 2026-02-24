@@ -1,6 +1,6 @@
 # Hur skapar jag ett arbetsgivarintyg i Flex HRM Payroll?
 
-**Datum:** den 7 oktober 2025  
+**Datum:** den 23 februari 2026  
 **Kategori:** Payroll  
 **Underkategori:** Semesterhantering  
 **Typ:** howto  
@@ -31,6 +31,20 @@ Om du väljer detta alternativ hämtas arbetad tid, övertid och mertid från l�
 Du väljer sedan vilken period som arbetad tid ska summeras för i arbetsgivarintyget. Systemet föreslår alltid de senaste 13 månaderna, vilket är rekommendationen från Sveriges a-kassor.
 ![Bilden visar datumfölt för den period man vill ta ut arbetsgivarintyg för; ett fr o m -och ett t o m-fält](images/hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll_c423446e.png)
 Har den anställde haft flera anställningsperioder under intervallet kommer de redovisas separat eller slås ihop enligt riktlinjerna från Sveriges a-kassor. Anställningsperioder som ligger i direkt följd och har samma typ av anställningsform kommer slås ihop. Provanställning och tillsvidareanställning räknas som samma anställningsform.
+Under första kvartalet 2026 anpassar Sveriges a-kassor arbetsgivarintyget så att
+uppgifterna om arbetad tid och inkomst (punkt 11 och 12) inte längre behöver fyllas i
+för att intyget ska kunna skickas in.
+Du som uppgiftslämnare behöver inte göra något särskilt. När förändringarna trätt i
+kraft kommer detta framgå på arbetsgivarintyg.nu samt i intyget.
+Vad kommer att ändras?
+Du ska endast lämna uppgifter om arbetad tid och inkomst (punkt 11 och 12 i intyget)
+om du uttryckligen har blivit ombedd att göra det.
+En sådan förfrågan kan komma:
+* direkt från den före detta anställde, eller
+* via ett automatiskt mejl.
+Om uppgifterna inte har efterfrågats skickar du in intyget utan dem.
+Ska inte uppgifterna om arbetad tid och inkomst skickas vidare till a-kassan så går du in på arbetsgivarintyg.nu och rensar uppgifterna i intyget innan du skickar in det. Det kommer du att kunna göra via en särskild knapp.
+Om du inte ska skicka med inkomstuppgifter finns det alltså ingen anledning att avvakta utbetalning av slutlönen innan intyget skapas.
 Företagsuppgifter
 Under urvalen för anställda visas uppgifter om företaget inklusive kontaktuppgifter. Systemet föreslår automatiskt kontaktuppgifter för den inloggade användaren.
 ![Bilden visar de fält som gäller för företagets uppgifter.](images/hur-skapar-jag-ett-arbetsgivarintyg-i-flex-hrm-payroll_eaeed048.png)
