@@ -505,6 +505,27 @@
     "excerpt": "För att aktivera överföring av bokföringsinformation till Visma.Net Finance kontaktar du oss via\nServiceportalen\nHur integrationen fungerar\nKopplingen från HRM Payroll till Visma.Net kommer att göras ..."
   },
   {
+    "title": "⚙️Inställningar av Bokföring och skuldhantering i HRM Payroll",
+    "file": "installningar-av-bokforing-och-skuldhantering-i-hrm-payroll.md",
+    "slug": "installningar-av-bokforing-och-skuldhantering-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "bokföring",
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 25 februari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/inst%C3%A4llningar-av-bokf%C3%B6ring-och-skuldhantering-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "I den här vyn gör du inställningar för hur lönekostnader, arbetsgivaravgifter och skulder ska hanteras i bokföringen. Du når funktionen via: Administration > Inställningar > Lön > Bokföring och skuldh..."
+  },
+  {
     "title": "Konteringsflöde i HRM Payroll - Hur hanteras konteringsdimensioner och prioriteringar i HRM Payroll?",
     "file": "konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll.md",
     "slug": "konteringsflode-i-hrm-payroll-hur-hanteras-konteringsdimensioner-och-prioriteringar-i-hrm-payroll",

@@ -1,12 +1,12 @@
 # ⚙️Hur hanterar man konteringsdimensioner i Flex HRM?
 
-**Datum:** den 19 september 2025  
+**Datum:** den 25 februari 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Register  
 **Typ:** config  
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, mobil, roll  
-**Bilder:** 3  
+**Bilder:** 4  
 **URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-man-konteringsdimensioner-i-systemet
 
 ---
@@ -121,7 +121,7 @@ Kan anges
 eller
 Måste anges
 .
-![Bild](images/hur-hanterar-man-konteringsdimensioner-i-flex-hrm_837962bf.png)
+![Bild](images/hur-hanterar-man-konteringsdimensioner-i-flex-hrm_e4668ce5.png)
 Visa i reseräkningens huvuduppgifter
 : Dimensionen visas överst i inmatningsbilden för reseräkningar.
 Visa vid registrering av transaktioner
@@ -191,6 +191,7 @@ Låst
 .
 Lägg ut kontering från Projekt
 : Styr om konteringar som är kopplade till projekt i projektregistret ska fyllas i automatiskt när ett projekt väljs.
+![Bild](images/hur-hanterar-man-konteringsdimensioner-i-flex-hrm_245aa7bd.png)
 Tolerans för behörigheter
 När en anställd byter hemkontering kan det vara bra att låta behörigheterna överlappa under en period. Detta gör att både den gamla och den nya chefen kan hantera den anställdes tidrapporter och reseräkningar under bytet. Detta ställer du in under
 Inställningar > Allmänt > Konteringsdimensioner
