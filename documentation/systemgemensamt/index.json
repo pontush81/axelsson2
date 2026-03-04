@@ -528,12 +528,12 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 9 oktober 2025",
+    "date": "den 3 mars 2026",
     "url": "https://knowledge.flexhrm.com/sv/rapportpaket-vad-%C3%A4r-och-hur-fungerar-rapportpaket",
     "isConfig": false,
-    "imageCount": 16,
+    "imageCount": 12,
     "hasImages": true,
-    "excerpt": "Nedan kan du läsa om vad rapportpaket i Flex HRM är. Samt hur du använder dig av dem och dess funktioner.\nGenerellt\nEtt rapportpaket är ett sätt att välja flera rapporter med förinställda urval som sk..."
+    "excerpt": "Nedan kan du läsa om vad rapportpaket i Flex HRM är, samt hur du använder dig av dem och dess funktioner.\nEtt rapportpaket är ett sätt att välja flera rapporter med förinställda urval som ska dras sam..."
   },
   {
     "title": "Rapportgenerator - Hur schemalägger jag uttag av rapporter från rapportgeneratorn?",

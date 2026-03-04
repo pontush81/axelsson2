@@ -406,6 +406,25 @@
     "excerpt": "Om en medarbetare ska beskattas enligt beslut om\nSärskild inkomstskatt (SINK)\nbehöver du registrera detta i\nAnställdaregistret\n.\nFölj stegen nedan:\nGå till\nAnställdaregistret\n.\nGå till fliken\nSkatt\n.\n..."
   },
   {
+    "title": "Hur registreras skattebefrielse för ungdomar?",
+    "file": "hur-registreras-skattebefrielse-for-ungdomar.md",
+    "slug": "hur-registreras-skattebefrielse-for-ungdomar",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "skatt"
+    ],
+    "date": "den 3 mars 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-registreras-skattebefrielse-f%C3%B6r-ungdomar",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Skolungdomar och studerande kan tjäna upp till ett visst belopp varje år utan att behöva betala skatt. Beloppet fastställs av Skatteverket och varierar från år till år. Om en medarbetare uppfyller kra..."
+  },
+  {
     "title": "Hur skapar jag ett bokföringsunderlag i HRM Payroll?",
     "file": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll.md",
     "slug": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll",
