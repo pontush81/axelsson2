@@ -18,24 +18,26 @@
     "excerpt": "Denna artikel beskriver hur du tar bort en eller flera anställda från en preliminär lönekörning.\nTa bort en anställd från en preliminär lönekörning\nHär beskriver vi hur du går tillväga för att ta bort..."
   },
   {
-    "title": "Var kan jag se en medarbetares frånvaro som beräknats i HRM Payroll?",
-    "file": "var-kan-jag-se-en-medarbetares-franvaro-som-beraknats-i-hrm-payroll.md",
-    "slug": "var-kan-jag-se-en-medarbetares-franvaro-som-beraknats-i-hrm-payroll",
+    "title": "Hur hanterar jag en löneskuld i HRM Payroll?",
+    "file": "hur-hanterar-jag-en-loneskuld-i-hrm-payroll.md",
+    "slug": "hur-hanterar-jag-en-loneskuld-i-hrm-payroll",
     "category": "payroll",
-    "subcategory": "Semesterhantering",
-    "type": "other",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
     "difficulty": "intermediate",
     "tags": [
+      "agi",
+      "bokföring",
       "lön",
       "löneart",
-      "semester"
+      "skatt"
     ],
-    "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/sv/var-kan-jag-se-en-medarbetares-fr%C3%A5nvaro-som-ber%C3%A4knats-i-hrm-payroll",
+    "date": "den 17 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-hanterar-jag-en-l%C3%B6neskuld-i-hrm-payroll",
     "isConfig": false,
-    "imageCount": 4,
+    "imageCount": 15,
     "hasImages": true,
-    "excerpt": "Du kan få en tydlig översikt över en medarbetares frånvaro, både semestergrundande och icke semestergrundande, i kalendariet. All frånvaro som registreras via en löneart kopplad till en frånvaroorsak ..."
+    "excerpt": "Hantera löneskuld som inte kan kvittas (återbetalning)\nOm du som arbetsgivare inte har möjlighet att reglera en löneskuld genom avdrag på en senare löneutbetalning, kan du kräva tillbaka det felaktiga..."
   },
   {
     "title": "Hur hanteras retroaktiv lön vid lönerevision i HRM Payroll?",
@@ -58,26 +60,24 @@
     "excerpt": "Varje år genomförs vanligen en lönerevision för att sätta nya löner för medarbetarna. Det är vanligt att de nya lönerna blir klara efter att de har börjat gälla. Om det händer behöver du betala ut lön..."
   },
   {
-    "title": "Hur hanterar jag en löneskuld i HRM Payroll?",
-    "file": "hur-hanterar-jag-en-loneskuld-i-hrm-payroll.md",
-    "slug": "hur-hanterar-jag-en-loneskuld-i-hrm-payroll",
+    "title": "Var kan jag se en medarbetares frånvaro som beräknats i HRM Payroll?",
+    "file": "var-kan-jag-se-en-medarbetares-franvaro-som-beraknats-i-hrm-payroll.md",
+    "slug": "var-kan-jag-se-en-medarbetares-franvaro-som-beraknats-i-hrm-payroll",
     "category": "payroll",
-    "subcategory": "Skatt & AGI",
-    "type": "howto",
+    "subcategory": "Semesterhantering",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
-      "agi",
-      "bokföring",
       "lön",
       "löneart",
-      "skatt"
+      "semester"
     ],
-    "date": "den 17 december 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-hanterar-jag-en-l%C3%B6neskuld-i-hrm-payroll",
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexhrm.com/sv/var-kan-jag-se-en-medarbetares-fr%C3%A5nvaro-som-ber%C3%A4knats-i-hrm-payroll",
     "isConfig": false,
-    "imageCount": 15,
+    "imageCount": 4,
     "hasImages": true,
-    "excerpt": "Hantera löneskuld som inte kan kvittas (återbetalning)\nOm du som arbetsgivare inte har möjlighet att reglera en löneskuld genom avdrag på en senare löneutbetalning, kan du kräva tillbaka det felaktiga..."
+    "excerpt": "Du kan få en tydlig översikt över en medarbetares frånvaro, både semestergrundande och icke semestergrundande, i kalendariet. All frånvaro som registreras via en löneart kopplad till en frånvaroorsak ..."
   },
   {
     "title": "Var kan jag se vilka poster som var med i överföringen till lönekörningen från HRM Time, HRM Travel eller en importerad fil?",
@@ -349,6 +349,25 @@
     "excerpt": "Artikeln beskriver hur du kan exportera saldon från HRM Payroll till HRM Time. Instruktionen gäller för flera olika typer av saldon, där bland semestersaldo, kompsaldo och flexsaldo.\nExport av saldon ..."
   },
   {
+    "title": "Hur registreras skattebefrielse för ungdomar?",
+    "file": "hur-registreras-skattebefrielse-for-ungdomar.md",
+    "slug": "hur-registreras-skattebefrielse-for-ungdomar",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "skatt"
+    ],
+    "date": "den 3 mars 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-registreras-skattebefrielse-f%C3%B6r-ungdomar",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Skolungdomar och studerande kan tjäna upp till ett visst belopp varje år utan att behöva betala skatt. Beloppet fastställs av Skatteverket och varierar från år till år. Om en medarbetare uppfyller kra..."
+  },
+  {
     "title": "FOS-förfrågan (fråga om skatteavdrag) - Hur skickar jag in FOS-förfrågan i Flex HRM Payroll?",
     "file": "fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-payroll.md",
     "slug": "fos-forfragan-fraga-om-skatteavdrag-hur-skickar-jag-in-fos-forfragan-i-flex-hrm-payroll",
@@ -366,6 +385,24 @@
     "imageCount": 3,
     "hasImages": true,
     "excerpt": "Guide för FOS-förfrågan i Flex HRM. Lär dig hämta, granska och verkställa nya skatteuppgifter för anställda inför det nya beskattningsåret.\nInför varje nytt beskattningsår behöver du som löneutbetalar..."
+  },
+  {
+    "title": "Hur registreras skatteavdrag för Särskild Inkomstskatt (SINK) i Flex HRM?",
+    "file": "hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm.md",
+    "slug": "hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "skatt"
+    ],
+    "date": "den 10 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-registreras-skatteavdrag-f%C3%B6r-s%C3%A4rskild-inkomstskatt-sink-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Om en medarbetare ska beskattas enligt beslut om\nSärskild inkomstskatt (SINK)\nbehöver du registrera detta i\nAnställdaregistret\n.\nFölj stegen nedan:\nGå till\nAnställdaregistret\n.\nGå till fliken\nSkatt\n.\n..."
   },
   {
     "title": "Varför räknas engångsskatten om vid lönekörningens avräkning?",
@@ -388,61 +425,25 @@
     "excerpt": "En omräkning av engångsskatten kan ske om en anställds beräknade årsinkomst ändras i samband med att du avräknar en lönekörning. Detta beror oftast på en automatisk omräkning av den anställdas semeste..."
   },
   {
-    "title": "Hur registreras skatteavdrag för Särskild Inkomstskatt (SINK) i Flex HRM?",
-    "file": "hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm.md",
-    "slug": "hur-registreras-skatteavdrag-for-sarskild-inkomstskatt-sink-i-flex-hrm",
+    "title": "⚙️Inställningar av Bokföring och skuldhantering i HRM Payroll",
+    "file": "installningar-av-bokforing-och-skuldhantering-i-hrm-payroll.md",
+    "slug": "installningar-av-bokforing-och-skuldhantering-i-hrm-payroll",
     "category": "payroll",
-    "subcategory": "Skatt & AGI",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "skatt"
-    ],
-    "date": "den 10 december 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-registreras-skatteavdrag-f%C3%B6r-s%C3%A4rskild-inkomstskatt-sink-i-flex-hrm",
-    "isConfig": false,
-    "imageCount": 2,
-    "hasImages": true,
-    "excerpt": "Om en medarbetare ska beskattas enligt beslut om\nSärskild inkomstskatt (SINK)\nbehöver du registrera detta i\nAnställdaregistret\n.\nFölj stegen nedan:\nGå till\nAnställdaregistret\n.\nGå till fliken\nSkatt\n.\n..."
-  },
-  {
-    "title": "Hur registreras skattebefrielse för ungdomar?",
-    "file": "hur-registreras-skattebefrielse-for-ungdomar.md",
-    "slug": "hur-registreras-skattebefrielse-for-ungdomar",
-    "category": "payroll",
-    "subcategory": "Skatt & AGI",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "lön",
-      "skatt"
-    ],
-    "date": "den 3 mars 2026",
-    "url": "https://knowledge.flexhrm.com/sv/hur-registreras-skattebefrielse-f%C3%B6r-ungdomar",
-    "isConfig": false,
-    "imageCount": 1,
-    "hasImages": true,
-    "excerpt": "Skolungdomar och studerande kan tjäna upp till ett visst belopp varje år utan att behöva betala skatt. Beloppet fastställs av Skatteverket och varierar från år till år. Om en medarbetare uppfyller kra..."
-  },
-  {
-    "title": "Hur skapar jag ett bokföringsunderlag i HRM Payroll?",
-    "file": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll.md",
-    "slug": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll",
-    "category": "payroll",
-    "subcategory": "Löneberedning",
-    "type": "howto",
-    "difficulty": "intermediate",
+    "subcategory": "Semesterhantering",
+    "type": "config",
+    "difficulty": "advanced",
     "tags": [
       "bokföring",
       "lön",
+      "löneart",
       "semester"
     ],
-    "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-skapar-jag-ett-bokf%C3%B6ringsunderlag-i-hrm-payroll",
-    "isConfig": false,
-    "imageCount": 4,
+    "date": "den 25 februari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/inst%C3%A4llningar-av-bokf%C3%B6ring-och-skuldhantering-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 5,
     "hasImages": true,
-    "excerpt": "I den här artikeln beskriver vi stegen för att skapa ett underlag för bokföring.\nSteg 1: Förberedelser - Skuldlistor\nInnan du kan skapa själva bokföringsfilen måste du gå till\nLön > Skuldhantering.\nDä..."
+    "excerpt": "I den här vyn gör du inställningar för hur lönekostnader, arbetsgivaravgifter och skulder ska hanteras i bokföringen. Du når funktionen via: Administration > Inställningar > Lön > Bokföring och skuldh..."
   },
   {
     "title": "Hur skapar jag en beräkning av skuld (t.ex. semesterskuld, kompskuld) i HRM Payroll?",
@@ -465,24 +466,23 @@
     "excerpt": "I HRM Payroll kan du beräkna olika typer av skulder, till exempel semesterskuld eller kompskuld. Du gör detta under funktionen för skuldhantering.\nSå här beräknar du en skuld\nGå till\nLön > Skuldhanter..."
   },
   {
-    "title": "Jag får en varning att konto saknas för bokföringsposter, hur hittar jag var konto saknas och korrigerar detta?",
-    "file": "jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-konto-saknas-och-korrige.md",
-    "slug": "jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-konto-saknas-och-korrige",
+    "title": "Hur använder jag funktionen för överföring av bokföringsinformation från HRM Payroll till Visma.Net Finance?",
+    "file": "hur-anvander-jag-funktionen-for-overforing-av-bokforingsinformation-fran-hrm-payroll-till-visma-net-.md",
+    "slug": "hur-anvander-jag-funktionen-for-overforing-av-bokforingsinformation-fran-hrm-payroll-till-visma-net-",
     "category": "payroll",
-    "subcategory": "Löneberedning",
-    "type": "other",
-    "difficulty": "intermediate",
+    "subcategory": "Bokföring",
+    "type": "howto",
+    "difficulty": "advanced",
     "tags": [
       "bokföring",
-      "lön",
-      "löneart"
+      "lön"
     ],
-    "date": "den 9 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/sv/jag-f%C3%A5r-en-varning-att-konto-saknas-f%C3%B6r-bokf%C3%B6ringsposter-hur-hittar-jag-var-konto-saknas-och-korrigerar-detta",
+    "date": "den 19 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-%C3%B6verf%C3%B6ring-av-bokf%C3%B6ringsinformation-fr%C3%A5n-hrm-payroll-till-visma.net-finance",
     "isConfig": false,
     "imageCount": 4,
     "hasImages": true,
-    "excerpt": "När du skapar ett bokföringsunderlag kan du få en varning i en notis om att ett konto saknas. Här guidar vi dig i hur du hittar vilken löneart det gäller och hur du åtgärdar det.\n![Bild](images/jag-fa..."
+    "excerpt": "För att aktivera överföring av bokföringsinformation till Visma.Net Finance kontaktar du oss via\nServiceportalen\nHur integrationen fungerar\nKopplingen från HRM Payroll till Visma.Net kommer att göras ..."
   },
   {
     "title": "Hur ser jag vilka belopp och poster som bokförts på ett specifikt konto i bokföringsunderlaget?",
@@ -505,44 +505,44 @@
     "excerpt": "För att se vilka lönearter som har bokförts på ett specifikt konto, förhandsgranskar du bokföringsunderlaget. Under inställningen Fördelning bokföringspost, väljer du att visa Konto och Löneartsnummer..."
   },
   {
-    "title": "Hur använder jag funktionen för överföring av bokföringsinformation från HRM Payroll till Visma.Net Finance?",
-    "file": "hur-anvander-jag-funktionen-for-overforing-av-bokforingsinformation-fran-hrm-payroll-till-visma-net-.md",
-    "slug": "hur-anvander-jag-funktionen-for-overforing-av-bokforingsinformation-fran-hrm-payroll-till-visma-net-",
+    "title": "Jag får en varning att konto saknas för bokföringsposter, hur hittar jag var konto saknas och korrigerar detta?",
+    "file": "jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-konto-saknas-och-korrige.md",
+    "slug": "jag-far-en-varning-att-konto-saknas-for-bokforingsposter-hur-hittar-jag-var-konto-saknas-och-korrige",
     "category": "payroll",
-    "subcategory": "Bokföring",
-    "type": "howto",
-    "difficulty": "advanced",
-    "tags": [
-      "bokföring",
-      "lön"
-    ],
-    "date": "den 19 december 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-%C3%B6verf%C3%B6ring-av-bokf%C3%B6ringsinformation-fr%C3%A5n-hrm-payroll-till-visma.net-finance",
-    "isConfig": false,
-    "imageCount": 4,
-    "hasImages": true,
-    "excerpt": "För att aktivera överföring av bokföringsinformation till Visma.Net Finance kontaktar du oss via\nServiceportalen\nHur integrationen fungerar\nKopplingen från HRM Payroll till Visma.Net kommer att göras ..."
-  },
-  {
-    "title": "⚙️Inställningar av Bokföring och skuldhantering i HRM Payroll",
-    "file": "installningar-av-bokforing-och-skuldhantering-i-hrm-payroll.md",
-    "slug": "installningar-av-bokforing-och-skuldhantering-i-hrm-payroll",
-    "category": "payroll",
-    "subcategory": "Semesterhantering",
-    "type": "config",
-    "difficulty": "advanced",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "intermediate",
     "tags": [
       "bokföring",
       "lön",
-      "löneart",
+      "löneart"
+    ],
+    "date": "den 9 oktober 2025",
+    "url": "https://knowledge.flexhrm.com/sv/jag-f%C3%A5r-en-varning-att-konto-saknas-f%C3%B6r-bokf%C3%B6ringsposter-hur-hittar-jag-var-konto-saknas-och-korrigerar-detta",
+    "isConfig": false,
+    "imageCount": 4,
+    "hasImages": true,
+    "excerpt": "När du skapar ett bokföringsunderlag kan du få en varning i en notis om att ett konto saknas. Här guidar vi dig i hur du hittar vilken löneart det gäller och hur du åtgärdar det.\n![Bild](images/jag-fa..."
+  },
+  {
+    "title": "Hur skapar jag ett bokföringsunderlag i HRM Payroll?",
+    "file": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll.md",
+    "slug": "hur-skapar-jag-ett-bokforingsunderlag-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "bokföring",
+      "lön",
       "semester"
     ],
-    "date": "den 25 februari 2026",
-    "url": "https://knowledge.flexhrm.com/sv/inst%C3%A4llningar-av-bokf%C3%B6ring-och-skuldhantering-i-hrm-payroll",
-    "isConfig": true,
-    "imageCount": 5,
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-skapar-jag-ett-bokf%C3%B6ringsunderlag-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 4,
     "hasImages": true,
-    "excerpt": "I den här vyn gör du inställningar för hur lönekostnader, arbetsgivaravgifter och skulder ska hanteras i bokföringen. Du når funktionen via: Administration > Inställningar > Lön > Bokföring och skuldh..."
+    "excerpt": "I den här artikeln beskriver vi stegen för att skapa ett underlag för bokföring.\nSteg 1: Förberedelser - Skuldlistor\nInnan du kan skapa själva bokföringsfilen måste du gå till\nLön > Skuldhantering.\nDä..."
   },
   {
     "title": "Konteringsflöde i HRM Payroll - Hur hanteras konteringsdimensioner och prioriteringar i HRM Payroll?",
@@ -605,6 +605,25 @@
     "excerpt": "Artikeln beskriver månadsredovisningen av arbetsgivardeklaration på individnivå. Bland annat beskrivs hur du skapar, kontrollerar och exporterar underlaget.\nVyns olika delar\nSkapa underlag\nSpecifikati..."
   },
   {
+    "title": "Hur registrerar jag samordningsnummer eller medarbetare som ännu inte fått ett samordningsnummer/personnummer?",
+    "file": "hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-annu-inte-fatt-ett-samordningsnummer-per.md",
+    "slug": "hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-annu-inte-fatt-ett-samordningsnummer-per",
+    "category": "payroll",
+    "subcategory": "Skatt & AGI",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "agi",
+      "skatt"
+    ],
+    "date": "den 1 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-%C3%A4nnu-inte-f%C3%A5tt-ett-samordningsnummer/personnummer",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Samordningsnummer är en identitetsbeteckning för personer som inte är eller har varit folkbokförda i Sverige. Syftet med samordningsnummer är att myndigheter och andra samhällsfunktioner ska kunna ide..."
+  },
+  {
     "title": "Varför får jag en varning i arbetsgivaruppgifterna på individnivå (AGI) att det finns ett negativt belopp på fält 499?",
     "file": "varfor-far-jag-en-varning-i-arbetsgivaruppgifterna-pa-individniva-agi-att-det-finns-ett-negativt-bel.md",
     "slug": "varfor-far-jag-en-varning-i-arbetsgivaruppgifterna-pa-individniva-agi-att-det-finns-ett-negativt-bel",
@@ -624,25 +643,6 @@
     "imageCount": 1,
     "hasImages": true,
     "excerpt": "Få svar på varningen om minusbelopp i fält 499 i AGI och undvik fel vid rapportering av sjuklönekostnader till Skatteverket.\nVarning för negativt belopp i fält 499 i AGI-underlaget\nOm du får en varnin..."
-  },
-  {
-    "title": "Hur registrerar jag samordningsnummer eller medarbetare som ännu inte fått ett samordningsnummer/personnummer?",
-    "file": "hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-annu-inte-fatt-ett-samordningsnummer-per.md",
-    "slug": "hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-annu-inte-fatt-ett-samordningsnummer-per",
-    "category": "payroll",
-    "subcategory": "Skatt & AGI",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "agi",
-      "skatt"
-    ],
-    "date": "den 1 december 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-registrerar-jag-samordningsnummer-eller-medarbetare-som-%C3%A4nnu-inte-f%C3%A5tt-ett-samordningsnummer/personnummer",
-    "isConfig": false,
-    "imageCount": 2,
-    "hasImages": true,
-    "excerpt": "Samordningsnummer är en identitetsbeteckning för personer som inte är eller har varit folkbokförda i Sverige. Syftet med samordningsnummer är att myndigheter och andra samhällsfunktioner ska kunna ide..."
   },
   {
     "title": "Hur hittar jag orsaken till differenser i arbetsgivaravgifter (AGI) i Flex HRM Payroll?",
@@ -790,25 +790,6 @@
     "excerpt": "För att skicka korrekta arbetsgivarintyg måste systemet först länkas till tjänsten och därefter måste alla koder för lön, tid och frånvaro mappas korrekt.\nProgramlänk till Arbetsgivarintyg.nu\nIntegrat..."
   },
   {
-    "title": "Vilka uppgifter kommer med i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) och hur beräknas dem?",
-    "file": "vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-struktur-lcs-och-hur-b.md",
-    "slug": "vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-struktur-lcs-och-hur-b",
-    "category": "payroll",
-    "subcategory": "Löneberedning",
-    "type": "other",
-    "difficulty": "advanced",
-    "tags": [
-      "lön",
-      "löneart"
-    ],
-    "date": "den 7 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/sv/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-och-hur-ber%C3%A4knas-dem",
-    "isConfig": false,
-    "imageCount": 1,
-    "hasImages": true,
-    "excerpt": "I denna artikel hittar du detaljerad information om vilka uppgifter tas med i del A och B i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) samt hur de beräknas.\nFördjupad information ..."
-  },
-  {
     "title": "⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?",
     "file": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll.md",
     "slug": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll",
@@ -845,6 +826,25 @@
     "imageCount": 7,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du tar ut rapport för Bygglösen 1.0 (Tidlön) i systemet.\nSkapa underlag\nSkapa fil för rapportering\nVilka medarbetare innehåller underlaget\nSå här skapar du ett nytt underla..."
+  },
+  {
+    "title": "Vilka uppgifter kommer med i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) och hur beräknas dem?",
+    "file": "vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-struktur-lcs-och-hur-b.md",
+    "slug": "vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niva-och-struktur-lcs-och-hur-b",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 7 oktober 2025",
+    "url": "https://knowledge.flexhrm.com/sv/vilka-uppgifter-kommer-med-i-statistiken-till-arbetskraftskostnadens-niv%C3%A5-och-struktur-lcs-och-hur-ber%C3%A4knas-dem",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I denna artikel hittar du detaljerad information om vilka uppgifter tas med i del A och B i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) samt hur de beräknas.\nFördjupad information ..."
   },
   {
     "title": "Arbetskraftskostnadens nivå och struktur (LCS) - Hur tar jag fram statistiken för LCS i HRM Payroll?",
@@ -1262,27 +1262,6 @@
     "excerpt": "Artikeln beskriver de inställningar i HRM Payroll som krävs för att kunna rapportera pensionsunderlag till Fora varje månad.\nUppmärkningskod per personalkategori\nUppgifter på individnivå\nImportera upp..."
   },
   {
-    "title": "Hur ser de årliga rutinerna för ATF ut?",
-    "file": "hur-ser-de-arliga-rutinerna-for-atf-ut.md",
-    "slug": "hur-ser-de-arliga-rutinerna-for-atf-ut",
-    "category": "payroll",
-    "subcategory": "Löneberedning",
-    "type": "howto",
-    "difficulty": "advanced",
-    "tags": [
-      "agi",
-      "lön",
-      "löneart",
-      "pension"
-    ],
-    "date": "den 24 november 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut",
-    "isConfig": false,
-    "imageCount": 13,
-    "hasImages": true,
-    "excerpt": "Stegen nedan utgör den cykel som upprepas varje år.\n1. Påbörja ny intjänandeperiod\nFörsta steget i cykeln är att påbörja en ny intjänandeperiod.\nDetta ska göras när den sista\nlönekörnin\ngen under den ..."
-  },
-  {
     "title": "⚙️Hur ställer jag in ATK/ATF avtal i HRM Payroll?",
     "file": "hur-staller-jag-in-atk-atf-avtal-i-hrm-payroll.md",
     "slug": "hur-staller-jag-in-atk-atf-avtal-i-hrm-payroll",
@@ -1346,6 +1325,27 @@
     "excerpt": "Om den anställde enligt avtalet får välja vad hen vill göra med de intjänade pengarna/timmarna kan det vara en god idé att använda påminnelsefunktionen. Man kan använda påminnelsefunktionen både för a..."
   },
   {
+    "title": "Hur ser de årliga rutinerna för ATF ut?",
+    "file": "hur-ser-de-arliga-rutinerna-for-atf-ut.md",
+    "slug": "hur-ser-de-arliga-rutinerna-for-atf-ut",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 24 november 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut",
+    "isConfig": false,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Stegen nedan utgör den cykel som upprepas varje år.\n1. Påbörja ny intjänandeperiod\nFörsta steget i cykeln är att påbörja en ny intjänandeperiod.\nDetta ska göras när den sista\nlönekörnin\ngen under den ..."
+  },
+  {
     "title": "Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?",
     "file": "vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf.md",
     "slug": "vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf",
@@ -1405,6 +1405,27 @@
     "excerpt": "Artikeln beskriver de olika rutinerna som ska köras under året om du använder ATK.\nÅrscykel för ATK i HRM Payroll\nHär beskriver vi de olika rutiner du behöver köra under året när du använder ATK (arbe..."
   },
   {
+    "title": "Hur korrigerar jag semestersaldo som blivit minus i kvarvarande dagar?",
+    "file": "hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-kvarvarande-dagar.md",
+    "slug": "hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-kvarvarande-dagar",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 12 januari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-uttagna-dagar",
+    "isConfig": false,
+    "imageCount": 8,
+    "hasImages": true,
+    "excerpt": "Hantering av semestersaldon som hamnat i minus\nOm en medarbetare, t.ex. p.g.a. semesterkvot tagit ut mer semester än vad som finns kvar i saldot kan manuell justering behövas i lönekörningen för att f..."
+  },
+  {
     "title": "Semesterårsskifte HRM Payroll: Januari - Vad behöver jag göra inför semesterårsskiftet?",
     "file": "semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet.md",
     "slug": "semesterarsskifte-hrm-payroll-januari-vad-behover-jag-gora-infor-semesterarsskiftet",
@@ -1445,27 +1466,6 @@
     "excerpt": "Denna artikel beskriver hur du gör ett semesterskifte när du har semesterår 1 april–31 mars.\nArbetsgång vid semesterårsbytet 1 april\nImportmall och importfil för utbetalning av överskjutande dagar\nChe..."
   },
   {
-    "title": "Hur korrigerar jag semestersaldo som blivit minus i kvarvarande dagar?",
-    "file": "hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-kvarvarande-dagar.md",
-    "slug": "hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-kvarvarande-dagar",
-    "category": "payroll",
-    "subcategory": "Semesterhantering",
-    "type": "howto",
-    "difficulty": "advanced",
-    "tags": [
-      "agi",
-      "lön",
-      "löneart",
-      "semester"
-    ],
-    "date": "den 12 januari 2026",
-    "url": "https://knowledge.flexhrm.com/sv/hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-uttagna-dagar",
-    "isConfig": false,
-    "imageCount": 8,
-    "hasImages": true,
-    "excerpt": "Hantering av semestersaldon som hamnat i minus\nOm en medarbetare, t.ex. p.g.a. semesterkvot tagit ut mer semester än vad som finns kvar i saldot kan manuell justering behövas i lönekörningen för att f..."
-  },
-  {
     "title": "Formelvariabler - Varifrån hämtar formelvariablerna information för semestergrundande närvaro och frånvaro i HRM Payroll?",
     "file": "formelvariabler-varifran-hamtar-formelvariablerna-information-for-semestergrundande-narvaro-och-fran.md",
     "slug": "formelvariabler-varifran-hamtar-formelvariablerna-information-for-semestergrundande-narvaro-och-fran",
@@ -1486,24 +1486,40 @@
     "excerpt": "Artikeln förklarar varifrån Flex HRM hämtar information om närvaro och frånvaro som räknas som semestergrundande.\nFormelvariabler för Närvaro/Frånvaro\nFormelvariabler är de värden som används i beräkn..."
   },
   {
-    "title": "Kalendarium - Hur kan jag se en sammanställning av frånvaro och schematid för en anställd?",
-    "file": "kalendarium-hur-kan-jag-se-en-sammanstallning-av-franvaro-och-schematid-for-en-anstalld.md",
-    "slug": "kalendarium-hur-kan-jag-se-en-sammanstallning-av-franvaro-och-schematid-for-en-anstalld",
+    "title": "Hur registreras bankkonton för utbetalning av lön i HRM Payroll?",
+    "file": "hur-registreras-bankkonton-for-utbetalning-av-lon-i-hrm-payroll.md",
+    "slug": "hur-registreras-bankkonton-for-utbetalning-av-lon-i-hrm-payroll",
     "category": "payroll",
-    "subcategory": "Semesterhantering",
-    "type": "other",
+    "subcategory": "Övrigt",
+    "type": "howto",
     "difficulty": "intermediate",
     "tags": [
-      "lön",
-      "löneart",
-      "semester"
+      "lön"
     ],
-    "date": "den 29 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/sv/kalendarium-hur-kan-jag-se-en-sammanst%C3%A4llning-av-fr%C3%A5nvaro-och-schematid-f%C3%B6r-en-anst%C3%A4lld",
+    "date": "den 22 december 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-registreras-bankkonton-f%C3%B6r-utbetalning-av-l%C3%B6n-i-hrm-payroll",
     "isConfig": false,
-    "imageCount": 10,
+    "imageCount": 4,
     "hasImages": true,
-    "excerpt": "Kalendarium i Flex HRM Payroll är en funktion där du ser en enkel översikt över en anställds frånvaro och schematid för en vald period, med möjlighet att filtrera.\nKalendarium\nI funktionen Kalendarium..."
+    "excerpt": "Här beskriver vi hur du registrerar en medarbetares bankkonto för utbetalning av lön i HRM Payroll.\nSå här gör du:\nGå till\nPersonal > Anställda\n.\nVälj den medarbetare det gäller och klicka på fliken\nL..."
+  },
+  {
+    "title": "⚙️Skicka lönespecifikationer med Kivra i Flex HRM",
+    "file": "skicka-lonespecifikationer-med-kivra-i-flex-hrm.md",
+    "slug": "skicka-lonespecifikationer-med-kivra-i-flex-hrm",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 21 november 2025",
+    "url": "https://knowledge.flexhrm.com/sv/skicka-l%C3%B6nespecifikationer-med-kivra-i-flex-hrm",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du ställer in och skickar lönespecifikationer till dina anställda via den digitala brevlådan Kivra.\nFörutsättningar för att använda Kivra\nFör att kunna använda funktionen f..."
   },
   {
     "title": "Vad styrs av inställningarna under Lönekörningar i HRM Payroll?",
@@ -1545,40 +1561,24 @@
     "excerpt": "I denna funktion görs inställningar gällande överföringen av företagets tidstransaktioner från HRM Time/resetransaktioner från HRM Travel till HRM Payroll. Observera att denna funktion endast finns ti..."
   },
   {
-    "title": "⚙️Skicka lönespecifikationer med Kivra i Flex HRM",
-    "file": "skicka-lonespecifikationer-med-kivra-i-flex-hrm.md",
-    "slug": "skicka-lonespecifikationer-med-kivra-i-flex-hrm",
+    "title": "Kalendarium - Hur kan jag se en sammanställning av frånvaro och schematid för en anställd?",
+    "file": "kalendarium-hur-kan-jag-se-en-sammanstallning-av-franvaro-och-schematid-for-en-anstalld.md",
+    "slug": "kalendarium-hur-kan-jag-se-en-sammanstallning-av-franvaro-och-schematid-for-en-anstalld",
     "category": "payroll",
-    "subcategory": "Inställningar",
-    "type": "config",
-    "difficulty": "advanced",
-    "tags": [
-      "lön"
-    ],
-    "date": "den 21 november 2025",
-    "url": "https://knowledge.flexhrm.com/sv/skicka-l%C3%B6nespecifikationer-med-kivra-i-flex-hrm",
-    "isConfig": true,
-    "imageCount": 7,
-    "hasImages": true,
-    "excerpt": "Denna artikel beskriver hur du ställer in och skickar lönespecifikationer till dina anställda via den digitala brevlådan Kivra.\nFörutsättningar för att använda Kivra\nFör att kunna använda funktionen f..."
-  },
-  {
-    "title": "Hur registreras bankkonton för utbetalning av lön i HRM Payroll?",
-    "file": "hur-registreras-bankkonton-for-utbetalning-av-lon-i-hrm-payroll.md",
-    "slug": "hur-registreras-bankkonton-for-utbetalning-av-lon-i-hrm-payroll",
-    "category": "payroll",
-    "subcategory": "Övrigt",
-    "type": "howto",
+    "subcategory": "Semesterhantering",
+    "type": "other",
     "difficulty": "intermediate",
     "tags": [
-      "lön"
+      "lön",
+      "löneart",
+      "semester"
     ],
-    "date": "den 22 december 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-registreras-bankkonton-f%C3%B6r-utbetalning-av-l%C3%B6n-i-hrm-payroll",
+    "date": "den 29 oktober 2025",
+    "url": "https://knowledge.flexhrm.com/sv/kalendarium-hur-kan-jag-se-en-sammanst%C3%A4llning-av-fr%C3%A5nvaro-och-schematid-f%C3%B6r-en-anst%C3%A4lld",
     "isConfig": false,
-    "imageCount": 4,
+    "imageCount": 10,
     "hasImages": true,
-    "excerpt": "Här beskriver vi hur du registrerar en medarbetares bankkonto för utbetalning av lön i HRM Payroll.\nSå här gör du:\nGå till\nPersonal > Anställda\n.\nVälj den medarbetare det gäller och klicka på fliken\nL..."
+    "excerpt": "Kalendarium i Flex HRM Payroll är en funktion där du ser en enkel översikt över en anställds frånvaro och schematid för en vald period, med möjlighet att filtrera.\nKalendarium\nI funktionen Kalendarium..."
   },
   {
     "title": "⚙️Hur fungerar Personalkategorier i HRM Payroll?",

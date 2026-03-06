@@ -1,8 +1,8 @@
 [
   {
-    "title": "Dagredovisning - Hur registrerar man närvaro, frånvaro och övertid för en dag?",
-    "file": "dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag.md",
-    "slug": "dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag",
+    "title": "Varför visas inte ospecificerad frånvaro vid otillåten rast?",
+    "file": "varfor-visas-inte-ospecificerad-franvaro-vid-otillaten-rast.md",
+    "slug": "varfor-visas-inte-ospecificerad-franvaro-vid-otillaten-rast",
     "category": "time",
     "subcategory": "Tidrapportering",
     "type": "other",
@@ -10,17 +10,16 @@
     "tags": [
       "frånvaro",
       "schema",
-      "semester",
+      "stämpling",
       "tidkod",
-      "tidrapport",
-      "övertid"
+      "tidrapport"
     ],
-    "date": "den 26 september 2025",
-    "url": "https://knowledge.flexhrm.com/sv/dagredovisning-hur-registrerar-man-n%C3%A4rvaro-fr%C3%A5nvaro-och-%C3%B6vertid-f%C3%B6r-en-dag",
+    "date": "den 27 januari 2026",
+    "url": "https://knowledge.flexhrm.com/sv/varf%C3%B6r-visas-inte-ospecificerad-fr%C3%A5nvaro-vid-otill%C3%A5ten-rast",
     "isConfig": false,
-    "imageCount": 11,
+    "imageCount": 1,
     "hasImages": true,
-    "excerpt": "Artikeln innehåller en steg för steg-beskrivning av registrering av tid i tidrapporten för dagredovisning.\nRegistrera tid i tidrapporten – dagredovisning\nMed\ndagredovisning\nmenas att registrering av t..."
+    "excerpt": "Om du registrerar rast på en annan tid än vad schemat anger, kan systemet markera detta som ospecificerad frånvaro. Det finns dock flera anledningar till att denna markering ibland uteblir.\nI HRM Time..."
   },
   {
     "title": "Varför får jag en fråga om tidig utstämpling trots att jag har flextid?",
@@ -44,9 +43,9 @@
     "excerpt": "Om du stämplar ut innan din schemalagda tids slut, kan systemet fråga dig om orsaken till\ntidig utstämpling\n. Syftet är att att du inte ska missa att registrera eventuell frånvaro.\nFrågan kan visas äv..."
   },
   {
-    "title": "Varför visas inte ospecificerad frånvaro vid otillåten rast?",
-    "file": "varfor-visas-inte-ospecificerad-franvaro-vid-otillaten-rast.md",
-    "slug": "varfor-visas-inte-ospecificerad-franvaro-vid-otillaten-rast",
+    "title": "Dagredovisning - Hur registrerar man närvaro, frånvaro och övertid för en dag?",
+    "file": "dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag.md",
+    "slug": "dagredovisning-hur-registrerar-man-narvaro-franvaro-och-overtid-for-en-dag",
     "category": "time",
     "subcategory": "Tidrapportering",
     "type": "other",
@@ -54,16 +53,17 @@
     "tags": [
       "frånvaro",
       "schema",
-      "stämpling",
+      "semester",
       "tidkod",
-      "tidrapport"
+      "tidrapport",
+      "övertid"
     ],
-    "date": "den 27 januari 2026",
-    "url": "https://knowledge.flexhrm.com/sv/varf%C3%B6r-visas-inte-ospecificerad-fr%C3%A5nvaro-vid-otill%C3%A5ten-rast",
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexhrm.com/sv/dagredovisning-hur-registrerar-man-n%C3%A4rvaro-fr%C3%A5nvaro-och-%C3%B6vertid-f%C3%B6r-en-dag",
     "isConfig": false,
-    "imageCount": 1,
+    "imageCount": 11,
     "hasImages": true,
-    "excerpt": "Om du registrerar rast på en annan tid än vad schemat anger, kan systemet markera detta som ospecificerad frånvaro. Det finns dock flera anledningar till att denna markering ibland uteblir.\nI HRM Time..."
+    "excerpt": "Artikeln innehåller en steg för steg-beskrivning av registrering av tid i tidrapporten för dagredovisning.\nRegistrera tid i tidrapporten – dagredovisning\nMed\ndagredovisning\nmenas att registrering av t..."
   },
   {
     "title": "Periodredovisning - Hur registrerar man närvaro, frånvaro och övertid som periodredovisare?",
@@ -1893,26 +1893,6 @@
     "excerpt": "Saldotak/-golv\nanvänds för att sätta ett tak och/eller golv för saldon, och ange vad som ska hända om man går över taket/under golvet.\nDet går att ställa in saldotak/-golv på företags-, tidgrupps- ell..."
   },
   {
-    "title": "⚙️Hur fungerar fasta saldojusteringar?",
-    "file": "hur-fungerar-fasta-saldojusteringar.md",
-    "slug": "hur-fungerar-fasta-saldojusteringar",
-    "category": "time",
-    "subcategory": "Inställningar",
-    "type": "config",
-    "difficulty": "intermediate",
-    "tags": [
-      "saldo",
-      "semester",
-      "tidrapport"
-    ],
-    "date": "den 26 september 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-fasta-saldojusteringar",
-    "isConfig": true,
-    "imageCount": 7,
-    "hasImages": true,
-    "excerpt": "Fasta saldojusteringar\nkan användas för saldohändelser som ska påverka alla/en grupp av anställda. Det kan t.ex. handla om ett saldo som ska nollställas vid varje årsskifte.\n![Bild](images/hur-fungera..."
-  },
-  {
     "title": "⚙️Hur fungerar saldojustering i tidrapporten?",
     "file": "hur-fungerar-saldojustering-i-tidrapporten.md",
     "slug": "hur-fungerar-saldojustering-i-tidrapporten",
@@ -1932,6 +1912,26 @@
     "imageCount": 3,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver funktionen Saldojustering som finns i tidrapporten i Flex HRM Time.\nMed denna funktion kan du justera befintliga saldovärden samt sätta nya saldovärden. Klicka på knappen och f..."
+  },
+  {
+    "title": "⚙️Hur fungerar fasta saldojusteringar?",
+    "file": "hur-fungerar-fasta-saldojusteringar.md",
+    "slug": "hur-fungerar-fasta-saldojusteringar",
+    "category": "time",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "saldo",
+      "semester",
+      "tidrapport"
+    ],
+    "date": "den 26 september 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-fasta-saldojusteringar",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "Fasta saldojusteringar\nkan användas för saldohändelser som ska påverka alla/en grupp av anställda. Det kan t.ex. handla om ett saldo som ska nollställas vid varje årsskifte.\n![Bild](images/hur-fungera..."
   },
   {
     "title": "⚙️I vilken ordning körs händelser, saldotak/-golv och fasta saldojusteringar som påverkar samma saldon?",
@@ -1974,26 +1974,6 @@
     "excerpt": "Du kan ta fram anpassade rapporter över alla typer av frånvaro i HRM Time med hjälp av datakällan Frånvaro i Rapportgeneratorn.\nTillgängliga fält och urval\nVilken frånvaro visas i rapporten?\nKontering..."
   },
   {
-    "title": "Hur fungerar rapporten Projektuppföljning?",
-    "file": "hur-fungerar-rapporten-projektuppfoljning.md",
-    "slug": "hur-fungerar-rapporten-projektuppfoljning",
-    "category": "time",
-    "subcategory": "Tidrapportering",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "ob",
-      "tidkod",
-      "tidrapport"
-    ],
-    "date": "den 15 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-rapporten-projektuppf%C3%B6ljning",
-    "isConfig": false,
-    "imageCount": 5,
-    "hasImages": true,
-    "excerpt": "Så bygger du upp rapporten\nGör urval och välj detaljnivå\nBehörighet för Projektuppföljning\nRapporten\nProjektuppföljning\nger dig möjlighet att följa upp dina projekt. Du kan bland annat se budgeterad, ..."
-  },
-  {
     "title": "Kan jag skriva ut min tidrapport?",
     "file": "kan-jag-skriva-ut-min-tidrapport.md",
     "slug": "kan-jag-skriva-ut-min-tidrapport",
@@ -2014,6 +1994,26 @@
     "imageCount": 4,
     "hasImages": true,
     "excerpt": "Månadsrapporten kan skrivas ut direkt från tidrapporten eller via vyn Rapporter.\nMånadsrapporten ger dig en översikt över de tider du har matat in under en månad.\n![Bild](images/kan-jag-skriva-ut-min-..."
+  },
+  {
+    "title": "Hur fungerar rapporten Projektuppföljning?",
+    "file": "hur-fungerar-rapporten-projektuppfoljning.md",
+    "slug": "hur-fungerar-rapporten-projektuppfoljning",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "howto",
+    "difficulty": "intermediate",
+    "tags": [
+      "ob",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 15 oktober 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-rapporten-projektuppf%C3%B6ljning",
+    "isConfig": false,
+    "imageCount": 5,
+    "hasImages": true,
+    "excerpt": "Så bygger du upp rapporten\nGör urval och välj detaljnivå\nBehörighet för Projektuppföljning\nRapporten\nProjektuppföljning\nger dig möjlighet att följa upp dina projekt. Du kan bland annat se budgeterad, ..."
   },
   {
     "title": "Hur fungerar rapporten Personalliggare i Flex HRM Time?",

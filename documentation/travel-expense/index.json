@@ -326,6 +326,24 @@
     "excerpt": "Utöver fakturering av en reseräkning beskriver artikeln även hur man kan fakturera olika delar av en reseräkningspost, samt förklarar externa kommentarer.\nFakturering\nEn reseräkning kan sättas som fak..."
   },
   {
+    "title": "⚙️Hur fungerar funktionen \"Redigering av fakturaunderlag\"?",
+    "file": "hur-fungerar-funktionen-redigering-av-fakturaunderlag.md",
+    "slug": "hur-fungerar-funktionen-redigering-av-fakturaunderlag",
+    "category": "travel-expense",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "bil"
+    ],
+    "date": "den 2 oktober 2025",
+    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-funktionen-redigering-av-fakturaunderlag-",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Fakturaunderlag kan redigeras och godkännas i HRM innan det förs över till ditt ekonomisystem.\nRedigering av fakturaunderlag\nFakturaunderlag kan redigeras och godkännas i HRM innan det förs över till ..."
+  },
+  {
     "title": "⚙️Hur aktiverar jag funktionen Fakturering i HRM Travel?",
     "file": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-travel.md",
     "slug": "hur-aktiverar-jag-funktionen-fakturering-i-hrm-travel",
@@ -345,24 +363,6 @@
     "imageCount": 14,
     "hasImages": true,
     "excerpt": "Funktionen “Fakturering” eller “Frisläpp till fakturering” används antingen för att få ut faktureringsunderlag för att fakturera kunder direkt alternativt exportera utläggsbelopp, traktamentesbelopp e..."
-  },
-  {
-    "title": "⚙️Hur fungerar funktionen \"Redigering av fakturaunderlag\"?",
-    "file": "hur-fungerar-funktionen-redigering-av-fakturaunderlag.md",
-    "slug": "hur-fungerar-funktionen-redigering-av-fakturaunderlag",
-    "category": "travel-expense",
-    "subcategory": "Inställningar",
-    "type": "config",
-    "difficulty": "intermediate",
-    "tags": [
-      "bil"
-    ],
-    "date": "den 2 oktober 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-funktionen-redigering-av-fakturaunderlag-",
-    "isConfig": true,
-    "imageCount": 3,
-    "hasImages": true,
-    "excerpt": "Fakturaunderlag kan redigeras och godkännas i HRM innan det förs över till ditt ekonomisystem.\nRedigering av fakturaunderlag\nFakturaunderlag kan redigeras och godkännas i HRM innan det förs över till ..."
   },
   {
     "title": "⚙️Hur används funktionen \"Frisläpp till fakturering i Flex HRM Travel?",

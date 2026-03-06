@@ -968,6 +968,24 @@
     "excerpt": "Den här artikeln guidar dig steg för steg vad du behöver förbereda och ställa in i HRM för att vara redo att genomföra en Lönekartläggning.\nLönekartläggning - Inställningar\nLicens\nAktivera licensen fö..."
   },
   {
+    "title": "Kan jag exportera årets Lönerevision till en Excell-fil?",
+    "file": "kan-jag-exportera-arets-lonerevision-till-en-excell-fil.md",
+    "slug": "kan-jag-exportera-arets-lonerevision-till-en-excell-fil",
+    "category": "employee",
+    "subcategory": "Lönerevision",
+    "type": "faq",
+    "difficulty": "advanced",
+    "tags": [
+      "lönerevision"
+    ],
+    "date": "den 30 september 2025",
+    "url": "https://knowledge.flexhrm.com/sv/exportera-arets-lonerevision-0",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  \n\nNedan beskrivs funktionen Exportera i lönerevisionen.\nArbeta med lönerevisionen -\nExport till Excel\n![Bild](images/..."
+  },
+  {
     "title": "Arbeta med årets Lönerevision",
     "file": "arbeta-med-arets-lonerevision.md",
     "slug": "arbeta-med-arets-lonerevision",
@@ -985,24 +1003,6 @@
     "imageCount": 16,
     "hasImages": true,
     "excerpt": "I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  \n\nNedan beskrivs funktionerna i lönerevisionen när den har status Startad.\n![Bild](images/arbeta-med-arets-lonerevisi..."
-  },
-  {
-    "title": "Kan jag exportera årets Lönerevision till en Excell-fil?",
-    "file": "kan-jag-exportera-arets-lonerevision-till-en-excell-fil.md",
-    "slug": "kan-jag-exportera-arets-lonerevision-till-en-excell-fil",
-    "category": "employee",
-    "subcategory": "Lönerevision",
-    "type": "faq",
-    "difficulty": "advanced",
-    "tags": [
-      "lönerevision"
-    ],
-    "date": "den 30 september 2025",
-    "url": "https://knowledge.flexhrm.com/sv/exportera-arets-lonerevision-0",
-    "isConfig": false,
-    "imageCount": 1,
-    "hasImages": true,
-    "excerpt": "I artikeln hittar du information om hur du enkelt arbetar med årets lönerevision.  \n\nNedan beskrivs funktionen Exportera i lönerevisionen.\nArbeta med lönerevisionen -\nExport till Excel\n![Bild](images/..."
   },
   {
     "title": "Skapa en lönerevision",

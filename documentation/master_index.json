@@ -2,7 +2,7 @@
   "total_articles": 402,
   "total_categories": 6,
   "total_images": 2287,
-  "last_updated": "2026-03-05 03:39:07",
+  "last_updated": "2026-03-06 03:36:04",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
@@ -62,8 +62,8 @@
       "total": 82,
       "subcategories": {
         "Löneberedning": 39,
-        "Semesterhantering": 9,
         "Skatt & AGI": 12,
+        "Semesterhantering": 9,
         "Inställningar": 13,
         "Bokföring": 3,
         "Övrigt": 2,
@@ -80,6 +80,6 @@
       }
     }
   },
-  "last_check": "2026-03-05 03:39:07",
+  "last_check": "2026-03-06 03:36:04",
   "last_check_status": "success"
 }
