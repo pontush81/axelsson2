@@ -1,12 +1,12 @@
 # ⚙️Pulsmätningar och medarbetarundersökningar - Hur integrerar jag Winningtemp & HRM?
 
-**Datum:** den 13 januari 2026  
+**Datum:** den 6 mars 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  
 **Svårighetsgrad:** advanced  
-**Tags:** Ingen  
-**Bilder:** 9  
+**Tags:** dokument  
+**Bilder:** 7  
 **URL:** https://knowledge.flexhrm.com/sv/aktivera-integration-winningtemp-hrm-0
 
 ---
@@ -49,9 +49,10 @@ och
 lösenord
 :
 ![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_7499d521.png)
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_d0ada4ae.png)
-Rollens behörighet:
-![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_92eea76f.png)
+Sätt rollens behörighet och koppla på behörighet på användaren.
+💡Mer information om hur behörigheterna ska sättas upp får du som kund via vårt Customer Delivery team.
+Här hittar du information om hur du kommer i kontakt med teamet
+, som kan förse dig med API-dokumentation som förklarar inställningarna i Flex HRM.
 Visa temperaturdata i HRM
 För att kunna visa data från Winningtemp i HRM behöver du följa nedan steg.
 Det kräver också att du har ett aktivt konto hos Winningtemp.

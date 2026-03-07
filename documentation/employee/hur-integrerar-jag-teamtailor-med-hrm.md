@@ -1,12 +1,12 @@
 # ⚙️Hur integrerar jag Teamtailor med HRM?
 
-**Datum:** den 11 september 2025  
+**Datum:** den 6 mars 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  
 **Svårighetsgrad:** advanced  
-**Tags:** anställning, onboarding  
-**Bilder:** 7  
+**Tags:** anställning, dokument, onboarding  
+**Bilder:** 5  
 **URL:** https://knowledge.flexhrm.com/sv/aktivera-integration-teamtailor-0
 
 ---
@@ -24,11 +24,14 @@ Här nedan följer en steg-för-steg guide hur du gör inställningar för att k
 Aktivering – steg för steg
 Att göra i HRM
 1.  Skapa en API-användare i HRM
-Vi rekommenderar att skapa en ny användare, namnförslag ”Teamtailor API” med behörighet (roll) enligt bild.
-Rollens behörigheter:
-![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_7bec3795.png)
-![Bild](images/hur-integrerar-jag-teamtailor-med-hrm_2708b500.png)
-Sätt ett lösenord på användaren för att ange senare i Teamtailor.
+Vi rekommenderar att skapa en ny användare, namnförslag ”Teamtailor API” med behörighet (roll) som ger tillgång till API.
+Ställ in rollens behörigheter
+S
+ätt ett lösenord på användaren för att ange
+senare i Teamtailor.
+💡Mer information om hur behörigheterna ska sättas upp får du som kund via vårt Customer Delivery team.
+Här hittar du information om hur du kommer i kontakt med teamet
+, som kan förse dig med API-dokumentation som förklarar inställningarna i Flex HRM.
 2. Du som kund behöver ta fram och förse Teamtailor med uppgifter från HRM gällande:
 URL-adressen
 till er HRM med följande format:
