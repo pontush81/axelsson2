@@ -1022,6 +1022,26 @@
     "excerpt": "I denna artikel beskrivs de olika inställningar som krävs för att statistiken för KLP ska bli korrekt.\nUppgifter på individnivå\nLönetillägg\nLöneartsinställningar\nUppgifter på individnivå\nI anställdare..."
   },
   {
+    "title": "Rapportering av kompletterande pensionspremier för arbetare till Fora",
+    "file": "rapportering-av-kompletterande-pensionspremier-for-arbetare-till-fora.md",
+    "slug": "rapportering-av-kompletterande-pensionspremier-for-arbetare-till-fora",
+    "category": "payroll",
+    "subcategory": "Pension",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 13 mars 2026",
+    "url": "https://knowledge.flexhrm.com/sv/rapportering-av-kompletterande-pensionspremier-f%C3%B6r-arbetare-till-fora",
+    "isConfig": false,
+    "imageCount": 9,
+    "hasImages": true,
+    "excerpt": "Inom vissa branscher finns det överenskommelser om att arbetsgivaren ska betala in kompletterande pensions­premier till tjänste­­pensionen för arbetare, utöver den vanliga premien till Avtals­pension ..."
+  },
+  {
     "title": "Pensionsrapportering (årsvis) till Fora - Hur pensionsrapporterar jag tjänstemän till Fora i Flex HRM Payroll?",
     "file": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-tjansteman-till-fora-i-flex-hrm-pa.md",
     "slug": "pensionsrapportering-arsvis-till-fora-hur-pensionsrapporterar-jag-tjansteman-till-fora-i-flex-hrm-pa",
@@ -1153,7 +1173,7 @@
       "löneart",
       "pension"
     ],
-    "date": "den 11 november 2025",
+    "date": "den 13 mars 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-pension-till-fora-m%C3%A5nadsvis-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 15,

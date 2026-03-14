@@ -1,6 +1,6 @@
 # Hur rapporterar jag pension till Fora månadsvis i Flex HRM Payroll?
 
-**Datum:** den 11 november 2025  
+**Datum:** den 13 mars 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** howto  
@@ -146,3 +146,4 @@ Relaterade artiklar:
 Vilka inställningar krävs för att rapportera månadsvis till Fora i HRM Payroll?
 Hur hanteras Foras FOK-koder i Flex HRM Payroll?
 Hur rättar jag redan inlämnad rapportering till Fora i HRM Payroll?
+Rapportering av kompletterande pensionspremier för arbetare till Fora
