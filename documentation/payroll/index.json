@@ -1425,6 +1425,25 @@
     "excerpt": "Artikeln beskriver de olika rutinerna som ska köras under året om du använder ATK.\nÅrscykel för ATK i HRM Payroll\nHär beskriver vi de olika rutiner du behöver köra under året när du använder ATK (arbe..."
   },
   {
+    "title": "⚙️Inställning av semesteravtal",
+    "file": "installning-av-semesteravtal.md",
+    "slug": "installning-av-semesteravtal",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "semester"
+    ],
+    "date": "den 16 mars 2026",
+    "url": "https://knowledge.flexhrm.com/sv/inst%C3%A4llning-av-semesteravtal",
+    "isConfig": true,
+    "imageCount": 9,
+    "hasImages": true,
+    "excerpt": "I den här artikeln går vi igenom hur du ställer in semesteravtal i systemet.\nDu hittar inställningarna via menyn\nInställningar > Lön > Semesteravtal\n.\nI listan till vänster ser du de semesteravtal som..."
+  },
+  {
     "title": "Hur korrigerar jag semestersaldo som blivit minus i kvarvarande dagar?",
     "file": "hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-kvarvarande-dagar.md",
     "slug": "hur-korrigerar-jag-semestersaldo-som-blivit-minus-i-kvarvarande-dagar",
