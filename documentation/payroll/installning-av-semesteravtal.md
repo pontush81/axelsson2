@@ -1,6 +1,6 @@
 # ⚙️Inställning av semesteravtal
 
-**Datum:** den 16 mars 2026  
+**Datum:** den 18 mars 2026  
 **Kategori:** Payroll  
 **Underkategori:** Semesterhantering  
 **Typ:** config  
@@ -73,7 +73,7 @@ Semester tisdagen 2/9 blir då enligt formeln:
 Semesterrätt:
 Ange hur många semesterdagar som ingår i avtalet.
 Visa saldo som:
-Ange hur saldot ska visas på lönespecifikationen. I  löneberedningen och i anställdaregistret kan visningenstyras via ett drop-down val.
+Ange hur saldot ska visas på lönespecifikationen. I  löneberedningen och i anställdaregistret kan visningen styras via ett drop-down val.
 ![Bild](images/installning-av-semesteravtal_a290b467.png)
 Visa saldo som Timmar
 För att systemet ska visa semestersaldo som timmar istället för dagar används valet “Timmar” under rubriken “Semesterrätt”. Detta ställs in direkt på semesteravtalet och är inte möjligt att göra  personliga avvikelser på i anställdaregistret för enskilda medarbetare .
@@ -99,7 +99,7 @@ hanterar du inställningarna för den årliga utbetalningen av både det ordinar
 Här anger du vilket datum utbetalningen ska ske. Detta datum är viktigt för systemets beräkningar:
 Påverkan på semesterskulden:
 Efter det datum du anger här kommer tilläggen inte längre att räknas med i semesterskuldsberäkningen.
-![Bild](images/installning-av-semesteravtal_df95451b.png)
+![Bild](images/installning-av-semesteravtal_2ef5e94b.png)
 Fliken Sparad semester
 Under fliken
 Sparad semester
@@ -129,7 +129,7 @@ Beskrivning
 av formeln och under kolumnen
 Formel
 ser du den tekniska uppbyggnaden av själva beräkningen.
-![Bild](images/installning-av-semesteravtal_8e0b4394.png)
+![Bild](images/installning-av-semesteravtal_46a88486.png)
 Beräkna semesterlön vid:
 Här väljer du när systemet ska fastställa värdet på semesterlönen. Du har två alternativ:
 Semesterberäkning:
@@ -138,4 +138,4 @@ Uttag av semester:
 Systemet gör en ny beräkning vid varje tillfälle som semester tas ut. I anställningsregistret visas då ett aktuellt beräknat värde.
 Räkna ner sysselsättningsgrad vid ej semestergrundande deltidsfrånvaro:
 Om ej semestergrundande deltidsfrånvaro ska minska värdet på semesterdagarna används denna inställning för att räkna ut en genomsnittlig sysselsättningsgrad på närvaron för semesteråret. I formeln används då formelfunktionen SyssgradIntjanande() för att hämta upp den genomsnittliga sysselsättningsgraden.
-![Bild](images/installning-av-semesteravtal_1378a9c9.png)
+![Bild](images/installning-av-semesteravtal_46f4660b.png)
