@@ -1,6 +1,6 @@
 # Kan jag spela in min bilresa i HRM Mobile?
 
-**Datum:** den 13 februari 2026  
+**Datum:** den 19 mars 2026  
 **Kategori:** Travel & Expense  
 **Underkategori:** Reseräkningar  
 **Typ:** faq  
@@ -31,6 +31,7 @@ HRM Mobile kommer att visa din resa med en blå linje på kartan.
 4. Om du har flera stopp på vägen mot din slutdestination kan du använda knappen
 Pausa
 .
+Observera att funktionen för att pausa en bilresa inte är tillgänglig för bilar med drivmedelsförmån.
 ![Bild](images/kan-jag-spela-in-min-bilresa-i-hrm-mobile_9faecbf8.png)
 5. När du fortsätter färden klickar du på
 Återuppta

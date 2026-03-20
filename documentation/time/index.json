@@ -464,6 +464,27 @@
     "excerpt": "Inställningar för behörighet och påminnelse vid korrigering av tidrapport.\nFunktionen\nKorrigera tidrapport\ngör det möjligt att ändra i en tidrapport som redan är granskad eller överförd till lön. Dett..."
   },
   {
+    "title": "⚙️Vad gör inställningen “Fyll luckor med rast i tidrapporten”?",
+    "file": "vad-gor-installningen-fyll-luckor-med-rast-i-tidrapporten.md",
+    "slug": "vad-gor-installningen-fyll-luckor-med-rast-i-tidrapporten",
+    "category": "time",
+    "subcategory": "Tidrapportering",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "frånvaro",
+      "schema",
+      "tidkod",
+      "tidrapport"
+    ],
+    "date": "den 19 mars 2026",
+    "url": "https://knowledge.flexhrm.com/sv/vad-g%C3%B6r-inst%C3%A4llningen-fyll-luckor-med-rast-i-tidrapporten",
+    "isConfig": true,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Inställningen är användbar för er som importerar tidrader via API. Importerar ni endast den arbetade tiden kan systemet lägga ut rast i luckor mellan tidraderna, om dagschemat har en rastregel som täc..."
+  },
+  {
     "title": "Begrepp i HRM Time - Vad betyder de olika begreppen i HRM Time?",
     "file": "begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time.md",
     "slug": "begrepp-i-hrm-time-vad-betyder-de-olika-begreppen-i-hrm-time",
@@ -1885,7 +1906,7 @@
       "tidkod",
       "tidrapport"
     ],
-    "date": "den 26 september 2025",
+    "date": "den 19 mars 2026",
     "url": "https://knowledge.flexhrm.com/sv/saldotak/-golv-hur-s%C3%A4tter-man-gr%C3%A4nser-f%C3%B6r-saldov%C3%A4rden",
     "isConfig": true,
     "imageCount": 3,

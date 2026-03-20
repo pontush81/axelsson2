@@ -1525,6 +1525,45 @@
     "excerpt": "Artikeln förklarar varifrån Flex HRM hämtar information om närvaro och frånvaro som räknas som semestergrundande.\nFormelvariabler för Närvaro/Frånvaro\nFormelvariabler är de värden som används i beräkn..."
   },
   {
+    "title": "Export av saldon från lönekörning i HRM Payroll till tidrapport i HRM Time",
+    "file": "export-av-saldon-fran-lonekorning-i-hrm-payroll-till-tidrapport-i-hrm-time.md",
+    "slug": "export-av-saldon-fran-lonekorning-i-hrm-payroll-till-tidrapport-i-hrm-time",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "lön"
+    ],
+    "date": "den 19 mars 2026",
+    "url": "https://knowledge.flexhrm.com/sv/export-av-saldon-fr%C3%A5n-l%C3%B6nek%C3%B6rning-i-hrm-payroll-till-tidrapport-i-hrm-time",
+    "isConfig": false,
+    "imageCount": 2,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur saldon kan exporteras från lönekörning till tidrapport.\nHantering av saldoexport\nNär du är klar med dina inställningar för saldoexport kan du genomföra själva överföringen ..."
+  },
+  {
+    "title": "⚙️Inställning av export av saldon från HRM Payroll till HRM Time",
+    "file": "installning-av-export-av-saldon-fran-hrm-payroll-till-hrm-time.md",
+    "slug": "installning-av-export-av-saldon-fran-hrm-payroll-till-hrm-time",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "hrm-time",
+      "lön",
+      "semester"
+    ],
+    "date": "den 19 mars 2026",
+    "url": "https://knowledge.flexhrm.com/sv/inst%C3%A4llning-av-export-av-saldon-fr%C3%A5n-hrm-payroll-till-hrm-time",
+    "isConfig": true,
+    "imageCount": 3,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du ställer in systemet för att exportera saldon, t.ex. semester, komp, arbetstidsförkortning, från Payroll till Time.\nDu hittar inställningarna via menyn\nAdministration > I..."
+  },
+  {
     "title": "Hur registreras bankkonton för utbetalning av lön i HRM Payroll?",
     "file": "hur-registreras-bankkonton-for-utbetalning-av-lon-i-hrm-payroll.md",
     "slug": "hur-registreras-bankkonton-for-utbetalning-av-lon-i-hrm-payroll",
