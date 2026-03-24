@@ -1,12 +1,12 @@
 # AI-chatbot i Flex HRM - Vem är Flexie?
 
-**Datum:** den 19 januari 2026  
+**Datum:** den 23 mars 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** other  
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, roll  
-**Bilder:** 3  
+**Bilder:** 4  
 **URL:** https://knowledge.flexhrm.com/sv/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie
 
 ---
@@ -50,6 +50,10 @@ Du stänger ner Flexie genom att klicka på
 krysset i cirkeln
 under chattfönstret.
 Om du har Flexie öppen och byter vy i systemet, följer fönstret med och är öppet även när nästa vy laddas in.
+Kan Flexie utföra något i Flex HRM?
+Flexie utvecklas ständigt och kommer att kunna svara på specifika frågor om din egen tidrapport, reseräkning etc och hjälpa dig med din rapportering.
+Vi har börjat med frånvaro. Istället för att till exempel ansöka om semester via frånvarohanteraren kan du be Flexie att skapa ansökan åt dig.
+![Bild](images/ai-chatbot-i-flex-hrm-vem-ar-flexie_98dd8a52.png)
 Ser du inte Flexie i ditt Flex HRM?
 Flexie rullas ut successivt till alla kunder. Har du inte pratbubblan nu så kommer den att dyka upp i framtiden.
 Du behöver inte göra några inställningar för att öppna upp tillgången till Flexie.

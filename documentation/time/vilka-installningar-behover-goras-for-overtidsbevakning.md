@@ -1,6 +1,6 @@
 # ⚙️Vilka inställningar behöver göras för övertidsbevakning?
 
-**Datum:** den 26 september 2025  
+**Datum:** den 23 mars 2026  
 **Kategori:** Time  
 **Underkategori:** Tidrapportering  
 **Typ:** config  
@@ -22,6 +22,9 @@ Du kan ställa in regler för övertidsbevakningen utifrån ert kollektivavtal. 
 Inställningar > Tid och Bemanning > Tidgrupper > fliken Tid
 . Ange hur mycket övertid/mertid man får ha per period och år, samt hur mycket tid som kan räknas bort vid uttagen komptid. Periodgränsen kan gälla per månad, två månader eller vecka.
 ![Bild](images/vilka-installningar-behover-goras-for-overtidsbevakning_05bd2988.png)
+Observera att om
+Uttagen tid maximeras till
+sätts till 0,00 har det samma innebörd som om fältet vore blankt. Det innebär alltså att ingen gräns satts, utan all uttagen tid räknas.
 Om det finns avtal för anställda som tillåter övertidsdispens, kan du registrera detta per anställd under
 Anställdaregistret > fliken Tid
 .
