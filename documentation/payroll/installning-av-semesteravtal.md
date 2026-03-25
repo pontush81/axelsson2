@@ -1,6 +1,6 @@
 # ⚙️Inställning av semesteravtal
 
-**Datum:** den 18 mars 2026  
+**Datum:** den 24 mars 2026  
 **Kategori:** Payroll  
 **Underkategori:** Semesterhantering  
 **Typ:** config  
@@ -73,7 +73,7 @@ Semester tisdagen 2/9 blir då enligt formeln:
 Semesterrätt:
 Ange hur många semesterdagar som ingår i avtalet.
 Visa saldo som:
-Ange hur saldot ska visas på lönespecifikationen. I  löneberedningen och i anställdaregistret kan visningen styras via ett drop-down val.
+Ange hur saldot ska visas på lönespecifikationen. I  löneberedningen och i anställdaregistret kan visningen styras via ett drop-down val. Det går inte att skapa ett personligt semesteravtal med avvikande inställning för Visa saldo som.
 ![Bild](images/installning-av-semesteravtal_a290b467.png)
 Visa saldo som Timmar
 För att systemet ska visa semestersaldo som timmar istället för dagar används valet “Timmar” under rubriken “Semesterrätt”. Detta ställs in direkt på semesteravtalet och är inte möjligt att göra  personliga avvikelser på i anställdaregistret för enskilda medarbetare .

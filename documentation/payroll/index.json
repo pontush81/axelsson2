@@ -32,12 +32,12 @@
       "löneart",
       "skatt"
     ],
-    "date": "den 17 december 2025",
+    "date": "den 24 mars 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-hanterar-jag-en-l%C3%B6neskuld-i-hrm-payroll",
     "isConfig": false,
-    "imageCount": 15,
+    "imageCount": 18,
     "hasImages": true,
-    "excerpt": "Hantera löneskuld som inte kan kvittas (återbetalning)\nOm du som arbetsgivare inte har möjlighet att reglera en löneskuld genom avdrag på en senare löneutbetalning, kan du kräva tillbaka det felaktiga..."
+    "excerpt": "Artikeln beskriver hur du hanterar olika typer av löneskulder som kan uppstå i HRM Payroll.\nHantera löneskuld som inte kan kvittas (återbetalning)\nOm du som arbetsgivare inte har möjlighet att reglera..."
   },
   {
     "title": "Hur hanteras retroaktiv lön vid lönerevision i HRM Payroll?",
@@ -1436,7 +1436,7 @@
       "lön",
       "semester"
     ],
-    "date": "den 18 mars 2026",
+    "date": "den 24 mars 2026",
     "url": "https://knowledge.flexhrm.com/sv/inst%C3%A4llning-av-semesteravtal",
     "isConfig": true,
     "imageCount": 9,

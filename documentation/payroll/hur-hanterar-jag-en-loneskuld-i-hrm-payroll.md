@@ -1,16 +1,17 @@
 # Hur hanterar jag en löneskuld i HRM Payroll?
 
-**Datum:** den 17 december 2025  
+**Datum:** den 24 mars 2026  
 **Kategori:** Payroll  
 **Underkategori:** Skatt & AGI  
 **Typ:** howto  
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, bokföring, lön, löneart, skatt  
-**Bilder:** 15  
+**Bilder:** 18  
 **URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-jag-en-l%C3%B6neskuld-i-hrm-payroll
 
 ---
 
+Artikeln beskriver hur du hanterar olika typer av löneskulder som kan uppstå i HRM Payroll.
 Hantera löneskuld som inte kan kvittas (återbetalning)
 Om du som arbetsgivare inte har möjlighet att reglera en löneskuld genom avdrag på en senare löneutbetalning, kan du kräva tillbaka det felaktiga beloppet från den anställda.
 I dessa fall måste du kräva tillbaka det felaktiga
@@ -23,10 +24,10 @@ Begära omprövning av beslutet om arbetsgivaravgifter.
 Om korrigeringen sker ett senare år (efter att den anställda redan blivit beskattad för utbetalningen) måste den anställda själv begära omprövning av sin inkomstdeklaration.
 Exempel 1: En anställd har slutat och hela lönen ska betalas tillbaka (bruttoskuld)
 En anställd får sin månadslön utbetald i februari. Det visar sig sedan att personen har slutat utan att löneavdelningen fått information om det, och hela lönen (inklusive skatten) ska därför betalas tillbaka.
-![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_a39ed8e9.png)
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_ab813a65.png)
 Gör så här:
 I det här exemplet har månadslönen betalats ut i den ordinarie lönekörningen och redovisats i arbetsgivardeklarationen (Agi).
-![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_34bbbe1a.png)
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_b08c1e2f.png)
 ![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_bd21c829.png)
 För att rätta detta gör du följande:
 Gå till
@@ -36,17 +37,17 @@ Skapa en extra lönekörning för att rätta rapporteringen. Extrakörningen må
 Lägg in den löneart som betalats ut felaktigt med ett minustecken i extrakörningen (till exempel löneart
 70 Månadslön
 ).
-![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_7fbd754f.png)
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_cee626dc.png)
 Eftersom skatten inte kan korrigeras ska du inte lägga in någon rad för skatt. Bruttolönen blir då ett negativt värde och skatten blir noll.
 ![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_c12ef3b8.png)
 Kontrollera i AGI-underlaget att bruttolönen och arbetsgivaravgiften har nollats, samt att skatten är oförändrad jämfört med den tidigare rapporteringen.
-![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_b0ca0849.png)
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_56d4a202.png)
 När allt ser rätt ut avräknar du den extra lönekörningen.
 Markera AGI-underlaget som kontrollerat och skapa filen med rättelsen som du sedan skickar till Skatteverket.
-Exempel 2: Skuld vid tjänstledighet (släpande och innevarande avdrag, bruttoskuld)
+Exempel 2: Skuld vid tjänstledighet (släpande och innevarande avdrag i samma lönekörning, bruttoskuld uppstår)
 När en anställd ska vara tjänstledig en längre tid kan det vara bra att göra avdrag redan för innevarande månad. Om detta inte görs direkt kan en skuld uppstå i lönekörningen när både det släpande och det innevarande avdraget registreras samtidigt.
-![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_8ff3ce4c.png)
-![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_2db0709a.png)
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_fbedcb6e.png)
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_6c8ceb9f.png)
 Gör så här:
 Eftersom du inte kan rapportera en negativ lön i AGI måste du nolla skulden i löneberedningen:
 Kontrollera den utgående skulden (periodens nettolön) under
@@ -67,7 +68,7 @@ Personal > Anställda >
 . Använd en löneart för
 Bruttoskuld från föregående lön
 och ange skuldbeloppet med ett minustecken.
-![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_c9929b7c.png)
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_371ffce4.png)
 Exempellönearts inställning:
 ![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_ebf385f9.png)
 Observera:
@@ -76,3 +77,38 @@ Vid nettoskuld (skulder som uppstår pga ej skattepliktiga ersättningar/avdrag)
 Exempellönearters inställning:
 ![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_847c7a32.png)
 ![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_58f0fe18.png)
+Förenklad hantering av löneskulder i löneberedningen
+Från och med version 2026.xx kan du använda en förenklad hantering av löneskulder i
+HRM Payroll
+. Genom att göra några inställningar kan systemet automatiskt lägga ut lönearter för skuld, vilket sparar tid och minskar risken för fel.
+Inställningar som krävs
+För att den automatisk hanteringen ska fungera behöver du först förbereda ackumulatorer och lönearter.
+1. Skapa ackumulatorer
+Du behöver sätta upp två specifika ackumulatorer i systemet, ackumulatortyper:
+Skuld till nästa lön - Brutto
+Skuld till nästa lön - Netto
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_af8221ea.png)
+2. Skapa lönearter
+Du behöver ha lönearter färdiga för följande fyra scenarier:
+Bruttoskuld till nästa lön
+Bruttoskuld från föregående lön
+Nettoskuld till nästa lön
+Nettoskuld från föregående lön
+3. Koppla lönearter i systeminställningarna
+När lönearterna är skapade ska du koppla dem under systemfasta lönearter. Gå till:
+Inställningar > Lön > Systemfasta lönearter.
+Där kopplar du dina lönearter till motsvarande inställning:
+Skuld till nästa lön - Brutto
+Skuld från föregående lön - Brutto
+Skuld till nästa lön - Netto
+Skuld från föregående lön - Netto
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_9fd73959.png)
+Så fungerar det i löneberedningen
+När du har gjort inställningarna sköter
+HRM Payroll
+resten av flödet åt dig:
+När en skuld uppstår:
+Systemet lägger automatiskt ut lönearten för brutto- eller nettoskuld till nästa lön i löneberedningen. Detta uppdaterar samtidigt värdet i din ackumulator.
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_9dcb8716.png)
+I nästa lönekörning:
+När du öppnar nästa lönekörning känner systemet av värdet i ackumulatorn. Det gör att en löneart för brutto- eller nettoskuld från föregående lön automatiskt läggs ut i den aktuella körningen.
