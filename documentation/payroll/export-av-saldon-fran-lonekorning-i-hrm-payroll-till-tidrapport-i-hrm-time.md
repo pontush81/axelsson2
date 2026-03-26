@@ -1,6 +1,6 @@
 # Export av saldon från lönekörning i HRM Payroll till tidrapport i HRM Time
 
-**Datum:** den 19 mars 2026  
+**Datum:** den 25 mars 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** other  
@@ -23,8 +23,6 @@ Manuell export:
 Du kan när som helst köra exporten manuellt via menyn
 Bearbetningar > Servicerutiner > Exportera saldon från Payroll till Time
 . Gör då urval på den lönekörning du vill exportera saldon från samt ev ytterligare urval t.ex. på en enskild anställd.
-OBS.
-Tänk på att du bara kan exportera saldon till en tidrapporteringsperiod som ej har överförts till lön. Dvs du ska aldrig exportera saldon från tidigare lönekörningar till avräknade tidrapporter.
 ![Bild](images/export-av-saldon-fran-lonekorning-i-hrm-payroll-till-tidrapport-i-hrm-time_53c6673f.png)
 Exempel på arbetsflöde
 När du avräknar lönen för januari 2026 och väljer att exportera saldon, uppdateras de ingående saldona för januari månads tidrapport i

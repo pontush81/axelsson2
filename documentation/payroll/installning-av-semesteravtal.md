@@ -1,12 +1,12 @@
 # ⚙️Inställning av semesteravtal
 
-**Datum:** den 24 mars 2026  
+**Datum:** den 25 mars 2026  
 **Kategori:** Payroll  
 **Underkategori:** Semesterhantering  
 **Typ:** config  
 **Svårighetsgrad:** advanced  
 **Tags:** lön, semester  
-**Bilder:** 9  
+**Bilder:** 11  
 **URL:** https://knowledge.flexhrm.com/sv/inst%C3%A4llning-av-semesteravtal
 
 ---
@@ -65,7 +65,8 @@ Utfall i lönekörning vid Beräkning via timmar:
 Anställd med veckoarbetstid 40 timmar per vecka men oregelbunden arbetstid per dag:
 Schematid måndag 1/9 är 11 timmar
 Schematid tisdag 2/9 är 5 timmar
-Beräkningsformel: Uttagna dagar = Uttagna timmar / (Faktiskt arbetsmått / 5)
+Beräkningsformel:
+Uttagna dagar = Uttagna timmar / (Faktiskt arbetsmått / 5)
 Semester måndagen 1/9 blir då enligt formeln:
 11 / (40 / 5) = 1.375 vilket avrundas till 1.38 dagar
 Semester tisdagen 2/9 blir då enligt formeln:
@@ -73,7 +74,8 @@ Semester tisdagen 2/9 blir då enligt formeln:
 Semesterrätt:
 Ange hur många semesterdagar som ingår i avtalet.
 Visa saldo som:
-Ange hur saldot ska visas på lönespecifikationen. I  löneberedningen och i anställdaregistret kan visningen styras via ett drop-down val. Det går inte att skapa ett personligt semesteravtal med avvikande inställning för Visa saldo som.
+Ange hur saldot ska visas på lönespecifikationen. I  löneberedningen och i anställdaregistret kan visningen styras per användare via ett drop-down val.
+Det går inte att skapa ett personligt semesteravtal med avvikande inställning för Visa saldo som.
 ![Bild](images/installning-av-semesteravtal_a290b467.png)
 Visa saldo som Timmar
 För att systemet ska visa semestersaldo som timmar istället för dagar används valet “Timmar” under rubriken “Semesterrätt”. Detta ställs in direkt på semesteravtalet och är inte möjligt att göra  personliga avvikelser på i anställdaregistret för enskilda medarbetare .
@@ -81,12 +83,14 @@ För att visa upp semestersaldo som timmar använder vi formeln:
 Bruttodagar * (Faktiskt arbetsmått per vecka / 5)
 Avrundning för visa som timmar:
 När man visar semestersaldot som timmar kommer systemet automatiskt att avrunda timmarna uppåt till närmaste hela timme. Denna avrundning är till för att inte behöva visa decimaler för de anställda och påverkar bara visningen.
+![Bild](images/installning-av-semesteravtal_979952d5.png)
 Visa saldo som Nettodagar
 För a
-tt systemet ska visa semestersaldo som nettodagar istället för bruttodagar används valet “Nettodagar” under rubriken “Semesterrätt”. Detta ställs in direkt på semesteravtalet och är inte möjligt att göra  personliga avvikelser på i anställdaregistret för enskilda medarbetare .
+tt systemet ska visa semestersaldo som nettodagar istället för bruttodagar används valet “Nettodagar” under rubriken “Semesterrätt”. Detta ställs in direkt på semesteravtalet och är inte möjligt att göra  personliga avvikelser på i semesteravtalet  för enskilda medarbetare .
 Med valet att visa saldo som Nettodagar kommer semstersaldo att visas som nettodagar på lönespecifikationen för anställda som har det aktuella semesteravtalet.
 Avrundning för visa som nettodagar:
 När man visar semestersaldot som nettodagar kommer systemet automatiskt att avrunda timmarna uppåt till närmaste hela dag. Denna avrundning är till för att visa för den anställde hur många faktiska dagar denne kan vara ledig.
+![Bild](images/installning-av-semesteravtal_62f72f32.png)
 Procentsatser för semesterlön:
 Fyll i procentsatser för semesterersättning, semesterdaglön (i procent av månadslönen) och semestertillägg.
 Rörligt semestertillägg:

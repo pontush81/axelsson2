@@ -1436,10 +1436,10 @@
       "lön",
       "semester"
     ],
-    "date": "den 24 mars 2026",
+    "date": "den 25 mars 2026",
     "url": "https://knowledge.flexhrm.com/sv/inst%C3%A4llning-av-semesteravtal",
     "isConfig": true,
-    "imageCount": 9,
+    "imageCount": 11,
     "hasImages": true,
     "excerpt": "I den här artikeln går vi igenom hur du ställer in semesteravtal i systemet.\nDu hittar inställningarna via menyn\nInställningar > Lön > Semesteravtal\n.\nI listan till vänster ser du de semesteravtal som..."
   },
@@ -1525,6 +1525,26 @@
     "excerpt": "Artikeln förklarar varifrån Flex HRM hämtar information om närvaro och frånvaro som räknas som semestergrundande.\nFormelvariabler för Närvaro/Frånvaro\nFormelvariabler är de värden som används i beräkn..."
   },
   {
+    "title": "⚙️Inställningar av lönespecifikationen",
+    "file": "installningar-av-lonespecifikationen.md",
+    "slug": "installningar-av-lonespecifikationen",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 25 mars 2026",
+    "url": "https://knowledge.flexhrm.com/sv/inst%C3%A4llningar-av-l%C3%B6nespecifikationen",
+    "isConfig": true,
+    "imageCount": 7,
+    "hasImages": true,
+    "excerpt": "I den här artikeln beskriver vi de olika inställningar som kan göras i HRM som påverkar lönespecifikationen från HRM Payroll\nInställningar för lönespecifikation\nDu anpassar utseendet och innehållet på..."
+  },
+  {
     "title": "Export av saldon från lönekörning i HRM Payroll till tidrapport i HRM Time",
     "file": "export-av-saldon-fran-lonekorning-i-hrm-payroll-till-tidrapport-i-hrm-time.md",
     "slug": "export-av-saldon-fran-lonekorning-i-hrm-payroll-till-tidrapport-i-hrm-time",
@@ -1536,7 +1556,7 @@
       "hrm-time",
       "lön"
     ],
-    "date": "den 19 mars 2026",
+    "date": "den 25 mars 2026",
     "url": "https://knowledge.flexhrm.com/sv/export-av-saldon-fr%C3%A5n-l%C3%B6nek%C3%B6rning-i-hrm-payroll-till-tidrapport-i-hrm-time",
     "isConfig": false,
     "imageCount": 2,
