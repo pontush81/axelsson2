@@ -1,6 +1,6 @@
 # ⚙️Hur fungerar gallring/rensning av personuppgifter i HRM?
 
-**Datum:** den 23 oktober 2025  
+**Datum:** den 27 mars 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  
