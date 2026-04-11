@@ -1085,15 +1085,17 @@
     "excerpt": "Denna artikel beskriver, med bl.a. checklista, hur du byter master för personuppgifter från Flex Lön till Flex HRM.\nChecklista inför bytet\nRegister att kontrollera\nSkapa en kontrollrapport i Flex Lön\n..."
   },
   {
-    "title": "Vilka funktioner i HRM ingår i modulen Koncern?",
-    "file": "vilka-funktioner-i-hrm-ingar-i-modulen-koncern.md",
-    "slug": "vilka-funktioner-i-hrm-ingar-i-modulen-koncern",
+    "title": "Vilka funktioner i Flex HRM ingår i modulen Koncern?",
+    "file": "vilka-funktioner-i-flex-hrm-ingar-i-modulen-koncern.md",
+    "slug": "vilka-funktioner-i-flex-hrm-ingar-i-modulen-koncern",
     "category": "systemgemensamt",
     "subcategory": "Rapporter",
     "type": "other",
     "difficulty": "advanced",
-    "tags": [],
-    "date": "den 6 februari 2026",
+    "tags": [
+      "roll"
+    ],
+    "date": "den 10 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/vilka-funktioner-i-hrm-ingar-med-modulen-koncern",
     "isConfig": false,
     "imageCount": 0,

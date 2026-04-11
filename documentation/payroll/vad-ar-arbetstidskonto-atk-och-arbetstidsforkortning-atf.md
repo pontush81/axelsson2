@@ -1,10 +1,10 @@
 # Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?
 
-**Datum:** den 5 december 2025  
+**Datum:** den 10 april 2026  
 **Kategori:** Payroll  
-**Underkategori:** Pension  
+**Underkategori:** Löneberedning  
 **Typ:** concept  
-**Svårighetsgrad:** beginner  
+**Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, pension  
 **Bilder:** 4  
 **URL:** https://knowledge.flexhrm.com/sv/vad-%C3%A4r-arbetstidskonto-atk-och-arbetstidsf%C3%B6rkortning-atf
@@ -28,6 +28,9 @@ Om du är osäker på hur du ska konfigurera ditt ATK- eller ATF-avtal så att d
 Varje månad görs en avsättning utifrån den procentsats eller det antal minuter per vecka som angivits i ATK/ATF-avtalet.
 Olika principer för intjänande och uttag
 Det finns i kollektivavtalen en stor variation gällande intjänandeperioder och uttagsperioder för ATK och ATF.
+För både ATK och ATF avtal tillämpas kontantprincipen, dvs det är lönetransaktioner i löneperioden som är underlag för intjänandet samma månad.
+T.ex. för ATF är det arbetad tid i mars som hämtas in och löneberäknas i aprils lönekörning som ligger till grund för beräkning av intjänandet för april.
+För ATK är det på samma sätt ersättningar/avdrag som löneberäknas i aprils lönekörning som är underlag för det beräknade intjänade beloppet för april månad.
 Arbetstidsförkortning (ATF)
 För ATF finns det i huvudsak två olika varianter. Antingen tjänar man in och tar ut tid löpande, ungefär som ett komp- eller flexsaldo. Om man har denna typ av hantering hanterar man detta i Flex HRM Time som ett saldo med händelsefunktioner för intjänande.
 Den andra varianten är att man under 12 månader tjänar in ATF-timmar, och de efterföljande 12 månaderna kan ta ut dessa timmar som ledighet. Ibland kan det förekomma att den anställde kan välja att få de intjänade timmarna utbetald som kontant ersättning eller avsättning till pension.
@@ -39,9 +42,9 @@ När uttagsperioden börjar startar samtidigt en ny intjänandeperiod. Bilden ne
 Arbetstidskonto (ATK)
 När det gäller ATK har man alltid en intjänandeperiod på 12 månader då man avställer pengar till ett arbetstidskonto. Därefter har man en uttagsperiod på 12 månader som vanligtvis börjar en tid efter intjänandeperiodens slut. Den perioden mellan slutet av intjänandeperioden och starten av uttagsperioden är till för att hinna administrera den anställdes val, då den anställde oftast kan välja att ta ut pengarna på arbetstidskontot som antingen kontant ersättning, betald ledig tid eller som en extra pensionsavsättning.
 Exempel:
-Intjänande sker under 2021 (1 januari – 31 december. Därefter har den anställde fram till 31 mars på sig att välja vad denne vill göra med de intjänade pengarna. Om den anställde väljer att ta ut som betald ledig tid är uttagsperioden från 1 april 2022 till 31 mars 2023.
+Intjänande sker under 2021 (1 januari – 31 december). Därefter har den anställde fram till 31 mars på sig att välja vad denne vill göra med de intjänade pengarna. Om den anställde väljer att ta ut som betald ledig tid är uttagsperioden från 1 april 2022 till 31 mars 2023.
 ![Bild](images/vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf_19e14140.png)
-När uttagsperioden börjar startar samtidigt en ny intjänandeperiod. Bilden nedan visar de olika åren som hanteras parallellt vid olika tidpunkter. Under perioden jan-mars 2023 i exemplet har man saldon för tre olika intjänandeperioder samtidigt. Dels har man en uttagsperiod för det man tjänade in under 2021, dels har man en valperiod för de pengar man tjänade in under 2022, samtidigt som man har påbörjat intjänandet under 2023.
+När valperioden börjar startar samtidigt en ny intjänandeperiod. Bilden nedan visar de olika åren som hanteras parallellt vid olika tidpunkter. Under perioden jan-mars 2023 i exemplet har man saldon för tre olika intjänandeperioder samtidigt. Dels har man en uttagsperiod för det man tjänade in under 2021, dels har man en valperiod för de pengar man tjänade in under 2022, samtidigt som man har påbörjat intjänandet under 2023.
 ![Bild](images/vad-ar-arbetstidskonto-atk-och-arbetstidsforkortning-atf_8b5c701a.png)
 Relaterade artiklar:
 Hur fungerar den löpande hanteringen av ATK och ATF?
