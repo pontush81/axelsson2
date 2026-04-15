@@ -1,6 +1,6 @@
 # Hur ser de årliga rutinerna för arbetstidskonto (ATK) ut?
 
-**Datum:** den 23 oktober 2025  
+**Datum:** den 14 april 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** howto  
@@ -101,3 +101,4 @@ Utifrån listan genomför du sedan den extra pensionsavsättningen enligt ert ko
 Relaterade artiklar:
 Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?
 Hur fungerar den löpande hanteringen av ATK och ATF?
+Varningar i samband med ATK/ATF skifte och hur du hanterar dom

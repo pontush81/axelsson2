@@ -1,12 +1,12 @@
 # AI-chatbot i Flex HRM - Vem är Flexie?
 
-**Datum:** den 23 mars 2026  
+**Datum:** den 14 april 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** other  
 **Svårighetsgrad:** intermediate  
 **Tags:** användare, roll  
-**Bilder:** 4  
+**Bilder:** 5  
 **URL:** https://knowledge.flexhrm.com/sv/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie
 
 ---
@@ -19,7 +19,7 @@ r
 a
 r
 d
-u hur du registrerar ett utlägg eller var du attesterar dina medarbetares tidrapporter? Skriv in din fråga, så analyserar Flexie den och ger dig ett svar direkt.
+u hur du registrerar ett utlägg eller var du attesterar dina medarbetares tidrapporter? Skriv eller prata in din fråga,, så analyserar Flexie den och ger dig ett svar direkt.
 Snabb hjälp dygnet runt, för alla
 Flexie är tillgänglig
 dygnet runt
@@ -54,6 +54,11 @@ Kan Flexie utföra något i Flex HRM?
 Flexie utvecklas ständigt och kommer att kunna svara på specifika frågor om din egen tidrapport, reseräkning etc och hjälpa dig med din rapportering.
 Vi har börjat med frånvaro. Istället för att till exempel ansöka om semester via frånvarohanteraren kan du be Flexie att skapa ansökan åt dig.
 ![Bild](images/ai-chatbot-i-flex-hrm-vem-ar-flexie_98dd8a52.png)
+Hur fungerar röststyrning?
+Du kan kommunicera med din röst istället för att skriva till Flexie. Klicka på ikonen som föreställer en mikrofon för att börja prata.
+Funktionen stöds för närvarande i webbläsarna Google Chrome, Microsoft Edge och Safari på Mac samt i appen Flex HRM EmMa. Observera att funktionen inte fungerar i Firefox.
+Mikrofonen finns i Flex HRM i textinmatningsfönstret, i appen HRM EmMa finns den i telefonens inbyggda tangentbord, som öppnas automatiskt när du klickar i rutan för att kommunicera med Flexie.
+![Bild](images/ai-chatbot-i-flex-hrm-vem-ar-flexie_c5167dc7.png)
 Ser du inte Flexie i ditt Flex HRM?
 Flexie rullas ut successivt till alla kunder. Har du inte pratbubblan nu så kommer den att dyka upp i framtiden.
 Du behöver inte göra några inställningar för att öppna upp tillgången till Flexie.

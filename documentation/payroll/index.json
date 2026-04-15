@@ -801,10 +801,10 @@
       "lön",
       "löneart"
     ],
-    "date": "den 30 januari 2026",
+    "date": "den 14 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/byggl%C3%B6sen-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-i-hrm-payroll",
     "isConfig": true,
-    "imageCount": 20,
+    "imageCount": 21,
     "hasImages": true,
     "excerpt": "Artikeln beskriver de inställningar du behöver göra för att kunna ta ut rapport för rapportering av Bygglösen 1.0 (Tidlön). I nuläget har rapporteringen inte stöd för prestationslön.\nBehörigheter\nLän ..."
   },
@@ -1282,6 +1282,25 @@
     "excerpt": "Artikeln beskriver de inställningar i HRM Payroll som krävs för att kunna rapportera pensionsunderlag till Fora varje månad.\nUppmärkningskod per personalkategori\nUppgifter på individnivå\nImportera upp..."
   },
   {
+    "title": "Varningar i samband med ATK/ATF skifte och hur du hanterar dom",
+    "file": "varningar-i-samband-med-atk-atf-skifte-och-hur-du-hanterar-dom.md",
+    "slug": "varningar-i-samband-med-atk-atf-skifte-och-hur-du-hanterar-dom",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 14 april 2026",
+    "url": "https://knowledge.flexhrm.com/sv/varningar-i-samband-med-atk/atf-skifte-och-hur-du-hanterar-dom",
+    "isConfig": false,
+    "imageCount": 11,
+    "hasImages": true,
+    "excerpt": "I denna artikel beskriver vi exempel på varningar som kan uppstå vid ATK/ATF årsskiftet och hur du hanterar dom i Flex HRM\nMedarbetare med en gammal intjänandeperiod\nI vyn för ATK/ATF-årsskifte ser du..."
+  },
+  {
     "title": "⚙️Hur ställer jag in ATK/ATF avtal i HRM Payroll?",
     "file": "hur-staller-jag-in-atk-atf-avtal-i-hrm-payroll.md",
     "slug": "hur-staller-jag-in-atk-atf-avtal-i-hrm-payroll",
@@ -1358,7 +1377,7 @@
       "löneart",
       "pension"
     ],
-    "date": "den 24 november 2025",
+    "date": "den 14 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut",
     "isConfig": false,
     "imageCount": 13,
@@ -1417,7 +1436,7 @@
       "löneart",
       "pension"
     ],
-    "date": "den 23 oktober 2025",
+    "date": "den 14 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atk-ut",
     "isConfig": false,
     "imageCount": 11,

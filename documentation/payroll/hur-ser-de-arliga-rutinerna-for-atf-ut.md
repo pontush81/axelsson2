@@ -1,6 +1,6 @@
 # Hur ser de årliga rutinerna för ATF ut?
 
-**Datum:** den 24 november 2025  
+**Datum:** den 14 april 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** howto  
@@ -47,7 +47,7 @@ valperioden. Det är dessa intjänade timmar som den anställde, beroende på av
 vad hen vill göra med. Om man har ett avtal där man inte kan välja visas uttagstypen direkt
 som i bilden nedan.
 De gröna kolumnerna längst till höger är fortfarande oförändrade.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_016cd6a5.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_137be3e7.png)
 2. Den anställdes val
 Om den anställde enligt avtal ska kunna välja vad man ska göra med de intjänade timmarna
 sker detta som nästa steg.
@@ -85,7 +85,7 @@ som inte gjort sitt val är det okej om inte alla gjort något val, annars behö
 gjort ett val.
 Du kan också titta lite på de gröna kolumnerna för den gamla uttagsperioden. Där bör det
 inte finnas så mycket kvarvarande timmar.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_bae5037a.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_867ca372.png)
 Om allt ser bra ut kan du nu köra själva rutinen för att Verkställa val och påbörja ny uttagsperiod.
 ![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_b7ff2502.png)
 I dialogrutan anger du startdatumet för den nya uttagsperioden. Detta datum används för att
@@ -101,7 +101,7 @@ Verkställ
 startar rutinen. Observera att denna rutin inte går att backa. När
 beräkningen är klart ser du i översiktsvyn att valperioden är borta och nu har blivit den nya
 uttagsperioden.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_97a61c86.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_0c2e0193.png)
 I löneberedningen, på fliken ATF, kan man nu se två uttagsperioder i den lönekörningen där
 verkställandet av ny uttagsperiod gjorts. Dels den nu avslutade uttagsperioden där
 eventuellt kvarvarande saldo betalats ut, dels det nya uttagsåret som den anställde nyligen
@@ -114,7 +114,7 @@ En anställd har under föregående uttagsperiod valt betald ledig tid, men har 
 timmar. Den anställde har också i den nya uttagsperioden valt betald ledig tid. Systemet
 kommer då betala ut kvarvarande timmar från det avslutande året. För det nya uttagsåret ser
 man det nya saldot.
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_a76b502f.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_f22ae46d.png)
 Exempel 2:
 En anställd har 4 timmar betald ledighet kvar från den föregående uttagsperioden då
 lönekörningen startades. Den anställde tog ut 3 av dessa som betald ledig tid i slutet av
@@ -122,7 +122,7 @@ uttagsperioden (löneart 352). Dessa har hämtats in från tidrapporten som vanl
 ATF-ledighet. Därefter har man kört rutinen för att verkställa den anställdes val och påbörja
 en ny uttagsperiod. Då den anställde har ytterligare 1 timme kvar i den avslutade
 uttagsperioden betalas detta ut (löneart 353).
-![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_94f37de4.png)
+![Bild](images/hur-ser-de-arliga-rutinerna-for-atf-ut_59f28ebf.png)
 4. Inbetalning av extra pensionsavsättning
 Om du har ett avtal som tillåter det och har anställda som valt avsättning som extra
 pensionsavsättning behöver detta hanteras manuellt (för rapportering till Fora, se ”Skapa fil
@@ -132,3 +132,7 @@ löneart/de lönearter du använder för pensionsavsättning, och gruppera per a
 en bra lista.
 När du tagit fram listan behöver du sedan utföra den extra pensionsavsättningen till de
 anställda enligt ditt kollektivavtal och den pensionsförsäkring ni använder.
+Relaterade artiklar:
+Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?
+Hur fungerar den löpande hanteringen av ATK och ATF?
+Varningar i samband med ATK/ATF skifte och hur du hanterar dom

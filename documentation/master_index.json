@@ -1,18 +1,18 @@
 {
-  "total_articles": 408,
+  "total_articles": 411,
   "total_categories": 6,
-  "total_images": 2319,
-  "last_updated": "2026-04-14 04:19:54",
+  "total_images": 2332,
+  "last_updated": "2026-04-15 04:18:37",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
-      "total": 87,
+      "total": 89,
       "subcategories": {
-        "Mobil": 15,
+        "Mobil": 16,
         "Användare & Behörighet": 44,
         "Register": 13,
         "Inställningar": 10,
-        "Rapporter": 3,
+        "Rapporter": 4,
         "Integration": 2
       }
     },
@@ -59,9 +59,9 @@
     },
     "payroll": {
       "name": "Payroll",
-      "total": 87,
+      "total": 88,
       "subcategories": {
-        "Löneberedning": 42,
+        "Löneberedning": 43,
         "Skatt & AGI": 12,
         "Semesterhantering": 10,
         "Inställningar": 14,
@@ -80,6 +80,6 @@
       }
     }
   },
-  "last_check": "2026-04-14 04:19:54",
+  "last_check": "2026-04-15 04:18:37",
   "last_check_status": "success"
 }

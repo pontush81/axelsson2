@@ -190,6 +190,25 @@
     "excerpt": "I Flex HRM finns det en skillnad mellan vad systemet definierar som en anställd och vad som är en användare. Kortfattat handlar det om att den anställda är personen som systemet hanterar data för (til..."
   },
   {
+    "title": "Kopiera anställd mellan bolag - bibehållen semester och anställningstid",
+    "file": "kopiera-anstalld-mellan-bolag-bibehallen-semester-och-anstallningstid.md",
+    "slug": "kopiera-anstalld-mellan-bolag-bibehallen-semester-och-anstallningstid",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "mobil",
+      "roll"
+    ],
+    "date": "den 10 april 2026",
+    "url": "https://knowledge.flexhrm.com/sv/kopiera-anstalld-inom-koncern-bibehallen-semester-anstallningstid",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "I artikeln hittar du information om vad du ska tänka på när du ska flytta anställda mellan olika juridiska bolag inom er koncern i Flex HRM, och den anställde ska få behålla semesterdagar och all anst..."
+  },
+  {
     "title": "Hur fungerar delegerad behörighet?",
     "file": "hur-fungerar-delegerad-behorighet.md",
     "slug": "hur-fungerar-delegerad-behorighet",
@@ -475,6 +494,22 @@
     "imageCount": 2,
     "hasImages": true,
     "excerpt": "Information om att se och hantera tabellåsningar, samt om att schemalägga en regelbunden rensning.\nEn tabellåsning är en funktion som hindrar att flera användare arbetar med samma sak samtidigt i Flex..."
+  },
+  {
+    "title": "Hur stödjer Flex HRM ditt arbete med CSRD?",
+    "file": "hur-stodjer-flex-hrm-ditt-arbete-med-csrd.md",
+    "slug": "hur-stodjer-flex-hrm-ditt-arbete-med-csrd",
+    "category": "systemgemensamt",
+    "subcategory": "Rapporter",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [],
+    "date": "den 14 april 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-stodjer-flex-hrm-ditt-arbete-med-csrd",
+    "isConfig": false,
+    "imageCount": 0,
+    "hasImages": false,
+    "excerpt": "Denna artikel sammanfattar hur vår HRM-lösning hjälper dig att uppfylla kraven i CSRD (Corporate Sustainability Reporting Directive).\nSå stödjer Flex HRM ditt hållbarhetsarbete\nCSRD är ett omfattande ..."
   },
   {
     "title": "Rapporter - Vilka standardrapporter finns i Flex HRM?",
@@ -926,10 +961,10 @@
       "användare",
       "roll"
     ],
-    "date": "den 23 mars 2026",
+    "date": "den 14 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie",
     "isConfig": false,
-    "imageCount": 4,
+    "imageCount": 5,
     "hasImages": true,
     "excerpt": "Flexie är Flex HRMs AI-chatbot som ger dig snabba svar på dina frågor och guidar dig rätt i systemet.\nU\nn\nd\nr\na\nr\nd\nu hur du registrerar ett utlägg eller var du attesterar dina medarbetares tidrapport..."
   },

@@ -1,12 +1,12 @@
 # ⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?
 
-**Datum:** den 30 januari 2026  
+**Datum:** den 14 april 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** config  
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart  
-**Bilder:** 20  
+**Bilder:** 21  
 **URL:** https://knowledge.flexhrm.com/sv/byggl%C3%B6sen-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-i-hrm-payroll
 
 ---
@@ -42,6 +42,7 @@ Det tillhörande registret fylls med värden när du sparar konteringsdimensione
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_7f736550.png)
 Projektregister
 Komplettera projekten i projektregistret med Län och Kommunkod. (Om du tidigare använt Flex Lön och gått över till HRM Payroll och använder 3L Pro behöver du nu för tiden administrera dina projekt manuellt i HRM.)
+Om medarbetarna inte rapporterar sin tid mot projekt behöver du ett projekt där företagets län och kommun ligger kopplat (detta kopplas sen som en fast kontering på de lönearter som ska inkluderas i rapporteringen).
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_c42e650b.png)
 Fördelningstal
 Avgör andel av fullbetald timlön för lärlingar.
@@ -79,6 +80,8 @@ Det finns också en formelfunktion för att hämta fördelningstalet från anst�
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_33fca4ff.png)
 Exempelformel för timlön där hänsyn ska tas till fördelningstal:
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_12d989f3.png)
+Om medarbetarna inte rapporterar sin tid mot projekt behöver du även lägga in en fast kontering på samtliga lönearter som ska inkluderas i rapporteringen under fliken kontering som pekar på ett projekt där företagets län och kommun ligger kopplat.
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_913b196a.png)
 Anställdaregistret
 På de anställda registreras följande uppgifter:
 Fördelningstal - anges i det egna fältet med datum då respektive fördelningstal ska tillämpas (0,80 = 80%).
