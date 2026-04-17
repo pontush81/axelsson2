@@ -1282,6 +1282,27 @@
     "excerpt": "Artikeln beskriver de inställningar i HRM Payroll som krävs för att kunna rapportera pensionsunderlag till Fora varje månad.\nUppmärkningskod per personalkategori\nUppgifter på individnivå\nImportera upp..."
   },
   {
+    "title": "Hur ser de årliga rutinerna för ATF ut?",
+    "file": "hur-ser-de-arliga-rutinerna-for-atf-ut.md",
+    "slug": "hur-ser-de-arliga-rutinerna-for-atf-ut",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "agi",
+      "lön",
+      "löneart",
+      "pension"
+    ],
+    "date": "den 14 april 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut",
+    "isConfig": false,
+    "imageCount": 13,
+    "hasImages": true,
+    "excerpt": "Stegen nedan utgör den cykel som upprepas varje år.\n1. Påbörja ny intjänandeperiod\nFörsta steget i cykeln är att påbörja en ny intjänandeperiod.\nDetta ska göras när den sista\nlönekörnin\ngen under den ..."
+  },
+  {
     "title": "Varningar i samband med ATK/ATF skifte och hur du hanterar dom",
     "file": "varningar-i-samband-med-atk-atf-skifte-och-hur-du-hanterar-dom.md",
     "slug": "varningar-i-samband-med-atk-atf-skifte-och-hur-du-hanterar-dom",
@@ -1362,27 +1383,6 @@
     "imageCount": 2,
     "hasImages": true,
     "excerpt": "Om den anställde enligt avtalet får välja vad hen vill göra med de intjänade pengarna/timmarna kan det vara en god idé att använda påminnelsefunktionen. Man kan använda påminnelsefunktionen både för a..."
-  },
-  {
-    "title": "Hur ser de årliga rutinerna för ATF ut?",
-    "file": "hur-ser-de-arliga-rutinerna-for-atf-ut.md",
-    "slug": "hur-ser-de-arliga-rutinerna-for-atf-ut",
-    "category": "payroll",
-    "subcategory": "Löneberedning",
-    "type": "howto",
-    "difficulty": "advanced",
-    "tags": [
-      "agi",
-      "lön",
-      "löneart",
-      "pension"
-    ],
-    "date": "den 14 april 2026",
-    "url": "https://knowledge.flexhrm.com/sv/hur-ser-de-%C3%A5rliga-rutinerna-f%C3%B6r-atf-ut",
-    "isConfig": false,
-    "imageCount": 13,
-    "hasImages": true,
-    "excerpt": "Stegen nedan utgör den cykel som upprepas varje år.\n1. Påbörja ny intjänandeperiod\nFörsta steget i cykeln är att påbörja en ny intjänandeperiod.\nDetta ska göras när den sista\nlönekörnin\ngen under den ..."
   },
   {
     "title": "Vad är arbetstidskonto (ATK) och arbetstidsförkortning (ATF)?",

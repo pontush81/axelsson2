@@ -1,6 +1,6 @@
 # Genomför Lönekartläggning i HRM - Steg 3 anställda
 
-**Datum:** den 13 februari 2026  
+**Datum:** den 16 april 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  
@@ -14,6 +14,15 @@
 Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg för steg.
 
 Här går vi igenom vyn Anställda.
+Notera!
+Det här är
+en artikel som gäller modulen
+Flex HRM Lönekartläggning
+. Ska du arbeta i modulen
+Flex HRM Pay Equity Compass
+hittar du de artiklarna
+här
+.
 Anställda
 ![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-3-anstallda_3eb7d3aa.png)
 Syftet med denna vy är att få en överblick av samtliga anställdas löner mm. för att se till att allt är korrekt innan analysarbetet startar.

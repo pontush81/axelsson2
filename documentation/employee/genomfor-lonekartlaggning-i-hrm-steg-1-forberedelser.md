@@ -1,6 +1,6 @@
 # Genomför Lönekartläggning i HRM - Steg 1 förberedelser
 
-**Datum:** den 13 februari 2026  
+**Datum:** den 16 april 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  
@@ -14,6 +14,15 @@
 Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg för steg.
 
 Lönekartläggning är ett lagkrav (Diskrimineringslagen 2008:567 3kap.) och ska utföras varje år i syfte att arbetsgivaren ska upptäcka, åtgärda och förhindra osakliga skillnader i lön och andra anställningsvillkor mellan kvinnor och män. Det är alltså ett viktigt verktyg i arbetsgivarens arbete mot diskriminering och jämställda löner.
+Notera!
+Det här är
+en artikel som gäller modulen
+Flex HRM Lönekartläggning
+. Ska du arbeta i modulen
+Flex HRM Pay Equity Compass
+hittar du de artiklarna
+här
+.
 Skapa ny lönekartläggningen
 Gå till
 Personal > Lönekartläggning

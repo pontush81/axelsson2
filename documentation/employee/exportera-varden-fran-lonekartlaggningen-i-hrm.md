@@ -1,6 +1,6 @@
 # Exportera värden från Lönekartläggningen i HRM
 
-**Datum:** den 13 februari 2026  
+**Datum:** den 16 april 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  
@@ -11,6 +11,15 @@
 
 ---
 
+Notera!
+Det här är
+en artikel som gäller modulen
+Flex HRM Lönekartläggning
+. Ska du arbeta i modulen
+Flex HRM Pay Equity Compass
+hittar du de artiklarna
+här
+.
 Export
 Du kan exportera följande från lönekartläggningen
 Samtliga arbeten

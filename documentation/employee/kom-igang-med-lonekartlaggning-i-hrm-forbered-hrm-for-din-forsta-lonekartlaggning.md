@@ -1,6 +1,6 @@
 # ⚙️Kom igång med Lönekartläggning i HRM - Förbered HRM för din första lönekartläggning
 
-**Datum:** den 13 februari 2026  
+**Datum:** den 16 april 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  
@@ -12,6 +12,15 @@
 ---
 
 Den här artikeln guidar dig steg för steg vad du behöver förbereda och ställa in i HRM för att vara redo att genomföra en Lönekartläggning.
+Notera!
+Det här är
+en artikel som gäller modulen
+Flex HRM Lönekartläggning
+. Ska du arbeta i modulen
+Flex HRM Pay Equity Compass
+hittar du de artiklarna
+här
+.
 Lönekartläggning - Inställningar
 Licens
 Aktivera licensen för lönekartläggning för ditt företag

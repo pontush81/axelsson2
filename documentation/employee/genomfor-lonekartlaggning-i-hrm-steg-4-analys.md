@@ -1,6 +1,6 @@
 # Genomför Lönekartläggning i HRM - Steg 4 analys
 
-**Datum:** den 13 februari 2026  
+**Datum:** den 16 april 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  
@@ -14,6 +14,15 @@
 Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg för steg.
 
 Här går vi igenom hur du gör analyserna i lönekartläggningen.
+Notera!
+Det här är
+en artikel som gäller modulen
+Flex HRM Lönekartläggning
+. Ska du arbeta i modulen
+Flex HRM Pay Equity Compass
+hittar du de artiklarna
+här
+.
 Analys
 ![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-4-analys_945e2b6b.png)
 I analysen för att upptäcka eventuella osakliga löneskillnader har du tre vyer att utgå från:
@@ -135,7 +144,7 @@ Du kan även välja att
 ta bort klarmarkering
 om du ångrar dig.
 När du är helt klar med samtliga analyser klarmarkerar du vyerna
-![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-4-analys_07344b51.png)
+![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-4-analys_ebde3d63.png)
 Analysen är klar och du kan nu
 ta ut slutrapporten under Dokument
 .

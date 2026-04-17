@@ -1,6 +1,6 @@
 # Genomför Lönekartläggning i HRM - Steg 2 arbetsvärdering
 
-**Datum:** den 13 februari 2026  
+**Datum:** den 16 april 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** other  
@@ -14,6 +14,15 @@
 Den här guiden hjälper dig att genomföra en lönekartläggning i HRM steg för steg.
 
 Här går vi igenom hur du gör steget för arbetsvärdering.
+Notera!
+Det här är
+en artikel som gäller modulen
+Flex HRM Lönekartläggning
+. Ska du arbeta i modulen
+Flex HRM Pay Equity Compass
+hittar du de artiklarna
+här
+.
 Arbetsvärdering
 ![Bild](images/genomfor-lonekartlaggning-i-hrm-steg-2-arbetsvardering_003cd147.png)
 Arbetsvärdering är en systematisk metod för att utvärdera ett arbetes krav och svårigheter.
