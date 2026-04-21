@@ -18,6 +18,25 @@
     "excerpt": "Denna artikel beskriver hur du tar bort en eller flera anställda från en preliminär lönekörning.\nTa bort en anställd från en preliminär lönekörning\nHär beskriver vi hur du går tillväga för att ta bort..."
   },
   {
+    "title": "Hur hanteras utmätning i HRM Payroll?",
+    "file": "hur-hanteras-utmatning-i-hrm-payroll.md",
+    "slug": "hur-hanteras-utmatning-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "howto",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 20 april 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-hanteras-utm%C3%A4tning-i-hrm-payroll",
+    "isConfig": false,
+    "imageCount": 10,
+    "hasImages": true,
+    "excerpt": "I den här artikeln beskriver vi hur du hanterar ett beslut om utmätning för avdrag i löneberedningen i HRM Payroll.\nRegistrera utmätning på en anställd\nNär en medarbetare har en beslutad utmätning beh..."
+  },
+  {
     "title": "Hur hanterar jag en löneskuld i HRM Payroll?",
     "file": "hur-hanterar-jag-en-loneskuld-i-hrm-payroll.md",
     "slug": "hur-hanterar-jag-en-loneskuld-i-hrm-payroll",
