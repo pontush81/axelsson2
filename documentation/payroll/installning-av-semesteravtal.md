@@ -1,6 +1,6 @@
 # ⚙️Inställning av semesteravtal
 
-**Datum:** den 25 mars 2026  
+**Datum:** den 21 april 2026  
 **Kategori:** Payroll  
 **Underkategori:** Semesterhantering  
 **Typ:** config  
@@ -89,7 +89,7 @@ För a
 tt systemet ska visa semestersaldo som nettodagar istället för bruttodagar används valet “Nettodagar” under rubriken “Semesterrätt”. Detta ställs in direkt på semesteravtalet och är inte möjligt att göra  personliga avvikelser på i semesteravtalet  för enskilda medarbetare .
 Med valet att visa saldo som Nettodagar kommer semstersaldo att visas som nettodagar på lönespecifikationen för anställda som har det aktuella semesteravtalet.
 Avrundning för visa som nettodagar:
-När man visar semestersaldot som nettodagar kommer systemet automatiskt att avrunda timmarna uppåt till närmaste hela dag. Denna avrundning är till för att visa för den anställde hur många faktiska dagar denne kan vara ledig.
+När man visar semestersaldot som nettodagar kommer systemet automatiskt att avrunda uppåt till närmaste hela dag. Denna avrundning är till för att visa för den anställde hur många faktiska dagar denne kan vara ledig.
 ![Bild](images/installning-av-semesteravtal_62f72f32.png)
 Procentsatser för semesterlön:
 Fyll i procentsatser för semesterersättning, semesterdaglön (i procent av månadslönen) och semestertillägg.
