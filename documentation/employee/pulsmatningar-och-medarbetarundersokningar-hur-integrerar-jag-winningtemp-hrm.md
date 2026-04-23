@@ -1,6 +1,6 @@
 # ⚙️Pulsmätningar och medarbetarundersökningar - Hur integrerar jag Winningtemp & HRM?
 
-**Datum:** den 6 mars 2026  
+**Datum:** den 22 april 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  
@@ -28,8 +28,8 @@ Integrationen består av två huvuddelar:
 Automatisk överföring av anställda:
 Personuppgifter synkroniseras från HRM till Winningtemp. Detta säkerställer att Winningtemp alltid har uppdaterad information och minskar dubbelarbete, eftersom du bara behöver lägga till anställda i HRM.
 W
-inningtemp utgår från organisationsstrukturen som finns uppsatt i HRM
-(kommer i slutet av 2025).
+inningtemp kan utgå från organisationsstrukturen som finns uppsatt i HRM
+.
 Visualisering av nyckeltal:
 Hämta och visa temperaturdata från Winningtemp direkt i era Das
 hboards i HRM för att få en samlad överblick av era nyckeltal.
@@ -100,7 +100,13 @@ och
 Client secret
 som du fick fram i Winningtemp (se första avsnittet):
 ![Bild](images/pulsmatningar-och-medarbetarundersokningar-hur-integrerar-jag-winningtemp-hrm_5ad50db8.png)
+Vill du synka organisationstrukturen från Flex HRM till Winningtemp bockar du i
+Hämta mappning från Winningtemp.
 Spara.
+I april 2026 uppdaterades funktionen för att hämta organisationsschemat i integrationen mellan Winningtemp och Flex HRM. Vilket gör att du inte längre ser den gamla mappningen i Flex HRM.
+Har du använt integrationen mellan Winingtemp och Flex HRM tidigare och nu bockar i
+Hämta mappning från Winningtemp
+försvinner den manuella mappningen helt.
 Notera:
 Om du inte får programlänken att fungera så kan du behöva kontrollera statusen på integrationen för Winningtemp under
 Systemregister > Integrationer.

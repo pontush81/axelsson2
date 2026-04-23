@@ -1,6 +1,6 @@
 # Frågor och svar - Winningtemp & HRM
 
-**Datum:** den 11 september 2025  
+**Datum:** den 22 april 2026  
 **Kategori:** Employee  
 **Underkategori:** Integration  
 **Typ:** other  
@@ -35,6 +35,17 @@ Resultat & analys - Heatmap-analys - Senaste hela månaden
 i Winningtemp.
 ![Bild](images/fragor-och-svar-winningtemp-hrm_73817eb0.png)
 ![Bild](images/fragor-och-svar-winningtemp-hrm_34097a53.png)
+Hur visas data i Flex HRM när Winningtemp används för en hel koncern?
+Här förklarar vi hur informationen från Winningtemp hanteras i din HRM-lösning när du har alla företag i en koncern samlade i ett och samma Winningtemp-konto.
+All data samlas på toppnivån
+Eftersom Winningtemp hanterar hela koncernen som en enda enhet, importerar vi all data direkt till toppnivån i det företag i Flex HRM som har kopplingen aktiverad. Systemet utgår från att all information som hämtas hör till det specifika företaget. Detta innebär att du ser data från samtliga företag på den översta nivån i Flex HRM.
+Värt att notera är att
+Client ID
+och
+Secret ID
+endast kan användas i ett företag i Flex HRM.
+Vad händer med en temperaturpanel som inte är kopplad till en organisationsnivå?
+Om en temperatur i Winningtemp inte är kopplad till en särskild kontering, kommer Flex HRM att placera den informationen direkt på den högsta nivån (företagsnivån). Det blir alltså en samlingspunkt för all data som saknar specifik organisatorisk koppling.
 Relaterade artiklar
 ⚙️Exempel på Winningtemp-paneler i HRM Dashboard
 ⚙️Skapa Dashboard i HRM med Winningtemp-paneler
