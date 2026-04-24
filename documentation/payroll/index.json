@@ -839,7 +839,7 @@
       "lön",
       "löneart"
     ],
-    "date": "den 19 januari 2026",
+    "date": "den 23 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-byggl%C3%B6sen-1.0-tidl%C3%B6n-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 7,
@@ -1535,10 +1535,10 @@
       "löneart",
       "semester"
     ],
-    "date": "den 7 oktober 2025",
+    "date": "den 23 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/semester%C3%A5rsskifte-hrm-payroll-april-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
     "isConfig": false,
-    "imageCount": 22,
+    "imageCount": 24,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du gör ett semesterskifte när du har semesterår 1 april–31 mars.\nArbetsgång vid semesterårsbytet 1 april\nImportmall och importfil för utbetalning av överskjutande dagar\nChe..."
   },

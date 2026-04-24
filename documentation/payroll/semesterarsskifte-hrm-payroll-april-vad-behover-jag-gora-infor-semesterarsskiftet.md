@@ -1,12 +1,12 @@
 # Semesterårsskifte HRM Payroll: April - Vad behöver jag göra inför semesterårsskiftet?
 
-**Datum:** den 7 oktober 2025  
+**Datum:** den 23 april 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** other  
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester  
-**Bilder:** 22  
+**Bilder:** 24  
 **URL:** https://knowledge.flexhrm.com/sv/semester%C3%A5rsskifte-hrm-payroll-april-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet
 
 ---
@@ -38,6 +38,10 @@ Semestersaldon
 (via
 Rapporter > Lön > semestersaldon
 ) för att få en överblick på de anställdes kvarvarande semesterdagar inför semesterårsskiftet.
+Om medarbetaren haft varierande sysselsättningsgrad under intjänandeperioden som ska påverka semesterlönen  beräknas en genomsnittlig sysselsättningsgrad för hela intjänandeperioden respektive sysselsättningsgrad * antal kalenderdagar den sysselsättningsgraden gällt. Sedan summeras detta värde och delas med totalt antal kalenderdagar i semesterskuldsperioden.  Dagar med 100% frånvaro påverkar inte beräkningen. Se nedan räkneexempel:
+![Bild](images/semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet_b46b3db2.png)
+OBS. att ev deltidsfrånvaro kan vara inställt på semesteravtalet att tas med i beräkningen också.
+![Bild](images/semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet_ca4b900d.png)
 Under
 Administration > Bearbetningar > Årsrutiner > Semesterårsskifte
 finns funktionen för att göra ett semesterårsskifte.

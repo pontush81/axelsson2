@@ -1,6 +1,6 @@
 # Hur tar jag fram rapport till Bygglösen  i HRM Payroll?
 
-**Datum:** den 19 januari 2026  
+**Datum:** den 23 april 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** howto  
@@ -31,12 +31,12 @@ Ny
 i knappraden.
 ![Knappen Ny visas markerad.](images/hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll_36dce047.png)
 Välj aktuell
-löneperiod
-.
+redovisningsperiod,
+t.ex. om du ska redovisa utbetald lön och timmar för mars månad har dessa löneberäknats i april lön, då väljer du period 1-30 april.
 Observera:
-Om du använder bruten löneperiod skapas underlaget för den motsvarande perioden.
+Om du använder bruten löneperiod ska du skapa underlaget för den motsvarande perioden, t.ex 16/4-15/5.
 Om det behövs kan du även göra kompletterande urval för att begränsa underlaget.
-![Bild](images/hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll_1ac25fb5.png)
+![Bild](images/hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll_670469c2.png)
 I det färdiga underlaget kan en medarbetare redovisas på flera rader. Det händer till exempel om hen har utfört arbete i olika län eller med olika kommunkoder.
 ![Bild](images/hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll_f3e4822c.png)
 Du kan också exportera underlaget till Excel genom att klicka på knappen
