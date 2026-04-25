@@ -1081,9 +1081,9 @@
     "excerpt": "Hantera notiser och påminnelser i HRM Mobile\nI HRM Mobile får du notiser som påminner dig om olika uppgifter, till exempel att du ska attestera en reseräkning eller klarmarkera din tidrapport. Du kan ..."
   },
   {
-    "title": "Administrativa funktioner - Vilka administrativa funktioner kan jag styra direkt i mobilen?",
-    "file": "administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen.md",
-    "slug": "administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen",
+    "title": "Vilka administrativa funktioner kan jag styra direkt i HRM Mobile?",
+    "file": "vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile.md",
+    "slug": "vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile",
     "category": "systemgemensamt",
     "subcategory": "Mobil",
     "type": "other",
@@ -1092,7 +1092,7 @@
       "behörighet",
       "mobil"
     ],
-    "date": "den 30 september 2025",
+    "date": "den 24 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen",
     "isConfig": false,
     "imageCount": 28,

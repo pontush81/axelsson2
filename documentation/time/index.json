@@ -114,9 +114,9 @@
     "excerpt": "En översikt av tidrapporten och en beskrivning av de knappar som hittas i menyraden högst upp.\nÖversikt tidrapport\nKnappar\nÖversikt tidrapport\nDu kan till viss del själv välja vilken information som v..."
   },
   {
-    "title": "Hur tidrapporterar jag i mobilen?",
-    "file": "hur-tidrapporterar-jag-i-mobilen.md",
-    "slug": "hur-tidrapporterar-jag-i-mobilen",
+    "title": "Hur tidrapporterar jag i HRM Mobile?",
+    "file": "hur-tidrapporterar-jag-i-hrm-mobile.md",
+    "slug": "hur-tidrapporterar-jag-i-hrm-mobile",
     "category": "time",
     "subcategory": "Tidrapportering",
     "type": "howto",
@@ -131,7 +131,7 @@
       "tidkod",
       "tidrapport"
     ],
-    "date": "den 18 augusti 2025",
+    "date": "den 24 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-sk%C3%B6ter-jag-min-tidrapportering-i-mobilen",
     "isConfig": false,
     "imageCount": 13,
