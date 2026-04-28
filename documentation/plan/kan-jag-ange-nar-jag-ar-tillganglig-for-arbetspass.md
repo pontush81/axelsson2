@@ -1,6 +1,6 @@
 # Kan jag ange när jag är tillgänglig för arbetspass?
 
-**Datum:** den 26 november 2025  
+**Datum:** den 27 april 2026  
 **Kategori:** Plan  
 **Underkategori:** Schemaläggning  
 **Typ:** faq  

@@ -1,12 +1,12 @@
 # ⚙️ Hur gör jag inställningar för arbetsplats, tjänsteställe, till arbetsgivardeklarationen (AGI) i HRM Payroll?
 
-**Datum:** den 25 september 2025  
+**Datum:** den 27 april 2026  
 **Kategori:** Payroll  
 **Underkategori:** Skatt & AGI  
 **Typ:** howto  
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, skatt  
-**Bilder:** 7  
+**Bilder:** 8  
 **URL:** https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-jag-inst%C3%A4llningar-f%C3%B6r-arbetsplats-tj%C3%A4nstest%C3%A4lle-till-arbetsgivardeklarationen-agi-i-hrm-payroll
 
 ---
@@ -66,5 +66,7 @@ Arbetsplatsens gatuadress redovisas i fält 245 och ort i fält 246.
 Observera att om en anställd bytt arbetsplats under månaden ska ingen adress rapporteras till Skatteverket.
 När du skapar AGI-underlaget finns också en möjlighet att använda företagets adress för anställda som saknar uppgift om arbetsplats. Detta kan vara användbart om alla anställda i företaget arbetar på samma plats för att slippa onödig administration.
 ![Bilden visar, i dialogrutan för att skapa ny AGI,  markerad bockruta för att använda företagets adress om anställd saknar uppgift.](images/hur-gor-jag-installningar-for-arbetsplats-tjanstestalle-till-arbetsgivardeklarationen-agi-i-hrm-payr_85bce7c9.png)
+I Arbetsgivardeklarationen redovisas även medarbetarens arbetsställenummer i ruta 60. Numret består av en till högst fem siffror och framgår av förteckningen du fått av Statistikmyndigheten (SCB) och läggs in i anställdaregistret på fliken Skatt i fältet Arbetsställenummer från SCB.
+![Bild](images/hur-gor-jag-installningar-for-arbetsplats-tjanstestalle-till-arbetsgivardeklarationen-agi-i-hrm-payr_6ed76d77.png)
 Relaterade artiklar:
 Hur arbetar jag med arbetsgivardeklaration på individnivå (AGI) i Flex HRM Payroll?

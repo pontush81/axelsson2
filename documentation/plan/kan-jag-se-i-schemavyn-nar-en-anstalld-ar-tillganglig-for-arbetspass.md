@@ -1,6 +1,6 @@
 # Kan jag se i schemavyn när en anställd är tillgänglig för arbetspass?
 
-**Datum:** den 26 november 2025  
+**Datum:** den 27 april 2026  
 **Kategori:** Plan  
 **Underkategori:** Schemaläggning  
 **Typ:** faq  
@@ -16,7 +16,7 @@ Den här artikeln beskriver hur du som schemaläggare enkelt kan se vilka anstä
 Så anger anställda sin tillgänglighet
 Anställda kan smidigt ange i
 HRM Mobile
-när de är tillgängliga för att jobba. Denna information blir sedan synlig för dig som schemaläggare. Läs mer om att ange tillgänglighet i mitt schema i HRM Mobile i denna artikel:
+när de är tillgängliga för att jobba. Denna information blir sedan synlig för dig som schemaläggare. Läs mer om att ange tillgänglighet i Mitt schema i HRM Mobile i denna artikel:
 Kan jag ange när jag är tillgänglig för arbetspass?
 Visa anställda som är tillgängliga
 När du ska tillsätta ett ledigt arbetspass i vyerna
@@ -41,6 +41,6 @@ När du markerar ett ledigt arbetspass kommer de anställda som har angivit att 
 Du kan också se tillgänglighet markerad med grön färg.
 På bilden nedan har anställd 2 angett sig som tillgänglig 24 och 25 november kl 17:00-20:00, hela 26 november, 27 november kl 10:00-18:00.
 När vi drar ett pass för 26 november kl 13:00-17:00 markeras anställd 2 med streckad linje, eftersom hon är tillgänglig och inte bemannad på något annat arbetspass.
-![Bild](images/kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass_348ca452.png)
+![Bild](images/kan-jag-se-i-schemavyn-nar-en-anstalld-ar-tillganglig-for-arbetspass_b2975127.png)
 Relaterade artiklar
 Kan jag ange när jag är tillgänglig för arbetspass?
