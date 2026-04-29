@@ -1,6 +1,6 @@
 # Hur byter jag språk i Flex HRM?
 
-**Datum:** den 7 november 2025  
+**Datum:** den 28 april 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** howto  

@@ -1,6 +1,6 @@
 # Vilka administrativa funktioner kan jag styra direkt i HRM Mobile?
 
-**Datum:** den 24 april 2026  
+**Datum:** den 28 april 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** other  
@@ -11,7 +11,7 @@
 
 ---
 
-Flex HRM Mobile  ger dig möjlighet att attestera tidrapporter, reseräkningar och frånvaroansökningar, samt utföra delattestering av tid- och reseräknings transaktioner.
+Flex HRM Mobile ger dig möjlighet att attestera tidrapporter, reseräkningar och frånvaroansökningar, samt utföra delattestering av tid- och reseräkningstransaktioner.
 Attestering av tidrapporter
 Attestering av reseräkningar
 Delattestering av tidrapportstransaktioner
@@ -73,14 +73,14 @@ kommer du till en översiktsvy där varje projekts timmar visas summerat per pro
 De anställda som har rapporterat resetransaktioner mot ditt projekt listas när du klickar på en projektrad.
 ![Bild](images/vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile_fee854a1.png)
 Beviljande av frånvaro
-När dina medarbetare gör frånvaroansökningar får du pushnotiser om detta direkt i Mobile och du kan se det genom att det finns en siffra på ikonen.
+När dina medarbetare gör frånvaroansökningar får du pushnotiser om detta direkt i HRM Mobile och du kan se det genom att det finns en siffra på ikonen.
 ![Bild](images/vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile_1236ba0a.png)
 ![Bild](images/vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile_10b01507.png)
 En lista över alla frånvaroansökningar visas, klicka på den du vill behandla.
 ![Bild](images/vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile_e22db464.png)
 ![Bild](images/vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile_92c4e1e2.png)
 Registrera frånvaro på en annan anställd
-Du kan även registrera frånvaro på en annan anställd via Flex Mobile.
+Du kan även registrera frånvaro på en annan anställd via HRM Mobile.
 ![Bild](images/vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile_68e038eb.png)
 Under meny-knappen kan du välja anställd.
 ![Bild](images/vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile_f82d548c.png)

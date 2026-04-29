@@ -1,6 +1,6 @@
 # Inloggning i Flex HRM
 
-**Datum:** den 13 februari 2026  
+**Datum:** den 28 april 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** other  
@@ -14,7 +14,8 @@
 Denna artikel beskriver hur du loggar in i Flex HRM och HRM Mobile. Den här guiden hjälper dig steg för steg med din första inloggning till Flex HRM.
 Hur loggar jag in i Flex HRM?
 Så här loggar du in
-Kom igång med mobilappen
+Kom igång med HRM Mobil
+e
 Du loggar in i Flex HRM med hjälp av ett
 Visma Connect-konto
 .

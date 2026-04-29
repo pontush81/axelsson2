@@ -1,6 +1,6 @@
 # AI-chatbot i Flex HRM - Vem är Flexie?
 
-**Datum:** den 14 april 2026  
+**Datum:** den 28 april 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** other  
@@ -52,7 +52,8 @@ under chattfönstret.
 Om du har Flexie öppen och byter vy i systemet, följer fönstret med och är öppet även när nästa vy laddas in.
 Kan Flexie utföra något i Flex HRM?
 Flexie utvecklas ständigt och kommer att kunna svara på specifika frågor om din egen tidrapport, reseräkning etc och hjälpa dig med din rapportering.
-Vi har börjat med frånvaro. Istället för att till exempel ansöka om semester via frånvarohanteraren kan du be Flexie att skapa ansökan åt dig.
+Vi har börjat med bilresor, frånvaro och schema. Flexie kan hjälpa dig att registrera en bilresa och svara på frågor om hur ditt schema ser ut. Istället för att till exempel ansöka om semester via frånvarohanteraren kan du be Flexie att skapa ansökan åt dig.
+Flexie ber om din bekräftelse innan sparning.
 ![Bild](images/ai-chatbot-i-flex-hrm-vem-ar-flexie_98dd8a52.png)
 Hur fungerar röststyrning?
 Du kan kommunicera med din röst istället för att skriva till Flexie. Klicka på ikonen som föreställer en mikrofon för att börja prata.

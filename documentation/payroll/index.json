@@ -1,5 +1,23 @@
 [
   {
+    "title": "⚙️Hur aktiverar och ställer jag in integrationen till Autopay?",
+    "file": "hur-aktiverar-och-staller-jag-in-integrationen-till-autopay.md",
+    "slug": "hur-aktiverar-och-staller-jag-in-integrationen-till-autopay",
+    "category": "payroll",
+    "subcategory": "Inställningar",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön"
+    ],
+    "date": "den 23 april 2026",
+    "url": "https://knowledge.flexhrm.com/sv/hur-aktiverar-och-st%C3%A4ller-jag-in-integrationen-till-autopay",
+    "isConfig": true,
+    "imageCount": 6,
+    "hasImages": true,
+    "excerpt": "Här går vi igenom hur du kommer igång med och använder tjänsten AutoPay för dina löneutbetalningar i HRM Payroll. Med AutoPay skickas dina betalningar direkt från systemet till banken.\nBegränsningar a..."
+  },
+  {
     "title": "Hur tar jag bort en anställd från en preliminär lönekörning?",
     "file": "hur-tar-jag-bort-en-anstalld-fran-en-preliminar-lonekorning.md",
     "slug": "hur-tar-jag-bort-en-anstalld-fran-en-preliminar-lonekorning",
@@ -809,25 +827,6 @@
     "excerpt": "För att skicka korrekta arbetsgivarintyg måste systemet först länkas till tjänsten och därefter måste alla koder för lön, tid och frånvaro mappas korrekt.\nProgramlänk till Arbetsgivarintyg.nu\nIntegrat..."
   },
   {
-    "title": "⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?",
-    "file": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll.md",
-    "slug": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll",
-    "category": "payroll",
-    "subcategory": "Löneberedning",
-    "type": "config",
-    "difficulty": "advanced",
-    "tags": [
-      "lön",
-      "löneart"
-    ],
-    "date": "den 14 april 2026",
-    "url": "https://knowledge.flexhrm.com/sv/byggl%C3%B6sen-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-i-hrm-payroll",
-    "isConfig": true,
-    "imageCount": 21,
-    "hasImages": true,
-    "excerpt": "Artikeln beskriver de inställningar du behöver göra för att kunna ta ut rapport för rapportering av Bygglösen 1.0 (Tidlön). I nuläget har rapporteringen inte stöd för prestationslön.\nBehörigheter\nLän ..."
-  },
-  {
     "title": "Hur tar jag fram rapport till Bygglösen  i HRM Payroll?",
     "file": "hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll.md",
     "slug": "hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll",
@@ -845,6 +844,25 @@
     "imageCount": 7,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du tar ut rapport för Bygglösen 1.0 (Tidlön) i systemet.\nSkapa underlag\nSkapa fil för rapportering\nVilka medarbetare innehåller underlaget\nSå här skapar du ett nytt underla..."
+  },
+  {
+    "title": "⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?",
+    "file": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll.md",
+    "slug": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 14 april 2026",
+    "url": "https://knowledge.flexhrm.com/sv/byggl%C3%B6sen-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 21,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver de inställningar du behöver göra för att kunna ta ut rapport för rapportering av Bygglösen 1.0 (Tidlön). I nuläget har rapporteringen inte stöd för prestationslön.\nBehörigheter\nLän ..."
   },
   {
     "title": "Vilka uppgifter kommer med i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) och hur beräknas dem?",
@@ -1463,6 +1481,26 @@
     "excerpt": "Artikeln beskriver de olika rutinerna som ska köras under året om du använder ATK.\nÅrscykel för ATK i HRM Payroll\nHär beskriver vi de olika rutiner du behöver köra under året när du använder ATK (arbe..."
   },
   {
+    "title": "Semesterårsskifte HRM Payroll: April - Vad behöver jag göra inför semesterårsskiftet?",
+    "file": "semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet.md",
+    "slug": "semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "other",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "semester"
+    ],
+    "date": "den 23 april 2026",
+    "url": "https://knowledge.flexhrm.com/sv/semester%C3%A5rsskifte-hrm-payroll-april-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
+    "isConfig": false,
+    "imageCount": 24,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du gör ett semesterskifte när du har semesterår 1 april–31 mars.\nArbetsgång vid semesterårsbytet 1 april\nImportmall och importfil för utbetalning av överskjutande dagar\nChe..."
+  },
+  {
     "title": "⚙️Inställning av semesteravtal",
     "file": "installning-av-semesteravtal.md",
     "slug": "installning-av-semesteravtal",
@@ -1521,26 +1559,6 @@
     "imageCount": 26,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du gör ett semesterskifte när du har semesterår 1 januari - 31 december.\nArbetsgång vid semesterårsbytet 1 januari\nImportmall och importfil för utbetalning av överskjutande..."
-  },
-  {
-    "title": "Semesterårsskifte HRM Payroll: April - Vad behöver jag göra inför semesterårsskiftet?",
-    "file": "semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet.md",
-    "slug": "semesterarsskifte-hrm-payroll-april-vad-behover-jag-gora-infor-semesterarsskiftet",
-    "category": "payroll",
-    "subcategory": "Löneberedning",
-    "type": "other",
-    "difficulty": "advanced",
-    "tags": [
-      "lön",
-      "löneart",
-      "semester"
-    ],
-    "date": "den 23 april 2026",
-    "url": "https://knowledge.flexhrm.com/sv/semester%C3%A5rsskifte-hrm-payroll-april-vad-beh%C3%B6ver-jag-g%C3%B6ra-inf%C3%B6r-semester%C3%A5rsskiftet",
-    "isConfig": false,
-    "imageCount": 24,
-    "hasImages": true,
-    "excerpt": "Denna artikel beskriver hur du gör ett semesterskifte när du har semesterår 1 april–31 mars.\nArbetsgång vid semesterårsbytet 1 april\nImportmall och importfil för utbetalning av överskjutande dagar\nChe..."
   },
   {
     "title": "Formelvariabler - Varifrån hämtar formelvariablerna information för semestergrundande närvaro och frånvaro i HRM Payroll?",

@@ -1,6 +1,6 @@
 # Hur byter jag lösenord i Flex HRM?
 
-**Datum:** den 4 februari 2026  
+**Datum:** den 28 april 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** howto  

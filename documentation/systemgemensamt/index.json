@@ -10,7 +10,7 @@
     "tags": [
       "mobil"
     ],
-    "date": "den 13 februari 2026",
+    "date": "den 28 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/inloggning-i-flex-hrm",
     "isConfig": false,
     "imageCount": 9,
@@ -28,7 +28,7 @@
     "tags": [
       "mobil"
     ],
-    "date": "den 4 februari 2026",
+    "date": "den 28 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/byte-av-losenord",
     "isConfig": false,
     "imageCount": 0,
@@ -470,12 +470,12 @@
     "tags": [
       "mobil"
     ],
-    "date": "den 20 oktober 2025",
+    "date": "den 28 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/var-hittar-jag-info-om-narmast-anhorig-0",
     "isConfig": false,
     "imageCount": 2,
     "hasImages": true,
-    "excerpt": "I HRM anges Närmast anhöriga under dina personuppgifter. Det finns tillgängligt under Mina uppgifter både via dator och mobil.\nUnder närmast anhöriga anger du den/de personer som din arbetsgivare ska ..."
+    "excerpt": "I HRM anges Närmast anhöriga under dina personuppgifter. Det finns tillgängligt under Mina uppgifter både i Flex HRM och HRM Mobile.\nUnder närmast anhöriga anger du den/de personer som din arbetsgivar..."
   },
   {
     "title": "⚙️Vad är en tabellåsning?",
@@ -961,7 +961,7 @@
       "användare",
       "roll"
     ],
-    "date": "den 14 april 2026",
+    "date": "den 28 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie",
     "isConfig": false,
     "imageCount": 5,
@@ -1013,7 +1013,7 @@
     "tags": [
       "mobil"
     ],
-    "date": "den 7 november 2025",
+    "date": "den 28 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/byt-sprak-flex-hrm-0",
     "isConfig": false,
     "imageCount": 5,
@@ -1092,12 +1092,12 @@
       "behörighet",
       "mobil"
     ],
-    "date": "den 24 april 2026",
+    "date": "den 28 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen",
     "isConfig": false,
     "imageCount": 28,
     "hasImages": true,
-    "excerpt": "Flex HRM Mobile  ger dig möjlighet att attestera tidrapporter, reseräkningar och frånvaroansökningar, samt utföra delattestering av tid- och reseräknings transaktioner.\nAttestering av tidrapporter\nAtt..."
+    "excerpt": "Flex HRM Mobile ger dig möjlighet att attestera tidrapporter, reseräkningar och frånvaroansökningar, samt utföra delattestering av tid- och reseräkningstransaktioner.\nAttestering av tidrapporter\nAttes..."
   },
   {
     "title": "Hur byter jag från Flex Lön till Flex HRM som master för personuppgifter?",

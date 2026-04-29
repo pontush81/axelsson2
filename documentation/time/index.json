@@ -1150,7 +1150,7 @@
       "stämpling",
       "tidrapport"
     ],
-    "date": "den 26 september 2025",
+    "date": "den 28 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/st%C3%A4mpla-i-hrm-mobile-med-hj%C3%A4lp-av-plats",
     "isConfig": true,
     "imageCount": 5,
@@ -1566,7 +1566,7 @@
       "ob",
       "semester"
     ],
-    "date": "den 26 september 2025",
+    "date": "den 28 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/kan-anst%C3%A4llda-f%C3%A5-en-p%C3%A5minnelse-n%C3%A4r-deras-semester-%C3%A4r-godk%C3%A4nd",
     "isConfig": true,
     "imageCount": 3,
@@ -2548,23 +2548,5 @@
     "imageCount": 2,
     "hasImages": true,
     "excerpt": "Ersättningar används istället för tidkoder om man vill ha ersättningar med i systemet som inte styrs via timmar. Det kan t.ex. vara utryckningstillägg för snö eller extra tillägg vid sen förändring av..."
-  },
-  {
-    "title": "Hur tar jag bort en reseräkning?",
-    "file": "hur-tar-jag-bort-en-reserakning.md",
-    "slug": "hur-tar-jag-bort-en-reserakning",
-    "category": "time",
-    "subcategory": "Övertid & Ersättning",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "ob"
-    ],
-    "date": "den 5 december 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-tar-jag-bort-en-tidrapport-0",
-    "isConfig": false,
-    "imageCount": 4,
-    "hasImages": true,
-    "excerpt": "Test\nI reseräkningen kan du man dls ta bort enstaka transaktioner på en reseräkning alternativt ta bort hela reseräkningen.\nFör att ta bort enstaka transaktioner så väljer man att klicka på ikonen \"Re..."
   }
 ]

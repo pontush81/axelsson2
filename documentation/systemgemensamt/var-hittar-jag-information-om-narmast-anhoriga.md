@@ -1,6 +1,6 @@
 # Var hittar jag information om närmast anhöriga?
 
-**Datum:** den 20 oktober 2025  
+**Datum:** den 28 april 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** other  
@@ -11,7 +11,7 @@
 
 ---
 
-I HRM anges Närmast anhöriga under dina personuppgifter. Det finns tillgängligt under Mina uppgifter både via dator och mobil.
+I HRM anges Närmast anhöriga under dina personuppgifter. Det finns tillgängligt under Mina uppgifter både i Flex HRM och HRM Mobile.
 Under närmast anhöriga anger du den/de personer som din arbetsgivare ska kontakta om det skulle hända dig något i ditt arbete.
 Min profil
 hittar du högst upp till höger i HRM.

@@ -1,6 +1,6 @@
 # ⚙️Stämpla i HRM Mobile med hjälp av plats
 
-**Datum:** den 26 september 2025  
+**Datum:** den 28 april 2026  
 **Kategori:** Time  
 **Underkategori:** Mobil & Stämpling  
 **Typ:** config  

@@ -1,6 +1,6 @@
 # ⚙️Kan anställda få en påminnelse när deras semester är godkänd?
 
-**Datum:** den 26 september 2025  
+**Datum:** den 28 april 2026  
 **Kategori:** Time  
 **Underkategori:** Frånvaro & Semester  
 **Typ:** config  
