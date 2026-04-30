@@ -1,6 +1,6 @@
 # ⚙️Hur ställer jag in anställningsformer?
 
-**Datum:** den 22 oktober 2025  
+**Datum:** den 29 april 2026  
 **Kategori:** Employee  
 **Underkategori:** Anställningshantering  
 **Typ:** config  
@@ -20,7 +20,7 @@ Anställningsformer
 från menyn.
 Du får då upp följande vy:
 ![Bild](images/hur-staller-jag-in-anstallningsformer_f9109d6f.png)
-I I listan till vänster visas eventuella tidigare upplagda anställningsformer. Till höger anges/visas uppgifter om respektive anställningsform.
+I listan till vänster visas tidigare upplagda anställningsformer. Till höger anges/visas uppgifter om respektive anställningsform.
 Kod -
 Här visas/anges koden (förkortningen) för aktuell anställningsform.
 Namn -

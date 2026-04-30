@@ -1735,9 +1735,9 @@
     "excerpt": "Kalendarium i Flex HRM Payroll är en funktion där du ser en enkel översikt över en anställds frånvaro och schematid för en vald period, med möjlighet att filtrera.\nKalendarium\nI funktionen Kalendarium..."
   },
   {
-    "title": "⚙️Hur fungerar Personalkategorier i HRM Payroll?",
-    "file": "hur-fungerar-personalkategorier-i-hrm-payroll.md",
-    "slug": "hur-fungerar-personalkategorier-i-hrm-payroll",
+    "title": "⚙️Hur fungerar Personalkategorier i Flex HRM?",
+    "file": "hur-fungerar-personalkategorier-i-flex-hrm.md",
+    "slug": "hur-fungerar-personalkategorier-i-flex-hrm",
     "category": "payroll",
     "subcategory": "Inställningar",
     "type": "config",
@@ -1748,10 +1748,10 @@
       "semester",
       "skatt"
     ],
-    "date": "den 11 november 2025",
+    "date": "den 29 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-fungerar-personalkategorier-i-hrm-payroll",
     "isConfig": true,
-    "imageCount": 4,
+    "imageCount": 5,
     "hasImages": true,
     "excerpt": "Personalkategori är en gruppering av anställda som du vill ska tillämpa samma beräkningsregler baserat på avtal och regelverk. Personalkategorierna möjliggör t.ex. avvikelser på lönearter som ska hant..."
   },
