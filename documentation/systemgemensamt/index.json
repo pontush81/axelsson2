@@ -1,23 +1,5 @@
 [
   {
-    "title": "Inloggning i Flex HRM",
-    "file": "inloggning-i-flex-hrm.md",
-    "slug": "inloggning-i-flex-hrm",
-    "category": "systemgemensamt",
-    "subcategory": "Mobil",
-    "type": "other",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil"
-    ],
-    "date": "den 28 april 2026",
-    "url": "https://knowledge.flexhrm.com/sv/inloggning-i-flex-hrm",
-    "isConfig": false,
-    "imageCount": 9,
-    "hasImages": true,
-    "excerpt": "Denna artikel beskriver hur du loggar in i Flex HRM och HRM Mobile. Den här guiden hjälper dig steg för steg med din första inloggning till Flex HRM.\nHur loggar jag in i Flex HRM?\nSå här loggar du in\n..."
-  },
-  {
     "title": "Hur byter jag lösenord i Flex HRM?",
     "file": "hur-byter-jag-losenord-i-flex-hrm.md",
     "slug": "hur-byter-jag-losenord-i-flex-hrm",
@@ -34,6 +16,24 @@
     "imageCount": 0,
     "hasImages": false,
     "excerpt": "Denna artikel beskriver hur du byter ditt lösenord.\nEftersom du loggar in i Flex HRM med Visma Connect, byter du inte lösenordet direkt i Flex HRM. Istället gör du det i Visma Connect.\nDu kommer åt di..."
+  },
+  {
+    "title": "Inloggning i Flex HRM",
+    "file": "inloggning-i-flex-hrm.md",
+    "slug": "inloggning-i-flex-hrm",
+    "category": "systemgemensamt",
+    "subcategory": "Mobil",
+    "type": "other",
+    "difficulty": "intermediate",
+    "tags": [
+      "mobil"
+    ],
+    "date": "den 28 april 2026",
+    "url": "https://knowledge.flexhrm.com/sv/inloggning-i-flex-hrm",
+    "isConfig": false,
+    "imageCount": 9,
+    "hasImages": true,
+    "excerpt": "Denna artikel beskriver hur du loggar in i Flex HRM och HRM Mobile. Den här guiden hjälper dig steg för steg med din första inloggning till Flex HRM.\nHur loggar jag in i Flex HRM?\nSå här loggar du in\n..."
   },
   {
     "title": "När skickas e-post ut om ändringar på anställd?",
@@ -961,7 +961,7 @@
       "användare",
       "roll"
     ],
-    "date": "den 28 april 2026",
+    "date": "den 30 april 2026",
     "url": "https://knowledge.flexhrm.com/sv/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie",
     "isConfig": false,
     "imageCount": 5,
