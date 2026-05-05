@@ -140,10 +140,10 @@
     "tags": [
       "användare"
     ],
-    "date": "den 7 november 2025",
+    "date": "den 4 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/anv%C3%A4ndarlogg-flex-hrm-0",
     "isConfig": false,
-    "imageCount": 3,
+    "imageCount": 2,
     "hasImages": true,
     "excerpt": "Användarlogg\nAllmänt > Loggning > Användarlogg\nAnvändarloggen kan användas för att se om någon användare är inloggad när ett större arbete ska göras, underlättar felsökning och ger dig möjlighet att u..."
   },
@@ -961,7 +961,7 @@
       "användare",
       "roll"
     ],
-    "date": "den 30 april 2026",
+    "date": "den 4 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie",
     "isConfig": false,
     "imageCount": 5,

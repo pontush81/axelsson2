@@ -1,12 +1,12 @@
 # Användarlogg - Kan jag se vem som har loggat in i Flex HRM?
 
-**Datum:** den 7 november 2025  
+**Datum:** den 4 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** other  
 **Svårighetsgrad:** intermediate  
 **Tags:** användare  
-**Bilder:** 3  
+**Bilder:** 2  
 **URL:** https://knowledge.flexhrm.com/sv/anv%C3%A4ndarlogg-flex-hrm-0
 
 ---
@@ -24,9 +24,7 @@ högst upp.
 Inloggningshistorik
 Under fliken
 Inloggningshistorik
-ser du alla inloggningsförsök, både lyckade och misslyckade.
-![Bild](images/anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm_a7555e5a.png)
-I exemplet nedan ser du att en användare har försökt logga in i HRM Timeclock men angett antingen fel användarnamn eller lösenord.
-![Bild](images/anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm_1004eda8.png)
+ser du inloggningar.
+![Bild](images/anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm_d4c23356.png)
 Hur länge sparas loggen?
-Historiken sparas i 90 dagar och raderas därefter automatiskt.
+Historiken sparas i 90 dagar och raderas därefter automatiskt. Den senast lyckade inloggningen per användare behålls, även om den är äldre än 90 dagar.

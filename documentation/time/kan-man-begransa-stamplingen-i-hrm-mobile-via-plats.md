@@ -1,6 +1,6 @@
 # ⚙️Kan man begränsa stämplingen i HRM Mobile via plats?
 
-**Datum:** den 26 september 2025  
+**Datum:** den 4 maj 2026  
 **Kategori:** Time  
 **Underkategori:** Mobil & Stämpling  
 **Typ:** config  
@@ -41,7 +41,7 @@ eller
 anställd
 ange att plats ska kontrolleras vid stämpling, samt vilka platser som är tillåtna. Ställ in per företag under Inställningar > Tid och Bemanning > Tidrapporter, per tidgrupp under Inställningar > Tid och Bemanning > Tidgrupper, per anställd under Anställda > Tid.
 Mest specifik nivå gäller. Har du i företagsinställningen angett att korrekt plats krävs, men för en tidgrupp angett att plats inte krävs kommer plats inte kontrolleras för anställda tillhörande denna tidgrupp.
-![Tidrapportsinställning. Ibockat “Kräv korrekt plats vid stämpling i HRM Mobile”. Stämplingsplatser: Två av tre möjliga platser är ibockade.](images/kan-man-begransa-stamplingen-i-hrm-mobile-via-plats_b55324ed.jpg)
+![Bild](images/kan-man-begransa-stamplingen-i-hrm-mobile-via-plats_d44fab34.png)
 Tips
 Platser kan också användas för att HRM Mobile automatiskt ska välja t.ex. Projekt när du stämplar in eller stämplar konteringsbyte. Läs mer i denna artikel:
 Stämpla i HRM Mobile med hjälp av plats
