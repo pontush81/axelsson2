@@ -1,17 +1,17 @@
-# Hur tar jag fram rapport till Bygglösen  i HRM Payroll?
+# Hur tar jag fram rapport till Bygglösen i HRM Payroll?
 
-**Datum:** den 23 april 2026  
+**Datum:** den 5 maj 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** howto  
 **Svårighetsgrad:** intermediate  
 **Tags:** lön, löneart  
 **Bilder:** 7  
-**URL:** https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-byggl%C3%B6sen-1.0-tidl%C3%B6n-i-hrm-payroll
+**URL:** https://knowledge.flexhrm.com/sv/hur-rapporterar-jag-byggl%C3%B6sen-i-hrm-payroll
 
 ---
 
-Denna artikel beskriver hur du tar ut rapport för Bygglösen 1.0 (Tidlön) i systemet.
+Denna artikel beskriver hur du tar ut rapport för Bygglösen i systemet.
 Skapa underlag
 Skapa fil för rapportering
 Vilka medarbetare innehåller underlaget
@@ -62,5 +62,6 @@ Vilka medarbetare inkluderas i rapporten?
 För att en medarbetare ska komma med i underlaget behöver följande två kriterier vara uppfyllda:
 Medarbetaren tillhör en personalkategori som är kopplad till ett avtalsområde.
 Medarbetaren har registrerade arbetade timmar i lönekörningen. Detta innebär att det finns en löneart som har markeringen för arbetad tid.
+Hur hämtas värden
 Relaterade artiklar:
 Vilka inställningar behövs för att kunna rapportera Bygglösen 1.0 (Tidlön) i HRM Payroll

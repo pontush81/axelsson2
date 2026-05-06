@@ -1,17 +1,17 @@
 # ⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?
 
-**Datum:** den 14 april 2026  
+**Datum:** den 5 maj 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** config  
 **Svårighetsgrad:** advanced  
 **Tags:** lön, löneart  
-**Bilder:** 21  
+**Bilder:** 25  
 **URL:** https://knowledge.flexhrm.com/sv/byggl%C3%B6sen-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-i-hrm-payroll
 
 ---
 
-Artikeln beskriver de inställningar du behöver göra för att kunna ta ut rapport för rapportering av Bygglösen 1.0 (Tidlön). I nuläget har rapporteringen inte stöd för prestationslön.
+Artikeln beskriver de inställningar du behöver göra för att kunna ta ut rapport för rapportering av Bygglösen 1.0 (Tidlön) och Bygglösen 2.0 (Prestationslön).
 Behörigheter
 Län och kommunkod
 Projektregistret
@@ -42,6 +42,16 @@ Det tillhörande registret fylls med värden när du sparar konteringsdimensione
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_7f736550.png)
 Projektregister
 Komplettera projekten i projektregistret med Län och Kommunkod. (Om du tidigare använt Flex Lön och gått över till HRM Payroll och använder 3L Pro behöver du nu för tiden administrera dina projekt manuellt i HRM.)
+För projekt som ska hanteras som prestationslöneprojekt finns ytterligare inställningar att göra under fliken
+Bygglösen.
+Fältet
+Lönetyp
+avgör om projektet ska hanteras som tidlöneprojekt eller prestationslöneprojekt. Vid prestationslön blir fältet
+Utbetalningsnivå
+upplåst och används för att ange det aktuella projektets faktiska utbetalningsnivå.
+I rapporten till Bygglösen kommer arbetsplatsnummer automatiskt sättas till projektkoden. Önskas ett alternativt arbetsplatsnummer kan detta anges i fältet
+Arbetsplatsnummer.
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_968c6ba3.png)
 Om medarbetarna inte rapporterar sin tid mot projekt behöver du ett projekt där företagets län och kommun ligger kopplat (detta kopplas sen som en fast kontering på de lönearter som ska inkluderas i rapporteringen).
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_c42e650b.png)
 Fördelningstal
@@ -62,26 +72,33 @@ Inställningar > Lön > Personalkategorier.
 Lönearter
 På lönearterna behöver någon av följande bockar markeras beroende på hur lönearten ska rapporteras.
 Arbetade timmar
-Utbetald lön (tidlön)
+Avser Utbetald lön
 Övertidstimmar
 Övertidstillägg
 OB-tillägg
-![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_7a26e924.png)
+Utbetalt ackordsöverskott
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_2a031d30.png)
 Lönearternas antal/belopp redovisas i rapporten som "varav.....", t.ex. varav övertidstimmar, varav OB-tillägg så flera bockar kan vara aktuella på samma löneart.
 Exempel timlön:
-![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_f42cc655.png)
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_774bf335.png)
 Exempel lönetillägg:
-![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_b7d849f9.png)
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_ce05db38.png)
 Exempel övertidslöneart:
-![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_ac66cbfd.png)
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_07e44456.png)
 Exempel OB-tillägg:
-![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_056f2c41.png)
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_b9c5cf52.png)
+Exempel Ackordsöverskott:
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_d5e5a6ac.png)
 Det finns också en formelfunktion för att hämta fördelningstalet från anställdaregistret i formeln på lönearten.
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_33fca4ff.png)
 Exempelformel för timlön där hänsyn ska tas till fördelningstal:
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_12d989f3.png)
+För prestationslöner finns en formelfunktion för att hämta utbetalningsnivå från aktuell transaktions projekt.
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_2ec9bf5b.png)
+Exempelformel för prestationslön där projektets utbetalnignsnivå ska användas istället för timlön från anställdaregistret:
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_0f549f3e.png)
 Om medarbetarna inte rapporterar sin tid mot projekt behöver du även lägga in en fast kontering på samtliga lönearter som ska inkluderas i rapporteringen under fliken kontering som pekar på ett projekt där företagets län och kommun ligger kopplat.
-![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_913b196a.png)
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_4a084e25.png)
 Anställdaregistret
 På de anställda registreras följande uppgifter:
 Fördelningstal - anges i det egna fältet med datum då respektive fördelningstal ska tillämpas (0,80 = 80%).
