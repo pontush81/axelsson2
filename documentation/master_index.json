@@ -2,14 +2,14 @@
   "total_articles": 412,
   "total_categories": 6,
   "total_images": 2353,
-  "last_updated": "2026-05-07 04:43:54",
+  "last_updated": "2026-05-08 04:26:32",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
       "total": 89,
       "subcategories": {
-        "Mobil": 16,
-        "Användare & Behörighet": 44,
+        "Mobil": 17,
+        "Användare & Behörighet": 43,
         "Register": 13,
         "Inställningar": 10,
         "Rapporter": 4,
@@ -80,6 +80,6 @@
       }
     }
   },
-  "last_check": "2026-05-07 04:43:54",
+  "last_check": "2026-05-08 04:26:32",
   "last_check_status": "success"
 }

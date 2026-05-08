@@ -50,7 +50,7 @@
       "löneart",
       "skatt"
     ],
-    "date": "den 30 april 2026",
+    "date": "den 7 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-hanterar-jag-en-l%C3%B6neskuld-i-hrm-payroll",
     "isConfig": false,
     "imageCount": 21,
@@ -827,6 +827,25 @@
     "excerpt": "För att skicka korrekta arbetsgivarintyg måste systemet först länkas till tjänsten och därefter måste alla koder för lön, tid och frånvaro mappas korrekt.\nProgramlänk till Arbetsgivarintyg.nu\nIntegrat..."
   },
   {
+    "title": "⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?",
+    "file": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll.md",
+    "slug": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll",
+    "category": "payroll",
+    "subcategory": "Löneberedning",
+    "type": "config",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart"
+    ],
+    "date": "den 7 maj 2026",
+    "url": "https://knowledge.flexhrm.com/sv/byggl%C3%B6sen-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-i-hrm-payroll",
+    "isConfig": true,
+    "imageCount": 25,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver de inställningar du behöver göra för att kunna ta ut rapport för rapportering av Bygglösen 1.0 (Tidlön) och Bygglösen 2.0 (Prestationslön).\nBehörigheter\nLän och kommunkod\nProjektreg..."
+  },
+  {
     "title": "Hur tar jag fram rapport till Bygglösen i HRM Payroll?",
     "file": "hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll.md",
     "slug": "hur-tar-jag-fram-rapport-till-bygglosen-i-hrm-payroll",
@@ -844,25 +863,6 @@
     "imageCount": 7,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du tar ut rapport för Bygglösen i systemet.\nSkapa underlag\nSkapa fil för rapportering\nVilka medarbetare innehåller underlaget\nSå här skapar du ett nytt underlag\nDet första ..."
-  },
-  {
-    "title": "⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?",
-    "file": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll.md",
-    "slug": "bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll",
-    "category": "payroll",
-    "subcategory": "Löneberedning",
-    "type": "config",
-    "difficulty": "advanced",
-    "tags": [
-      "lön",
-      "löneart"
-    ],
-    "date": "den 5 maj 2026",
-    "url": "https://knowledge.flexhrm.com/sv/byggl%C3%B6sen-vilka-inst%C3%A4llningar-beh%C3%B6ver-jag-f%C3%B6r-att-kunna-ta-ut-statistiken-i-hrm-payroll",
-    "isConfig": true,
-    "imageCount": 25,
-    "hasImages": true,
-    "excerpt": "Artikeln beskriver de inställningar du behöver göra för att kunna ta ut rapport för rapportering av Bygglösen 1.0 (Tidlön) och Bygglösen 2.0 (Prestationslön).\nBehörigheter\nLän och kommunkod\nProjektreg..."
   },
   {
     "title": "Vilka uppgifter kommer med i statistiken till Arbetskraftskostnadens nivå och struktur (LCS) och hur beräknas dem?",

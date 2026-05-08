@@ -1,6 +1,6 @@
 # Hur hanterar jag en löneskuld i HRM Payroll?
 
-**Datum:** den 30 april 2026  
+**Datum:** den 7 maj 2026  
 **Kategori:** Payroll  
 **Underkategori:** Skatt & AGI  
 **Typ:** howto  
@@ -107,9 +107,9 @@ Skuld från föregående lön - Netto
 Inför den första lönekörningen behöver du lägga befintlig skuld som ett ingående skuldvärde i respektive ackumulator. Det gör du under
 Lön > Ackumulatorvärden
 .
-I fältet för ingående värde på rätt ackumulator (Skuld från föregående lön - Brutto alternativt Skuld från föregående lön - Netto) skriver du aktuellt skuldbelopp.
-I exemplet i bilden har vi lagt in en ingående nettoskuld på 2 500 kr.
-![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_bbaf5a70.png)
+I fältet för ingående värde på rätt ackumulator (Skuld till nästa lön - Brutto alternativt Skuld till föregående lön - Netto) skriver du aktuellt skuldbelopp.
+I exemplet i bilden har vi lagt in en ingående bruttoskuld på 1 500 kr.
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_18efcd18.png)
 Så fungerar det i löneberedningen
 När du har gjort inställningarna sköter
 HRM Payroll

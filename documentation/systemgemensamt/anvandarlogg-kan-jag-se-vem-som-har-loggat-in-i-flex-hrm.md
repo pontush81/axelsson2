@@ -1,11 +1,11 @@
 # Användarlogg - Kan jag se vem som har loggat in i Flex HRM?
 
-**Datum:** den 4 maj 2026  
+**Datum:** den 7 maj 2026  
 **Kategori:** Systemgemensamt  
-**Underkategori:** Användare & Behörighet  
+**Underkategori:** Mobil  
 **Typ:** other  
 **Svårighetsgrad:** intermediate  
-**Tags:** användare  
+**Tags:** användare, mobil  
 **Bilder:** 2  
 **URL:** https://knowledge.flexhrm.com/sv/anv%C3%A4ndarlogg-flex-hrm-0
 
@@ -16,7 +16,7 @@ Allmänt > Loggning > Användarlogg
 Användarloggen kan användas för att se om någon användare är inloggad när ett större arbete ska göras, underlättar felsökning och ger dig möjlighet att upptäcka eventuella intrångsförsök.
 Under fliken
 Användarlogg
-kan du se vilka användare som just nu är inloggade i Flex HRM.
+kan du se vilka användare som just nu är inloggade i Flex HRM (web).
 Om du letar efter en specifik användare kan du använda sökfältet
 Skriv för att söka
 högst upp.
@@ -24,7 +24,7 @@ högst upp.
 Inloggningshistorik
 Under fliken
 Inloggningshistorik
-ser du inloggningar.
-![Bild](images/anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm_d4c23356.png)
+ser du inloggningar i Flex HRM, mobilappar och HRM Timeclock.
+![Bild](images/anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm_a539de4f.png)
 Hur länge sparas loggen?
 Historiken sparas i 90 dagar och raderas därefter automatiskt. Den senast lyckade inloggningen per användare behålls, även om den är äldre än 90 dagar.

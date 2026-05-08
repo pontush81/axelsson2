@@ -1,6 +1,6 @@
 # ⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?
 
-**Datum:** den 5 maj 2026  
+**Datum:** den 7 maj 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** config  
@@ -51,7 +51,7 @@ Utbetalningsnivå
 upplåst och används för att ange det aktuella projektets faktiska utbetalningsnivå.
 I rapporten till Bygglösen kommer arbetsplatsnummer automatiskt sättas till projektkoden. Önskas ett alternativt arbetsplatsnummer kan detta anges i fältet
 Arbetsplatsnummer.
-![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_968c6ba3.png)
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_f0dac250.png)
 Om medarbetarna inte rapporterar sin tid mot projekt behöver du ett projekt där företagets län och kommun ligger kopplat (detta kopplas sen som en fast kontering på de lönearter som ska inkluderas i rapporteringen).
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_c42e650b.png)
 Fördelningstal
@@ -88,7 +88,7 @@ Exempel övertidslöneart:
 Exempel OB-tillägg:
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_b9c5cf52.png)
 Exempel Ackordsöverskott:
-![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_d5e5a6ac.png)
+![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_e2bdcf4c.png)
 Det finns också en formelfunktion för att hämta fördelningstalet från anställdaregistret i formeln på lönearten.
 ![Bild](images/bygglosen-vilka-installningar-behover-jag-for-att-kunna-ta-ut-statistiken-i-hrm-payroll_33fca4ff.png)
 Exempelformel för timlön där hänsyn ska tas till fördelningstal:

@@ -134,13 +134,14 @@
     "file": "anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm.md",
     "slug": "anvandarlogg-kan-jag-se-vem-som-har-loggat-in-i-flex-hrm",
     "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
+    "subcategory": "Mobil",
     "type": "other",
     "difficulty": "intermediate",
     "tags": [
-      "användare"
+      "användare",
+      "mobil"
     ],
-    "date": "den 4 maj 2026",
+    "date": "den 7 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/anv%C3%A4ndarlogg-flex-hrm-0",
     "isConfig": false,
     "imageCount": 2,
