@@ -1,12 +1,12 @@
 # Hur hanterar jag en löneskuld i HRM Payroll?
 
-**Datum:** den 7 maj 2026  
+**Datum:** den 8 maj 2026  
 **Kategori:** Payroll  
 **Underkategori:** Skatt & AGI  
 **Typ:** howto  
 **Svårighetsgrad:** intermediate  
 **Tags:** agi, bokföring, lön, löneart, skatt  
-**Bilder:** 21  
+**Bilder:** 22  
 **URL:** https://knowledge.flexhrm.com/sv/hur-hanterar-jag-en-l%C3%B6neskuld-i-hrm-payroll
 
 ---
@@ -88,6 +88,10 @@ Du behöver sätta upp två specifika ackumulatorer i systemet, ackumulatortyper
 Skuld till nästa lön - Brutto
 Skuld till nästa lön - Netto
 ![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_af8221ea.png)
+Periodicitet: Rullande
+Enhet: Belopp
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_59d1c006.png)
+OBS. Ackumulatorerna ska inte kopplas på lönearter utan behöver bara finnas i ackumulatorregistret. Kopplingen sker istället via systemfasta lönearter.
 2. Skapa lönearter
 Du behöver ha lönearter färdiga för följande fyra scenarier:
 Bruttoskuld till nästa lön
@@ -109,7 +113,7 @@ Lön > Ackumulatorvärden
 .
 I fältet för ingående värde på rätt ackumulator (Skuld till nästa lön - Brutto alternativt Skuld till föregående lön - Netto) skriver du aktuellt skuldbelopp.
 I exemplet i bilden har vi lagt in en ingående bruttoskuld på 1 500 kr.
-![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_18efcd18.png)
+![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_2e217924.png)
 Så fungerar det i löneberedningen
 När du har gjort inställningarna sköter
 HRM Payroll
