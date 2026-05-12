@@ -169,46 +169,6 @@
     "excerpt": "Vid drivmedelsförmånsbilar måste du registrera dina tjänsteresor samt ange utgående mätarställning vid månadens slut för att kunna beräkna vilken drivmedelsförmån du haft under månaden för de privat k..."
   },
   {
-    "title": "Kan jag spela in min bilresa i HRM Mobile?",
-    "file": "kan-jag-spela-in-min-bilresa-i-hrm-mobile.md",
-    "slug": "kan-jag-spela-in-min-bilresa-i-hrm-mobile",
-    "category": "travel-expense",
-    "subcategory": "Reseräkningar",
-    "type": "faq",
-    "difficulty": "advanced",
-    "tags": [
-      "bil",
-      "mobil",
-      "resa"
-    ],
-    "date": "den 19 mars 2026",
-    "url": "https://knowledge.flexhrm.com/sv/kan-jag-spela-in-min-bilresa-i-hrm-mobile",
-    "isConfig": false,
-    "imageCount": 4,
-    "hasImages": true,
-    "excerpt": "Spela in bilresa kan användas istället för att registrera bilresor manuellt.\nI HRM Mobile finns funktionen\nSpela in bilresa\nsom du kan använda istället för att registrera din bilresa manuellt. Du star..."
-  },
-  {
-    "title": "Vad krävs för att spela in bilresa i HRM Mobile?",
-    "file": "vad-kravs-for-att-spela-in-bilresa-i-hrm-mobile.md",
-    "slug": "vad-kravs-for-att-spela-in-bilresa-i-hrm-mobile",
-    "category": "travel-expense",
-    "subcategory": "Reseräkningar",
-    "type": "other",
-    "difficulty": "intermediate",
-    "tags": [
-      "bil",
-      "mobil",
-      "resa"
-    ],
-    "date": "den 17 mars 2026",
-    "url": "https://knowledge.flexhrm.com/sv/vad-kr%C3%A4vs-f%C3%B6r-att-spela-in-bilresa-i-hrm-mobile",
-    "isConfig": false,
-    "imageCount": 1,
-    "hasImages": true,
-    "excerpt": "Inställningar att kontrollera vid problem att spela in bilresa.\nI HRM Mobile finns funktionen\nSpela in bilresa\nsom du kan använda istället för att registrera din bilresa manuellt. Du startar inspelnin..."
-  },
-  {
     "title": "⚙️Var och hur hanterar vi inställningarna för bilresor?",
     "file": "var-och-hur-hanterar-vi-installningarna-for-bilresor.md",
     "slug": "var-och-hur-hanterar-vi-installningarna-for-bilresor",
@@ -512,28 +472,6 @@
     "imageCount": 0,
     "hasImages": false,
     "excerpt": "En kort sammanfattning av vilka rapporter och andra funktioner som fungerar med modulen \"Koncernhantering\" i HRM Travel & Expense\nVad ingår i koncernhanteringen?\nStartsida\n: Påminnelser\nGranskning\n: A..."
-  },
-  {
-    "title": "Hur registrerar jag reseräkningar i HRM Mobile?",
-    "file": "hur-registrerar-jag-reserakningar-i-hrm-mobile.md",
-    "slug": "hur-registrerar-jag-reserakningar-i-hrm-mobile",
-    "category": "travel-expense",
-    "subcategory": "Utlägg & Kvitton",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "bil",
-      "kvitto",
-      "mobil",
-      "resa",
-      "utlägg"
-    ],
-    "date": "den 5 december 2025",
-    "url": "https://knowledge.flexhrm.com/sv/hur-registrerar-jag-reser%C3%A4kningar-i-mobilen",
-    "isConfig": false,
-    "imageCount": 17,
-    "hasImages": true,
-    "excerpt": "I HRM Mobile kan du enkelt fotografera kvitton, registrera körda mil, hantera utlägg och signera din reseräkning, oavsett var du befinner dig.\nSkapa och hantera reseräkningar i HRM Mobile\nI HRM Mobile..."
   },
   {
     "title": "Rapportgeneratorn - Kan jag skapa en rapport med data från bilresor i HRM?",

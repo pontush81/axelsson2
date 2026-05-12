@@ -1,29 +1,29 @@
 {
-  "total_articles": 412,
+  "total_articles": 399,
   "total_categories": 6,
-  "total_images": 2354,
-  "last_updated": "2026-05-11 05:08:32",
+  "total_images": 2253,
+  "last_updated": "2026-05-12 04:48:13",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
-      "total": 89,
+      "total": 86,
       "subcategories": {
-        "Mobil": 17,
-        "Användare & Behörighet": 43,
+        "Mobil": 14,
+        "Användare & Behörighet": 42,
         "Register": 13,
-        "Inställningar": 10,
+        "Inställningar": 11,
         "Rapporter": 4,
         "Integration": 2
       }
     },
     "time": {
       "name": "Time",
-      "total": 120,
+      "total": 113,
       "subcategories": {
-        "Tidrapportering": 31,
-        "Mobil & Stämpling": 20,
-        "Schema & Planering": 6,
-        "Övertid & Ersättning": 7,
+        "Tidrapportering": 30,
+        "Mobil & Stämpling": 16,
+        "Schema & Planering": 5,
+        "Övertid & Ersättning": 6,
         "Inställningar": 25,
         "Frånvaro & Semester": 18,
         "Lön & Överföring": 6,
@@ -47,12 +47,12 @@
     },
     "travel-expense": {
       "name": "Travel & Expense",
-      "total": 30,
+      "total": 27,
       "subcategories": {
-        "Reseräkningar": 19,
+        "Reseräkningar": 17,
         "Inställningar": 4,
         "Bilresor": 1,
-        "Utlägg & Kvitton": 4,
+        "Utlägg & Kvitton": 3,
         "Traktamente": 1,
         "Attestering": 1
       }
@@ -80,6 +80,6 @@
       }
     }
   },
-  "last_check": "2026-05-11 05:08:32",
+  "last_check": "2026-05-12 04:48:13",
   "last_check_status": "success"
 }

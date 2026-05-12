@@ -962,7 +962,7 @@
       "användare",
       "roll"
     ],
-    "date": "den 4 maj 2026",
+    "date": "den 11 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/ai-chatbot-i-flex-hrm-vem-%C3%A4r-flexie",
     "isConfig": false,
     "imageCount": 5,
@@ -1008,16 +1008,14 @@
     "file": "hur-byter-jag-sprak-i-flex-hrm.md",
     "slug": "hur-byter-jag-sprak-i-flex-hrm",
     "category": "systemgemensamt",
-    "subcategory": "Mobil",
+    "subcategory": "Inställningar",
     "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil"
-    ],
-    "date": "den 28 april 2026",
+    "difficulty": "beginner",
+    "tags": [],
+    "date": "den 11 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/byt-sprak-flex-hrm-0",
     "isConfig": false,
-    "imageCount": 5,
+    "imageCount": 3,
     "hasImages": true,
     "excerpt": "Denna artikel beskriver hur du byter språk.\nNär du ska logga in i Flex HRM kan du välja språk vid inloggning. Längst ned ser du valt språk:\n![Bild](images/hur-byter-jag-sprak-i-flex-hrm_762cdbbe.png)\n..."
   },
@@ -1041,64 +1039,6 @@
     "imageCount": 3,
     "hasImages": true,
     "excerpt": "På startsidan i Flex HRM finns en panel där du kan skicka meddelanden till enskilda anställda eller till hela grupper. Du kan ha behörighet att både skicka och ta emot meddelanden, eller bara att ta e..."
-  },
-  {
-    "title": "Hur fungerar meddelanden i HRM Mobile?",
-    "file": "hur-fungerar-meddelanden-i-hrm-mobile.md",
-    "slug": "hur-fungerar-meddelanden-i-hrm-mobile",
-    "category": "systemgemensamt",
-    "subcategory": "Användare & Behörighet",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "användare",
-      "behörighet",
-      "mobil",
-      "roll"
-    ],
-    "date": "den 13 februari 2026",
-    "url": "https://knowledge.flexhrm.com/sv/meddelande-notiser-och-p%C3%A5minnelser-hur-fungerar-meddelanden-och-notiser-i-flex-hrm-mobile",
-    "isConfig": false,
-    "imageCount": 12,
-    "hasImages": true,
-    "excerpt": "Denna artikel beskriver hur HRM Mobile har en inbyggd meddelandefunktion för kommunikation mellan användare och hur du skickar ett meddelande.\nMeddelanden\n![Bild](images/hur-fungerar-meddelanden-i-hrm..."
-  },
-  {
-    "title": "Hur hanteras notiser i HRM Mobile?",
-    "file": "hur-hanteras-notiser-i-hrm-mobile.md",
-    "slug": "hur-hanteras-notiser-i-hrm-mobile",
-    "category": "systemgemensamt",
-    "subcategory": "Mobil",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil"
-    ],
-    "date": "den 13 februari 2026",
-    "url": "https://knowledge.flexhrm.com/sv/hur-hanteras-notiser-i-hrm-mobile",
-    "isConfig": false,
-    "imageCount": 4,
-    "hasImages": true,
-    "excerpt": "Hantera notiser och påminnelser i HRM Mobile\nI HRM Mobile får du notiser som påminner dig om olika uppgifter, till exempel att du ska attestera en reseräkning eller klarmarkera din tidrapport. Du kan ..."
-  },
-  {
-    "title": "Vilka administrativa funktioner kan jag styra direkt i HRM Mobile?",
-    "file": "vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile.md",
-    "slug": "vilka-administrativa-funktioner-kan-jag-styra-direkt-i-hrm-mobile",
-    "category": "systemgemensamt",
-    "subcategory": "Mobil",
-    "type": "other",
-    "difficulty": "intermediate",
-    "tags": [
-      "behörighet",
-      "mobil"
-    ],
-    "date": "den 28 april 2026",
-    "url": "https://knowledge.flexhrm.com/sv/administrativa-funktioner-vilka-administrativa-funktioner-kan-jag-styra-direkt-i-mobilen",
-    "isConfig": false,
-    "imageCount": 28,
-    "hasImages": true,
-    "excerpt": "Flex HRM Mobile ger dig möjlighet att attestera tidrapporter, reseräkningar och frånvaroansökningar, samt utföra delattestering av tid- och reseräkningstransaktioner.\nAttestering av tidrapporter\nAttes..."
   },
   {
     "title": "Hur byter jag från Flex Lön till Flex HRM som master för personuppgifter?",

@@ -1,12 +1,12 @@
 # Hur byter jag språk i Flex HRM?
 
-**Datum:** den 28 april 2026  
+**Datum:** den 11 maj 2026  
 **Kategori:** Systemgemensamt  
-**Underkategori:** Mobil  
+**Underkategori:** Inställningar  
 **Typ:** howto  
-**Svårighetsgrad:** intermediate  
-**Tags:** mobil  
-**Bilder:** 5  
+**Svårighetsgrad:** beginner  
+**Tags:** Ingen  
+**Bilder:** 3  
 **URL:** https://knowledge.flexhrm.com/sv/byt-sprak-flex-hrm-0
 
 ---
@@ -24,13 +24,3 @@ och
 spara
 din inställning.
 ![Bild](images/hur-byter-jag-sprak-i-flex-hrm_e093e824.png)
-HRM Mobile
-I
-HRM Mobile
-byter du språk via
-Inställningar
-och byt
-språk
-.
-![Bild](images/hur-byter-jag-sprak-i-flex-hrm_2b0d9f91.png)
-![Bild](images/hur-byter-jag-sprak-i-flex-hrm_17410c49.png)

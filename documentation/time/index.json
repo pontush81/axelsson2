@@ -114,31 +114,6 @@
     "excerpt": "En översikt av tidrapporten och en beskrivning av de knappar som hittas i menyraden högst upp.\nÖversikt tidrapport\nKnappar\nÖversikt tidrapport\nDu kan till viss del själv välja vilken information som v..."
   },
   {
-    "title": "Hur tidrapporterar jag i HRM Mobile?",
-    "file": "hur-tidrapporterar-jag-i-hrm-mobile.md",
-    "slug": "hur-tidrapporterar-jag-i-hrm-mobile",
-    "category": "time",
-    "subcategory": "Tidrapportering",
-    "type": "howto",
-    "difficulty": "advanced",
-    "tags": [
-      "attestering",
-      "mobil",
-      "ob",
-      "saldo",
-      "schema",
-      "stämpling",
-      "tidkod",
-      "tidrapport"
-    ],
-    "date": "den 24 april 2026",
-    "url": "https://knowledge.flexhrm.com/sv/hur-sk%C3%B6ter-jag-min-tidrapportering-i-mobilen",
-    "isConfig": false,
-    "imageCount": 13,
-    "hasImages": true,
-    "excerpt": "Tidrapporten kan administreras i HRM Mobile. Denna artikel beskriver hur tidrapporten i HRM Mobile fungerar för både dag- och periodredovisare.\nHantera tidrader\nDaginformation\nGranska dag\nUppdatera da..."
-  },
-  {
     "title": "Varför har jag ospecad tid i min tidrapport?",
     "file": "varfor-har-jag-ospecad-tid-i-min-tidrapport.md",
     "slug": "varfor-har-jag-ospecad-tid-i-min-tidrapport",
@@ -574,27 +549,6 @@
     "excerpt": "Tidrapporten kan ställas in på flera nivåer. Den mest specifika nivån gäller.\nTidrapportsinställningar\nTidrapportens utseende och inställningar kan definieras på 3 olika nivåer:\nFöretag (\nTidrapporter..."
   },
   {
-    "title": "Hur ansöker och rapporterar jag frånvaro i HRM Mobile?",
-    "file": "hur-ansoker-och-rapporterar-jag-franvaro-i-hrm-mobile.md",
-    "slug": "hur-ansoker-och-rapporterar-jag-franvaro-i-hrm-mobile",
-    "category": "time",
-    "subcategory": "Mobil & Stämpling",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "frånvaro",
-      "mobil",
-      "ob",
-      "tidrapport"
-    ],
-    "date": "den 8 januari 2026",
-    "url": "https://knowledge.flexhrm.com/sv/fr%C3%A5nvaro-hur-ans%C3%B6ker-och-rapporterar-jag-fr%C3%A5nvaro",
-    "isConfig": false,
-    "imageCount": 4,
-    "hasImages": true,
-    "excerpt": "Frånvaro i HRM Mobile\nI funktionen\nFrånvaro\nser du all din registrerade och ansökta frånvaro och du kan ansöka om frånvaro samt rapportera tidigare frånvaro.\n![Bild](images/hur-ansoker-och-rapporterar..."
-  },
-  {
     "title": "Hur kan jag i HRM Time få en bra överblick över de anställdas frånvaro under semestern?",
     "file": "hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-semestern.md",
     "slug": "hur-kan-jag-i-hrm-time-fa-en-bra-overblick-over-de-anstalldas-franvaro-under-semestern",
@@ -1008,29 +962,6 @@
     "excerpt": "Nedan kan du läsa om hur man använder stämplingsterminalen, HRM Timeclock. Artikeln beskriver hur du stämplar din tid och använder övriga funktioner.\nAnvända stämplingsterminalen\nStämpla din tid\nFör s..."
   },
   {
-    "title": "Hur stämplar man sin tid i HRM Mobile?",
-    "file": "hur-stamplar-man-sin-tid-i-hrm-mobile.md",
-    "slug": "hur-stamplar-man-sin-tid-i-hrm-mobile",
-    "category": "time",
-    "subcategory": "Övertid & Ersättning",
-    "type": "howto",
-    "difficulty": "intermediate",
-    "tags": [
-      "frånvaro",
-      "mobil",
-      "ob",
-      "stämpling",
-      "tidrapport",
-      "övertid"
-    ],
-    "date": "den 8 januari 2026",
-    "url": "https://knowledge.flexhrm.com/sv/hur-st%C3%A4mplar-man-sin-tid-i-mobilen",
-    "isConfig": false,
-    "imageCount": 3,
-    "hasImages": true,
-    "excerpt": "HRM Mobile - Stämpling\nI\nHRM Mobile\n, vyn\nStämpling\nhittar du funktioner för stämpling.\nObservera\natt olika val kan finnas tillgängliga beroende på era inställningar.\n![Ikon Stämpling.](images/hur-sta..."
-  },
-  {
     "title": "Hur stämplar jag direkt i tidrapporten?",
     "file": "hur-stamplar-jag-direkt-i-tidrapporten.md",
     "slug": "hur-stamplar-jag-direkt-i-tidrapporten",
@@ -1135,48 +1066,6 @@
     "imageCount": 2,
     "hasImages": true,
     "excerpt": "Det går att använda\nstämplingstoleranser\nför att stämplad tid ska avrundas till schematid, eller till flexramen om ni använder flextid.\nEtt exempel på användningsområde kan vara när flextid inte använ..."
-  },
-  {
-    "title": "⚙️Stämpla i HRM Mobile med hjälp av plats",
-    "file": "stampla-i-hrm-mobile-med-hjalp-av-plats.md",
-    "slug": "stampla-i-hrm-mobile-med-hjalp-av-plats",
-    "category": "time",
-    "subcategory": "Mobil & Stämpling",
-    "type": "config",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil",
-      "ob",
-      "stämpling",
-      "tidrapport"
-    ],
-    "date": "den 28 april 2026",
-    "url": "https://knowledge.flexhrm.com/sv/st%C3%A4mpla-i-hrm-mobile-med-hj%C3%A4lp-av-plats",
-    "isConfig": true,
-    "imageCount": 5,
-    "hasImages": true,
-    "excerpt": "HRM Mobile kan lägga ut konteringar i tidrapporten baserat på plats. Artikeln beskriver hur det går till och vilka inställningar som behöver göras för att använda funktionen.\nStämpling\nInställningar\nV..."
-  },
-  {
-    "title": "⚙️Kan man begränsa stämplingen i HRM Mobile via plats?",
-    "file": "kan-man-begransa-stamplingen-i-hrm-mobile-via-plats.md",
-    "slug": "kan-man-begransa-stamplingen-i-hrm-mobile-via-plats",
-    "category": "time",
-    "subcategory": "Mobil & Stämpling",
-    "type": "config",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil",
-      "ob",
-      "stämpling",
-      "tidrapport"
-    ],
-    "date": "den 4 maj 2026",
-    "url": "https://knowledge.flexhrm.com/sv/kan-man-begr%C3%A4nsa-st%C3%A4mplingen-i-hrm-mobile-via-plats-",
-    "isConfig": true,
-    "imageCount": 3,
-    "hasImages": true,
-    "excerpt": "Artikeln informerar om att sätta upp ett platsregister i HRM och att begränsa stämplingar i HRM Mobile till dessa platser.\nDu kan sätta upp ett platsregister under\nInställningar > Tid och Bemanning > ..."
   },
   {
     "title": "⚙️Hur ställer man in att Ersättningar ska kunna stämplas i HRM Timeclock?",
@@ -1638,27 +1527,6 @@
     "excerpt": "Beskrivning av påminnelsen för sammanhängande sjukfrånvaro, med inställningar och exempel.\nI HRM Time finns en funktion för att skicka ut påminnelser vid sammanhängande frånvaro. Den här påminnelsen k..."
   },
   {
-    "title": "Kan jag se information om mitt schema i HRM Mobile?",
-    "file": "kan-jag-se-information-om-mitt-schema-i-hrm-mobile.md",
-    "slug": "kan-jag-se-information-om-mitt-schema-i-hrm-mobile",
-    "category": "time",
-    "subcategory": "Schema & Planering",
-    "type": "faq",
-    "difficulty": "intermediate",
-    "tags": [
-      "mobil",
-      "ob",
-      "schema",
-      "övertid"
-    ],
-    "date": "den 12 januari 2026",
-    "url": "https://knowledge.flexhrm.com/sv/kan-jag-se-information-om-mitt-schema-i-mobilen",
-    "isConfig": false,
-    "imageCount": 3,
-    "hasImages": true,
-    "excerpt": "HRM Mobile - Mitt schema\nI\nHRM Mobile\nfinns vyn\nMitt schema.\nDär visas schemat veckovis. Du kan bläddra mellan veckor med pilarna eller klicka på veckonumret för att välja ett annat.\n![ikon Mitt schem..."
-  },
-  {
     "title": "⚙️Vad betyder \"Avv. tid\" i vyn Avvikelsedagar?",
     "file": "vad-betyder-avv-tid-i-vyn-avvikelsedagar.md",
     "slug": "vad-betyder-avv-tid-i-vyn-avvikelsedagar",
@@ -1817,29 +1685,6 @@
     "imageCount": 7,
     "hasImages": true,
     "excerpt": "Om man önskar importera scheman till anställd från annat system till HRM Time så kan man använda importmallen \"Schema\"\nAllmänt Schemaimport\nDu importerar alltså schema per anställd och datum, vilket i..."
-  },
-  {
-    "title": "Kan jag se mina saldon i HRM Mobile?",
-    "file": "kan-jag-se-mina-saldon-i-hrm-mobile.md",
-    "slug": "kan-jag-se-mina-saldon-i-hrm-mobile",
-    "category": "time",
-    "subcategory": "Mobil & Stämpling",
-    "type": "faq",
-    "difficulty": "intermediate",
-    "tags": [
-      "frånvaro",
-      "mobil",
-      "ob",
-      "saldo",
-      "schema",
-      "tidrapport"
-    ],
-    "date": "den 12 januari 2026",
-    "url": "https://knowledge.flexhrm.com/sv/kan-jag-se-mina-saldon-i-mobilen",
-    "isConfig": false,
-    "imageCount": 2,
-    "hasImages": true,
-    "excerpt": "HRM Mobile - Tidsaldon\nI\nHRM Mobile\n, funktionen\nTidsaldon\nser du periodens summeringar. Samtliga periodsaldon som visas i tidrapporten i HRM visas också här. Du kan bläddra mellan perioder, eller kli..."
   },
   {
     "title": "⚙️Hur ställer man in saldon?",

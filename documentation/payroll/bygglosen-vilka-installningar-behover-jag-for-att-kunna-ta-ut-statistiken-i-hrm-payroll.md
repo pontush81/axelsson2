@@ -1,6 +1,6 @@
 # ⚙️Bygglösen - Vilka inställningar behöver jag för att kunna ta ut statistiken i HRM Payroll?
 
-**Datum:** den 7 maj 2026  
+**Datum:** den 11 maj 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** config  
