@@ -1,6 +1,6 @@
 # Rapportpaket -Vad är och hur fungerar rapportpaket?
 
-**Datum:** den 3 mars 2026  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** concept  

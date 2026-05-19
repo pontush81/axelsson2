@@ -1,6 +1,6 @@
 # ⚙️Hur går jag tillväga för att presentera Dashboards på Startsidan (Hem)?
 
-**Datum:** den 29 september 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** config  
@@ -39,4 +39,5 @@ för den aktuella rollen.
 Observera att funktionen för att se detaljerad information genom att klicka i graferna är endast tillgänglig i HRM, inte i HRM Mobile.
 Relaterade artiklar:
 Dashboard - Vad är en Dashboard?
+Dashboard - Mätare/Värde - Hur mäter och visualiserar jag mina värden?
 Paneler i Dashboard- Hur fungerar de gemensamma inställningarna för paneler i Dashboard?

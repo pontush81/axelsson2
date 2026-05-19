@@ -1,6 +1,6 @@
 # Rapportgenerator - Hur schemalägger jag uttag av rapporter från rapportgeneratorn?
 
-**Datum:** den 17 oktober 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Rapporter  
 **Typ:** other  

@@ -1,12 +1,12 @@
 # Hur gör man för att registrera nyanställd och användare manuellt?
 
-**Datum:** den 17 oktober 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** howto  
 **Svårighetsgrad:** advanced  
 **Tags:** användare, behörighet, roll  
-**Bilder:** 12  
+**Bilder:** 13  
 **URL:** https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-man-f%C3%B6r-att-registrera-nyanst%C3%A4lld-och-anv%C3%A4ndare-manuellt
 
 ---
@@ -42,14 +42,21 @@ Anställning
 anger du bland annat sysselsättningsgrad, tidgrupp och schema för den anställde.
 ![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_5b152d73.png)
 Sysselsättningsgrad
-används som exempel för att få information om hur den anställde är schemalagd utifrån sin sysselsättningsgrad.
+används som exempel för att få information om hur den anställde är schemalagd utifrån sin sysselsättningsgrad. Om ni använder HRM Plan är det mycket viktigt att alla sysselsättningsgrader är korrekta
 Schema
 innehåller information om vilken tidgrupp den anställde tillhör samt vilket schema som den anställde har. Det går att välja mellan publikt schema som är ett fördefinierat schema eller välja att skapa ett eget personligt schema för den anställde.
+Regelverk
+för ob-ersättning, övertid och beredskap kopplas automatiskt när du väljer tidgrupp (förutsatt att de är kopplade till tidgruppen).
+Om den anställde ska ha avvikande regler registrerar du det här. Tänk på att det till exempel kan finnas ett annat övertidsregelverk som ska användas för deltidsanställda.
 Lön
 Under menyn
 Lön
-anges uppgifter om den anställdes lön, så som månadslön, bankuppgifter m.m.
+anges uppgifter om den anställdes lön, så som månadslön, bankuppgifter m.m. Sätt alltid från och med datum på datumstyrda fält så som månadslön och timlön.
 ![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_9550476c.png)
+Skatt
+Här lägger du upp skattetabell, arbetsgivaravgift och kontrolluppgifter.
+Tid
+Här kan du redigera personliga inställningar för den anställde som frångår företagets eller tidgruppens standardinställningar.
 Resa
 Under menyn
 Resa
@@ -59,8 +66,25 @@ Du kan under
 Bilar
 ange vilken typ av bil den anställde har. Som standard har den anställde en privatbil, men du kan här ange om den anställde som exempel har en tjänstebil.
 ![Bild](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_ffb97558.png)
+Bemanning
+Här bestämmer du när schemat ska publiceras för den anställde. Du kan också ställa in formler för timkostnad och arbetsmåttsdifferens.
+Kompetenser
+Här knyter du specifika kompetenser till den anställde.
+Kontering
+Här anger du de konteringsdimensioner som är aktuella för personen.
+Övrigt
+Här ställer du in om företagsnummer ska föras över till lön och om du vill skapa lönetransaktioner. Du kan även ange ett pris.
 Användare
 För att kunna logga in eller stämpla tid i HRM måste varje anställd ha en kopplad användare. Användaren har ett unikt användar-ID. För att en användare ska kunna logga in måste hen också vara kopplad till Visma Connect med hjälp av en e-postadress.
+I de flesta fall kopplas användaren smidigt på via en användarmall. Du kontrollera i så fall endast att användaren har fått en användare och rätt roller.
+Du ser enkelt om den anställde har fått en användare under
+Personal > Anställda > Personuppgifter
+. Se
+Användar-id,
+finns det en ikon här? Ja, då finns det en användare kopplad. Klicka på ikonen för att ta dig till
+Användarregistret
+.
+![pil pekar på en blå ikon som ser ut som en gubbe bredvid Användar-id](images/hur-gor-man-for-att-registrera-nyanstalld-och-anvandare-manuellt_dee57614.png)
 För att manuellt skapa en användare och koppla till en anställd går du till
 Användare
 .

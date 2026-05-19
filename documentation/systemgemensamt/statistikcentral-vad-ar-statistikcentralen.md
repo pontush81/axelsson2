@@ -1,6 +1,6 @@
 # Statistikcentral- Vad är statistikcentralen?
 
-**Datum:** den 15 oktober 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** concept  

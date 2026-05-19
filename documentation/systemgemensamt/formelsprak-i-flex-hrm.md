@@ -1,6 +1,6 @@
 # ⚙️Formelspråk i Flex HRM
 
-**Datum:** den 29 september 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** config  

@@ -1,6 +1,6 @@
 # ⚙️Allmänna tips och förberedelser inför semester
 
-**Datum:** den 1 oktober 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** config  

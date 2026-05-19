@@ -1,6 +1,6 @@
 # ⚙️Paneler i Dashboard- Hur fungerar de gemensamma inställningarna för paneler i Dashboard?
 
-**Datum:** den 17 oktober 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Inställningar  
 **Typ:** config  

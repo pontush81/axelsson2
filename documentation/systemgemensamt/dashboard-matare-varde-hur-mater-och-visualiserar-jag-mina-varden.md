@@ -1,6 +1,6 @@
 # Dashboard - Mätare/Värde - Hur mäter och visualiserar jag mina värden?
 
-**Datum:** den 17 oktober 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Inställningar  
 **Typ:** other  

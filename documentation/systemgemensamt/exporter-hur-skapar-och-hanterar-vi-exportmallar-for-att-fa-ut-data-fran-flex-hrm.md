@@ -1,6 +1,6 @@
 # ⚙️Exporter - Hur skapar och hanterar vi exportmallar för att få ut data från Flex HRM?
 
-**Datum:** den 29 september 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Register  
 **Typ:** howto  

@@ -1,6 +1,6 @@
 # Mina kollegor - Var hittar jag information om mina kollegor?
 
-**Datum:** den 7 augusti 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Mobil  
 **Typ:** other  

@@ -1,6 +1,6 @@
 # ⚙️Roller och behörigheter i Flex HRM
 
-**Datum:** den 17 oktober 2025  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Användare & Behörighet  
 **Typ:** config  

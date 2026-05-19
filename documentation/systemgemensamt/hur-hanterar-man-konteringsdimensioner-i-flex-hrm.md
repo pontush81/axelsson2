@@ -1,6 +1,6 @@
 # ⚙️Hur hanterar man konteringsdimensioner i Flex HRM?
 
-**Datum:** den 25 februari 2026  
+**Datum:** den 18 maj 2026  
 **Kategori:** Systemgemensamt  
 **Underkategori:** Register  
 **Typ:** config  

@@ -104,10 +104,10 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 17 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-g%C3%B6r-man-f%C3%B6r-att-registrera-nyanst%C3%A4lld-och-anv%C3%A4ndare-manuellt",
     "isConfig": false,
-    "imageCount": 12,
+    "imageCount": 13,
     "hasImages": true,
     "excerpt": "Instruktion för hur en nyanställd registreras manuellt i HRM samt hur en användare kopplas för inloggning till systemet.\nRegistrera anställd manuellt\nRegistrera användare manuellt\nRegistrera nyanställ..."
   },
@@ -304,7 +304,7 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 17 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/roller-och-beh%C3%B6righeter-i-flex-hrm",
     "isConfig": true,
     "imageCount": 6,
@@ -453,7 +453,7 @@
     "tags": [
       "mobil"
     ],
-    "date": "den 7 augusti 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/mina-kollegor-var-kan-jag-se-information-om-mina-kollegor",
     "isConfig": false,
     "imageCount": 3,
@@ -544,7 +544,7 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 3 december 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/rapportgeneratorn-vad-%C3%A4r-rapportgeneratorn",
     "isConfig": false,
     "imageCount": 7,
@@ -564,7 +564,7 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 3 mars 2026",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/rapportpaket-vad-%C3%A4r-och-hur-fungerar-rapportpaket",
     "isConfig": false,
     "imageCount": 12,
@@ -582,7 +582,7 @@
     "tags": [
       "behörighet"
     ],
-    "date": "den 17 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/rapportgeneratorn-hur-schemal%C3%A4gger-man-exporter-fr%C3%A5n-rapportgeneratorn",
     "isConfig": false,
     "imageCount": 2,
@@ -638,7 +638,7 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 15 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/statistikcentralen-vad-%C3%A4r-statistikcentralen",
     "isConfig": false,
     "imageCount": 10,
@@ -657,7 +657,7 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 15 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/statistikcentralen-statistiktyper-vad-inneb%C3%A4r-de-olika-statistiktyperna-i-statistikcentralen",
     "isConfig": false,
     "imageCount": 24,
@@ -673,7 +673,7 @@
     "type": "other",
     "difficulty": "intermediate",
     "tags": [],
-    "date": "den 17 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/m%C3%A4tare/v%C3%A4rde-hur-m%C3%A4ter-och-visualiserar-jag-mina-v%C3%A4rden",
     "isConfig": false,
     "imageCount": 11,
@@ -694,7 +694,7 @@
       "mobil",
       "roll"
     ],
-    "date": "den 17 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/dashboard-vad-%C3%A4r-en-dashboard",
     "isConfig": true,
     "imageCount": 5,
@@ -715,7 +715,7 @@
       "mobil",
       "roll"
     ],
-    "date": "den 29 september 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-g%C3%A5r-jag-tillv%C3%A4ga-f%C3%B6r-att-presentera-dashboards-p%C3%A5-startsidan-hem",
     "isConfig": true,
     "imageCount": 3,
@@ -735,7 +735,7 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 15 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/statistik-p%C3%A5-startsidan-hur-konfigurerar-och-ser-jag-statistik-p%C3%A5-startsidan",
     "isConfig": true,
     "imageCount": 10,
@@ -751,7 +751,7 @@
     "type": "config",
     "difficulty": "intermediate",
     "tags": [],
-    "date": "den 17 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/paneler-gemensamt-hur-fungerar-de-gemensamma-inst%C3%A4llningar-f%C3%B6r-paneler",
     "isConfig": true,
     "imageCount": 4,
@@ -788,7 +788,7 @@
       "mobil",
       "roll"
     ],
-    "date": "den 25 februari 2026",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-hanterar-man-konteringsdimensioner-i-systemet",
     "isConfig": true,
     "imageCount": 4,
@@ -943,7 +943,7 @@
       "användare",
       "behörighet"
     ],
-    "date": "den 29 september 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/exportmallar-hur-skapar-och-hanterar-du-exportmallar-f%C3%B6r-att-f%C3%A5-ut-data-fr%C3%A5n-flex-hrm",
     "isConfig": true,
     "imageCount": 4,
@@ -1126,7 +1126,7 @@
       "mobil",
       "roll"
     ],
-    "date": "den 29 september 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/p%C3%A5minnelser-hur-anv%C3%A4nder-man-sig-av-p%C3%A5minnelser",
     "isConfig": true,
     "imageCount": 2,
@@ -1348,12 +1348,12 @@
     "type": "config",
     "difficulty": "intermediate",
     "tags": [],
-    "date": "den 13 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/granskningsniv%C3%A5er-",
     "isConfig": true,
     "imageCount": 2,
     "hasImages": true,
-    "excerpt": "Artikeln ger dig information om granskningsnivåer i systemet och beskriver olika nivåer och anpassningar av flöden för t.ex. tidrapporter och reseräkningar.\nAllmänt - Granskningsnivåer\nUnder\nAdministr..."
+    "excerpt": "Artikeln ger dig information om granskningsnivåer i systemet och beskriver olika nivåer och anpassningar av flöden för till exempel tidrapporter och reseräkningar.\nAllmänt - Granskningsnivåer\nUnder\nAd..."
   },
   {
     "title": "⚙️Hur fungerar ändringsloggen i Flex HRM?",
@@ -1407,7 +1407,7 @@
       "behörighet",
       "roll"
     ],
-    "date": "den 1 oktober 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/tips-inf%C3%B6r-semester",
     "isConfig": true,
     "imageCount": 7,
@@ -1426,7 +1426,7 @@
       "användare",
       "roll"
     ],
-    "date": "den 29 september 2025",
+    "date": "den 18 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/formelspr%C3%A5k-i-flex-hrm",
     "isConfig": true,
     "imageCount": 1,
