@@ -1,6 +1,6 @@
 # Hur hanterar jag en löneskuld i HRM Payroll?
 
-**Datum:** den 8 maj 2026  
+**Datum:** den 19 maj 2026  
 **Kategori:** Payroll  
 **Underkategori:** Skatt & AGI  
 **Typ:** howto  
@@ -126,3 +126,4 @@ När du öppnar nästa lönekörning känner systemet av värdet i ackumulatorn.
 För att se vilka medarbetare som systemet har hanterat en skuld på kan du se detta under Avvikelser - fliken Kontroller.
 ![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_b29491ce.png)
 ![Bild](images/hur-hanterar-jag-en-loneskuld-i-hrm-payroll_9c001528.png)
+Om en medarbetares skuld ska delbetalas hanterar du det genom att ändra beloppet på den autogenererade lönearten till ett eget belopp istället för det som systemet lägger ut. Givet att lönearterna är kopplade till rätt ackumulator kommer bara det valda beloppet dras av från skulden och resten finns kvar till nästa lönekörning.
