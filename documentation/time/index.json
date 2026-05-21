@@ -638,7 +638,7 @@
     "category": "time",
     "subcategory": "Tidrapportering",
     "type": "howto",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [
       "frånvaro",
       "hrm-time",
@@ -648,7 +648,7 @@
       "tidkod",
       "tidrapport"
     ],
-    "date": "den 14 januari 2026",
+    "date": "den 20 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/deltidsfr%C3%A5nvaro-i-hrm-time",
     "isConfig": false,
     "imageCount": 5,
@@ -1519,10 +1519,10 @@
       "schema",
       "tidrapport"
     ],
-    "date": "den 23 februari 2026",
+    "date": "den 20 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/kan-jag-f%C3%A5-en-p%C3%A5minnelse-vid-sammanh%C3%A4ngande-sjukfr%C3%A5nvaro",
     "isConfig": true,
-    "imageCount": 3,
+    "imageCount": 7,
     "hasImages": true,
     "excerpt": "Beskrivning av påminnelsen för sammanhängande sjukfrånvaro, med inställningar och exempel.\nI HRM Time finns en funktion för att skicka ut påminnelser vid sammanhängande frånvaro. Den här påminnelsen k..."
   },

@@ -1,10 +1,10 @@
 # Hur registrerar jag deltidsfrånvaro i HRM Time?
 
-**Datum:** den 14 januari 2026  
+**Datum:** den 20 maj 2026  
 **Kategori:** Time  
 **Underkategori:** Tidrapportering  
 **Typ:** howto  
-**Svårighetsgrad:** intermediate  
+**Svårighetsgrad:** advanced  
 **Tags:** frånvaro, hrm-time, lön, ob, schema, tidkod, tidrapport  
 **Bilder:** 5  
 **URL:** https://knowledge.flexhrm.com/sv/deltidsfr%C3%A5nvaro-i-hrm-time
@@ -49,9 +49,11 @@ Enligt schema
 Klicka på '
 Nytt schema
 ' och ange hur mycket och vilka dagar hen är ledig/arbetar.
+OBS. För vissa lönesystem, bla HRM Payroll måste heltidsmåttet fördelas enbart på arbetsdagar, dvs det ska inte ligga något heltidsmått på en ledig dag. Detta kan du ställa in så att systemet lägger in automatiskt, se artikeln
+Hur ställer man in automatisk beräkning av heltidsmått vid en deltidsfrånvaro?
 Spara
 schemat när du är klar.
-![Frånvarohanteraren. 20% sjukfrånvaro, ett deltidsfrånvaroschema med arbetstid måndag-torsdag, ledigt fredag-söndag.](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_5762bd0f.png)
+![Bild](images/hur-registrerar-jag-deltidsfranvaro-i-hrm-time_5bcc7c76.png)
 Saknar du valet för "Enligt schema"?
 Möjligheten att ange ett schema för deltidsfrånvaron kan behörighetsstyras. Det används ofta om man vill att den anställde ska ansöka endast med procent och att chefen sedan kompletterar med schemaläggningen vid granskning av frånvaron.
 3.
