@@ -1581,6 +1581,27 @@
     "excerpt": "Artikeln förklarar varifrån Flex HRM hämtar information om närvaro och frånvaro som räknas som semestergrundande.\nFormelvariabler för Närvaro/Frånvaro\nFormelvariabler är de värden som används i beräkn..."
   },
   {
+    "title": "Kan jag hantera deltidsfrånvaro via sänkt sysselsättningsgrad istället för en frånvaro?",
+    "file": "kan-jag-hantera-deltidsfranvaro-via-sankt-sysselsattningsgrad-istallet-for-en-franvaro.md",
+    "slug": "kan-jag-hantera-deltidsfranvaro-via-sankt-sysselsattningsgrad-istallet-for-en-franvaro",
+    "category": "payroll",
+    "subcategory": "Semesterhantering",
+    "type": "faq",
+    "difficulty": "advanced",
+    "tags": [
+      "lön",
+      "löneart",
+      "pension",
+      "semester"
+    ],
+    "date": "den 21 maj 2026",
+    "url": "https://knowledge.flexhrm.com/sv/kan-jag-hantera-deltidsfr%C3%A5nvaro-via-s%C3%A4nkt-syssels%C3%A4ttningsgrad-ist%C3%A4llet-f%C3%B6r-en-fr%C3%A5nvaro",
+    "isConfig": false,
+    "imageCount": 1,
+    "hasImages": true,
+    "excerpt": "Artikeln beskriver vad du behöver fundera på om du överväger att sänka en medarbetares sysselsättningsgrad istället för att registrera en deltidsfrånvaro.\nDet är alltid viktigt att hålla extra bevakni..."
+  },
+  {
     "title": "⚙️Inställningar av lönespecifikationen",
     "file": "installningar-av-lonespecifikationen.md",
     "slug": "installningar-av-lonespecifikationen",
