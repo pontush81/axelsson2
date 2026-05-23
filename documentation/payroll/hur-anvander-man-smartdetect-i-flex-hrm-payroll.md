@@ -1,19 +1,19 @@
 # Hur använder man SmartDetect i Flex HRM Payroll?
 
-**Datum:** den 7 oktober 2025  
+**Datum:** den 22 maj 2026  
 **Kategori:** Payroll  
 **Underkategori:** Löneberedning  
 **Typ:** howto  
-**Svårighetsgrad:** intermediate  
+**Svårighetsgrad:** advanced  
 **Tags:** lön, löneart, semester, skatt  
-**Bilder:** 6  
+**Bilder:** 7  
 **URL:** https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nder-man-smartdetect-i-flex-hrm-payroll
 
 ---
 
 Den här artikeln visar hur du praktiskt arbetar med SmartDetect i din dagliga löneberedning för att hitta avvikelser samt säkerställa en smidig och korrekt process.
 Hitta och granska avvikelser i löneberedningen
-Din arbetsgång – Från varning till åtgärd
+Arbeta med avvikelser - Från varning till åtgärd
 Ge feedback och gör SmartDetect smartare!
 Exempel på vad SmartDetect hittar
 Tips för ett effektivare arbetsflöde
@@ -24,11 +24,22 @@ Avvikelser
 .
 ![Bilden visar knappen för Avvikelser.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_e2619698.png)
 När systemet har hittat något som behöver din uppmärksamhet visas en tydlig röd prick på knappen.
-Öpp
-na
-avvikelselistan: Klicka på knappen
-Avvikelser
-för att öppna en lista i högerkanten med alla avvikelser. Listan uppdateras automatiskt i realtid när du gör ändringar i lönekörningen eller om du gör en ändring i anställdaregistret som uppdaterar lönekörningen. Listan innehåller följande kolumner:
+SmartDetect är uppdelad i två huvudflikar:
+Kontroller:
+Här hittar du alla regelbaserade kontroller där systemet vet till 100 % att något sticker ut, till exempel en negativ nettolön. Dessa är beräknade kontroller som du kan åtgärda direkt i löneberedningen. För varje kontroll visas antalet anställda som behöver kontrolleras och eventuellt åtgärdas.
+I listvyn för regelbaserade kontroller ser du exakt vad systemet kontrollerar. Varje kontroll visar en tydlig status:
+Checkbox:
+Inga fel hittades.
+Gul varningstriangel:
+Fel har identifierats som behöver ses över.
+Du ser också direkt hur många anställda som berörs av respektive avvikelse. För kontroller med varningar kan du fälla ut en detaljerad lista som visar vilka anställda det gäller samt specifik löneart och rad om det är tillämpligt.
+![Bild](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_938a29b5.png)
+Potentiella fel:
+I denna flik samlas de avvikelser som SmartDetects AI-funktion har hittat. Det är insikter som bygger på mönsteranalys och som hjälper dig att upptäcka "kanske-fel" som annars är lätta att missa.
+Du kan klicka på en anställd direkt i SmartDetect-listan för att öppna personen i löneberedningen. När du har åtgärdat felet triggas en ny beräkning automatiskt, och panelen uppdateras så snart beräkningarna är klara.
+Vyn
+i
+nnehåller följande kolumner:
 Kryssruta:
 Med de
 nna funktion kan du
@@ -47,8 +58,8 @@ Här ser du en kortfattad beskrivning av vad avvikelsen gäller. Notera att vi h
 Löneart:
 Om avvikelsen är kopplad till en löneart ser du här vilken löneart det gäller.
 ![Bilden visar en översikt av avvikelselistan som visar till höger i löneberedningen.](images/hur-anvander-man-smartdetect-i-flex-hrm-payroll_6610fa0e.png)
-Din arbetsgång – Från varning till åtgärd
-Följ dessa enkla steg för att beta av listan:
+Arbeta med avvikelser
+Följ dessa enkla steg för att beta av listan med Avvikelser:
 Välj en avvikelse
 : Klicka på den anställdes namn i listan. Personens lönebesked öppnas då direkt i huvudfönstret i löneberedningen.
 Analysera:

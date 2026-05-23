@@ -1,6 +1,6 @@
 # Kan jag hantera deltidsfrånvaro via sänkt sysselsättningsgrad istället för en frånvaro?
 
-**Datum:** den 21 maj 2026  
+**Datum:** den 22 maj 2026  
 **Kategori:** Payroll  
 **Underkategori:** Semesterhantering  
 **Typ:** faq  
@@ -14,12 +14,12 @@
 Artikeln beskriver vad du behöver fundera på om du överväger att sänka en medarbetares sysselsättningsgrad istället för att registrera en deltidsfrånvaro.
 Det är alltid viktigt att hålla extra bevakning på anställda med deltidsfrånvaro.
 Om man under en period går ner i tid och justerar sin tjänst så förändras alla beräkningar och statistik utifrån den ”nya tjänsten”. Detta är viktigt att tänka på om man är deltidsfrånvarande och har rätt till semestergrundande tid och belopp på de delar man är frånvarande. Detta gäller även pension.
-I dessa fall rekommenderar vi
+Vi rekommenderar
 alltid
 att inte sänka tjänsten utan att arbeta med vår funktion deltidsfrånvaro.
 Om frånvaron är av typen tjänstledighet så kan man välja att dra ner arbetstiden (sänka sysselsättningsgraden) istället för att rapportera deltidsfrånvaro i tidrapporten. Om du väljer detta alternativ rekommenderar vi att du markerar detta på personkortet i ett eget fält så att ni tydligt kan få fram informationen i rapporter.
 I Fasta transaktioner lägger man då in en noteringslöneart som informerar den anställde om heltidstjänst enligt anställningsavtalet.
-![Bild](images/kan-jag-hantera-deltidsfranvaro-via-sankt-sysselsattningsgrad-istallet-for-en-franvaro_9ae41853.png)
+![Bild](images/kan-jag-hantera-deltidsfranvaro-via-sankt-sysselsattningsgrad-istallet-for-en-franvaro_f58c600e.png)
 Följande frånvaroorsaker bör man beakta innan man väljer alternativ.
 Generellt
 Generellt rekommenderar vi att alltid att använda deltidsfrånvaro för att ha rätt uppgift om grundanställningen och kunna ta ut statistik på frånvaro. Man skall också alltid jobba med deltidsfrånvaro då frånvaron är semesterlönegrundande.
@@ -50,10 +50,6 @@ Egna FTE Rapporter
 Om du byggt egna rapporter är det viktigt att du tar reda på hur ert företag vill räkna med dessa tjänster som är på deltid. Vill man ha med ursprungstjänster och sedan räkna ut faktiska FTE eller är man inte alls intresserad av grundanställningen.
 Dashboard
 Vår dashbord tar hänsyn till deltidsfrånvaro.
-Fördelar med att  sänka sysselsättningsgraden/nackdelar med deltidsfrånvaro:
-Schemat i Payroll är deltidsschemat - samma schema som i HRM Time. Är det lediga dagar i veckan i schemat så används semesterkvot för att hantera rätt semesteruttag.
-Om man vill ha en statistik på antal anställda efter sysselsättningsgrad, t.ex. en deltidstjänst 50% blir 0,5 anställd.
-ITP 2 fungerar utan manuell hantering
 Nackdelar med att sänka sysselsättningsgraden/fördelar med deltidsfrånvaro:
 Om man vill ha statistik på t.ex. tjänstledigheter så finns inte denna information i kalendariet.
 Arbetsgivarintyg har inte informationen om heltidstjänst i botten, man får korrigera manuellt

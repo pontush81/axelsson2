@@ -199,17 +199,17 @@
     "category": "payroll",
     "subcategory": "Löneberedning",
     "type": "howto",
-    "difficulty": "intermediate",
+    "difficulty": "advanced",
     "tags": [
       "lön",
       "löneart",
       "semester",
       "skatt"
     ],
-    "date": "den 7 oktober 2025",
+    "date": "den 22 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/hur-anv%C3%A4nder-man-smartdetect-i-flex-hrm-payroll",
     "isConfig": false,
-    "imageCount": 6,
+    "imageCount": 7,
     "hasImages": true,
     "excerpt": "Den här artikeln visar hur du praktiskt arbetar med SmartDetect i din dagliga löneberedning för att hitta avvikelser samt säkerställa en smidig och korrekt process.\nHitta och granska avvikelser i löne..."
   },
@@ -1594,7 +1594,7 @@
       "pension",
       "semester"
     ],
-    "date": "den 21 maj 2026",
+    "date": "den 22 maj 2026",
     "url": "https://knowledge.flexhrm.com/sv/kan-jag-hantera-deltidsfr%C3%A5nvaro-via-s%C3%A4nkt-syssels%C3%A4ttningsgrad-ist%C3%A4llet-f%C3%B6r-en-fr%C3%A5nvaro",
     "isConfig": false,
     "imageCount": 1,
