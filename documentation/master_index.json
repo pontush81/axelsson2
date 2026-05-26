@@ -2,7 +2,7 @@
   "total_articles": 400,
   "total_categories": 6,
   "total_images": 2260,
-  "last_updated": "2026-05-25 01:57:48",
+  "last_updated": "2026-05-26 01:52:08",
   "categories": {
     "systemgemensamt": {
       "name": "Systemgemensamt",
@@ -80,6 +80,6 @@
       }
     }
   },
-  "last_check": "2026-05-25 01:57:48",
+  "last_check": "2026-05-26 01:52:08",
   "last_check_status": "success"
 }
